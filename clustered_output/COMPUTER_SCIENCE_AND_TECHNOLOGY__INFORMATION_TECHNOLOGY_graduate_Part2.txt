@@ -2,6 +2,7 @@ Subject: COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 Questions: 50
 ========================================
 
+Page: 683
 Q.No: 51
 2613470
 Which refers to the scrambled message produced as an output and that depends on the plaintext and secret key?
@@ -22,6 +23,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 683
 Q.No: 52
 2613471
 Which is the last component of the learning agent responsible for suggesting actions that will lead to new and informative experiences?
@@ -42,9 +44,11 @@ Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 683
 Q.No: 53
 2613472
 Which refers to the graph search algorithm that starts at the root node and explores all the adjacent nodes?
+<<<PAGE:684>>>
 जो ग्रााफ सर्च एल्गोोरिथम को संदर्भित करता है जो रूट नोड से शुरू होता है और सभी आसन्न नोड्स की खोज करता है?
 A
 Depth-first search
@@ -62,6 +66,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 684
 Q.No: 54
 2613473
 In ___________ the display image/jpg is stored in the form of 1’s and 0’s in the refresh buffer.
@@ -82,6 +87,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 684
 Q.No: 55
 2613474
 In which method, touch panel is constructed with two transparent plates separated by a small distance?
@@ -94,6 +100,7 @@ Electrical method
 विद्युत विधि
 C
 Acoustical method
+<<<PAGE:685>>>
 एकोस्टिकल विधि
 D
  Random scan technique
@@ -102,6 +109,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 685
 Q.No: 56
 2613475
 Which method generates view from the solid object by projecting parallel lines onto the display plane?
@@ -122,6 +130,7 @@ Correct Ans : D
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 685
 Q.No: 57
 2613482
 The __________ combines elements of parallel and linear process flows.
@@ -142,9 +151,11 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 685
 Q.No: 58
 2613483
 Which refers to a set of programs installed on a system to maintain administrator access to that system?
+<<<PAGE:686>>>
 सिस्टम में एडमिनिस्ट्रेटर एक्सेस को बनाए रखने के लिए सिस्टम पर इंस्टॉॉल किए गए प्रोोग्रााम के सेट को कौन संदर्भित करता है?
 A
 Bots
@@ -162,6 +173,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 686
 Q.No: 59
 2613484
 In 1666, who discovered that when a beam of sunlight is passed through a glass prism the beam of light thus emerged is not white but comprises of
@@ -184,6 +196,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 686
 Q.No: 60
 2613485
 Which refers to the removal or minimisation of known degradation in an image/jpg?
@@ -196,6 +209,7 @@ Image analysis
 इमेज एनालिसिस
 C
 Image restoration
+<<<PAGE:687>>>
 इमेज रिस्‍टोरेशन
 D
 Image representation
@@ -204,6 +218,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 687
 Q.No: 61
 2613490
 Which provides a diagnostic technique for assessment of the relative maturity of a software organisation?
@@ -224,6 +239,7 @@ Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 687
 Q.No: 62
 2613491
 Which defines a series of events that will trigger transitions from state to state for every software engineering actions, or tasks?
@@ -244,9 +260,11 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 687
 Q.No: 63
 2613492
 Which deals with tools for extraction of image/jpg components that are useful in the representation and description of the shape of the objects?
+<<<PAGE:688>>>
 कौन-सा इमेज कंपोनेंट्स के निष्कर्षण के लिए उपकरणों से संबंधित है जो वस्तुओं के आकार के रिप्रिजेंटेटेशन और विवरण में उपयोगी होते हैं?
 A
 Image recognition
@@ -264,6 +282,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 688
 Q.No: 64
 2613493
 The first argument to eval () is known as?
@@ -284,6 +303,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 688
 Q.No: 65
 2613498
 Which indicates the evolution of the design model as design tasks are executed as part of the software process?
@@ -297,6 +317,7 @@ Process dimension
 प्रोोसेस डायमेंसन
 C
 Project indicator
+<<<PAGE:689>>>
 प्रोोजेक्‍ट इंडिकेटर
 D
 Data flow
@@ -305,6 +326,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 689
 Q.No: 66
 2613499
 Which will display a question in the dialog box along with an input field where the user can enter a response?
@@ -325,6 +347,7 @@ Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 689
 Q.No: 67
 2613500
 Which issues, manages, authenticates, revokes and signs digital certificates of the users?
@@ -345,9 +368,11 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 689
 Q.No: 68
 2613501
 The art of secret writing is known as ?
+<<<PAGE:690>>>
 गुप्त लेखन की कला को किस नाम से जाना जाता है?
 A
 Cryptography
@@ -365,6 +390,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 690
 Q.No: 69
 2613502
 Which involves the replacement of each letter of the alphabet with the letter positioned at three places further down in the alphabet?
@@ -385,6 +411,7 @@ Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 690
 Q.No: 70
 2613503
 Which is used to print large format image/jpgs like that of construction drawings?
@@ -397,6 +424,7 @@ Data glove
 डेटा ग्लोोव
 C
 Digitizer
+<<<PAGE:691>>>
 डिजिटाइज़र
 D
 Plotter
@@ -405,6 +433,7 @@ Correct Ans : D
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 691
 Q.No: 71
 2613510
 Which refers to a set of design steps that allows DFD with transform flow features to be mapped into the specific architectural style?
@@ -425,6 +454,7 @@ Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 691
 Q.No: 72
 2613511
 What refers to two conditions indicates the conjunction of the conditions which means both conditions have to be true?
@@ -445,9 +475,11 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 691
 Q.No: 73
 2613512
 Which starts with an upper-case letter or an underscore character in Prolog?
+<<<PAGE:692>>>
 जो प्रोोलॉग में अपर-केस अक्षर या अंडरस्कोोर वर्ण से शुरू होता है?
 A
 Constants
@@ -465,6 +497,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 692
 Q.No: 74
 2613513
 Which of the following refers to the project schedule developed by a planner wherein the work breakdown is input as a task outline?
@@ -485,6 +518,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 692
 Q.No: 75
 2613514
 What refers to the degree to which the design specifications are followed during manufacturing?
@@ -497,6 +531,7 @@ Quality of conformance
 अनुरूपता की गुणवत्ताा
 C
 Quality assurance
+<<<PAGE:693>>>
 गुणवत्ताा आश्वाासन
 D
 Quality control
@@ -505,6 +540,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 693
 Q.No: 76
 2613515
 What would disappear if no defects appeared prior shipping a product to the customers?
@@ -525,6 +561,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 693
 Q.No: 77
 2613522
 Which refers to the process of attempting to discover the ‘plaintext’ or a ‘key’?
@@ -545,9 +582,11 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 693
 Q.No: 78
 2613523
 Which refers to the code embedded in a legitimate program that is set to delete or crash when certain conditions are fulfilled?
+<<<PAGE:694>>>
 जो एक वैध प्रोोग्रााम में एम्बेड किए गए कोड को संदर्भित करता है जो कुछ शर्तों के पूरा होने पर डिलीट या क्रैैश होने के लिए सेट होता है।
 A
 Trojan horse
@@ -565,6 +604,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 694
 Q.No: 79
 2613524
 The email virus uses which language supported by the email package?
@@ -585,6 +625,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 694
 Q.No: 80
 2613525
 Mydoom is a mass-mailing email worm that appeared in which year?
@@ -597,6 +638,7 @@ B
 2005
 C
 2004
+<<<PAGE:695>>>
 2004
 D
 1999
@@ -605,6 +647,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 695
 Q.No: 81
 2613530
 Which of the following is used to separate statements?
@@ -625,6 +668,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 695
 Q.No: 82
 2613531
 Which of the following is used for safe handling of code that may cause exception like division by zero?
@@ -645,9 +689,11 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 695
 Q.No: 83
 2613532
 The backslash character constant \ r refers to?
+<<<PAGE:696>>>
 बैकस्लैश वर्ण स्थिरांक \r किस को संदर्भित करता है?
 A
 Backspace
@@ -665,6 +711,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 696
 Q.No: 84
 2613533
 Which is declared in methods, blocks and created for the execution of the same?
@@ -685,6 +732,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 696
 Q.No: 85
 2613538
 Which is the image/jpg space approach used to eliminate hidden surfaces?
@@ -697,6 +745,7 @@ Z-Buffer
 जेड-बफर
 C
 Ray tracing
+<<<PAGE:697>>>
 रे ट्रेसिंग
 D
 Warnock Algorithm
@@ -705,6 +754,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 697
 Q.No: 86
 2613539
 What is the resolution of ink-jet printer that gives better printing quality?
@@ -725,6 +775,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 697
 Q.No: 87
 2613540
 Which is carried out for polygons by multiplying the coordinate values of each vertex by scaling factors to produce the transformed coordinates?
@@ -745,9 +796,11 @@ Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 697
 Q.No: 88
 2613541
 Which refers to the phenomenon of the reflection of incident light in a concentrated region?
+<<<PAGE:698>>>
 जो एक कंसनट्रेटेड क्षेत्र में आपतित प्रकाश के परावर्तन की घटना को संदर्भित करता है।
 A
 Angle of incidence
@@ -765,6 +818,7 @@ Correct Ans : D
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 698
 Q.No: 89
 2613542
 Which refers to the method that can be accessed anywhere in a program with the same name as that of the class?
@@ -785,6 +839,7 @@ Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 698
 Q.No: 90
 2613543
 Which of the following used in CRT monitors and colour raster graphics employs a Cartesian Coordinate system?
@@ -797,6 +852,7 @@ CMY model
 GMY मॉडल
 C
 HSV model
+<<<PAGE:699>>>
 HSV मॉडल
 D
 HLS model
@@ -805,6 +861,7 @@ Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 699
 Q.No: 91
 2613551
 Which refers to the generic term used to denote any method for storing certificates?
@@ -825,6 +882,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 699
 Q.No: 92
 2613552
 Which are memory resident programs that identify a virus by its activities rather than its structure in an infected program?
@@ -845,9 +903,11 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 699
 Q.No: 93
 2613553
 The Slammer worm was extremely compact and spread rapidly thereby infecting which of the following vulnerable hosts within 10 minutes?
+<<<PAGE:700>>>
 स्लैमर वर्म बेहद कॉम्पैक्ट था और तेजी से फैलता था जिससे 10 मिनट के भीतर निम्नलिखित में से कौन सा कमजोर मेजबान संक्रमित हो गया?
 A
 85%
@@ -865,6 +925,7 @@ Correct Ans : D
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 700
 Q.No: 94
 2613554
 Which of the following are easier to fill since they have linear boundaries?
@@ -886,6 +947,7 @@ Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 700
 Q.No: 95
 2613555
 Which refers to the process by which objects of a class acquire the properties of objects of another class?
@@ -898,6 +960,7 @@ Inheritance
 इनहेरिटेंस
 C
 Dynamic binding
+<<<PAGE:701>>>
 डायनामिक बाईडिंग
 D
 Abstraction
@@ -906,6 +969,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 701
 Q.No: 96
 2613556
 Name the tool used to create HTML format documentation from Java source code files.
@@ -926,6 +990,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 701
 Q.No: 97
 2613563
 The success of an intelligent behaviour of a system can be measured with?
@@ -946,9 +1011,11 @@ Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 701
 Q.No: 98
 2613564
 Which refers to the method of reasoning that resembles human reasoning?
+<<<PAGE:702>>>
 जो तर्क की पद्धति को संदर्भित करता है जो ह्यूमन रिजनिंग के समान है?
 A
 Fuzzy Logic
@@ -966,6 +1033,7 @@ Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 702
 Q.No: 99
 2613565
 Which refers to arrangement of words to make a sentence and involves determining the structural role of words in the sentences and phrases?
@@ -986,6 +1054,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 702
 Q.No: 100
 2613566
 Which consists of auditing and reporting functions of management?
@@ -998,6 +1067,7 @@ Quality assurance
 क्‍वालिटी एस्‍युरेंस
 C
 Quality control
+<<<PAGE:703>>>
 क्‍वालिटी कंट्रोोल
 D
 Quality planning

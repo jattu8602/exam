@@ -2,6 +2,7 @@ Subject: Gen. Science graduate
 Questions: 50
 ========================================
 
+Page: 59
 Q.No: 130
 2629668
 Which of the following is not an illustration of an electronic digital device?
@@ -22,6 +23,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 59
 Q.No: 131
 2631980
 Who among the following is known as Father of Botany? 
@@ -37,11 +39,13 @@ Carolus Linnaeus
 कैरोलस लिनिअस
 D
 Theophrastus 
+<<<PAGE:60>>>
 थियोफ्रेेस्टस
 Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 60
 Q.No: 132
 2631981
 Who among the following gave the Binomial nomenclature for naming the organisms?
@@ -62,6 +66,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 60
 Q.No: 133
 2631983
 In which language the Biological names are generally written?
@@ -80,8 +85,10 @@ English
 अंग्रेजी
 Correct Ans : B
 Subject : Gen. Science graduate
+<<<PAGE:61>>>
 
 ----------------------------------------
+Page: 61
 Q.No: 134
 2632060
 Which of the following diseases is caused by a virus?
@@ -102,6 +109,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 61
 Q.No: 135
 2632069
 Which of the following is a water-borne disease?
@@ -122,12 +130,14 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 61
 Q.No: 136
 2632078
 Which of the following is the chickenpox virus?
 निम्नलिखित में से कौन सा चिकन पॉक्स वायरस है?
 A
 Entamoeba histolytica
+<<<PAGE:62>>>
 एंटामोइबा हिस्टोोलिटिका
 B
 Vibrio cholerae
@@ -142,6 +152,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 62
 Q.No: 137
 2633508
 What type of acid is found in tomatoes?
@@ -162,6 +173,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 62
 Q.No: 138
 2633509
 For the following solution, the pH is less than 7: ____________.
@@ -174,6 +186,7 @@ Sodium hydroxide
 सोडियम हाइड्रोोक्सााइड
 C
 Sodium chloride
+<<<PAGE:63>>>
 सोडियम क्लोोराइड
 D
 Ferric Chloride
@@ -182,6 +195,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 63
 Q.No: 139
 2633510
 The solution with a pH lower than 7 is: _________.
@@ -202,6 +216,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 63
 Q.No: 140
 2633512
 Lactic Acid is present in -
@@ -219,9 +234,11 @@ D
 Tea
 चाय
 Correct Ans : C
+<<<PAGE:64>>>
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 64
 Q.No: 141
 2639481
 What is the maximum temperature and humidity for humans?
@@ -234,6 +251,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 64
 Q.No: 142
 2639482
 Identify the main part of the rock cycle.
@@ -252,8 +270,10 @@ Agriculture 
 कृषि 
 Correct Ans : A
 Subject : Gen. Science graduate
+<<<PAGE:65>>>
 
 ----------------------------------------
+Page: 65
 Q.No: 143
 2639483
 What is the height of the permanent snow line in India?
@@ -274,6 +294,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 148
 Q.No: 130
 2629674
 When an intrinsic semiconductor is doped with a trivalent impurity, what type of material is formed?
@@ -289,11 +310,13 @@ Transistor 
 ट्रांांजिस्टर
 D
 Insulator 
+<<<PAGE:149>>>
 विसंवाहक
 Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 149
 Q.No: 131
 2631982
 What does the first word in a biological name represent? 
@@ -314,6 +337,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 149
 Q.No: 132
 2631984
 What is the biological name for the housefly? 
@@ -334,9 +358,11 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 149
 Q.No: 133
 2631990
 Linnaeus developed Two Kingdom system of classification with Plantae and _________.
+<<<PAGE:150>>>
 लिनियस ने प्लांांटी और __________ के साथ वर्गीकरण की दो जगत प्रणाली विकसित की।
 A
 Monera
@@ -354,6 +380,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 150
 Q.No: 134
 2632061
 The process of vaccination was invented by?
@@ -374,6 +401,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 150
 Q.No: 135
 2632070
 ‘Plague’ is transmitted via
@@ -381,6 +409,7 @@ Q.No: 135
 A
 House fly
 घरेलू मक्खीी
+<<<PAGE:151>>>
 B
 Tse–tse fly
 त्से-त्से मक्खीी
@@ -394,6 +423,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 151
 Q.No: 136
 2632079
 What causes Elephantiasis?
@@ -414,6 +444,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 151
 Q.No: 137
 2633511
 If the pH value is less than 7, the solution is -
@@ -426,6 +457,7 @@ Basic
 क्षाारक 
 C
 Neutral
+<<<PAGE:152>>>
 तटस्थ
 D
 No effect
@@ -434,6 +466,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 152
 Q.No: 138
 2633513
 Which of the following acid is present in Tea?
@@ -454,6 +487,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 152
 Q.No: 139
 2633514
 Farmers apply _______ to the soil to neutralize the effects of acidity.
@@ -470,10 +504,12 @@ Slaked lime
 D
 Gypsum
 जिप्सम
+<<<PAGE:153>>>
 Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 153
 Q.No: 140
 2633515
 Which of the following salts doesn't include water for crystallisation?
@@ -494,6 +530,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 153
 Q.No: 141
 2639484
 In A.T.P, energy is released by which action?
@@ -514,9 +551,11 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 153
 Q.No: 142
 2639487
 Which disease is caused in children due to excessive amounts of nitrate in drinking water?
+<<<PAGE:154>>>
 पेय जल में नाइट्रेट की अधिक मात्राा से बच्चोो में कौन सा रोग होता है?
 A
 Blue baby syndrome 
@@ -534,6 +573,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 154
 Q.No: 143
 2639488
 Which of the following 6 biological basic elements are essential for plants?
@@ -554,6 +594,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 223
 Q.No: 130
 2629680
 The electric field in the depletion layer of an unbiased p-n junction is                       
@@ -574,6 +615,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 223
 Q.No: 131
 2631985
 Study of grasses is known as _____________. 
@@ -589,11 +631,13 @@ Pedology
 मृदा विज्ञाान
 D
 Agrostology
+<<<PAGE:224>>>
 कृषि विज्ञाान
 Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 224
 Q.No: 132
 2631991
 In which of the following Kingdoms, the cell wall is absent?
@@ -614,6 +658,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 224
 Q.No: 133
 2631993
 Which of the following Kingdoms is prokaryotic?
@@ -634,6 +679,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 224
 Q.No: 134
 2632062
 Which of these diseases is not spread by mosquitoes?
@@ -646,6 +692,7 @@ Malaria
 मलेरिया
 C
 Filariasis
+<<<PAGE:225>>>
 फाइलेरिया
 D
 Typhoid
@@ -654,6 +701,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 225
 Q.No: 135
 2632071
 Rickets is a disease of 
@@ -674,6 +722,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 225
 Q.No: 136
 2632080
 Excessive bleeding during an injury indicates a lack of _______.
@@ -694,6 +743,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 225
 Q.No: 137
 2633516
 What pH range does our body operate in order to survive in the environment?
@@ -703,6 +753,7 @@ A
 2.3 से 7.0
 B
 5.5 to 8.5
+<<<PAGE:226>>>
 5.5 से8.5
 C
 7.0 to 7.8
@@ -714,6 +765,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 226
 Q.No: 138
 2633518
 What kind of acid is in tamarind?
@@ -734,6 +786,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 226
 Q.No: 139
 2633520
 Which of the following pH values is shown by acids?
@@ -754,12 +807,14 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 226
 Q.No: 140
 2633521
 Which of the following turns red litmus to blue?
 निम्नलिखित में से कौन लाल लिटमस को नीला कर देता है?
 A
 Acid
+<<<PAGE:227>>>
 अम्ल 
 B
 Base
@@ -774,6 +829,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 227
 Q.No: 141
 2639485
 Which element has the maximum contribution to the formation of plants?
@@ -794,6 +850,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 227
 Q.No: 142
 2639496
 Where is the headquarters of the National Biodiversity Authority?
@@ -814,9 +871,11 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 227
 Q.No: 143
 2639498
 Where is Chandraprabha Sanctuary located?
+<<<PAGE:228>>>
 चन्द प्रभा अभारण्य कहां अवस्थित है?
 A
 Kerala
@@ -834,6 +893,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 306
 Q.No: 130
 2629688
 An object moves 16 metres in 4 seconds and then another 16 metres in 2 seconds. What is the object's average speed?
@@ -854,6 +914,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 306
 Q.No: 131
 2631986
 What is the field of study of Paediatrics?
@@ -874,9 +935,11 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 306
 Q.No: 132
 2631992
 Chitin is present in which of the following kingdoms?
+<<<PAGE:307>>>
 निम्नलिखित में से किस साम्रााज्य में चिटिन मौजूद है?
 A
 Plantae
@@ -894,6 +957,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 307
 Q.No: 133
 2631994
 _________ are the sole members of the Kingdom Monera.
@@ -914,6 +978,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 307
 Q.No: 134
 2632063
 Which of the following is a venereal disease?
@@ -921,6 +986,7 @@ Which of the following is a venereal disease?
 A
 AIDS 
 एड्स
+<<<PAGE:308>>>
 B
 Cancer
 कैंसर
@@ -934,6 +1000,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 308
 Q.No: 135
 2632072
 Which of the following causes night blindness?
@@ -954,6 +1021,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 308
 Q.No: 136
 2632081
 Which of the following vitamins also is known by the name ascorbic acid?
@@ -966,6 +1034,7 @@ Vitamin B
 विटामिन बी
 C
 Vitamin C
+<<<PAGE:309>>>
 विटामिन सी
 D
 Vitamin E
@@ -974,6 +1043,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 309
 Q.No: 137
 2633517
 Which of these salts gives an acidic solution?

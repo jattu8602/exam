@@ -2,6 +2,7 @@ Subject: BOTANY graduate
 Questions: 50
 ========================================
 
+Page: 347
 Q.No: 21
 2622664
 The chromophore plus the apoprotein is referred to as?
@@ -22,6 +23,7 @@ Correct Ans : D
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 347
 Q.No: 22
 2622668
 What is the ratio of the actual water content of air to the maximum amount of water that can be held by air at that temperature?
@@ -42,10 +44,12 @@ Correct Ans : A
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 347
 Q.No: 23
 2622669
 A
 Dehydrogenase 
+<<<PAGE:348>>>
 डिहाइड्रोोजनेज
 B
 Hydrogenase 
@@ -60,6 +64,7 @@ Correct Ans : C
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 348
 Q.No: 24
 2622675
 What kind of development is depicted in the given figure below?
@@ -77,9 +82,11 @@ D
 Embryo development
 भ्रूण विकास
 Correct Ans : D
+<<<PAGE:349>>>
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 349
 Q.No: 25
 2622676
 The grass "seed" is actually an indehiscent one-seeded fruit in which the testa and pericarp fuse together to form one?
@@ -100,6 +107,7 @@ Correct Ans : A
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 349
 Q.No: 26
 2622681
 What is untrue about tapetum?
@@ -122,10 +130,12 @@ Correct Ans : C
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 349
 Q.No: 27
 2622685
 Which chemical compounds are not required by the plant for normal growth and development but are produced in the plant as
 “byproducts” of cell metabolisms?
+<<<PAGE:350>>>
 पौधों को सामान्य वृद्धि और विकास के लिए कौन से रासायनिक यौगिकों की आवश्यकता नहीं होती है, लेकिन पौधे में कोशिका मेटाबोलिज्म के "उपोत्द" के रूप में उत्पन्न होते
 हैं?
 A
@@ -144,6 +154,7 @@ Correct Ans : B
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 350
 Q.No: 28
 2622689
 The initiator tRNA occupies which site of the ribosome, which is positioned over the initiator AUG codon and is adjacent to the A site?
@@ -164,6 +175,7 @@ Correct Ans : C
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 350
 Q.No: 29
 2622696
 Which of the following temperature condition represents a long-term stress situation?
@@ -171,6 +183,7 @@ Which of the following temperature condition represents a long-term stress situa
 A
 Fire
 आग
+<<<PAGE:351>>>
 B
 Frost
 ठंढ
@@ -184,6 +197,7 @@ Correct Ans : B
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 351
 Q.No: 30
 2622702
 Nitrate degraded under anaerobic conditions to molecular N is called?
@@ -204,6 +218,7 @@ Correct Ans : B
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 351
 Q.No: 31
 2622706
 The connecting capillaries are made from which material?
@@ -216,6 +231,7 @@ Stainless steel or from polyether-etherketon
 स्टेनलेस स्टीील या पॉलीथर-ईथर केटोन से
 C
 Silica 
+<<<PAGE:352>>>
 सिलिका
 D
 Polystyrene 
@@ -224,6 +240,7 @@ Correct Ans : B
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 352
 Q.No: 32
 2622710
 Which material is a synthetic glass with “ceramic-like” properties, which is generally produced by hydrolysis and condensation of a
@@ -246,12 +263,14 @@ Correct Ans : C
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 352
 Q.No: 33
 2622717
 Identify the Phyllotaxy of leaves shown in the figure given below.
 नीचे दिए गए चित्र में दर्शाई गई पत्तियों के फाइलोटैक्सीी को पहचानें।
 A
 Alternate 
+<<<PAGE:353>>>
 अलटरनैट
 B
 Whorled 
@@ -266,6 +285,7 @@ Correct Ans : C
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 353
 Q.No: 34
 2622723
 Who defined systematics as a ‘scientific study of the kinds and diversity of organisms, and of any and all relationships between them’?
@@ -286,6 +306,7 @@ Correct Ans : D
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 353
 Q.No: 35
 2622727
 Curcumin’s biological activity cannot be increased by which of the following?
@@ -298,6 +319,7 @@ Cyclodextrin
 साइक्लोोडेक्सट्रिन
 C
 Polymeric nanoparticles
+<<<PAGE:354>>>
 पॉलिमरिक नैनोपार्टिकल्स
 D
 Sodium dodecyl sulphate 
@@ -306,6 +328,7 @@ Correct Ans : D
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 354
 Q.No: 36
 2622731
 Identify the plant species which share the same common name with Anemopaegmaarvense (Vell.) (Bignoniaceae).
@@ -326,6 +349,7 @@ Correct Ans : A
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 354
 Q.No: 37
 2622738
 Ex-situ conservation measures do not include which of the following approach?
@@ -343,9 +367,11 @@ D
 Botanical garden
 बोटैनिकल गार्डन
 Correct Ans : D
+<<<PAGE:355>>>
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 355
 Q.No: 38
 2622744
 Which of the following is not a type of tropical region?
@@ -366,6 +392,7 @@ Correct Ans : D
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 355
 Q.No: 39
 2622752
 A
@@ -384,10 +411,12 @@ Correct Ans : B
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 355
 Q.No: 40
 2622759
 Which term is defined as the cultivation of plants in systems without soil “in situ” and this method is the most intensive and effective
 in today’s horticultural industry?
+<<<PAGE:356>>>
 किस शब्द को "इन सीटू" बिना मिट्टीी के सिस्टम में पौधों की खेती के रूप में परिभाषित किया गया है और यह विधि आज के बागवानी उद्योोग में सबसे गहन और प्रभावी है?
 A
 Semi horticulture 
@@ -405,6 +434,7 @@ Correct Ans : C
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 511
 Q.No: 35
 2622665
 Phytochrome and cryptochrome responses are which responses?
@@ -414,6 +444,7 @@ Morphogenetic
 मॉर्फ़ोजेनेटिक
 B
 Physicochemical 
+<<<PAGE:512>>>
 फिजियोकेमिकल
 C
 Electromagnetic 
@@ -425,6 +456,7 @@ Correct Ans : A
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 512
 Q.No: 36
 2622666
 Organs that exhibit little or no sensitivity to gravity are known as?
@@ -445,6 +477,7 @@ Correct Ans : B
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 512
 Q.No: 37
 2622670
 The inner membrane of the mitochondrion is extensively infolded. These invaginations form a dense network of
@@ -456,6 +489,7 @@ Cisternae 
 सिस्टर्न
 B
 Cristae
+<<<PAGE:513>>>
 क्रिस्टाा
 C
 Plastids 
@@ -467,6 +501,7 @@ Correct Ans : B
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 513
 Q.No: 38
 2622671
 Which non-green product is formed by the loss of the magnesium ion from chlorophyll?
@@ -487,6 +522,7 @@ Correct Ans : C
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 513
 Q.No: 39
 2622677
 In which fruit the fleshy mesocarp is interspersed with thick-walled sclereids?
@@ -496,6 +532,7 @@ Prunus persica (peach)
 प्रूनस पर्सिका (आड़ूू)
 B
 Olea europaea (olive)
+<<<PAGE:514>>>
 ओलिया यूरोपिया (जैतून)
 C
 Vitis vinifera (grape)
@@ -507,6 +544,7 @@ Correct Ans : B
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 514
 Q.No: 40
 2622678
 Some flowers bear oil-secreting glands, which are morphologically similar to some types of nectary. What are these
@@ -529,6 +567,7 @@ Correct Ans : A
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 514
 Q.No: 41
 2622682
 In Aloe, which is a specialized tissue that is the source of aloin?
@@ -538,6 +577,7 @@ Inner palisade tissue 
 इनर पैलिसेड ऊतक
 B
 Medullary rays 
+<<<PAGE:515>>>
 मेडुलरी किरणें
 C
 Outer bundle sheath
@@ -549,6 +589,7 @@ Correct Ans : C
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 515
 Q.No: 42
 2622683
 What is indicated by the number of vascular bundles in the style of a syncarpous gynoecium?
@@ -569,6 +610,7 @@ Correct Ans : B
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 515
 Q.No: 43
 2622686
 What are encapsulated somatic embryos called? 
@@ -578,6 +620,7 @@ Granulated embryos  
 ग्रनुलेटेड भ्रूण
 B
 Synthetic seeds
+<<<PAGE:516>>>
 सिंथेटिक बीज
 C
 Protoplast 
@@ -589,6 +632,7 @@ Correct Ans : B
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 516
 Q.No: 44
 2622687
 What are regulatory proteins that bind to DNA and to other regulatory proteins to effect gene expression?
@@ -609,6 +653,7 @@ Correct Ans : A
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 516
 Q.No: 45
 2622690
 Which nature of the strands means that each strand provides a template for the synthesis of the other?
@@ -621,6 +666,7 @@ Negative
 नकारात्मक
 C
 Double-stranded 
+<<<PAGE:517>>>
 दोहरी स्ट्रैंड्स
 D
 Complementary 
@@ -629,6 +675,7 @@ Correct Ans : D
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 517
 Q.No: 46
 2622691
 Which is a hydrocarbon gas, is a very simple molecule that is best known for its stimulation of fruit ripening and
@@ -651,6 +698,7 @@ Correct Ans : D
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 517
 Q.No: 47
 2622697
 Which of the following condition occurs in plants due to iron deficiency? 
@@ -663,6 +711,7 @@ Necrosis 
 गल जाना
 C
 Wilting 
+<<<PAGE:518>>>
 मुरझाना
 D
 Chlorosis 
@@ -671,6 +720,7 @@ Correct Ans : D
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 518
 Q.No: 48
 2622698
 Hydrolases which can break down fungal cell walls and are usually expressed in context with a hypersensitive
@@ -693,6 +743,7 @@ Correct Ans : D
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 518
 Q.No: 49
 2622703
 Which foreign substances (with respect to an organism) which have biological activity and, depending on the
@@ -705,6 +756,7 @@ Xenobiotics
 B
 Mutants 
 म्युटेंट
+<<<PAGE:519>>>
 C
 Pollens
 पोलेन
@@ -715,6 +767,7 @@ Correct Ans : A
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 519
 Q.No: 50
 2622707
 The developed TLC is overlaid with a seeded agar gel, enabling a uniform contact between the chromatogram and
@@ -739,6 +792,7 @@ Correct Ans : B
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 519
 Q.No: 51
 2622708
 Thin-layer chromatography (TLC) is which technique?
@@ -748,6 +802,7 @@ Dynamic chromatographic
 डायनामिक क्मैटोग्रााफिक
 B
 Planar chromatographic
+<<<PAGE:520>>>
 प्लाानर क्रोोमैटोग्रााफिक
 C
 Columnar chromatographic
@@ -759,6 +814,7 @@ Correct Ans : B
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 520
 Q.No: 52
 2622711
 Which component of a microscope facilitates the illumination of the specimen? The field diaphragm only controls
@@ -781,6 +837,7 @@ Correct Ans : C
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 520
 Q.No: 53
 2622712
 Which type of objective lenses are corrected chromatically for the colours red, green, and blue (and sometimes for
@@ -790,6 +847,7 @@ dark blue too) and corrected spherically for two colours?
 A
 Apochromatic objectives
 एपोक्रोोमैटिक ऑब्जेक्टिव
+<<<PAGE:521>>>
 B
 Fluorite objectives
 फ्लोोराइट ऑब्जेक्टिव
@@ -803,6 +861,7 @@ Correct Ans : A
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 521
 Q.No: 54
 2622718
 Which is a metallic box with a tightly fitted lid and a shoulder sling? It is used to store specimens temporarily
@@ -825,6 +884,7 @@ Correct Ans : B
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 521
 Q.No: 55
 2622719
 Which of the following chemicals with an offensive odour or taste is kept in herbarium cases to keep pests away
@@ -832,6 +892,7 @@ from specimens?
 कीटों को नमूनों से दूर रखने के लिए निम्नलिखित में से कौन सा रसायन एक अप्रिय गंध या स्वााद के साथ हर्बेरियम केस में रखा जाता है?
 A
 Naphthalene
+<<<PAGE:522>>>
 नेफ़थलीन
 B
 Choro-flouro-carbon
@@ -846,6 +907,7 @@ Correct Ans : A
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 522
 Q.No: 56
 2622724
 Which of the following is a biologically active molecule against cancer that has been isolated from plants and
@@ -867,12 +929,14 @@ Correct Ans : D
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 522
 Q.No: 57
 2622728
 Which among the following is not a modifiable risk factor?
 निम्नलिखित में से कौन सा परिवर्तनीय जोखिम कारक नहीं है?
 A
 Hypertension 
+<<<PAGE:523>>>
 उच्च रक्तचाप
 B
 Cigarette use 
@@ -887,6 +951,7 @@ Correct Ans : D
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 523
 Q.No: 58
 2622729
 Polyherbal formulations (PHF) is also called as?
@@ -907,6 +972,7 @@ Correct Ans : A
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 523
 Q.No: 59
 2622732
 Efficacy and safety are the two main factors to be considered while using ethnobotanical plants. Which among the
@@ -915,6 +981,7 @@ following is not a criterion to be considered for determining efficacy and safet
 प्रभावकारिता और सुरक्षाा का निर्धारण करने के लिए विचार नहीं किया जाना चाहिए?
 A
 The taxonomic identity
+<<<PAGE:524>>>
 टैक्सोोनोमिक पहचान
 B
 The habitat from which it comes
@@ -929,6 +996,7 @@ Correct Ans : D
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 524
 Q.No: 60
 2622733
 Which among the following is not a phenolic compound present in a plant?
@@ -949,12 +1017,14 @@ Correct Ans : D
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 524
 Q.No: 61
 2622739
 Which of the following is not a cause for habitat loss?
 निम्न में से कौन सा निवास स्थान के नुकसान का कारण नहीं है?
 A
 Afforestation 
+<<<PAGE:525>>>
 वनरोपण
 B
 Shifting agriculture
@@ -969,6 +1039,7 @@ Correct Ans : A
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 525
 Q.No: 62
 2622740
 Which of the following is not a threat to biodiversity?
@@ -989,6 +1060,7 @@ Correct Ans : D
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 525
 Q.No: 63
 2622745
 Which of the following is not considered in the ‘big five’ mass extinctions?
@@ -998,6 +1070,7 @@ Late Ordovician
 लेट ऑर्डोवियन
 B
 Late Devonian
+<<<PAGE:526>>>
 लेट डेवोनियन
 C
 Late Permian
@@ -1009,6 +1082,7 @@ Correct Ans : D
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 526
 Q.No: 64
 2622748
 The smallest natural populations permanently separated from each other by a distinct discontinuity in heritable

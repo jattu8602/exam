@@ -2,6 +2,7 @@ Subject: MATHS graduate
 Questions: 40
 ========================================
 
+Page: 375
 Q.No: 81
 2625469
 If the number of variables in non-homogeneous system of linear equations AX = B is n, then the system has a unique solution if: 
@@ -14,6 +15,7 @@ Correct Ans : C
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 375
 Q.No: 82
 2625473
 If P and Q are two statements, then PVQ will be false if:
@@ -32,8 +34,10 @@ P and Q both are true
 P और Q दोनों सत्य हैं
 Correct Ans : C
 Subject : MATHS graduate
+<<<PAGE:376>>>
 
 ----------------------------------------
+Page: 376
 Q.No: 83
 2625486
 A
@@ -44,6 +48,7 @@ Correct Ans : A
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 376
 Q.No: 84
 2625498
 A
@@ -51,6 +56,7 @@ log (1 + x)
 log (1 + x)
 B
 C
+<<<PAGE:377>>>
 D
 2x
 2x
@@ -58,6 +64,7 @@ Correct Ans : C
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 377
 Q.No: 85
 2625506
 A
@@ -76,16 +83,19 @@ Correct Ans : B
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 377
 Q.No: 86
 2625516
 A
 B
+<<<PAGE:378>>>
 C
 D
 Correct Ans : B
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 378
 Q.No: 87
 2625517
 A
@@ -104,16 +114,19 @@ Correct Ans : A
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 378
 Q.No: 88
 2625528
 A
 B
+<<<PAGE:379>>>
 C
 D
 Correct Ans : B
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 379
 Q.No: 89
 2625529
 Number of generators of the cyclic group of order 10:
@@ -134,6 +147,7 @@ Correct Ans : C
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 379
 Q.No: 90
 2625546
 A
@@ -144,6 +158,7 @@ Divergent 
 अपसारी
 C
 Conditional convergent 
+<<<PAGE:380>>>
 प्रतिबंधीअभिसारी 
 D
 Absolutely convergent 
@@ -152,6 +167,7 @@ Correct Ans : D
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 380
 Q.No: 91
 2625556
 At which of the following values of x and y the function u = sin x sin y sin (x + y) has maxima?  
@@ -166,12 +182,14 @@ Correct Ans : A
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 380
 Q.No: 92
 2625566
 A
 -1
 -1
 B
+<<<PAGE:381>>>
 C
 D
 1
@@ -180,6 +198,7 @@ Correct Ans : D
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 381
 Q.No: 93
 2625578
 A
@@ -194,10 +213,12 @@ Correct Ans : D
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 381
 Q.No: 94
 2625644
 A
 Diagonal [3, 4, -12]
+<<<PAGE:382>>>
 Diagonal [3, 4, -12]
 B
 Diagonal [6, 12, 18]
@@ -212,6 +233,7 @@ Correct Ans : A
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 382
 Q.No: 95
 2625658
 Which of the following is a graph where edges cannot appear more than once but vertex may be:
@@ -232,6 +254,7 @@ Correct Ans : A
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 382
 Q.No: 96
 2625668
 A
@@ -240,6 +263,7 @@ Normal 
 B
 Platykurtic 
 प्लेटिकुर्टिक
+<<<PAGE:383>>>
 C
 Leptokurtic 
 लेप्टोोकुर्टिक
@@ -250,6 +274,7 @@ Correct Ans : B
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 383
 Q.No: 97
 2625676
 The chance that a leap-year selected at random will contain 53 Sundays is: 
@@ -262,8 +287,10 @@ Correct Ans : C
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 383
 Q.No: 98
 2625684
+<<<PAGE:384>>>
 A
 Improper integral of first kind 
 प्रथम प्रकार का अनुचित समाकल
@@ -280,6 +307,7 @@ Correct Ans : A
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 384
 Q.No: 99
 2625696
 A
@@ -298,8 +326,10 @@ Correct Ans : A
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 384
 Q.No: 100
 2625708
+<<<PAGE:385>>>
 A
 uv
 uv
@@ -312,16 +342,19 @@ Correct Ans : C
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 621
 Q.No: 81
 2625470
 A
 B
 C
+<<<PAGE:622>>>
 D
 Correct Ans : A
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 622
 Q.No: 82
 2625474
 A
@@ -340,6 +373,7 @@ Correct Ans : C
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 622
 Q.No: 83
 2625487
 n घातीय वक्र की अनंत स्पर्शीयाँ वक्र को काटती हैं:  
@@ -359,11 +393,13 @@ Correct Ans : C
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 622
 Q.No: 84
 2625499
 Integrating factor of the differential equation (1 + xy) y dx + (1 - xy) x dy = 0 is:
 अवकल समीकरण (1 + xy) y dx + (1 - xy) x dy = 0 का समाकल गुणांक है:
 A
+<<<PAGE:623>>>
 B
 C
 D
@@ -371,6 +407,7 @@ Correct Ans : D
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 623
 Q.No: 85
 2625507
 A
@@ -389,16 +426,19 @@ Correct Ans : C
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 623
 Q.No: 86
 2625518
 A
 B
+<<<PAGE:624>>>
 C
 D
 Correct Ans : D
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 624
 Q.No: 87
 2625519
 The equation of a right circular cylinder of radius 5 cm and whose axis is y-axis is: 
@@ -411,16 +451,19 @@ Correct Ans : C
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 624
 Q.No: 88
 2625530
 A
 B
 C
+<<<PAGE:625>>>
 D
 Correct Ans : C
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 625
 Q.No: 89
 2625531
 If H and K are finite sub-groups of G then: 
@@ -437,6 +480,7 @@ Correct Ans : B
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 625
 Q.No: 90
 2625547
 A
@@ -455,8 +499,10 @@ Correct Ans : B
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 625
 Q.No: 91
 2625557
+<<<PAGE:626>>>
 A
 B
 C
@@ -465,6 +511,7 @@ Correct Ans : B
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 626
 Q.No: 92
 2625567
 Choose the correct formula; 
@@ -477,6 +524,7 @@ Correct Ans : C
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 626
 Q.No: 93
 2625579
 A
@@ -484,6 +532,7 @@ Parabolic 
 परवलियक
 B
 Elliptic 
+<<<PAGE:627>>>
 दीर्घवृत्तीय 
 C
 Hyperbolic 
@@ -495,6 +544,7 @@ Correct Ans : B
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 627
 Q.No: 94
 2625645
 If all Eigen values of a square matrix A are distinct, then the matrix A is similar to:   
@@ -515,6 +565,7 @@ Correct Ans : B
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 627
 Q.No: 95
 2625659
 The maximum number of edges in a simple graph with n vertices is: 
@@ -527,8 +578,10 @@ C
 D
 Correct Ans : C
 Subject : MATHS graduate
+<<<PAGE:628>>>
 
 ----------------------------------------
+Page: 628
 Q.No: 96
 2625669
 A
@@ -541,6 +594,7 @@ Correct Ans : C
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 628
 Q.No: 97
 2625677
 A
@@ -555,8 +609,10 @@ Correct Ans : B
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 628
 Q.No: 98
 2625685
+<<<PAGE:629>>>
 A
 First kind 
 प्रथम प्रकार का 
@@ -573,6 +629,7 @@ Correct Ans : B
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 629
 Q.No: 99
 2625697
 A
@@ -583,8 +640,10 @@ Correct Ans : C
 Subject : MATHS graduate
 
 ----------------------------------------
+Page: 629
 Q.No: 100
 2625709
+<<<PAGE:630>>>
 A
 B
 C

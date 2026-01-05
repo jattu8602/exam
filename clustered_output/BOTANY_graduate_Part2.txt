@@ -2,6 +2,7 @@ Subject: BOTANY graduate
 Questions: 3
 ========================================
 
+Page: 526
 Q.No: 65
 2622753
 What refers to a point in the process where variation in product properties and or processes results in unacceptable
@@ -11,6 +12,7 @@ and or irreversible deviations in required quality attributes of the final produ
 A
 Barrier point 
 बैरियर पॉइंट
+<<<PAGE:527>>>
 B
 Check point 
 चेक प्वााइंट
@@ -24,6 +26,7 @@ Correct Ans : C
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 527
 Q.No: 66
 2622760
 Which is the most popular irrigation system in greenhouses?
@@ -44,6 +47,7 @@ Correct Ans : D
 Subject : BOTANY graduate
 
 ----------------------------------------
+Page: 527
 Q.No: 67
 2622765
 What utilises the injection of gas bubbles (nitrogen is most commonly used) to the bottom of a tank containing
@@ -54,6 +58,7 @@ Filtration 
 निस्पंदन
 B
 Corking 
+<<<PAGE:528>>>
 कोर्किंग
 C
 Flotation

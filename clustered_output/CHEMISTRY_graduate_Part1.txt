@@ -2,6 +2,7 @@ Subject: CHEMISTRY graduate
 Questions: 50
 ========================================
 
+Page: 24
 Q.No: 51
 2622769
 Which of the following is not a limitation of Bohr’s theory?
@@ -22,8 +23,10 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 24
 Q.No: 52
 2622773
+<<<PAGE:25>>>
 A
 B
 C
@@ -34,6 +37,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 25
 Q.No: 53
 2622779
 Which of the following contains the conditions for a solvent to be suitable for dissolving ionic compounds?
@@ -54,6 +58,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 25
 Q.No: 54
 2622794
 To which of the following options, the (VSEPR) Valence Shell Electron Pair Repulsion theory cannot be applied to?
@@ -61,6 +66,7 @@ To which of the following options, the (VSEPR) Valence Shell Electron Pair Repu
 A
 Distinguish s, p, d, and forbitals.
 s, p, d और फोर्बिटल्स के बीच अंतर करें।
+<<<PAGE:26>>>
 B
 Predict shapes of coordination compounds.
 समन्वय यौगिकों के आकार की पूर्व-सूचना देना।
@@ -74,6 +80,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 26
 Q.No: 55
 2622795
 A
@@ -84,10 +91,12 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 26
 Q.No: 56
 2622809
 Which of the following is represented by the given figure?
 निम्नलिखित में से कौन सा दिए गए चित्र द्वाारा दर्शाया गया है?
+<<<PAGE:27>>>
 A
 Newmann projection of ethane
 ईथेन का न्यूमैन प्रक्षेपण
@@ -104,6 +113,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 27
 Q.No: 57
 2622851
 Which of the following is NOT correct information regarding Friedel-Craft’s alkylation reaction?
@@ -122,8 +132,10 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 27
 Q.No: 58
 2622852
+<<<PAGE:28>>>
 A
 Carbonyl groups
 कार्बोनिल समूह
@@ -140,6 +152,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 28
 Q.No: 59
 2622861
 Which of the following does not occur in the case of tertiary alkyl halides?
@@ -156,12 +169,14 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 28
 Q.No: 60
 2622876
 Which of the following reacts with benzaldehyde to form mandelonitrile?
 निम्नलिखित में से कौन बेन्जेल्डिहाइड के साथ अभिक्रिया कर मैंडेलोनिट्रााइल बनाता है?
 A
 Phosphorus pentachloride
+<<<PAGE:29>>>
 फास्फोोरस पेंटाक्लोोराइड
 B
 Sodium hydroxide
@@ -176,6 +191,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 29
 Q.No: 61
 2622891
 What happens at the critical solution temperature for a system of partially miscible liquids?
@@ -196,6 +212,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 29
 Q.No: 62
 2622933
 Which of the following is a characteristic of amylopectin?
@@ -208,6 +225,7 @@ It gives a blue colour with iodine.
 यह आयोडीन के साथ नीला रंग देता है।
 C
 It gives a violet colour with iodine.
+<<<PAGE:30>>>
 यह आयोडीन के साथ बैंगनी रंग देता है।
 D
 It comprises 10-20% of starch.
@@ -216,6 +234,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 30
 Q.No: 63
 2622943
 An atom on the edge of a cube, contributes how many parts to each unit cell?
@@ -236,6 +255,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 30
 Q.No: 64
 2622944
 What is the number of atoms per unit cell in a simple cubic structure?
@@ -253,9 +273,11 @@ D
 1
 1
 Correct Ans : D
+<<<PAGE:31>>>
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 31
 Q.No: 65
 2622958
 Based on the concept of collision theory, which option is correct?
@@ -276,6 +298,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 31
 Q.No: 66
 2622973
 Which of the following set of lanthanoid ions exhibits red colour?
@@ -286,8 +309,10 @@ C
 D
 Correct Ans : D
 Subject : CHEMISTRY graduate
+<<<PAGE:32>>>
 
 ----------------------------------------
+Page: 32
 Q.No: 67
 2623015
 Which of the following carries amino acids in an activated form to the ribosome for peptide-bond formation in a sequence dictated by
@@ -309,6 +334,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 32
 Q.No: 68
 2623025
 Which of the following and phenol react to give condensation products and the reaction is always catalysed either by acids or bases?
@@ -329,11 +355,13 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 32
 Q.No: 69
 2623040
 What is the melting point of pure PETN, which is a white, crystalline solid?
 शुद्ध PETN का गलनांक क्याा है, जो एक सफेद, क्रिस्टलीय ठोस है?
 A
+<<<PAGE:33>>>
 120 डिग्रीी सेल्सियस
 B
 155 डिग्रीी सेल्सियस
@@ -345,6 +373,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 33
 Q.No: 70
 2623041
 What is the other name of the propellants that are without any metals and have exhaust free of nucleating species, such as HCl?
@@ -365,6 +394,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 33
 Q.No: 71
 2623055
 The first commercialized polyolefin was a low crystallinity, low density polyethylene. Where was it produced in 1939?
@@ -375,6 +405,7 @@ New York
 B
 San Francisco
 सैन फ्रांांसिस्कोो
+<<<PAGE:34>>>
 C
 Ireland
 आयरलैंड
@@ -385,6 +416,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 34
 Q.No: 72
 2623097
 What happens to the mean free path of a molecule under the following conditions?
@@ -405,6 +437,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 34
 Q.No: 73
 2623107
 A
@@ -416,6 +449,7 @@ PV decreases with pressure to a minimum value followed by an increase.
 C
 PV increases continuously with pressure.
 पीवी दबाव के साथ लगातार बढ़ता है।
+<<<PAGE:35>>>
 D
 PV decreases continuously with pressure.
 पीवी दबाव के साथ लगातार घट जाती है
@@ -423,6 +457,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 35
 Q.No: 74
 2623122
 A
@@ -441,6 +476,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 35
 Q.No: 75
 2623137
 पॉलीक्लोोरोट्रिफ्लोोरोएथिलीन 100 डिग्रीी सेल्सियस से ऊपर कई सॉल्वैंट्स में घुलनशील है और पॉलिमर - 100 डिग्रीी सेल्सियस पर सख्त है।
@@ -452,14 +488,17 @@ B
 C
 150 डिग्रीी सेल्सियस
 D
+<<<PAGE:36>>>
 200 डिग्रीी सेल्सियस
 Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 113
 Q.No: 51
 2622770
 What is the relationship between the wavelength and frequency of light?
+<<<PAGE:114>>>
 प्रकाश की तरंग दैर्ध्य और आवृत्ति के बीच क्याा संबंध है?
 A
 B
@@ -469,6 +508,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 114
 Q.No: 52
 2622780
 Why is the melting point of NaI lower than NaF?
@@ -487,8 +527,10 @@ The ionic size is directly proportional to the melting point.
 आयनिक आकार सीधे गलनांक के समानुपाती होता है।
 Correct Ans : B
 Subject : CHEMISTRY graduate
+<<<PAGE:115>>>
 
 ----------------------------------------
+Page: 115
 Q.No: 53
 2622781
 A
@@ -507,6 +549,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 115
 Q.No: 54
 2622796
 Which two scientists, among the following have proposed the Molecular Orbital Theory?
@@ -527,12 +570,14 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 115
 Q.No: 55
 2622797
 Which option carries one of the conditions for atomic orbitals to give rise to a stable molecular orbital? 
 कौन सा विकल्प एक स्थिर आणविक कक्षीीय को जन्म देने के लिए परमाणु कक्षााओं के लिए शर्तों में से एक को वहन करता है?
 A
 Relative energies of atomic orbitals must be close to each other.
+<<<PAGE:116>>>
 परमाणु कक्षााओं की सापेक्ष ऊर्जा एक दूसरे के करीब होनी चाहिए।
 B
 The charge clouds of atomic orbitals should not have a large extent of overlap.
@@ -547,6 +592,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 116
 Q.No: 56
 2622810
 Which of the following gives correct information about the staggered conformation of ethane or any alkane?
@@ -567,6 +613,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 116
 Q.No: 57
 2622853
 What is the correct order of reactivity of alcohols?
@@ -577,6 +624,7 @@ Tertiary < Secondary < Primary < Methyl
 B
 Primary < Tertiary < Secondary < Methyl
 प्रााथमिक <तृतीयक <माध्यमिक <मिथाइल
+<<<PAGE:117>>>
 C
 Tertiary > Secondary > Primary > Methyl
 तृतीयक> माध्यमिक> प्रााथमिक> मिथाइल
@@ -587,6 +635,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 117
 Q.No: 58
 2622854
 Which of the following takes place during a nucleophilic substitution reaction?
@@ -607,6 +656,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 117
 Q.No: 59
 2622862
 The Williamson ether synthesis is which type of reaction?
@@ -618,11 +668,13 @@ E1
 E1
 D
 E1cB
+<<<PAGE:118>>>
 E1cB
 Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 118
 Q.No: 60
 2622877
 With which of the following, benzaldehyde reacts and undergoes the Cannizzaro reaction due to the absence of an alpha-hydrogen
@@ -644,6 +696,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 118
 Q.No: 61
 2622892
 Which of the following is a valid condition to conduct the steam distillation of liquids?
@@ -660,8 +713,10 @@ The boiling point is above the boiling points of the immiscible liquids.
 क्वथनांक अमिश्रणीय तरल पदार्थों के क्वथनांक से ऊपर होता है।
 Correct Ans : A
 Subject : CHEMISTRY graduate
+<<<PAGE:119>>>
 
 ----------------------------------------
+Page: 119
 Q.No: 62
 2622934
 Digesting wood in a solution of sodium sulphide, sulphur and X is the sulphate process of preparing cellulose. Which is represented
@@ -683,6 +738,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 119
 Q.No: 63
 2622945
 What is the contribution of face atoms to the total number of atoms in a unit cell of a face-centred cubic structure?
@@ -703,10 +759,12 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 119
 Q.No: 64
 2622946
 According to the law of constancy of interfacial angles, which option is true?
 अंतराफलकीय कोणों की स्थिरता के नियम के अनुसार, कौन सा विकल्प सत्य है?
+<<<PAGE:120>>>
 A
 The angles between adjacent faces vary according to the sizes of the crystal of the same substance.
 आसन्न चेहरों के बीच के कोण एक ही पदार्थ के क्रिस्टल के आकार के अनुसार भिन्न होते हैं।
@@ -723,6 +781,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 120
 Q.No: 65
 2622959
 What is the effect of a catalyst on a reaction?
@@ -743,18 +802,21 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 120
 Q.No: 66
 2622974
 Which of the following lanthanoid ion does not contain unpaired electrons in the 4f orbital?
 निम्नलिखित में से किस लैंथेनाइड आयन में 4f कक्षीीय में अयुग्मित इलेक्ट्रॉॉन नहीं होते हैं?
 A
 B
+<<<PAGE:121>>>
 C
 D
 Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 121
 Q.No: 67
 2623016
 Which of the following is made of silicon and gallium?
@@ -775,6 +837,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 121
 Q.No: 68
 2623026
 What is the emission of light in chemical reaction at ordinary temperatures known as?
@@ -787,6 +850,7 @@ Chemiluminescence
 रासायनिक संदीप्ति
 C
 Fluorescence
+<<<PAGE:122>>>
 प्रतिदीप्ति
 D
 Phosphorescence
@@ -795,6 +859,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 122
 Q.No: 69
 2623042
 Which of the following refers to fiber-reinforced engineering structural materials wherein the fibres are continuous or long enough so
@@ -817,6 +882,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 122
 Q.No: 70
 2623043
 Which is a type of starch found in plants consisting of a linear combination of several thousand glucose units?
@@ -832,11 +898,13 @@ Cellulose
 सेलूलोज़
 D
 Amylose
+<<<PAGE:123>>>
 एमाइलोज
 Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 123
 Q.No: 71
 2623056
 It finds limited applications in adhesives and may be polymerised by free-radical emulsion or suspension polymerization. What is it?
@@ -857,6 +925,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 123
 Q.No: 72
 2623098
 A
@@ -873,8 +942,10 @@ It is small compared to molecular dimensions.
 यह आणविक आयामों की तुलना में छोटा है
 Correct Ans : B
 Subject : CHEMISTRY graduate
+<<<PAGE:124>>>
 
 ----------------------------------------
+Page: 124
 Q.No: 73
 2623108
 Which of the following situations occur under high pressure or low temperature that indicate the deviation of real gases from ideal
@@ -896,6 +967,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 124
 Q.No: 74
 2623123
 Nickel tetra carbonyl on treatment with Sulphuric acid undergoes which of the following reactions, to form Nickel Sulphate?
@@ -916,10 +988,12 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 124
 Q.No: 75
 2623138
 Which type of reactions involve loss of two substituents from adjacent atoms, as a result of which, unsaturation is introduced?
 किस प्रकार की अभिक्रियाओं में आसन्न परमाणुओं से दो प्रतिस्थापियों की हानि होती है, जिसके परिणामस्वरूप असंतृप्ति उत्पन्न होती है?
+<<<PAGE:125>>>
 A
 Elimination
 एलिमिनेशन

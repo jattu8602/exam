@@ -2,6 +2,7 @@ Subject: ZOOLOGY graduate
 Questions: 50
 ========================================
 
+Page: 338
 Q.No: 1
 2617129
 A vitamin requires cobalt for its activity. The vitamin is:
@@ -22,6 +23,7 @@ Correct Ans : A
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 338
 Q.No: 2
 2617134
 What happens to a person who receives the wrong type of blood? 
@@ -37,11 +39,13 @@ The RBCs agglutinate
 RBCs एकत्रित हो जाती हैं
 D
 The spleen and lymphnodes deteriorate
+<<<PAGE:339>>>
 प्लीीहा और लिम्फनोड्स खराब हो जाते हैं
 Correct Ans : C
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 339
 Q.No: 3
 2617135
 Ringworm is a ____________ disease. 
@@ -62,6 +66,7 @@ Correct Ans : D
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 339
 Q.No: 4
 2617142
 Who invented vaccination for 'Small Pox'?
@@ -80,8 +85,10 @@ Louis Pasteur
 लुई पाश्चर
 Correct Ans : C
 Subject : ZOOLOGY graduate
+<<<PAGE:340>>>
 
 ----------------------------------------
+Page: 340
 Q.No: 5
 2617143
 The pH of human blood is ______.
@@ -102,6 +109,7 @@ Correct Ans : D
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 340
 Q.No: 6
 2617150
 Vitamin A is rich in _______.
@@ -122,12 +130,14 @@ Correct Ans : A
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 340
 Q.No: 7
 2617156
 The sex of a child is determined________.
 एक बच्चे का लिंग निर्धारित किया जाता है-
 A
 six to seven weeks after conception
+<<<PAGE:341>>>
 गर्भाधान के छह से सात सप्तााह बाद
 B
 in the third month of pregnancy
@@ -142,6 +152,7 @@ Correct Ans : D
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 341
 Q.No: 8
 2617161
 Sex hormones are_______.
@@ -162,6 +173,7 @@ Correct Ans : D
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 341
 Q.No: 9
 2617169
 Pick out the correct match:
@@ -174,6 +186,7 @@ Fleshy foods Calcium and Protein
 मांसाहारी भोजन कैल्शियम और प्रोोटीन
 C
 Fish Starch and Vitamin
+<<<PAGE:342>>>
 मछली स्टाार्च और विटामिन
 D
 Milk Fibre and Minerals
@@ -182,6 +195,7 @@ Correct Ans : C
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 342
 Q.No: 10
 2617177
 The seat of intelligence is situated in the__________.
@@ -202,6 +216,7 @@ Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 342
 Q.No: 11
 2617183
 The type of tail found in Shark is _______.
@@ -219,9 +234,11 @@ D
 Homocercal
 होमोसेर्कल
 Correct Ans : A
+<<<PAGE:343>>>
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 343
 Q.No: 12
 2617188
 Each body segment of Earthworm is called _________.
@@ -242,6 +259,7 @@ Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 343
 Q.No: 13
 2617196
 Which one statement below about the larynx is correct ?
@@ -262,10 +280,12 @@ Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 343
 Q.No: 14
 2617204
 Which structures are called bronchioles?
 किन संरचनाओं को ब्रोंोंचीओल्स कहा जाता है?
+<<<PAGE:344>>>
 A
 Respiratory passageways that have cartilage in their walls
 श्वसन मार्ग जिनकी दीवारों में उपास्थि होती है
@@ -282,6 +302,7 @@ Correct Ans : C
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 344
 Q.No: 15
 2617210
 Normal expiration in a person at rest is due to _______.
@@ -302,6 +323,7 @@ Correct Ans : A
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 344
 Q.No: 16
 2617215
 Which word correctly completes the statement: “All motor neurons are…”
@@ -311,6 +333,7 @@ Interneurons
 इंटरन्यूरॉन्स
 B
 Multipolar
+<<<PAGE:345>>>
 मल्‍टीपोलर
 C
 Bipolar
@@ -322,6 +345,7 @@ Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 345
 Q.No: 17
 2617223
 Which of the following is/are the contents of the ventral cavity?
@@ -342,6 +366,7 @@ Correct Ans : C
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 345
 Q.No: 18
 2617231
 Which of the tissue types below consists of a single layer of cells?
@@ -357,11 +382,13 @@ Areolar connective tissue
 एरोलर संयोजी ऊतक
 D
 Simple columnar epithelial tissue
+<<<PAGE:346>>>
 सरल स्तंभकार उपकला ऊतक
 Correct Ans : D
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 346
 Q.No: 19
 2617243
 Which bone is most superior?
@@ -382,6 +409,7 @@ Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 346
 Q.No: 20
 2617251
 On which bone is the greater trochanter found?
@@ -400,8 +428,10 @@ Humerus
 ह्यूमरस
 Correct Ans : B
 Subject : ZOOLOGY graduate
+<<<PAGE:347>>>
 
 ----------------------------------------
+Page: 495
 Q.No: 1
 2617130
 Plasma membrane in eukaryotic cells is made up of ________.
@@ -422,6 +452,7 @@ Correct Ans : A
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 495
 Q.No: 2
 2617131
 Which one of the following is also called the ‘power house’ of the cell? 
@@ -432,6 +463,7 @@ Golgi body
 B
 Mitochondrion
 माइटोकॉन्ड्रियन
+<<<PAGE:496>>>
 C
 Ribosome
 राइबोसोम
@@ -442,6 +474,7 @@ Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 496
 Q.No: 3
 2617136
 Pituitary gland is situated in _______. 
@@ -462,6 +495,7 @@ Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 496
 Q.No: 4
 2617137
 Saliva helps in the digestion of _______.
@@ -474,6 +508,7 @@ Starch
 स्टाार्च
 C
 Proteins
+<<<PAGE:497>>>
 प्रोोटीन
 D
 Vitamins
@@ -482,6 +517,7 @@ Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 497
 Q.No: 5
 2617144
 Which amongst the following is largest endocrine gland in the body?
@@ -502,6 +538,7 @@ Correct Ans : A
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 497
 Q.No: 6
 2617145
 Which amongst the following is the largest mammal?
@@ -514,6 +551,7 @@ Whale
 व्हेल
 C
 Dinosaur
+<<<PAGE:498>>>
 डायनासोर
 D
 Rhinoceros
@@ -522,6 +560,7 @@ Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 498
 Q.No: 7
 2617151
 The infective stage of Malaria is ________.
@@ -542,6 +581,7 @@ Correct Ans : C
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 498
 Q.No: 8
 2617152
 Polar-bears hold cures for _______.
@@ -557,11 +597,13 @@ Breast-cancer
 स्तन-कैंसर
 D
 Kidney failure
+<<<PAGE:499>>>
 किडनी खराब होना
 Correct Ans : A
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 499
 Q.No: 9
 2617157
 The food chain of the ecosystem is maintained by the activities of _________.
@@ -582,6 +624,7 @@ Correct Ans : A
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 499
 Q.No: 10
 2617158
 Which one of these primates is closest to the modern man?
@@ -597,11 +640,13 @@ Gorilla
 गोरिल्लाा
 D
 Gibbon
+<<<PAGE:500>>>
 गिब्बन
 Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 500
 Q.No: 11
 2617162
 Green glands are associated with__________.
@@ -622,6 +667,7 @@ Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 500
 Q.No: 12
 2617163
 During respiration, the gases enter into the blood and leave the same by the process of_________.
@@ -637,11 +683,13 @@ Diffusion and active transport
 प्रसार और सक्रिय परिवहन
 D
 Osmosis
+<<<PAGE:501>>>
 ऑस्मोोसिस
 Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 501
 Q.No: 13
 2617170
 Blood is a ______ .
@@ -662,6 +710,7 @@ Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 501
 Q.No: 14
 2617171
 DPT vaccine is administered to prevent diseases like:
@@ -679,9 +728,11 @@ D
 Dengue, Polio and Tetanus
 डेंगू, पोलियो और टेटनस
 Correct Ans : B
+<<<PAGE:502>>>
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 502
 Q.No: 15
 2617178
 What is the Normal Blood Volume in human adult?
@@ -702,6 +753,7 @@ Correct Ans : C
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 502
 Q.No: 16
 2617184
 The Sigmoid Colon is part of ________.
@@ -720,8 +772,10 @@ Anal Canal
 गुदा नलिका
 Correct Ans : A
 Subject : ZOOLOGY graduate
+<<<PAGE:503>>>
 
 ----------------------------------------
+Page: 503
 Q.No: 17
 2617185
 The human body’s largest blood vessel is:
@@ -742,6 +796,7 @@ Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 503
 Q.No: 18
 2617189
 The pollutants which move downward with percolating ground water are called___________.
@@ -760,8 +815,10 @@ Percolates
 परकोलेट्स
 Correct Ans : A
 Subject : ZOOLOGY graduate
+<<<PAGE:504>>>
 
 ----------------------------------------
+Page: 504
 Q.No: 19
 2617190
 Lungs are located in the__________.
@@ -782,6 +839,7 @@ Correct Ans : D
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 504
 Q.No: 20
 2617197
 How is the diaphragm innervated?
@@ -802,9 +860,11 @@ Correct Ans : D
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 504
 Q.No: 21
 2617198
 Which structures constitute the “upper respiratory tract”?
+<<<PAGE:505>>>
 कौन सी संरचनाएं "ऊपरी श्वसन पथ" बनाती हैं?
 A
 nose, pharynx and larynx
@@ -822,6 +882,7 @@ Correct Ans : A
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 505
 Q.No: 22
 2617205
 Which structures comprise the lower respiratory tract?
@@ -842,9 +903,11 @@ Correct Ans : D
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 505
 Q.No: 23
 2617211
 A molecule that is important in maintaining normal lung structure is _________.
+<<<PAGE:506>>>
 एक अणु जो फेफड़ोंों की सामान्य संरचना को बनाए रखने के लिए महत्वपूर्ण है, वह है -
 A
 Immunoglobulin
@@ -862,6 +925,7 @@ Correct Ans : D
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 506
 Q.No: 24
 2617216
 In the peripheral nervous system, which cells form the myelin sheath?
@@ -882,12 +946,14 @@ Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 506
 Q.No: 25
 2617217
 What name is given to the cells in the nervous system that produce nerve impulses?
 तंत्रिका तंत्र में तंत्रिका उत्पन्न करने वाली कोशिकाओं को क्याा नाम दिया गया है?
 A
 Neurotransmitters
+<<<PAGE:507>>>
 न्यूरोट्रांांसमीटर
 B
 Nerves
@@ -902,6 +968,7 @@ Correct Ans : C
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 507
 Q.No: 26
 2617224
 Which of the stated relationships is correct?
@@ -922,12 +989,14 @@ Correct Ans : A
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 507
 Q.No: 27
 2617225
 What is the study of how body parts function called?
 शरीर के अंगों के कार्य करने के तरीके का अध्ययन क्याा कहलाता है?
 A
 Histology
+<<<PAGE:508>>>
 हिस्टोोलॉजी
 B
 Physiology
@@ -942,6 +1011,7 @@ Correct Ans : B
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 508
 Q.No: 28
 2617232
 What are tendons and ligaments composed of?
@@ -962,12 +1032,14 @@ Correct Ans : A
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 508
 Q.No: 29
 2617237
 Which of the following is NOT a function of the skin?
 निम्नलिखित में से कौन सा त्वचा का कार्य नहीं है?
 A
 Fat storage
+<<<PAGE:509>>>
 वसा का भंडारण
 B
 Water proofing the body
@@ -982,6 +1054,7 @@ Correct Ans : A
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 509
 Q.No: 30
 2617244
 What are the bones of the fingers known as?

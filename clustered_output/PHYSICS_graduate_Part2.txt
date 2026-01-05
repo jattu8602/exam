@@ -2,9 +2,11 @@ Subject: PHYSICS graduate
 Questions: 50
 ========================================
 
+Page: 187
 Q.No: 26
 2626180
 Name the scientist who first calculated the motion of two gravitating bodies.
+<<<PAGE:188>>>
 उस महान वैज्ञाानिक का नाम बताइए जिसने सर्वप्रथम दो गुरुत्वााकर्षण पिंडों की गति की गणना की।
 A
 Albert Einstein
@@ -22,6 +24,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 188
 Q.No: 27
 2626190
 What happens to the torque if the distance of the line of action from the origin is greater?
@@ -42,6 +45,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 188
 Q.No: 28
 2626208
 When two light waves arriving in phase at a point on the screen interface constructively giving rise to which type of band?
@@ -60,8 +64,10 @@ Both bright and dark band
 रौशनी और अंधेरे दोनों बैंड
 Correct Ans : B
 Subject : PHYSICS graduate
+<<<PAGE:189>>>
 
 ----------------------------------------
+Page: 189
 Q.No: 29
 2626210
 The phase difference between two waves is equal to how many times of path difference?
@@ -74,6 +80,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 189
 Q.No: 30
 2626220
 What is the path difference between any two consecutive half period zones?
@@ -86,11 +93,13 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 189
 Q.No: 31
 2626255
 What is the standard dielectric strength of paper?
 कागज की परावैद्युत सामर्थ्य किसके के बराबर होती है।
 A
+<<<PAGE:190>>>
 B
 C
 D
@@ -98,6 +107,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 190
 Q.No: 32
 2626268
 The number of complete oscillations or cycles per unit time is referred as_____.
@@ -118,6 +128,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 190
 Q.No: 33
 2626269
 On which factor does the restoring force in simple harmonic motion proportional to?
@@ -138,9 +149,11 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 190
 Q.No: 34
 2626280
 Which is the correct expression for natural frequency of vibration of Helmholtz resonator?
+<<<PAGE:191>>>
 हेल्महोल्ट्ज प्रतिध्वनि की प्रााकृतिक आवृत्ति के लिए सही अभिव्यक्ति कौन सी है?
 A
 B
@@ -150,6 +163,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 191
 Q.No: 35
 2626296
 Which theory says that light propagates as a stream of tiny particles?  
@@ -170,6 +184,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 191
 Q.No: 36
 2626332
 In the inverting voltage feedback op amp circuit what would be the output voltage with respect to the input voltage?
@@ -180,6 +195,7 @@ In phase
 B
 180 degree Out of phase
 180 डिग्रीी चरण से बाहर
+<<<PAGE:192>>>
 C
 45 degree Out of phase
 45 डिग्रीी चरण से बाहर
@@ -190,6 +206,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 192
 Q.No: 37
 2626334
 What is the gain of the op amp amplifier without the feedback loop being closed?
@@ -210,6 +227,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 192
 Q.No: 38
 2626341
 Which one of the following is an example of digital IC?
@@ -230,11 +248,13 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 192
 Q.No: 39
 2626342
 Which is used on the surface of a silicon wafer in the process of oxidation?
 ऑक्सीीकरण की प्रक्रिया में सिलिकॉन वेफर की सतह पर किसका उपयोग किया जाता है?
 A
+<<<PAGE:193>>>
 B
 C
 D
@@ -242,6 +262,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 193
 Q.No: 40
 2626357
 Which type of flip-flop is a true representation of physical memory?
@@ -262,6 +283,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 193
 Q.No: 41
 2626358
 Which one of the following specifies the Space group symmetry operation in crystal?
@@ -282,9 +304,11 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 193
 Q.No: 42
 2626370
 According to Meissner effect, when a weak magnetic field is applied to a superconducting specimen, superconductors expel magnetic flux on which condition?
+<<<PAGE:194>>>
 मेइसनर प्रभाव के अनुसार, जब एक कमजोर चुंबकीय क्षेत्र को एक सुपरकंडक्टिंग नमूने पर लागू किया जाता है, तो सुपरकंडक्टर्स किस स्थिति में चुंबकीय प्रवाह को बाहर निकाल देते हैं?|
 A
 Above transition temperature
@@ -302,6 +326,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 194
 Q.No: 43
 2626405
 Which classification of polarization consists of two perpendicular electromagnetic plane waves of equal amplitude and 90 degree difference in phase?
@@ -322,6 +347,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 194
 Q.No: 44
 2626415
 Read the following statement and choose the correct option:
@@ -342,11 +368,13 @@ Both the statement A and B are correct 
 A और B दोनों कथन सही हैं
 D
 Both the statement A and B are incorrect
+<<<PAGE:195>>>
 A और B दोनों कथन गलत हैं
 Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 195
 Q.No: 45
 2626430
 Which of the following is used to convert only positive half cycle of the AC signal into DC signal?
@@ -367,6 +395,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 195
 Q.No: 46
 2626445
 Which of the following has an insulated gate that relies on the action of a depletion layer to control the drain current?
@@ -388,6 +417,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 195
 Q.No: 47
 2626480
 If the packing fraction is lower, what will be the binding energy per nucleon?
@@ -400,6 +430,7 @@ Lower
 निचला
 C
 Greater
+<<<PAGE:196>>>
 अधिक
 D
 Instable
@@ -408,6 +439,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 196
 Q.No: 48
 2626489
 The maximum magnetic field in a betetron is 1 tesla. If the radius of doughnut is 1 m and the frequency of variation of magnetic field is 50 Hz, calculate the energy gained
@@ -421,6 +453,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 196
 Q.No: 49
 2626505
 Read the following statement and choose the correct option:
@@ -442,9 +475,11 @@ D
 Both the statement A and B are incorrect
 A और B दोनों कथन गलत हैं
 Correct Ans : A
+<<<PAGE:197>>>
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 197
 Q.No: 50
 2626521
 What happens to the scattered photons when the incident photons undergo elastic scattering with the molecules of the medium in Raman effect?
@@ -465,6 +500,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 437
 Q.No: 34
 2626181
 How many external forces acts on the objects during collision?
@@ -485,6 +521,7 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 437
 Q.No: 35
 2626191
 Which one of the following is the correct representation of moment of inertia of the particle about an axis?
@@ -495,8 +532,10 @@ C
 D
 Correct Ans : B
 Subject : PHYSICS graduate
+<<<PAGE:438>>>
 
 ----------------------------------------
+Page: 438
 Q.No: 36
 2626192
 A car is accelerated from 8 m/sec to 14 m/sec in 2 sec. What is the acceleration of car?
@@ -509,6 +548,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 438
 Q.No: 37
 2626211
 The intensity of the wave is proportional to the which of the following factor?
@@ -529,6 +569,7 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 438
 Q.No: 38
 2626212
 Which one of the following is correct regarding constructive interference?
@@ -537,12 +578,14 @@ A
 B
 C
 The phase difference between two light waves must be zero 
+<<<PAGE:439>>>
 दो प्रकाश तरंगों के बीच चरण अंतर शून्य होना चाहिए
 D
 Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 439
 Q.No: 39
 2626221
 How can we express the dispersive power of grating?
@@ -555,6 +598,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 439
 Q.No: 40
 2626256
 Which type of polarization occurs due to the diffusion of ions, along the field direction, thereby giving rise to redistribution of charges in the dielectrics?
@@ -575,9 +619,11 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 439
 Q.No: 41
 2626270
 What is the time period of the simple pendulum?
+<<<PAGE:440>>>
 सरल लोलक का आवर्तकाल कितना होता है ?
 A
 B
@@ -587,6 +633,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 440
 Q.No: 42
 2626271
 In which type of oscillatory system body itself doesn’t change its position but its physical property varies periodically?
@@ -607,6 +654,7 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 440
 Q.No: 43
 2626281
 Radios, cell phones are an example of which type of resonance?
@@ -619,6 +667,7 @@ Desirable resonance
 वांछनीय अनुनाद
 C
 Undesirable resonance
+<<<PAGE:441>>>
 अवांछित अनुनाद
 D
 Orbital resonance
@@ -627,6 +676,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 441
 Q.No: 44
 2626282
 Which of the following is equal to the power observed by a forced oscillator?
@@ -647,6 +697,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 441
 Q.No: 45
 2626297
 Which is defined as an ability of any substance to rotate the plane of incident linearly polarized light?
@@ -667,6 +718,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 441
 Q.No: 46
 2626298
 ____________is the equation of state for an ideal gas.
@@ -676,6 +728,7 @@ P = nT
 P = nT
 B
 PV=nRT
+<<<PAGE:442>>>
 PV=nRT
 C
 PV= nT
@@ -687,6 +740,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 442
 Q.No: 47
 2626335
 What happens to the gain of an Op-Amp amplifier if the frequency is doubled?
@@ -707,6 +761,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 442
 Q.No: 48
 2626336
 Which one of the following is the input impedance and the output impedance of an ideal op-amp?
@@ -727,12 +782,14 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 442
 Q.No: 49
 2626343
 In which process selective regions of a semiconductor, metal or silicon dioxide can be removed?
 किस प्रक्रिया में अर्धचालक, धातु या सिलिकॉन डाइ ऑक्सााइड के चयनात्मक क्षेत्रोंों को हटाया जा सकता है?
 A
 Metallization
+<<<PAGE:443>>>
 धातुकरण
 B
 Epitaxy
@@ -747,6 +804,7 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 443
 Q.No: 50
 2626344
 Name a process in which dopants are introduced into selected areas of the surface of the wafer by bombarding the surface with high-energy ions of the particular dopant.
@@ -767,6 +825,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 443
 Q.No: 51
 2626359
 In which type of symmetry all the edges are of the same distance from the centre of crystals?
@@ -787,9 +846,11 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 443
 Q.No: 52
 2626360
 Which type electromagnetic radiation has shorter wavelengths of the order of 0.001 to 10 nm?
+<<<PAGE:444>>>
 किस प्रकार के विद्युत चुम्बकीय विकिरण में 0.001 से 10 एनएम के क्रम के छोटे तरंग दैर्ध्य होते हैं?
 A
 Alpha rays
@@ -807,6 +868,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 444
 Q.No: 53
 2626371
 Which one of the following is not an example of type I super conductors?
@@ -827,6 +889,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 444
 Q.No: 54
 2626406
 Which one of the following is valid with respect to elliptically polarised waves?
@@ -845,8 +908,10 @@ If two plane waves of differing amplitude are related in phase by 180 degree.
 यदि भिन्न-भिन्न आयाम की दो समतल तरंगें 180 डिग्रीी की कला में संबंधित हैं।
 Correct Ans : B
 Subject : PHYSICS graduate
+<<<PAGE:445>>>
 
 ----------------------------------------
+Page: 445
 Q.No: 55
 2626407
 From the following, identify the correct example of biaxial crystal. 
@@ -867,6 +932,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 445
 Q.No: 56
 2626416
 If circularly polarized light is incident on quarter wave plate at 45 degree to the optic axis, then it produces which type of polarization?
@@ -887,6 +953,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 445
 Q.No: 57
 2626417
 Write the expression for the phase difference between O-ray & E-ray?
@@ -894,11 +961,13 @@ Write the expression for the phase difference between O-ray & E-ray?
 A
 B
 C
+<<<PAGE:446>>>
 D
 Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 446
 Q.No: 58
 2626431
 Which is used to reduce the high ripples in the half wave rectifier?

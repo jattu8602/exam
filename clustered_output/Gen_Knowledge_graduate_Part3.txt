@@ -2,6 +2,7 @@ Subject: Gen. Knowledge graduate
 Questions: 40
 ========================================
 
+Page: 631
 Q.No: 103
 2620241
 In which country is the San Carlos Panantza mine, which was in news in November 2022?
@@ -22,6 +23,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 631
 Q.No: 104
 2620269
 Who has been named India's first 'Youth Climate Champion' by UNDP?
@@ -42,6 +44,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 631
 Q.No: 105
 2620319
 Under whose chairmanship, the Punjab government has constituted a high-level team to probe the security lapses of Prime Minister Narendra Modi, on 6th January 2022?
@@ -51,6 +54,7 @@ Mehtab Singh Gill
 मेहताब सिंह गिल
 B
 Roshan Singh Chadha
+<<<PAGE:632>>>
 रोशन सिंह चड्ढाा
 C
 Vivek Joshi
@@ -62,6 +66,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 632
 Q.No: 106
 2621910
 During the reign of _______, Alauddin invaded Devagiri.
@@ -82,6 +87,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 632
 Q.No: 107
 2621913
 Which Delhi Sultan introduced ‘token’ currency somewhat like present day paper currency? 
@@ -102,12 +108,14 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 632
 Q.No: 108
 2621946
 Who was the Mughal emperor when William Hawkins visited the court?
 विलियम हॉकिन्स किसके शासनकाल में मुगल दरबार में आया था?
 A
 Aurangzeb
+<<<PAGE:633>>>
 औरंगजेब
 B
 Akbar
@@ -122,6 +130,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 633
 Q.No: 109
 2622114
 What rights are given to individuals over the creations of their mind? 
@@ -142,6 +151,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 633
 Q.No: 110
 2622117
 From which country has India received maximum FDI in 2019-20?
@@ -162,9 +172,11 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 633
 Q.No: 111
 2622145
 Who is known as the queen of the Indian financial system?
+<<<PAGE:634>>>
 भारतीय वित्तीीय प्रणाली की रानी के रूप में किसे जाना जाता है?
 A
 SEBI
@@ -182,6 +194,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 634
 Q.No: 112
 2622150
 When was SIDBI established in India?
@@ -202,6 +215,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 634
 Q.No: 113
 2622472
 Which of the people of the three countries that entered India by infiltration before 31 December 2014 will not be considered illegal?
@@ -220,8 +234,10 @@ Canada, Afghanistan, Bangladesh
 केनाडा, अफगानिस्ताान, बांग्लाादेश
 Correct Ans : A
 Subject : Gen. Knowledge graduate
+<<<PAGE:635>>>
 
 ----------------------------------------
+Page: 635
 Q.No: 114
 2622516
 In which year was the Finance Commission of India established?
@@ -242,6 +258,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 703
 Q.No: 101
 2620242
 In which year was the India Cooling Action Plan (ICAP) launched?
@@ -262,6 +279,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 703
 Q.No: 102
 2620270
 Who has been conferred with the Assam government's highest civilian award 'Assam Baibhav' for 2022?
@@ -282,9 +300,11 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 703
 Q.No: 103
 2620276
 Who was named the 2021 BBC Indian Sportswoman of the Year?
+<<<PAGE:704>>>
 2021 बीबीसी इंडियन स्पोोर्ट्सवुमेन ऑफ द ईयर किसे नामित किया गया था?
 A
 PV Sindhu
@@ -302,6 +322,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 704
 Q.No: 104
 2620320
 Who among the following took over as the Election Commissioner (EC) of India in November, 2022?
@@ -322,6 +343,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 704
 Q.No: 105
 2620323
 Who is the chairman of SEBI's Advisory Committee on Mutual Funds as on December 2022 ?
@@ -334,6 +356,7 @@ Rajesh Verma
 राजेश वर्मा
 C
 Usha Thorat
+<<<PAGE:705>>>
 उषा थोराट
 D
 Suresh Mathur
@@ -342,6 +365,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 705
 Q.No: 106
 2621914
 Whom did Timur appoint as governor of Multan before he left India?
@@ -362,6 +386,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 705
 Q.No: 107
 2621915
 Who among the following founded the city of Agra?
@@ -382,9 +407,11 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 705
 Q.No: 108
 2621952
 Babur’s autobiography, called Tuzuk-i-Baburi is written in which language?
+<<<PAGE:706>>>
 तुजुक-ए-बाबरी नामक बाबर की आत्मकथा किस भाषा में लिखी गई है?
 A
 Persian 
@@ -402,6 +429,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 706
 Q.No: 109
 2622118
 What is the full form of SEZs?
@@ -422,6 +450,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 706
 Q.No: 110
 2622119
 What does the term FTZ stand for?
@@ -434,6 +463,7 @@ Fund trade zone
 निधि व्याापार क्षेत्र
 C
 Foreign trade zone
+<<<PAGE:707>>>
 विदेश व्याापार क्षेत्र
 D
 Fiscal trade zone
@@ -442,6 +472,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 707
 Q.No: 111
 2622151
 Which of the following is the first bank of India?
@@ -462,6 +493,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 707
 Q.No: 112
 2622156
 Recently devaluation has been implemented in India on ________.
@@ -482,9 +514,11 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 707
 Q.No: 113
 2622476
 Which of the following is not an objective of a guiding principle of state policy?
+<<<PAGE:708>>>
 निम्नलिखित में से कौन सा राज्य नीति के मार्गदर्शक सिद्धांांत का उद्देश्य नहीं है?
 A
 Establishment of the welfare state
@@ -502,6 +536,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 708
 Q.No: 114
 2622523
 Which of the following was a duty in the former Soviet Union but not in the Constitution of India?
@@ -522,6 +557,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 782
 Q.No: 101
 2620243
 Which port authority has developed Continuous Seawater Quality Monitoring Station (CMWQMS)?
@@ -542,6 +578,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 782
 Q.No: 102
 2620271
 Which film was given the best film award at the 20th Dhaka International Film Festival in 2022?
@@ -551,6 +588,7 @@ KGF - 2
 केजीएफ - 2
 B
 Koozhangal
+<<<PAGE:783>>>
 कूझंगल
 C
 Mahananda
@@ -562,6 +600,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 783
 Q.No: 103
 2620277
 Who among the following has been awarded the Pulitzer Prize 2022?
@@ -582,6 +621,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 783
 Q.No: 104
 2620321
 Who among the following has headed the committee on TRP ratings?
@@ -600,8 +640,10 @@ Sashi S Vempati
 शशि एस वेम्पति
 Correct Ans : D
 Subject : Gen. Knowledge graduate
+<<<PAGE:784>>>
 
 ----------------------------------------
+Page: 784
 Q.No: 105
 2620324
 Abhijit Sen Committee is related to which policy?
@@ -622,6 +664,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 784
 Q.No: 106
 2621916
 Who among the following adopted the title of Rayat-i-Ala?
@@ -642,6 +685,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 784
 Q.No: 107
 2621919
 What is the name of the governor of Bhatinda (Sirhaind) who revolted against Raziya?
@@ -651,6 +695,7 @@ Qutub-ud-din Aibak
 कुतुबुद्दीीन ऐबक
 B
 Altunia
+<<<PAGE:785>>>
 अल्तुनिया
 C
 Tughril Khan
@@ -662,6 +707,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 785
 Q.No: 108
 2621962
 Aurangzeb sent the order to conquer Shivaji's domains to_______, the new Mughal governor of the Deccan.
@@ -682,6 +728,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 785
 Q.No: 109
 2622120
 Under which auspices does the Directorate General of Foreign Trade work?
@@ -699,9 +746,11 @@ D
 MHRD
 मानव संसाधन विकास मंत्राालय
 Correct Ans : B
+<<<PAGE:786>>>
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 786
 Q.No: 110
 2622124
 Which statement is incorrect regarding India and IMF?
@@ -722,6 +771,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 786
 Q.No: 111
 2622230
 The growth rate of an economy is determined by:
@@ -742,6 +792,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 786
 Q.No: 112
 2622235
 What is Valued Added Tax (VAT)?
@@ -749,6 +800,7 @@ What is Valued Added Tax (VAT)?
 A
 An ad valorem tax on final consumption collected at the manufacturing level
 विनिर्माण स्तर पर एकत्रित अंतिम खपत पर यथामूल्य कर
+<<<PAGE:787>>>
 B
 An indirect tax on the domestic consumption of goods collected at all stages between production and the point of final sale
 उत्पाादन और अंतिम बिक्रीी के बिंदु के बीच सभी चरणों में एकत्रित वस्तुओं की घरेलू खपत पर एक अप्रत्यक्ष कर
@@ -762,6 +814,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 787
 Q.No: 113
 2622477
 Regarding the guiding principles of state policy, which of the following statements is true taking the following statements into consideration?
@@ -789,6 +842,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 787
 Q.No: 114
 2622533
 Which type of fundamental right forms the formation of unions and associations?
@@ -798,6 +852,7 @@ Right to equality
 समानता का अधिकार
 B
 Right to freedom
+<<<PAGE:788>>>
 स्वतंत्रता का अधिकार
 C
 Right to religious freedom

@@ -2,12 +2,14 @@ Subject: MICRO BIOLOGY graduate
 Questions: 33
 ========================================
 
+Page: 768
 Q.No: 68
 2619168
 Who introduce vaccination against small pox?
 चेचक के खिलाफ टीकाकरण की शुरुआत किसने की थी?
 A
 Edward Jenner
+<<<PAGE:769>>>
 एडवर्ड जेनर
 B
 Louis Pasteur
@@ -22,6 +24,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 769
 Q.No: 69
 2619169
 During conjugation, the genetic material will be transferred through ________.
@@ -42,6 +45,7 @@ Correct Ans : C
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 769
 Q.No: 70
 2619176
 Polymetaphosphate, a storage granule acts as a source of ________.
@@ -57,11 +61,13 @@ Phosphate
 फास्फेेट
 D
 Phosphoric acid
+<<<PAGE:770>>>
 फॉस्फोोरिक एसिड
 Correct Ans : C
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 770
 Q.No: 71
 2619177
 A bacterium containing prophage is called as _________.
@@ -82,6 +88,7 @@ Correct Ans : C
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 770
 Q.No: 72
 2619186
 The secondary electrons radiated back in scanning microscope is collected by _______.
@@ -102,12 +109,14 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 770
 Q.No: 73
 2619187
 The total magnification in microscope is obtained by ______.
 माइक्रोोस्कोोप में कुल आवर्धन ______ से प्रााप्त होता है।
 A
 Magnifying power of the objective lens 
+<<<PAGE:771>>>
 अभिदृश्यक लेंस की आवर्धन क्षमता
 B
 Magnifying power of eyepiece 
@@ -122,6 +131,7 @@ Correct Ans : D
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 771
 Q.No: 74
 2619195
 Acid fast bacilli are stained  by__________.
@@ -142,6 +152,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 771
 Q.No: 75
 2619196
 Which mordant is used in grams staining?
@@ -157,11 +168,13 @@ Gram’s Iodine 
 ग्रााम आयोडीन
 D
 Acetocarmine
+<<<PAGE:772>>>
 एसीटोकार्मिन
 Correct Ans : C
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 772
 Q.No: 76
 2619201
 Whose spores are used to evaluate the efficacy of autoclaving?
@@ -182,6 +195,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 772
 Q.No: 77
 2619202
 Which of the following has an ionizing radiation ?
@@ -200,9 +214,11 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 772
 Q.No: 78
 2619209
 While calculating the standard deviation, the deviations are only taken from ________.
+<<<PAGE:773>>>
 मानक विचलन की गणना करते समय, विचलन केवल ________ से लिए जाते हैं।
 A
 The mode value of a series
@@ -220,6 +236,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 773
 Q.No: 79
 2619210
 Which disaccharide is linked by α 1-4 glycosidic linkage ?
@@ -240,6 +257,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 773
 Q.No: 80
 2619219
 Most active stage in the sigmoid curve of bacteria in which maximum growth is attained at ______.
@@ -252,6 +270,7 @@ Stationary phase 
 स्टेशनरी फेज
 C
 Decline phase 
+<<<PAGE:774>>>
 डिक्लााइन फेज
 D
 Log phase
@@ -260,6 +279,7 @@ Correct Ans : D
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 774
 Q.No: 81
 2619220
 The increase in population of bacteria is in the manner of _______.
@@ -280,6 +300,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 774
 Q.No: 82
 2619228
 Reduction of NADP occurs in _______.
@@ -298,8 +319,10 @@ Electron transport cycle
 इलेक्ट्रॉॉन परिवहन चक्र
 Correct Ans : C
 Subject : MICRO BIOLOGY graduate
+<<<PAGE:775>>>
 
 ----------------------------------------
+Page: 775
 Q.No: 83
 2619234
 The process of transportation of solvent from higher concentration towards lower concentration through a semi permeable membrane is termed
@@ -321,6 +344,7 @@ Correct Ans : D
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 775
 Q.No: 84
 2619235
 The protein moiety of an enzyme is known as ________.
@@ -341,6 +365,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 775
 Q.No: 85
 2619242
 If the % concentration of thymine in DNA is 40%, the concentration of cytosine will be ______.
@@ -350,6 +375,7 @@ A
 10%
 B
 20%
+<<<PAGE:776>>>
 20%
 C
 30% 
@@ -361,6 +387,7 @@ Correct Ans : D
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 776
 Q.No: 86
 2619243
 The anticodon region is an important part of ___________.
@@ -381,6 +408,7 @@ Correct Ans : D
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 776
 Q.No: 87
 2619252
 The flow of genetic information in the process of transcription is from:
@@ -398,9 +426,11 @@ D
 DNA to RNA
 डीएनए से आरएनए
 Correct Ans : D
+<<<PAGE:777>>>
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 777
 Q.No: 88
 2619253
 Smaller subunit (30S) of Bacterial ribosomes contains: 
@@ -421,6 +451,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 777
 Q.No: 89
 2619261
 Which species is used for the production of streptomycin ?
@@ -441,6 +472,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 777
 Q.No: 90
 2619267
 Which of the following microorganism is a true homolactic fermentor?
@@ -448,6 +480,7 @@ Which of the following microorganism is a true homolactic fermentor?
 A
 Streptococcus
 स्ट्रैपटोकोकस
+<<<PAGE:778>>>
 B
 Staphylococcus
 स्टेफिलोकोकस
@@ -461,6 +494,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 778
 Q.No: 91
 2619268
 A
@@ -479,6 +513,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 778
 Q.No: 92
 2619275
 Nitrogen fixing microorganism are called ________.
@@ -492,6 +527,7 @@ Autotrophs
 C
 Heterotrophs
 हेटरोट्रॉॉफ़्स
+<<<PAGE:779>>>
 D
 Chemotrophs
 केमोट्रोोफ्स
@@ -499,6 +535,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 779
 Q.No: 93
 2619276
 Denitrification may be termed as _________.
@@ -519,6 +556,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 779
 Q.No: 94
 2619285
 Which bacteria is called super bug?
@@ -539,9 +577,11 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 779
 Q.No: 95
 2619286
 Itai-Itai disease is due to presence and cumulative effect of ________.
+<<<PAGE:780>>>
 इटाई-इटाई रोग ________ की उपस्थिति एवं संचयी प्रभाव के कारण होता है।
 A
 Cadmium
@@ -559,6 +599,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 780
 Q.No: 96
 2619294
 The absence of harmful immune reactions to antigen is termed as _______.
@@ -579,6 +620,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 780
 Q.No: 97
 2619300
 Human blood  types in the ABO blood group are identified by ________.
@@ -591,6 +633,7 @@ Microscopic examination of white blood cells
 सफेद रक्त कोशिकाओं की सूक्ष्म जांच
 C
 Antigen-antibody reactions
+<<<PAGE:781>>>
 एंटीजन-एंटीबॉडी प्रतिक्रियाएं
 D
 Series of enzyme controlled reactions
@@ -599,6 +642,7 @@ Correct Ans : C
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 781
 Q.No: 98
 2619308
 AZT is an ________.
@@ -619,6 +663,7 @@ Correct Ans : C
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 781
 Q.No: 99
 2619318
 Cell mediated immunity is by virtue of _______.
@@ -637,8 +682,10 @@ All of the given options
 दिए गए सभी विकल्प
 Correct Ans : D
 Subject : MICRO BIOLOGY graduate
+<<<PAGE:782>>>
 
 ----------------------------------------
+Page: 782
 Q.No: 100
 2619327
 TSG are sometimes called

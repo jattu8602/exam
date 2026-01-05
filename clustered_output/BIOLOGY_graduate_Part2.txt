@@ -2,6 +2,7 @@ Subject: BIOLOGY graduate
 Questions: 50
 ========================================
 
+Page: 179
 Q.No: 1
 2612940
 Plastids are prokaryotic in origin and arose by __________.
@@ -22,6 +23,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 179
 Q.No: 2
 2612952
 The initial step in germination of seeds is the uptake of water and rehydration of the seed tissues by the process of ________.
@@ -42,6 +44,7 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 179
 Q.No: 3
 2612953
 _______are cellulose bodies encrusted with calcium carbonate that occur in epidermal cells in some species; the body is attached to the cell wall by a silicified stalk.
@@ -49,6 +52,7 @@ _______कैल्शियम कार्बोनेट से घिर�
 A
 Starch granules
 स्टॉॉर्च कण
+<<<PAGE:180>>>
 B
 Cystoliths
 सिस्टोोलिथ्स
@@ -62,6 +66,7 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 180
 Q.No: 4
 2612967
 The exine is itself a layered structure, often differentiated into an outer sculptured________.
@@ -82,6 +87,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 180
 Q.No: 5
 2612968
 ____________refer to the combination of various medicinal herbs and their active constituents to gain additional therapeutic efficacy.
@@ -102,12 +108,14 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 180
 Q.No: 6
 2612990
 Which among the following is an extinction threat to a species from the extinction of other species? 
 निम्नलिखित में से कौन सी अन्य प्रजातियों के विलुप्त होने से एक प्रजाति के विलुप्त होने का खतरा है?
 A
 Extinction cascades
+<<<PAGE:181>>>
 एक्सटिंक्शन कैसकेड्स
 B
 Species invasion 
@@ -122,6 +130,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 181
 Q.No: 7
 2613000
 The process of business activities designed to plan, price, promote and distribute products that satisfy the needs of current or potential customers while achieving the busin
@@ -143,6 +152,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 181
 Q.No: 8
 2613015
 In plasmids, the process of DNA replication is initiated at distinct sites known as________ and proceeds in both directions along the DNA.
@@ -163,9 +173,11 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 181
 Q.No: 9
 2613031
 The phenomenon where a plant affects another plant is called _____. 
+<<<PAGE:182>>>
 _______ वह घटना है जिसमें पौधा दूसरे पौधे को प्रभावित करता है|
 A
 Allelopathy
@@ -183,6 +195,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 182
 Q.No: 10
 2613040
 Identify the correct sequence of the HPLC system.
@@ -203,6 +216,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 182
 Q.No: 11
 2613050
 Adsorption chromatography is well suited for the separation of _________. 
@@ -221,8 +235,10 @@ Colloidal and non-colloidal mixtures
 कोलाइडल और गैर-कोलॉइडल मिश्रण
 Correct Ans : A
 Subject : BIOLOGY graduate
+<<<PAGE:183>>>
 
 ----------------------------------------
+Page: 183
 Q.No: 12
 2613065
 ________are names that are spelled differently but refer to the same taxon.
@@ -243,6 +259,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 183
 Q.No: 13
 2613080
 Which of the following is not a drug obtained from bark?
@@ -263,6 +280,7 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 183
 Q.No: 14
 2615912
 Which of the following is untrue about facilitated diffusion?
@@ -278,11 +296,13 @@ An important example of facilitated diffusion is the transport of glucose from t
 सुगम प्रसार का एक महत्वपूर्ण उदाहरण रक्त प्लााज्माा से ग्लूकोज का एक जानवर के शरीर में कोशिकाओं में परिवहन है
 D
 The mechanism requires solutes to bind reversibly with binding sites on the transporter proteins
+<<<PAGE:184>>>
 तंत्र को ट्रांांसपोर्टर प्रोोटीन पर बाध्यकारी साइटों के साथ विपरीत रूप से बाँधने के लिए विलेय की आवश्यकता होती है
 Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 184
 Q.No: 15
 2615921
 When each individual is physiologically programmed to reproduce at only a single time in its life, the condition is described as _____.
@@ -303,6 +323,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 184
 Q.No: 16
 2615936
 Particular kinds of movement, usually over long distances and often on a diurnal, seasonal or other return basis is called ____________.
@@ -323,6 +344,7 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 184
 Q.No: 17
 2615952
 Doliolum moves through the water by__________.
@@ -335,6 +357,7 @@ Brownian Movement
 ब्रााउनियन आन्दोोलन
 C
 Peristaltic Movement 
+<<<PAGE:185>>>
 पेरिस्टााल्टिक आंदोलन
 D
 Gliding Movement
@@ -343,6 +366,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 185
 Q.No: 18
 2615962
 Some of the visceral afferent fibres come from taste receptors and are classed as__________.
@@ -363,6 +387,7 @@ Correct Ans : C
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 185
 Q.No: 19
 2615972
 This is a transitional beekeeping system between traditional and frame hive beekeeping. Identify the type of beekeeping.
@@ -383,6 +408,7 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 185
 Q.No: 20
 2615987
 In the sagittal section, the tissue of each kidney consists of an outer layer, the cortex, which surrounds an inner body of tissue, called the  ______.
@@ -392,6 +418,7 @@ Medulla
 मज्जाा
 B
 Bowman’s capsule 
+<<<PAGE:186>>>
 बोमन का कैप्सूल
 C
 Descending tubule 
@@ -403,6 +430,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 186
 Q.No: 21
 2616002
 Which vitamin undergoes a cycle of oxidation and reduction during the formation of active prothrombin, a blood plasma protein essential in blood clot formation?
@@ -423,6 +451,7 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 186
 Q.No: 22
 2616012
 Which protein binds to carbohydrates with high affinity, and specificity and is helpful in cell signalling, cell-cell interactions and the adhesion process?
@@ -443,12 +472,14 @@ Correct Ans : C
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 186
 Q.No: 23
 2616022
 Larval form of hemichordates is ___________.
 हेमीकोर्डेट का लार्वा रूप ___________ है।
 A
 Caterpillar
+<<<PAGE:187>>>
 कैटरपिलर
 B
 Nauplius
@@ -463,6 +494,7 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 187
 Q.No: 24
 2616037
 In which order, flying mammals whose forelimbs converted into wings are classified?
@@ -483,6 +515,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 187
 Q.No: 25
 2616052
 ___________ refers to large changes in a population's gene pool that often occur over many generations and result in the emergence of new species.
@@ -503,6 +536,7 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 425
 Q.No: 1
 2612941
 Which photosynthetic tissue is located between the two epidermal layers?
@@ -523,6 +557,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 425
 Q.No: 2
 2612942
 Which complex of proteins that reduce P680+ are most immediately supplied by a cluster of four manganese ions associated with it?
@@ -543,6 +578,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 425
 Q.No: 3
 2612954
 Root apices possess a terminal protective ______and a proximal root apical meristem.
@@ -550,6 +586,7 @@ Root apices possess a terminal protective ______and a proximal root apical meris
 A
 Root cap 
 रूट कैप
+<<<PAGE:426>>>
 B
 Root tip
 रूट टिप
@@ -563,6 +600,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 426
 Q.No: 4
 2612955
 Which of the following characteristic is not possessed by a xeric plant?
@@ -583,6 +621,7 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 426
 Q.No: 5
 2612969
 Which of the following constituent is not present in saffron?
@@ -603,12 +642,14 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 426
 Q.No: 6
 2612970
 Identify the plant species which share the same common name with Oxalis sp. (Oxalidaceae).
 उन पौधों की प्रजातियों की पहचान करें जो ऑक्साालिस एसपी (ऑक्साालिडेसी) के समान सामान्य नाम साझा करते हैं।
 A
 Anemopaegmaarvense (Vell.)(Bignoniaceae)
+<<<PAGE:427>>>
 एनेमोपेगमार्वेंस (वेल) (बिग्नोोनियासी)
 B
 Amburana cearensis (Leguminosae)
@@ -623,6 +664,7 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 427
 Q.No: 7
 2612978
 Identify the plant depicted in the figure below. 
@@ -643,6 +685,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 427
 Q.No: 8
 2612991
 Areas that contain exceptional concentrations of endemic species and are undergoing exceptional loss of habitat are called?
@@ -650,6 +693,7 @@ Areas that contain exceptional concentrations of endemic species and are undergo
 A
 Hotspots
 हॉटस्पॉॉट
+<<<PAGE:428>>>
 B
 Sacred grooves
 पवित्र उपवन
@@ -663,6 +707,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 428
 Q.No: 9
 2612992
 Which endemic species are the ones that have evolved recently?
@@ -683,6 +728,7 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 428
 Q.No: 10
 2613001
 Which of the following is not a temperate fruit species?
@@ -703,12 +749,14 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 428
 Q.No: 11
 2613002
 When does Juvenility of a deciduous tree start?
 पर्णपाती वृक्ष का यौवन कब प्राारंभ होता है ?
 A
 Budding
+<<<PAGE:429>>>
 नवोदित
 B
 Seed germination
@@ -723,6 +771,7 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 429
 Q.No: 12
 2613016
 Gateway cloning technique makes use of which Bacteriophage?
@@ -743,6 +792,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 429
 Q.No: 13
 2613032
 Change in leaf angle in response to high temperature is exhibited by which plant?
@@ -763,9 +813,11 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 429
 Q.No: 14
 2613041
 Identify the type of chromatography from the figure given below.
+<<<PAGE:430>>>
 नीचे दिए गए चित्र से वर्णलेखन के प्रकार की पहचान कीजिए।
 A
 HPLC
@@ -783,6 +835,7 @@ Correct Ans : C
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 430
 Q.No: 15
 2613051
 _________is a purifying method that can be used not only for preparative isolation but also for the undisturbed quantification of a wide range of interesting analytes.
@@ -803,11 +856,13 @@ Correct Ans : C
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 430
 Q.No: 16
 2613052
 An orthogonal two column separation, with complete transfer of solute from the separation system 1 (column 1) to the separation system 2 (column 2), such that the sepa
 (column) is preserved.  Identify the technique.
 पृथक्करण प्रणाली 1 (स्भ 1) से पृथक्करण प्रणाली 2 (स्तंभ 2) तक विलेय के पूर्ण स्थानांतरण के साथ एक ऑर्थोगोनल दो स्तंभ पृथक्करण, जैसे कि प्रत्येक प्रणाली (स्तंभ) से पृथक्करण प्रदर्शन संरक्षित है। इस तकनीक को प
+<<<PAGE:431>>>
 A
 High performance liquid Chromatography
 उच्च उत्पाादन द्रव्य वर्णलेखन
@@ -824,6 +879,7 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 431
 Q.No: 17
 2613066
 A specimen or any other element selected from the original material cited by the author when no holotype was originally selected or when it no longer exists is called____.
@@ -844,6 +900,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 431
 Q.No: 18
 2613067
 The names of subspecies are __________.
@@ -862,8 +919,10 @@ Tetranomial
 टेट्राानोमियल
 Correct Ans : C
 Subject : BIOLOGY graduate
+<<<PAGE:432>>>
 
 ----------------------------------------
+Page: 432
 Q.No: 19
 2613081
 Cajeput is obtained from which of the following plant?
@@ -884,6 +943,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 432
 Q.No: 20
 2615913
 When protein-digesting enzymes function intraluminally, they are typically synthesized in inactive forms called_____.
@@ -904,6 +964,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 432
 Q.No: 21
 2615915
 A _____is a circular muscle that can contract tightly and steadily (tonically) for long periods, thereby preventing exchange between one segment of the gut and another.
@@ -921,9 +982,11 @@ D
 Deudonum
 ड्यूडोनम
 Correct Ans : B
+<<<PAGE:433>>>
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 433
 Q.No: 22
 2615922
 An oocyte and its layer of somatic cells are then together called a_______.
@@ -944,6 +1007,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 433
 Q.No: 23
 2615937
 Animals reach their preferred location without reference to any directional stimulus. This is called as ____________.
@@ -964,6 +1028,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 433
 Q.No: 24
 2615953
 In amphioxus an unpaired pigment-spot in the front wall of the brain is present. What is it identified as?
@@ -979,11 +1044,13 @@ Cerebral Eye
 सेरेब्रल आंख
 D
 Kolliker's Pit
+<<<PAGE:434>>>
 कॉलिकर पिट
 Correct Ans : C
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 434
 Q.No: 25
 2615963
 In the pectoral girdle, clavicles are always present except in__________.

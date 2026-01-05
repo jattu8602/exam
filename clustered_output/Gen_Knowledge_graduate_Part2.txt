@@ -2,6 +2,7 @@ Subject: Gen. Knowledge graduate
 Questions: 50
 ========================================
 
+Page: 299
 Q.No: 109
 2622103
 When was the National Housing Bank established?
@@ -14,6 +15,7 @@ B
 1999
 C
 1987
+<<<PAGE:300>>>
 1987
 D
 1990
@@ -22,6 +24,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 300
 Q.No: 110
 2622105
 What is the purpose of MUDRA bank?
@@ -42,6 +45,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 300
 Q.No: 111
 2622116
 Through which of the following routes does Foreign Direct Investment come into India?
@@ -57,11 +61,13 @@ Automatic and government routes
 स्वचालित और सरकारी मार्ग
 D
 Private sourcing
+<<<PAGE:301>>>
 निजी सोर्सिंग
 Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 301
 Q.No: 112
 2622121
 Which of the following statements is true regarding the foreign trade policy of India?
@@ -82,6 +88,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 301
 Q.No: 113
 2622462
 In what year did the Election Commission of India appoint two additional commissioners for the first time?
@@ -100,8 +107,10 @@ D
 1987
 Correct Ans : A
 Subject : Gen. Knowledge graduate
+<<<PAGE:302>>>
 
 ----------------------------------------
+Page: 302
 Q.No: 114
 2622488
 President rule is imposed under which article?
@@ -122,6 +131,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 385
 Q.No: 101
 2620173
 'How to Prevent the Next Pandemic' is a book authored by whom, published in 2022?
@@ -142,6 +152,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 385
 Q.No: 102
 2620180
 Who among the following has published an illustrated comic book titled "India's Women Unsung Heroes" in honor of the unsung
@@ -149,6 +160,7 @@ women freedom fighters of the country ?
 निम्नलिखित में से किसने देश की गुमनाम महिला स्वतंत्रता सेनानियों के सम्माान में "इंडियाज वीमेन अनसंग हीरोज" नामक एक सचित्र कॉमिक पुस्तक प्रकाशित की है?
 A
 Jhumpa Lahiri
+<<<PAGE:386>>>
 झुंपा लाहिड़ीी
 B
 Kajal Suri
@@ -163,6 +175,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 386
 Q.No: 103
 2620223
 Which state government has inaugurated the ‘E-Sushrut’ hospital management information system in the state medical colleges?
@@ -183,6 +196,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 386
 Q.No: 104
 2620230
 What is "Mesotropis pelita" which has been placed in the IUCN Red List of Threatened Species in 2022?
@@ -195,6 +209,7 @@ Shrubs
 झाड़ियां
 C
 Reptiles
+<<<PAGE:387>>>
 सरीसृप
 D
 Fish
@@ -203,6 +218,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 387
 Q.No: 105
 2620238
 According to a 2022 World Bank report, how many major airsheds are there in South Asia, where the air quality of one can affect the
@@ -224,6 +240,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 387
 Q.No: 106
 2621902
 Which of the following Tomara kings established Delhi? 
@@ -240,10 +257,12 @@ Surajpala II
 D
 Nandpala
 नंदपाल
+<<<PAGE:388>>>
 Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 388
 Q.No: 107
 2621904
 Which Chandela ruler built the famous Lakshmana temple at his capital Khajuraho?
@@ -264,6 +283,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 388
 Q.No: 108
 2621918
 Who among the following was given the title of ‘Lakh Baksh’? 
@@ -284,9 +304,11 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 388
 Q.No: 109
 2622107
 What is meant by open market operations?
+<<<PAGE:389>>>
 खुले बाजार की क्रियाओं से क्याा आशय है ?
 A
 Asset reconstruction
@@ -304,6 +326,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 389
 Q.No: 110
 2622109
 What is called a bank deposit which can be withdrawn without any notice?
@@ -324,6 +347,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 389
 Q.No: 111
 2622125
 What is the term called in which a large number of companies, services and industries are located close to each other?
@@ -333,6 +357,7 @@ Agglomeration economy
 समूह अर्थव्यवस्था
 B
 Proximity economy
+<<<PAGE:390>>>
 निकटता अर्थव्यवस्था
 C
 Bilateral netting
@@ -344,6 +369,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 390
 Q.No: 112
 2622130
 What is a situation in which it becomes difficult or impossible to repay a loan called?
@@ -364,6 +390,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 390
 Q.No: 113
 2622465
 According to article-5, which of the following sentences is incorrect for getting citizenship of India?
@@ -379,11 +406,13 @@ Your mother or father was not born in India
 आपके माता या पिता का जन् भारत में नहीं हुआ वो
 D
 Have resided in India since 26-1-1950
+<<<PAGE:391>>>
 26-1-1950 से भारत में निवास कर रहे हैं
 Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 391
 Q.No: 114
 2622498
 Which of the following states does not have a legislative council?
@@ -404,6 +433,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 462
 Q.No: 101
 2620174
 .
@@ -423,6 +453,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 462
 Q.No: 102
 2620181
 The film “Ungalil Oruvan” (One Among You) is based on which of the following autobiography?
@@ -443,6 +474,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 462
 Q.No: 103
 2620224
 According to a government report published in 2022, the western Hudson Bay polar bear population in Canada has decreased by what percent in the last five years?
@@ -452,6 +484,7 @@ A
 27 प्रतिशत
 B
 25 Percent
+<<<PAGE:463>>>
 25 प्रतिशत
 C
 20 Percent
@@ -463,6 +496,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 463
 Q.No: 104
 2620231
 Where is Acharya Jagadish Chandra Bose Indian Botanic Garden situated?
@@ -483,6 +517,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 463
 Q.No: 105
 2620239
 In which year the National Action Plan on Climate Change (NAPCC) was launched?
@@ -503,12 +538,14 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 463
 Q.No: 106
 2621903
 Who among the following was the writer of Sanskrit drama Harakeli Nataka?
 निम्नलिखित में से कौन संस्कृृत नाटक हरकेली नाटक के लेखक थे?
 A
 Vigraharaja IV
+<<<PAGE:464>>>
 विग्रहराज चतुर्थ
 B
 Vigraharaja I
@@ -523,6 +560,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 464
 Q.No: 107
 2621907
 To which of the following tribe did the Sultan Iltutmish belong?
@@ -543,6 +581,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 464
 Q.No: 108
 2621932
 Which philosophy was propounded by Madhavacharya? 
@@ -563,9 +602,11 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 464
 Q.No: 109
 2622108
 What is green banking?
+<<<PAGE:465>>>
 ग्रीीन बैंकिंंग क्याा है?
 A
 Financing eco-friendly projects
@@ -583,6 +624,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 465
 Q.No: 110
 2622111
 What is the closed economy?
@@ -603,6 +645,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 465
 Q.No: 111
 2622131
 A situation where income growth or inflation pushes taxpayers into higher tax brackets is called _________.
@@ -621,8 +664,10 @@ Fiscal drag
 राजकोषीय बाधा
 Correct Ans : D
 Subject : Gen. Knowledge graduate
+<<<PAGE:466>>>
 
 ----------------------------------------
+Page: 466
 Q.No: 112
 2622136
 Tax reforms related to the taxation and public expenditure policies of the government, which are collectively called__________.
@@ -643,6 +688,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 466
 Q.No: 113
 2622467
 A person goes to live in Pakistan after partition but after some time wants to return to live in India then under which article is he eligible to get citizenship?
@@ -663,6 +709,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 466
 Q.No: 114
 2622501
 Who is the chief law officer of the state?
@@ -680,9 +727,11 @@ D
 Attorney General
 महान्याायवादी
 Correct Ans : B
+<<<PAGE:467>>>
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 546
 Q.No: 101
 2620175
 Who is the author of the book "Operation Khatma" ?
@@ -703,6 +752,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 546
 Q.No: 102
 2620182
 “Indomitable: A Working Woman's Notes on Life, Work and Leadership” is a book written by whom?
@@ -723,9 +773,11 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 546
 Q.No: 103
 2620225
 In December 2022, ten Asian giant tortoises (Manoria amis) were released in which Indian National Park?
+<<<PAGE:547>>>
 दिसंबर 2022 में, दस एशियाई विशाल कछुओं (मैनोरिया एमिस) को किस भारतीय राष्ट्रीीय उद्याान में छोड़ाा गया था?
 A
 Papikonda National Park
@@ -743,6 +795,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 547
 Q.No: 104
 2620232
 Where was the United Nations Conference on Biological Diversity (COP15 CBD) held?
@@ -763,10 +816,12 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 547
 Q.No: 105
 2620240
 Which ministry chaired the 10th meeting of the National Mission for Clean Ganga (NMCG) Empowered Task Force
 (ETF) in 2022?
+<<<PAGE:548>>>
 किस मंत्राालय ने 2022 में राष्ट्रीीय स्वच्छ गंगा मिशन (NMCG) अधिकार प्रााप्त टास्क फोर्स (ETF) की 10वीं बैठक की अध्यक्षता की?
 A
 Ministry of Environment, Forest and Climate Change
@@ -784,6 +839,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 548
 Q.No: 106
 2621908
 Who among the following Sultans of Delhi organised Turkan-i-Chahalgani?
@@ -804,10 +860,12 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 548
 Q.No: 107
 2621909
 Who was the governor of Bengal who revolted against Balban?
 बलबन के विरुद्ध विद्रोोह करने वाला बंगाल का गवर्नर कौन था?
+<<<PAGE:549>>>
 A
 Adam Khan
 आदम खान
@@ -824,6 +882,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 549
 Q.No: 108
 2621933
 What was the profession of the Bhakti saint Namadeva?
@@ -844,12 +903,14 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 549
 Q.No: 109
 2622112
 Which of the following agreements was not signed during the Uruguay Round?
 उरुग्वे दौर के दौरान निम्नलिखित में से किस समझौते पर हस्तााक्षर नहीं किए गए थे?
 A
 WTO Agreement
+<<<PAGE:550>>>
 विश्व व्याापार संगठन समझौता
 B
 General Agreement on Tariffs and Trade (GATT)
@@ -864,6 +925,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 550
 Q.No: 110
 2622113
 ______________ is a preferential arrangement in which members reduce tariffs on trade among themselves while
@@ -886,12 +948,14 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 550
 Q.No: 111
 2622137
 What is the concept of comparing currencies of different countries through a "basket of goods" approach?
 "बास्केेट ऑफ गुड्स" दृष्टिकोण के माध्यम से विभिन्न देशों की मुद्रााओं की तुलना करने की अवधारणा क्याा है?
 A
 Fiat money
+<<<PAGE:551>>>
 फिएट पैसे
 B
 Purchasing power parity
@@ -906,6 +970,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 551
 Q.No: 112
 2622142
 What is a disproportionate increase in the price of some goods while the prices of other goods remain the same?
@@ -926,12 +991,14 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 551
 Q.No: 113
 2622471
 _____Applicable only in the State of Assam.
 _____ केवल असम राज्य में लागू है।
 A
 FRC
+<<<PAGE:552>>>
 एफआरसी
 B
 NRC
@@ -946,6 +1013,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 552
 Q.No: 114
 2622508
 Who among the following is not included in the executive of the Union?
@@ -966,6 +1034,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 630
 Q.No: 101
 2620183
 Which of the following book is written by JK Rowling?
@@ -986,6 +1055,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 630
 Q.No: 102
 2620233
 Tungareshwar Wildlife Sanctuary is currently located in which state?
@@ -998,6 +1068,7 @@ Karnataka
 कर्नाटक
 C
 Gujarat
+<<<PAGE:631>>>
 गुजरात
 D
 Maharashtra

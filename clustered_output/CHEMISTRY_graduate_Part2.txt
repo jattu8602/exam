@@ -2,6 +2,7 @@ Subject: CHEMISTRY graduate
 Questions: 50
 ========================================
 
+Page: 197
 Q.No: 51
 2622771
 Which of the following is the statement of the Heisenberg Uncertainty Principle?
@@ -22,6 +23,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 197
 Q.No: 52
 2622782
 While calculating the lattice energy of an ionic solid, the repulsion energy is – 
@@ -33,6 +35,7 @@ Electronic charge
 इलेक्ट्रिक चार्ज 
 B
 Repulsion coefficient
+<<<PAGE:198>>>
 प्रतिकर्षण गुणांक
 C
 Distance between the ions
@@ -44,6 +47,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 198
 Q.No: 53
 2622783
 Which of the following statements is in accordance with the lattice energy of an ionic substance?
@@ -64,6 +68,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 198
 Q.No: 54
 2622798
 Which of the following is one of the salient features of antibonding molecular orbitals?
@@ -84,11 +89,13 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 198
 Q.No: 55
 2622799
 Which of the following is a disadvantage of the (MO) Molecular Orbital Theory?
 निम्नलिखित में से कौन सा आण्विक या अणु कक्षक सिद्धांांत (MO) का नुकसान है?
 A
+<<<PAGE:199>>>
 B
 Resonance is not a part of this theory.
 रेजोनेंस इस सिद्धांांत का हिस्साा नहीं है।
@@ -102,6 +109,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 199
 Q.No: 56
 2622811
 Grignard reagents are alkyl magnesium halides. Which of the following cannot be one of the halogens to prepare Grignard reagents?
@@ -122,6 +130,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 199
 Q.No: 57
 2622855
 A
@@ -138,8 +147,10 @@ The reaction rate is tripled.
 प्रतिक्रिया दर तीन गुना है
 Correct Ans : C
 Subject : CHEMISTRY graduate
+<<<PAGE:200>>>
 
 ----------------------------------------
+Page: 200
 Q.No: 58
 2622856
 A
@@ -158,6 +169,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 200
 Q.No: 59
 2622863
 Which of the following methods of forming aryl halides requires the diazonium salt to be warmed in the presence of copper powder when it decomposes to yield halobenzen
@@ -178,6 +190,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 200
 Q.No: 60
 2622878
 What is formed when benzaldehyde is refluxed with aqueous ethanolic KCN?
@@ -193,11 +206,13 @@ p-nitrobenzaldehyde
 पी-नाइट्रोोबेंजाल्डिहाइड
 D
 benzoin
+<<<PAGE:201>>>
 बेन्ज़ोइन
 Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 201
 Q.No: 61
 2622893
 Why the Nernst distribution law is not valid for the distribution of benzoic acid between water and benzene?
@@ -218,6 +233,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 201
 Q.No: 62
 2622935
 Which option contains correct information about cellulose?
@@ -238,6 +254,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 201
 Q.No: 63
 2622947
 What is the other term used for the centre of symmetry?
@@ -250,6 +267,7 @@ Centre of inversion
 व्युत्क्रम केंद्र
 C
 Centre of equality
+<<<PAGE:202>>>
 समानता का केंद्र
 D
 Centre of rotation
@@ -258,6 +276,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 202
 Q.No: 64
 2622948
 How many diagonal planes of symmetry exist for a cube?
@@ -278,6 +297,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 202
 Q.No: 65
 2622960
 Which of the following is NOT correct about the order of a reaction?
@@ -298,6 +318,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 202
 Q.No: 66
 2622976
 Which of the following does not belong to lanthanoids?
@@ -307,6 +328,7 @@ Samarium
 सैमरियम
 B
 Holmium
+<<<PAGE:203>>>
 होल्मियम
 C
 Cerium
@@ -318,6 +340,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 203
 Q.No: 67
 2623017
 What is the power generation potential of the Bay of Fundy Canada having 17 - 18 m high tides?
@@ -338,6 +361,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 203
 Q.No: 68
 2623027
 Which law has limitations like that it holds good only for monochromatic radiation and governs the absorption behaviour of dilute solutions only?
@@ -358,12 +382,14 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 203
 Q.No: 69
 2623044
 Which of the following describes the overall shape of the protein that includes the side chains and any other nonpeptide components of the protein?
 निम्नलिखित में से कौन सा प्रोोटीन के समग्र आकार का वर्णन करता है जिसमें साइड चेन और प्रोोटीन के अन्य गैर-पेप्टााइड घटक शामिल हैं?
 A
 Primary structure
+<<<PAGE:204>>>
 प्रााथमिक संरचना
 B
  Quaternary structure
@@ -378,6 +404,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 204
 Q.No: 70
 2623045
 What are long hydrocarbon chains of various lengths and degrees of unsaturation, terminated with carboxylic acid groups?
@@ -398,6 +425,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 204
 Q.No: 71
 2623057
 Which of the following have high strength, good resistance to gas, oil, and aromatic hydrocarbons, high abrasion resistance, and excellent resistance to oxygen and ozone 
@@ -419,9 +447,11 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 204
 Q.No: 72
 2623099
 What is the term used to express the number of collisions per second per unit volume?
+<<<PAGE:205>>>
 प्रति इकाई आयतन प्रति सेकंड संघट्टोंों की संख्याा को व्यक्त करने के लिए किस शब्द का प्रयोग किया जाता है?
 A
 Collision frequency
@@ -439,6 +469,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 205
 Q.No: 73
 2623109
 According to Andrews’ experiment on the critical phenomenon, which of the following can be observed?
@@ -453,6 +484,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 205
 Q.No: 74
 2623124
 Which of the following type of glass is obtained by pressing together several layers of glass with vinyl resins in alternate layers?
@@ -469,10 +501,12 @@ C
 D
  Lead glass
 लीड ग्लाास
+<<<PAGE:206>>>
 Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 206
 Q.No: 75
 2623139
 Which type of catalysts are relatively rare in industrial processes till date but they play a vital role in the development of pharmaceuticals?
@@ -493,6 +527,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 356
 Q.No: 41
 2622772
 The Schrodinger wave equation for a single particle in three dimensions is :
@@ -513,8 +548,10 @@ The potential energy of the system
 सिस्टम की संभावित ऊर्जा
 Correct Ans : C
 Subject : CHEMISTRY graduate
+<<<PAGE:357>>>
 
 ----------------------------------------
+Page: 357
 Q.No: 42
 2622784
 In the Born-Haber cycle for the formation of an ionic solid MX, which of the following options contains a set of positive quantities?
@@ -535,6 +572,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 357
 Q.No: 43
 2622785
 What happens to the solvation energy of an ionic compound if the solvent has high polarizability?
@@ -555,6 +593,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 357
 Q.No: 44
 2622800
 What is the name given to the hypothetical depiction of two or more structures for a given chemical species which differ in the
@@ -562,6 +601,7 @@ distribution of electrons?
 दी गई रासायनिक प्रजातियों के लिए दो या दो से अधिक संरचनाओं के काल्पनिक चित्रण को क्याा नाम दिया गया है जो इलेक्ट्रॉॉनों के वितरण में भिन्न हैं?
 A
 Aromaticity
+<<<PAGE:358>>>
 ऐरोमैटिकता
 B
 Resonance
@@ -576,6 +616,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 358
 Q.No: 45
 2622812
 Alkane can be obtained by heating a solution of an alkyl halide in ether with sodium. Which of the following process for forming
@@ -598,9 +639,11 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 358
 Q.No: 46
 2622857
 A
+<<<PAGE:359>>>
 B
 C
 D
@@ -608,6 +651,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 359
 Q.No: 47
 2622864
 Which of the following is NOT a correct factor responsible for the lack of reactivity of aryl halides than alkyl halides in nucleophilic
@@ -625,6 +669,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 359
 Q.No: 48
 2622879
 What is the characteristic of an ideal solution?
@@ -634,6 +679,7 @@ It follows Raoult’s law over the entire range of concentrations.
 यह सांद्रता की संपूर्ण सीमा पर राउल्ट के नियम का पालन करता है।
 B
 It does not behave ideally as the concentration of the solutes approach zero.
+<<<PAGE:360>>>
 यह आदर्श रूप से व्यवहार नहीं करता है क्योंोंकि
  विलेय की सांद्रता शून्य के करीब पहुंच जाती है।
 C
@@ -646,6 +692,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 360
 Q.No: 49
 2622950
 In which of the following axis of symmetry, the compact structure of a crystal cannot be obtained?
@@ -666,6 +713,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 360
 Q.No: 50
 2622961
 A reaction is first order in A and second order in B. How is the rate affected when the concentration of B is increased two times?
@@ -681,11 +729,13 @@ The rate will increase 8 times.
 दर 8 गुना बढ़ जाएगी ।
 D
 The rate will increase 6 times.
+<<<PAGE:361>>>
 दर 6 गुना बढ़ जाएगी ।
 Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 361
 Q.No: 51
 2622977
 Which of the following set of actinoid elements exhibit oxidation states up to +7?
@@ -706,6 +756,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 361
 Q.No: 52
 2623018
 What is produced in the Kroll process, which is a pyrometallurgical industrial process?
@@ -724,8 +775,10 @@ Copper
 कॉपर
 Correct Ans : C
 Subject : CHEMISTRY graduate
+<<<PAGE:362>>>
 
 ----------------------------------------
+Page: 362
 Q.No: 53
 2623028
 A healthy human adult has about 1.05 kg Ca of which a specific percentage exists as phosphates resembling the mineral
@@ -748,6 +801,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 362
 Q.No: 54
 2623046
 Which of the following has double bonds and is formed during hydrogenation of natural oils?
@@ -768,12 +822,14 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 362
 Q.No: 55
 2623047
 What is defined as the mg of KOH required to hydrolyse one gram of fat or oil?
 एक ग्रााम वसा या तेल को हाइड्रोोलाइज करने के लिए आवश्यक KOH के मिलीग्रााम के रूप में क्याा परिभाषित किया गया है?
 A
 RM number
+<<<PAGE:363>>>
 आरएम संख्याा
 B
 Iodine value
@@ -788,6 +844,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 363
 Q.No: 56
 2623058
 Which is an amorphous polymer with low moisture absorption, low combustibility, good dimensional stability, and high
@@ -809,6 +866,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 363
 Q.No: 57
 2623100
 On which of the following factors, does the collision frequency of a molecule not depend upon?
@@ -819,6 +877,7 @@ Collision cross-section
 B
 Number of molecules per unit volume
 प्रति इकाई आयतन में अणुओं की संख्याा
+<<<PAGE:364>>>
 C
 Collision diameter
 संघटन व्याास
@@ -829,6 +888,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 364
 Q.No: 58
 2623110
 What is the effect of temperature on the surface tension of a liquid?
@@ -849,6 +909,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 364
 Q.No: 59
 2623125
 Which of the following is the allotropic form of carbon prepared by evaporation of graphite electrode?
@@ -864,11 +925,13 @@ Sand
 रेत
 D
 Fullerenes 
+<<<PAGE:365>>>
 फुलरीन
 Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 365
 Q.No: 60
 2623140
 Which of the following originates from Van der Waals interaction between reactants and surface?
@@ -889,9 +952,11 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 449
 Q.No: 68
 2622774
 Which of the following is associated with the phenomenon of the Zeeman effect?
+<<<PAGE:450>>>
 निम्नलिखित में से कौन जिमन प्रभाव की परिघटना से संबंधित है?
 A
 Spin quantum number
@@ -909,6 +974,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 450
 Q.No: 69
 2622775
 Which of the following is the shape of p-orbitals?
@@ -917,10 +983,12 @@ A
 B
 C
 D
+<<<PAGE:451>>>
 Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 451
 Q.No: 70
 2622786
 Why does magnesium carbonate dissolve slightly in water?
@@ -933,6 +1001,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 451
 Q.No: 71
 2622787
 Which of the following defines “polarisability”?
@@ -953,12 +1022,14 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 451
 Q.No: 72
 2622801
 What is an inductive effect?
 प्रेरक आगमनात्मक प्रभाव क्याा है?
 A
 B
+<<<PAGE:452>>>
 C
 D
 It is the congestion caused by the presence of surrounding substituents in a molecule.

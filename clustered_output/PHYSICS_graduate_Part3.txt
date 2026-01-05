@@ -2,6 +2,7 @@ Subject: PHYSICS graduate
 Questions: 50
 ========================================
 
+Page: 446
 Q.No: 59
 2626432
 Give the value of the form factor for the half wave rectifier?
@@ -22,6 +23,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 446
 Q.No: 60
 2626446
 In which region of JFET the part of the drain curves that starts at the origin and end at the proportional pinch-off voltage?
@@ -31,6 +33,7 @@ Cut-off region
 कट-ऑफ क्षेत्र
 B
 Saturation region
+<<<PAGE:447>>>
 संतृप्ति क्षेत्र
 C
 Ohmic region
@@ -42,6 +45,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 447
 Q.No: 61
 2626481
 Match the following.
@@ -62,12 +66,14 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 447
 Q.No: 62
 2626482
 Geiger and Nuttall made experimental study between which two parameters?
 गीगर और न्यूटॉल ने किन दो प्रााचलों के बीच एक प्राायोगिक अध्ययन किया?
 A
 B
+<<<PAGE:448>>>
 C
 D
 Decay constant and orbital quantum numbers
@@ -76,6 +82,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 448
 Q.No: 63
 2626490
 Name a detector which is used to measure the number of ions within a medium usually gas or air.
@@ -96,6 +103,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 448
 Q.No: 64
 2626491
 Which  is the most commonly used scintillator crystal for g -ray work?
@@ -116,12 +124,14 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 448
 Q.No: 65
 2626506
 What is the atomic packing fraction of Face centred cubic structure?
 फलक केंद्रित घनीय संरचना का परमाणु संकुलन अंश क्याा है?
 A
 68%
+<<<PAGE:449>>>
 68%
 B
 52.6%
@@ -136,6 +146,7 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 449
 Q.No: 66
 2626507
 How does the crystal structure formed?
@@ -156,6 +167,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 449
 Q.No: 67
 2626522
 Which one of the following are valid when the Stokes lines are interacted with the molecule?
@@ -176,12 +188,14 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 598
 Q.No: 21
 2626182
 When a satellite revolves around the earth, the direction of the force applied by the earth is always on which direction to the motion of the satellite?
 जब कोई उपग्रह पृथ्वीी के चारों ओर घूमता है, तो पृथ्वीी द्वाारा लगाए गए बल की दिशा हमेशा उपग्रह की गति के लिए किस दिशा में होती है?
 A
 Parallel
+<<<PAGE:599>>>
 समानांतर
 B
 Perpendicular
@@ -192,6 +206,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 599
 Q.No: 22
 2626193
 What is the Moment of Inertia of a uniform thin rod of mass M and length L about an axis passing through its centre of mass and perpendicular to its length?
@@ -204,6 +219,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 599
 Q.No: 23
 2626213
 What is the minimum value of intensity of destructive interference?
@@ -211,6 +227,7 @@ What is the minimum value of intensity of destructive interference?
 A
 B
 C
+<<<PAGE:600>>>
 D
 Zero
 शून्य
@@ -218,6 +235,7 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 600
 Q.No: 24
 2626214
 The interference phenomenon is in accordance with which of the following law?
@@ -238,6 +256,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 600
 Q.No: 25
 2626222
 According to which law the tangent of the angle of polarization is numerically equal to the refractive index of the medium?
@@ -258,18 +277,21 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 600
 Q.No: 26
 2626272
 What would be the velocity of the simple harmonic motion?
 सरल आवर्त गति  का वेग क्याा होगा?
 A
 B
+<<<PAGE:601>>>
 C
 D
 Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 601
 Q.No: 27
 2626273
 How many times does the kinetic and potential energy attain their maximum value in one complete oscillation?
@@ -290,6 +312,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 601
 Q.No: 28
 2626284
 An observer standing at sea coast observes 48 waves reaching the coast per minute. If the wavelength of the waves is 10 m, find the velocity. What type of waves did he
@@ -311,9 +334,11 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 601
 Q.No: 29
 2626299
 Increase in temperature of the gas thermometer is proportional to which factor?
+<<<PAGE:602>>>
 गैस थर्मामीटर के तापमान में वृद्धि__________ के समानुपाती होती है।
 A
 Increase in the number of moles
@@ -331,6 +356,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 602
 Q.No: 30
 2626337
 .
@@ -342,16 +368,19 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 602
 Q.No: 31
 2626345
 A
 B
 C
+<<<PAGE:603>>>
 D
 Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 603
 Q.No: 32
 2626361
 Match the following.
@@ -372,6 +401,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 603
 Q.No: 33
 2626372
 How does the electronic specific heat of a metal in the superconducting state varies with temperature?
@@ -384,6 +414,7 @@ Linear manner
 रैखिक तरीके
 C
 Polynomial manner
+<<<PAGE:604>>>
 बहुपद तरीके
 D
 Logarithmic manner
@@ -392,6 +423,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 604
 Q.No: 34
 2626408
 Which type of ray does not obey Snell’s law?
@@ -412,6 +444,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 604
 Q.No: 35
 2626418
 Most of the semiconductor diodes are made of which type of material?
@@ -432,6 +465,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 604
 Q.No: 36
 2626433
 Which factor will increase with increase in the intensity of light falling on the p-n junction of photo diode?
@@ -441,6 +475,7 @@ Forward Voltage
 फॉरवर्ड वोल्टेज
 B
 Forward current
+<<<PAGE:605>>>
 आगे विधुत धारा
 C
 Reverse voltage 
@@ -452,6 +487,7 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 605
 Q.No: 37
 2626483
 Express the mass of the nucleus in terms of the total binding energy B and the masses of Z protons and N neutrons?
@@ -464,6 +500,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 605
 Q.No: 38
 2626492
 Which one of the following is the organic scintillator crystal?
@@ -484,12 +521,14 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 605
 Q.No: 39
 2626508
 How many times does the half wave retarders can rotate the polarization of linearly polarized light to the angle between the optic axis and the plane of polarization?
 कितने बार अर्ध-तरंग रीटार्ड रैखिक ध्रुवीय प्रकाश के ध्रुवीकरण को ऑप्टिक अक्ष और ध्रुवणतल के बीच कोण पर घुमा सकते हैं?
 A
 Thrice
+<<<PAGE:606>>>
 तीन बार
 B
 Twice
@@ -504,6 +543,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 606
 Q.No: 40
 2626523
 How much data can be stored in 8085 microprocessors?
@@ -524,6 +564,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 739
 Q.No: 1
 2626183
 If the person lifts the body from the ground, What would be the work done by the gravitational force?
@@ -544,6 +585,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 739
 Q.No: 2
 2626194
 What is the value of universal constant G?
@@ -552,10 +594,12 @@ A
 B
 C
 D
+<<<PAGE:740>>>
 Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 740
 Q.No: 3
 2626195
 Consider all objects is at infinity, what would be the amount of potential energy possessed?
@@ -576,6 +620,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 740
 Q.No: 4
 2626215
 On which factor, the fringe width does not depend on?
@@ -594,10 +639,12 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 740
 Q.No: 5
 2626216
 In which phenomenon light waves bends around the edges of small obstacles and spreads into the geometrical shadow of the obstacles? 
 किस परिघटना में प्रकाश तरंगें छोटे अवरोधों के किनारों से मुड़ जाती हैं और अवरोधों की ज्याामितीय छाया में फैल जाती हैं?
+<<<PAGE:741>>>
 A
 Holography
 होलोग्रााफी
@@ -614,6 +661,7 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 741
 Q.No: 6
 2626223
 Brewster’s angle depends on which parameter of the reflecting surface?
@@ -634,6 +682,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 741
 Q.No: 7
 2626257
 Oriental polarizability is inversely proportional to which of the following factor?
@@ -646,6 +695,7 @@ Square of the temperature
 तापमान का वर्ग
 C
 Temperature
+<<<PAGE:742>>>
 तापमान
 D
 Square of the permanent dipole moment
@@ -654,6 +704,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 742
 Q.No: 8
 2626274
 Name the resistive force due to which the amplitude of the successive oscillationsin the oscillators goes on decreasing?
@@ -674,6 +725,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 742
 Q.No: 9
 2626275
 What is the condition for underdamping in damped oscillation?
@@ -684,8 +736,10 @@ C
 D
 Correct Ans : A
 Subject : PHYSICS graduate
+<<<PAGE:743>>>
 
 ----------------------------------------
+Page: 743
 Q.No: 10
 2626285
 Which parameter of the wave is inversely proportional to the distance from the source?
@@ -706,6 +760,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 743
 Q.No: 11
 2626286
 Longitudinal waves can propagate in which medium? 
@@ -726,11 +781,13 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 743
 Q.No: 12
 2626300
 Which one of the following is the Celsius temperature of the triple point of water?
 निम्नलिखित में से कौनसा पानी के त्रिगुण बिंदु का सेल्सियस तापमान है?
 A
+<<<PAGE:744>>>
 B
 C
 D
@@ -738,6 +795,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 744
 Q.No: 13
 2626301
 Read the following statement and find the correct answer.
@@ -762,6 +820,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 744
 Q.No: 14
 2626346
 The output voltage of an op-amp is independent of which one of the parameters given below?
@@ -771,6 +830,7 @@ Input Voltage
 इनपुट वोल्टेज
 B
 Input current
+<<<PAGE:745>>>
 इनपुट करंट
 C
 Difference in input voltages
@@ -782,6 +842,7 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 745
 Q.No: 15
 2626347
 A
@@ -800,6 +861,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 745
 Q.No: 16
 2626362
 On which factor does the intensity of the X-rays depends on? 
@@ -817,9 +879,11 @@ D
 The anode or positive electrode 
 एनोड या सकारात्मक इलेक्ट्रोोड
 Correct Ans : A
+<<<PAGE:746>>>
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 746
 Q.No: 17
 2626363
 Which factor of X – rays depend on the potential difference between the cathode and the anode?
@@ -840,6 +904,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 746
 Q.No: 18
 2626373
 In superconducting material the energy gap is associated with which one of the following factors?
@@ -860,6 +925,7 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 746
 Q.No: 19
 2626378
 Which of the following is not the dielectric material?
@@ -867,6 +933,7 @@ Which of the following is not the dielectric material?
 A
 Copper
 कॉपर
+<<<PAGE:747>>>
 B
 Glass
 ग्लाास
@@ -880,6 +947,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 747
 Q.No: 20
 2626379
 Which one is equal to the total dipole moment?
@@ -892,6 +960,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 747
 Q.No: 21
 2626409
 Name the parts of ray that we get when we pass the light through a biaxial crystal?
@@ -904,6 +973,7 @@ O-ray and O-ray
 ओ-किरण और ओ-किरण
 C
 E-ray and E-ray
+<<<PAGE:748>>>
 ई-किरण और ई-किरण
 D
 Does not have any refraction

@@ -2,6 +2,7 @@ Subject: Gen. Science graduate
 Questions: 40
 ========================================
 
+Page: 638
 Q.No: 132
 2632015
 __________ is the maximum ability of a population to increase under ideal environmental conditions.
@@ -17,11 +18,13 @@ Biotic potential
 जैविक क्षमता
 D
 Vitality
+<<<PAGE:639>>>
 जीवन शक्ति
 Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 639
 Q.No: 133
 2632030
 Who among the following proposed the laws of inheritance in living organisms? 
@@ -42,6 +45,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 639
 Q.No: 134
 2632067
 Diabetes mellitus is caused by a lack of
@@ -62,6 +66,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 639
 Q.No: 135
 2632076
 Which of the following diseases is spread via blood transfusion?
@@ -74,6 +79,7 @@ Syphilis
 सिफिलिस
 C
 AIDS
+<<<PAGE:640>>>
 एड्स
 D
 Cholera
@@ -82,6 +88,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 640
 Q.No: 136
 2632085
 Which of the following tests is used to diagnose Typhoid Fever? 
@@ -102,6 +109,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 640
 Q.No: 137
 2633529
 What is Epsom salt's chemical name?
@@ -122,6 +130,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 640
 Q.No: 138
 2633531
 Which of the following was used to process photographic plates?
@@ -131,6 +140,7 @@ Silver Iodide
 सिल्वर आयोडाइड
 B
 Hydrochloric acid
+<<<PAGE:641>>>
 हाइड्रोोक्लोोरिक एसिड
 C
 Sodium chloride
@@ -142,6 +152,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 641
 Q.No: 139
 2633560
 Ester is formed by the reaction of ________:
@@ -162,6 +173,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 641
 Q.No: 140
 2633561
 The definition of denatured alcohol is -
@@ -182,12 +194,14 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 641
 Q.No: 141
 2639493
 When did the Union Ministry of Environment and Forests inaugurate India's first Digital Environmental Atlas?
 केंद्रीीय पर्यावरण एवम् वन्य मंत्राालय ने भारत में प्रथम डिजिटल एनवायरमेंटल एटलस का उद्घाटन कब किया?
 A
 March 21, 2008
+<<<PAGE:642>>>
 March 21, 2008
 B
 April 21, 2008
@@ -202,6 +216,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 642
 Q.No: 142
 2639522
 The United Nations declared the year 2002 as the International Year for what?
@@ -222,6 +237,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 642
 Q.No: 143
 2639545
 When was the Indian Zoological Survey founded?
@@ -242,18 +258,21 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 711
 Q.No: 130
 2629727
 If the angle of contact is ____________ a liquid will not wet the surface of a solid.
 यदि स्पर्श कोण __________ है तो द्रव ठोस की सतह को गीला नहीं करेगा।
 A
 B
+<<<PAGE:712>>>
 C
 D
 Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 712
 Q.No: 131
 2632000
 Which among the following is correct about Prions? 
@@ -274,6 +293,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 712
 Q.No: 132
 2632031
 What do you understand by the term ‘ true breeding line’ in plants? 
@@ -292,8 +312,10 @@ One that does not have viable progeny in next generation
 एक जिसकी अगली पीढ़ीी में व्यवहार्य संतान नहीं है
 Correct Ans : A
 Subject : Gen. Science graduate
+<<<PAGE:713>>>
 
 ----------------------------------------
+Page: 713
 Q.No: 133
 2632034
 What is the karyotype of Klinefelter’s syndrome? 
@@ -314,6 +336,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 713
 Q.No: 134
 2632068
 Which of the following is the cause of malaria?
@@ -334,6 +357,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 713
 Q.No: 135
 2632077
 BCG vaccine is given for the prevention of which of the following diseases?
@@ -343,6 +367,7 @@ Tetanus
 टेटनस
 B
 Cholera
+<<<PAGE:714>>>
 हैजा
 C
 Dysentery
@@ -354,6 +379,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 714
 Q.No: 136
 2632086
 Which of the following diseases is characterised by intestinal perforation?
@@ -374,6 +400,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 714
 Q.No: 137
 2633534
 Which colour change is seen when dilute Hydrochloride acid is added to a copper oxide beaker?
@@ -392,8 +419,10 @@ Black colour
 काला रंग
 Correct Ans : B
 Subject : Gen. Science graduate
+<<<PAGE:715>>>
 
 ----------------------------------------
+Page: 715
 Q.No: 138
 2633536
 What kind of an acid is Methanol?
@@ -414,6 +443,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 715
 Q.No: 139
 2633566
 Carbon can form four covalent bonds by sharing its four valence electrons with four dissimilar atoms, such as hydrogen. By reacting with which of
@@ -436,6 +466,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 715
 Q.No: 140
 2633567
 Which one of the following is not an organic acid?
@@ -445,6 +476,7 @@ Ethanoic acid 
 ईथेनोइक अम्ल 
 B
 Citric acid 
+<<<PAGE:716>>>
 सिट्रिक अम्ल
 C
 Formic  acid 
@@ -456,6 +488,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 716
 Q.No: 141
 2639500
 When was the first National Wildlife Action Plan adopted by India?
@@ -476,6 +509,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 716
 Q.No: 142
 2639523
 When is World Environment Day celebrated? 
@@ -494,8 +528,10 @@ D
 5 जून
 Correct Ans : D
 Subject : Gen. Science graduate
+<<<PAGE:717>>>
 
 ----------------------------------------
+Page: 717
 Q.No: 143
 2639546
 Which of the following movements supported eco-sustainable frugality? 
@@ -516,6 +552,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 791
 Q.No: 130
 2629733
 Which among the following is the correct formula for surface tension?
@@ -528,6 +565,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 791
 Q.No: 131
 2632001
 Which of the following is incorrect about the Archaebacteria?
@@ -537,6 +575,7 @@ They can be halophiles
 वे हेलोफाइल हो सकते हैं
 B
 They can be thermoacidophiles
+<<<PAGE:792>>>
 वे थर्मोएसिडोफाइल हो सकते हैं
 C
 They can be methanogens
@@ -548,6 +587,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 792
 Q.No: 132
 2632032
 What is the term for the genes which code for a pair of contrasting traits? 
@@ -568,6 +608,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 792
 Q.No: 133
 2632035
 Which of the following disorders is caused due to the absence of one of the X chromosomes in females?
@@ -585,9 +626,11 @@ D
 Sickle cell anemia
 सिकल सेल एनीमिया
 Correct Ans : C
+<<<PAGE:793>>>
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 793
 Q.No: 134
 2632087
 Which of the following is an example of a congenital disease?
@@ -608,6 +651,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 793
 Q.No: 135
 2633535
 Sodium hydroxide turns phenolphthalein solution into which of the following colour?
@@ -628,6 +672,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 793
 Q.No: 136
 2633537
 When acid and metals react, which gas is released?
@@ -635,6 +680,7 @@ When acid and metals react, which gas is released?
 A
 Hydrogen
 हाइड्रोोजन
+<<<PAGE:794>>>
 B
 Nitrogen
 नाइट्रोोजन
@@ -648,6 +694,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 794
 Q.No: 137
 2633580
 Which of the following organic compounds has a triple bond?
@@ -660,6 +707,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 794
 Q.No: 138
 2633581
 Mineral acids are stronger acids than carboxylic acids because:
@@ -673,6 +721,7 @@ Carboxylic acids are completely ionized, mineral acids are partially ionized.
 कार्बोक्जिलिक एसिड पूरी तरह से आयनित होते हैं, खनिज एसिड आंशिक रूप से आयनित होते हैं।
 C
 Mineral acids, and carboxylic acids are completely ionized. 
+<<<PAGE:795>>>
 खनिज एसिड, कार्बोक्जिलिक एसिड पूरी तरह से आयनित होते हैं।
 D
 Mineral acids, and carboxylic acids are partially ionized.
@@ -681,6 +730,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 795
 Q.No: 139
 2639501
 Who among the following was given the epithet of the Tiger of the Ganges?
@@ -701,6 +751,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 795
 Q.No: 140
 2639531
 Which River is the largest sediment transporter in the world?
@@ -719,8 +770,10 @@ Kallaudu River
 कल्लााडू नदी
 Correct Ans : C
 Subject : Gen. Science graduate
+<<<PAGE:796>>>
 
 ----------------------------------------
+Page: 796
 Q.No: 141
 2639555
 Which is the highest award given to a person or organization for making a special contribution to wildlife conservation? 
@@ -741,6 +794,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 796
 Q.No: 142
 2639781
 Who discovered the cell?
@@ -761,6 +815,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 796
 Q.No: 143
 2639782
 Which is the primary site of cellular activities in both plant and animal cells?
@@ -770,6 +825,7 @@ Nucleus 
 केन्द्रक
 B
 Ribosomes 
+<<<PAGE:797>>>
 राइबोसोम
 C
 Golgi apparatus 

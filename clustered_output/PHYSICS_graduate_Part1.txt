@@ -2,6 +2,7 @@ Subject: PHYSICS graduate
 Questions: 50
 ========================================
 
+Page: 12
 Q.No: 26
 2626178
 What are the external forces acting on the body if the billiard ball is resting on the table?
@@ -20,8 +21,10 @@ Only non-contact force.
 केवल गैर-संपर्क बल।
 Correct Ans : A
 Subject : PHYSICS graduate
+<<<PAGE:13>>>
 
 ----------------------------------------
+Page: 13
 Q.No: 27
 2626188
 Which type of motion is produced by the movement of the door of the almirah ?
@@ -42,6 +45,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 13
 Q.No: 28
 2626203
 Which of the following material doesn’t obey Hooke’s law?
@@ -62,12 +66,14 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 13
 Q.No: 29
 2626204
 Which is defined as the ratio of normal stress to volume strain within elastic limits?
 लोचदार सीमाओं के अन्दर सामान्य प्रतिबल और आयतन विकृति के अनुपात के रूप में किसे परिभाषित किया जाता है?
 A
 Young modulus of elasticity
+<<<PAGE:14>>>
 लोच के यंग मापांक
 B
 Bulk modulus of elasticity
@@ -82,6 +88,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 14
 Q.No: 30
 2626218
 What is the shape of the incident and diffracted wavefront in Fraunhofer's diffraction?
@@ -102,6 +109,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 14
 Q.No: 31
 2626253
 In which method electric charge is created by mechanical stress?
@@ -114,6 +122,7 @@ Ferroelectricity
 फेरोइलेक्ट्रिसिटी
 C
 Electrostriction
+<<<PAGE:15>>>
 इलेक्ट्रोोस्ट्रिक्शन
 D
 Electret
@@ -122,6 +131,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 15
 Q.No: 32
 2626264
 Which one of the following components is a non-linear circuit component?
@@ -142,6 +152,7 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 15
 Q.No: 33
 2626265
 Which is the correct expression for the electrical resistance of the circuit?
@@ -149,11 +160,13 @@ Which is the correct expression for the electrical resistance of the circuit?
 A
 B
 C
+<<<PAGE:16>>>
 D
 Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 16
 Q.No: 34
 2626278
 When an oscillator is subjected to external periodic force, which type of oscillation exists in anoscillator?
@@ -174,6 +187,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 16
 Q.No: 35
 2626293
 Which relation is used to find the wavelength of the light source used in biprism?
@@ -181,11 +195,13 @@ Which relation is used to find the wavelength of the light source used in bipris
 A
 B
 C
+<<<PAGE:17>>>
 D
 Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 17
 Q.No: 36
 2626328
 Which of the following cannot be measured by a cathode ray oscilloscope?
@@ -206,6 +222,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 17
 Q.No: 37
 2626329
 Read the following statement and find the correct answer.
@@ -219,6 +236,7 @@ A is correct B is incorrect
 A सही है B गलत है
 B
 A is incorrect and B is correct
+<<<PAGE:18>>>
 A गलत है और b सही है
 C
 Both A and B are correct
@@ -230,6 +248,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 18
 Q.No: 38
 2626333
 What is the gain of the inverting voltage feedback op amp circuit?
@@ -242,6 +261,7 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 18
 Q.No: 39
 2626338
 Which one of the following is not the passive component?
@@ -251,6 +271,7 @@ Resistors
 प्रतिरोध
 B
 Transistor
+<<<PAGE:19>>>
 ट्रांांजिस्टर
 C
 Inductors
@@ -262,6 +283,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 19
 Q.No: 40
 2626353
 Write the equivalent AND form of inverse law in Boolean algebra?
@@ -274,6 +296,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 19
 Q.No: 41
 2626354
 Which type of circuit uses past inputs to determine present outputs indicates we must have event ordering?
@@ -286,6 +309,7 @@ Sequential circuit
 अनुक्रमिक सर्किट
 C
 Data processing circuit
+<<<PAGE:20>>>
 डाटाप्रोोसेसिंग सर्किट
 D
 Arithmetic circuit
@@ -294,6 +318,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 20
 Q.No: 42
 2626368
 Read the following statements-based superconductivity and choose the correct option.
@@ -318,18 +343,21 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 20
 Q.No: 43
 2626403
 Which one of the following gives the temperature dependence of the total black body energy flux E?
 कुल ऊर्जा प्रवाह E की तापमान निर्भरता किसके द्वाारा दी गई है
 A
 B
+<<<PAGE:21>>>
 C
 D
 Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 21
 Q.No: 44
 2626413
 Nicol prism is called as which type of crystal?
@@ -342,6 +370,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 21
 Q.No: 45
 2626428
 Which one of the following is correct with respect to Zener breakdown?
@@ -354,6 +383,7 @@ After the Zener breakdown the junction regains its original position.
 जेनर ब्रेकडाउन के बाद जंक्शन अपनी मूल स्थिति को पुनः प्रााप्त करता है।
 C
 Zener breakdown occurs in high doping material.
+<<<PAGE:22>>>
 उच्च डोपिंग सामग्रीी में जेनर ब्रेकडाउन होता है।
 D
  Zener breakdown voltage is inversely proportional to the temperature.
@@ -362,6 +392,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 22
 Q.No: 46
 2626443
 In which region, the transistor acts as an amplifier?
@@ -382,6 +413,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 22
 Q.No: 47
 2626478
 In which one of the factors nuclear stabilities cannot be determined?
@@ -399,9 +431,11 @@ D
 The binding energy per unit nucleon
 बंधन ऊर्जा प्रति यूनिट न्यूक्लियॉन
 Correct Ans : B
+<<<PAGE:23>>>
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 23
 Q.No: 48
 2626484
 Which is proportional to volume binding energy of the nucleus in liquid drop model?
@@ -422,6 +456,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 23
 Q.No: 49
 2626503
 Which type of cell has exactly one lattice point?
@@ -442,11 +477,13 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 23
 Q.No: 50
 2626518
 Read the following statements based on Laser and choose the correct option.
 Statement A: The pumping method employed in He-Ne Laser is electrical pumping method and is based on four level pumping
 schemes.
+<<<PAGE:24>>>
 Statement B: Helium-Neon Laser was first gas Laser to be invented by Ali-Jawan in 1961.
 लेसर पर आधारित निम्नलिखित कथनों को पढ़िए और सही विकल्प का चयन कीजिए।
 कथन A: He-Ne लेज़र में नियोजित पम्पिंग विधि विद्युत पम्पिंग विधि है और यह चार स्तरीय पम्पिंग योजनाओं पर आधारित है।
@@ -467,6 +504,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 101
 Q.No: 26
 2626179
 Which one of the following would be the total momentum of an isolated system?
@@ -477,6 +515,7 @@ Rational
 B
 Constant
 स्थिर
+<<<PAGE:102>>>
 C
 Positive
 सकारात्मक
@@ -487,6 +526,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 102
 Q.No: 27
 2626189
 Which one of the quantities is required to produce angular acceleration in a particle about an axis?
@@ -507,16 +547,19 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 102
 Q.No: 28
 2626205
 A
 B
 C
+<<<PAGE:103>>>
 D
 Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 103
 Q.No: 29
 2626206
 Represent the Young’s Module of elasticity.
@@ -537,6 +580,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 103
 Q.No: 30
 2626219
 The area of each Fresnel’s half period zone is same and equal to which factor?
@@ -545,10 +589,12 @@ A
 B
 C
 D
+<<<PAGE:104>>>
 Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 104
 Q.No: 31
 2626254
 Name the dielectric breakdown that occurs due to the presence of gas bubbles in the solid medium forming ions resulting in current.
@@ -569,6 +615,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 104
 Q.No: 32
 2626266
 The ability of a capacitor to store charge does not depend on_________.
@@ -587,8 +634,10 @@ Relative permittivity of a dielectric
 डाइ इलैक्ट्रिक की सापेक्ष पारगम्यता
 Correct Ans : B
 Subject : PHYSICS graduate
+<<<PAGE:105>>>
 
 ----------------------------------------
+Page: 105
 Q.No: 33
 2626267
 What does the fifth band in the resistor colour code system represents?
@@ -609,6 +658,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 105
 Q.No: 34
 2626279
 Which one of the following is an example of a periodic motion which is not oscillatory?
@@ -629,12 +679,14 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 105
 Q.No: 35
 2626294
 Young’s double slit experiment is an example of which division of interference?
 यंग का डबल स्लिट प्रयोग किस प्रकार के व्यतिकरण का एक उदाहरण है।
 A
 Division of Amplitude
+<<<PAGE:106>>>
 आयाम का विभाजन
 B
 Division of Wavelength
@@ -649,6 +701,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 106
 Q.No: 36
 2626330
 Which one of the following serves as the heart of the CRO?
@@ -669,10 +722,12 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 106
 Q.No: 37
 2626331
 Match the following.
 निम्नलिखित को मिलाएं।
+<<<PAGE:107>>>
 A
 1-C, 2-A, 3-D, 4-B
 1-C, 2-A, 3-D, 4-B
@@ -689,6 +744,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 107
 Q.No: 38
 2626339
 Which of the following is incorrect with respect to integrated circuits?
@@ -709,9 +765,11 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 107
 Q.No: 39
 2626340
 How many numbers of circuit package can be found in MSI?
+<<<PAGE:108>>>
 एमएसआई में कितने सर्किट पैकेज पाए जा सकते हैं?
 A
 Less than 12
@@ -729,6 +787,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 108
 Q.No: 40
 2626355
 Read the following statement and choose the correct option.
@@ -752,8 +811,10 @@ Both the statement A and B are incorrect
 A और B दोनों कथन गलत हैं
 Correct Ans : C
 Subject : PHYSICS graduate
+<<<PAGE:109>>>
 
 ----------------------------------------
+Page: 109
 Q.No: 41
 2626356
 When both the inputs S and R are considered as 1,  What is the status of SR flipflop ?
@@ -774,6 +835,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 109
 Q.No: 42
 2626369
 A
@@ -782,8 +844,10 @@ C
 D
 Correct Ans : C
 Subject : PHYSICS graduate
+<<<PAGE:110>>>
 
 ----------------------------------------
+Page: 110
 Q.No: 43
 2626404
 Fermi–Dirac (F–D) statistics applied to which type of particle in a system with thermal equilibrium?
@@ -804,6 +868,7 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 110
 Q.No: 44
 2626414
 Read the following and chose the incorrect option regarding positive crystals.
@@ -824,12 +889,14 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 110
 Q.No: 45
 2626429
 Name the diode that operates under reverse bias in the breakdown region.
 ब्रेकडाउन क्षेत्र में रिवर्स बायस के तहत काम करने वाले डायोड का नाम बताइए।
 A
 Laser diode
+<<<PAGE:111>>>
 लेजर डायोड
 B
 LED
@@ -844,6 +911,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 111
 Q.No: 46
 2626444
 On which condition, transistor will work in saturation region? 
@@ -864,6 +932,7 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 111
 Q.No: 47
 2626479
 Assertion (A): The neutron-proton ratio for heavier nuclei generally increases as the atomic number increases
@@ -875,6 +944,7 @@ A and R are true and R is the correct explanation of A
 A और R सत्य हैं और R, A का सही स्पष्टीीकरण है
 B
 A and R are true and R is the correct explanation of A
+<<<PAGE:112>>>
 A और R सत्य हैं और R. A का सही स्पष्टीीकरण है
 C
 A is true and R is false
@@ -886,6 +956,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 112
 Q.No: 48
 2626488
 Read the following statements based on Betatron y and choose the correct option.
@@ -910,6 +981,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 112
 Q.No: 49
 2626504
 Simple cube has how many corner atoms?
@@ -919,6 +991,7 @@ A
 16
 B
 4
+<<<PAGE:113>>>
 4
 C
 8
@@ -930,6 +1003,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 113
 Q.No: 50
 2626519
 Match the following

@@ -2,6 +2,7 @@ Subject: CHEMISTRY graduate
 Questions: 50
 ========================================
 
+Page: 452
 Q.No: 73
 2622802
 What are electrophiles? 
@@ -22,6 +23,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 452
 Q.No: 74
 2622813
 During the free radical halogenation of methane, some steps are involved. In which step, does a chlorine radical combine with hydrogen in the methane?
@@ -42,11 +44,13 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 452
 Q.No: 75
 2622858
 A
 The substrate
 सब्सट्रेट
+<<<PAGE:453>>>
 B
 The nucleophile
 न्यूक्लियोफाइल
@@ -60,6 +64,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 453
 Q.No: 76
 2622859
 Which of the following acts as the leaving group when tertiary alcohol reacts with HX to give an alkyl halide?
@@ -72,6 +77,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 453
 Q.No: 77
 2622865
 Benzyne mechanism is involved in which of the mechanism of second-order nucleophilic substitution reaction?
@@ -92,9 +98,11 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 453
 Q.No: 78
 2622866
 Which of the following compounds have one part named as an alkoxy substituent?
+<<<PAGE:454>>>
 निम्नलिखित में से किस यौगिक के एक भाग को एल्कोोक्सीी प्रतिस्थापी के रूप में नामित किया गया है?
 A
 Alcohols
@@ -112,6 +120,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 454
 Q.No: 79
 2622880
 According to the phase diagram of sulphur, which option gives the correct information?
@@ -124,6 +133,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 454
 Q.No: 80
 2622881
 According to the Gibbs phase rule, which of the following is valid?ग
@@ -141,9 +151,11 @@ D
 Increasing the number of phases decreases the number of equilibrium conditions.
 चरणों की संख्याा बढ़ााने से संतुलन स्थितियों की संख्याा घट जाती है।
 Correct Ans : A
+<<<PAGE:455>>>
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 455
 Q.No: 81
 2622894
 Which of the following cannot be determined by applying Nernst distribution law?
@@ -164,6 +176,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 455
 Q.No: 82
 2622936
 Which of the following is an explosive compound of cellulose?
@@ -184,6 +197,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 455
 Q.No: 83
 2622951
 How many three-fold axes of symmetry does a cube have?
@@ -199,11 +213,13 @@ C
 6
 D
 9
+<<<PAGE:456>>>
 9
 Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 456
 Q.No: 84
 2622952
 Which of the following is NOT valid according to the law of rational indices?
@@ -224,6 +240,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 456
 Q.No: 85
 2622962
 Which of the following is an example of a first-order homogeneous reaction?
@@ -244,6 +261,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 456
 Q.No: 86
 2622963
 Which of the following is a second-order reaction taking place in solutions?
@@ -252,6 +270,7 @@ A
 B
 C
 Thermal decomposition of acetaldehyde
+<<<PAGE:457>>>
 एसीटैल्डिहाइड का थर्मल अपघटन
 D
 Saponification of esters
@@ -260,6 +279,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 457
 Q.No: 87
 2622978
 Which of the following actinoid ion is colourless?
@@ -272,6 +292,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 457
 Q.No: 88
 2622979
 Which element lies between Md and Lr?
@@ -292,12 +313,14 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 457
 Q.No: 89
 2623019
 Which of the following is extracted using parting process in metallurgy?
 धातु विज्ञाान में विभाजन प्रक्रिया का उपयोग करके निम्नलिखित में से कौन सा निकाला जाता है?
 A
 Copper and Zinc
+<<<PAGE:458>>>
 कॉपर और जिंक
 B
 Magnesium
@@ -312,6 +335,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 458
 Q.No: 90
 2623020
 The temperature in the oxy-hydrogen flames is suitable for low temperature welding and brazing. What is that temperature?
@@ -328,6 +352,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 458
 Q.No: 91
 2623029
 Which is the key organ that plays a vital role in maintaining Sodium ion equilibrium?
@@ -348,9 +373,11 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 458
 Q.No: 92
 2623048
 Which of the following is a type of glycolipids are vital constituents of cell membrane and nervous tissues, especially the brain?
+<<<PAGE:459>>>
 निम्नलिखित में से कौन सा एक प्रकार का ग्लााइकोलिपिड है जो कोशिका झिल्लीी और तंत्रिका ऊतकों, विशेषकर मस्तिष्क के महत्वपूर्ण घटक हैं?
 A
 Gangliosides
@@ -368,6 +395,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 459
 Q.No: 93
 2623049
 Serine and tyrosine belong to which group containing amino acids?
@@ -388,6 +416,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 459
 Q.No: 94
 2623059
 Which of the following is not one of the properties of amino acid zwitterions?
@@ -406,8 +435,10 @@ They are insoluble in hydrocarbons.
 वे हाइड्रोोकार्बन में अघुलनशील हैं।
 Correct Ans : C
 Subject : CHEMISTRY graduate
+<<<PAGE:460>>>
 
 ----------------------------------------
+Page: 460
 Q.No: 95
 2623101
 What is the relation between the rate of flow of a fluid through a cylindrical tube and the given factors?
@@ -428,6 +459,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 460
 Q.No: 96
 2623102
 What is the effect of temperature and pressure on the coefficient of viscosity?
@@ -448,6 +480,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 460
 Q.No: 97
 2623111
 Which of the following consists of the upper portion of the stalagmometer apparatus?
@@ -463,11 +496,13 @@ Glass tube
 ग्लाास ट्यूब
 D
 Pinch cock
+<<<PAGE:461>>>
 पिंच कॉक
 Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 461
 Q.No: 98
 2623112
 Why the lowest point of the capillary tube is flattened in a stalagmometer apparatus?
@@ -488,6 +523,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 461
 Q.No: 99
 2623126
 Which of the following laws states that “when light falls on any substance, only that fraction of incident light which is absorbed by the substance can bring about a chemica
@@ -509,6 +545,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 461
 Q.No: 100
 2623141
 Which of the following may be promoted from the valence band to conduction band in photocatalysis, when light of a suitable wavelength falls on a semiconductor?
@@ -521,6 +558,7 @@ B
 इलेक्ट्रॉॉन
 C
  Neutron
+<<<PAGE:462>>>
 न्यूट्रॉॉन
 D
  Orbitals
@@ -529,6 +567,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 606
 Q.No: 41
 2622776
 What is the ground state electronic configuration of a Boron atom?
@@ -539,8 +578,10 @@ C
 D
 Correct Ans : D
 Subject : CHEMISTRY graduate
+<<<PAGE:607>>>
 
 ----------------------------------------
+Page: 607
 Q.No: 42
 2622788
 According to the rules proposed by Fajan, what is the rule to determine the polarisation extent of an anion?
@@ -561,6 +602,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 607
 Q.No: 43
 2622789
 Which of the following is NOT a valid point of the valence bond approach?
@@ -581,6 +623,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 607
 Q.No: 44
 2622803
 Which of the following have a strong tendency to become paired and they are paramagnetic in nature?
@@ -596,11 +639,13 @@ Free radicals
 मुक्त कण
 D
 Carbenes
+<<<PAGE:608>>>
 कार्बीन
 Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 608
 Q.No: 45
 2622814
 How the addition of bromine to a sample indicates a double bond?
@@ -617,6 +662,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 608
 Q.No: 46
 2622860
 In which of the elimination mechanisms, the C-H bond breaks first to give a carbanion intermediate that loses X- to form the alkene?
@@ -637,6 +683,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 608
 Q.No: 47
 2622867
 Which of the following is reduced to give secondary alcohols?
@@ -649,6 +696,7 @@ Ketones
 केटोन्स
 C
 Esters
+<<<PAGE:609>>>
 एस्टर
 D
 Carboxylic acids
@@ -657,6 +705,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 609
 Q.No: 48
 2622882
 How many phases are there in a system consisting of two solids and a gas?
@@ -677,6 +726,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 609
 Q.No: 49
 2622953
 If we take the example of a cube, which of the following represents a unit plane using the concept of Miller indices?
@@ -697,6 +747,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 609
 Q.No: 50
 2622964
 The decomposition of hydrogen iodide on the surface of the gold is an example of which type of reaction?
@@ -706,6 +757,7 @@ First order reaction
 प्रथम क्रम की प्रतिक्रिया
 B
 Third order reaction
+<<<PAGE:610>>>
 तीसरे क्रम की प्रतिक्रिया
 C
 Zero order reaction
@@ -717,6 +769,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 610
 Q.No: 51
 2622980
 Which of the following options does NOT follow the (IUPAC) International Union of Pure and Applied Chemistry system of nomenclature of coordination compounds?
@@ -737,6 +790,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 610
 Q.No: 52
 2623021
 Which of the following gives out garlic like odour at commercial purity?
@@ -757,12 +811,14 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 610
 Q.No: 53
 2623030
 In which type of organometallic compounds, there occurs a large electronegativity difference between the s-block elements and carbon atom of organic part?
 किस प्रकार के ऑर्गेनोमेटैलिक यौगिकों में एस-ब्लॉॉक तत्वोंों और कार्बनिक भाग के कार्बन परमाणु के बीच एक बड़ाा विद्युतीय अंतर होता है?
 A
 Simple
+<<<PAGE:611>>>
 सरल
 B
 Mixed
@@ -775,6 +831,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 611
 Q.No: 54
 2623050
 Which type of amino acids are known as hydrophobic?
@@ -795,6 +852,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 611
 Q.No: 55
 2623051
 Which of the following refers to a solid-state battery in which the solid electrolyte allows the passage of ions but not electrons as it uses a polymer?
@@ -816,9 +874,11 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 611
 Q.No: 56
 2623060
 What is the isoelectric point for the amino acids with an acidic side chain?  
+<<<PAGE:612>>>
 अम्लीीय पार्श्व श्रृंृंखला वाले अमीनो अम्लोंों के लिए समविद्युत बिंदु क्याा है?
 A
 Average of the two lowest acid dissociation constants.
@@ -836,6 +896,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 612
 Q.No: 57
 2623103
 What is the effect of an increase in temperature on the curve interpreting Maxwell's distribution of velocities?
@@ -856,6 +917,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 612
 Q.No: 58
 2623113
 Which of the following correctly defines the viscosity of a liquid?
@@ -874,8 +936,10 @@ Force of attraction between two layers of a liquid
 द्रव की दो परतों के बीच आकर्षण बल
 Correct Ans : A
 Subject : CHEMISTRY graduate
+<<<PAGE:613>>>
 
 ----------------------------------------
+Page: 613
 Q.No: 59
 2623127
 निम्नलिखित में से कौन सा 180 डिग्रीी सेल्सियस के गलनांक के साथ पानी में घुलनशील सफेद क्रिस्टलीय ठोस है और प्रकाश संश्लेषण का महत्वपूर्ण उत्पााद है?
@@ -895,6 +959,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 613
 Q.No: 60
 2623142
 Which of the following process is used for removal of inorganics that consists of passing the water successively over a solid cation exchanger and a solid anion exchanger,
@@ -917,6 +982,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 754
 Q.No: 35
 2622777
 Which of the following correlations, along with its exchange energy of stabilization, are the basis of the special stability of half-filled subshells?
@@ -937,6 +1003,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 754
 Q.No: 36
 2622778
 Which of the following is true for two electrons in the same orbital according to Pauli’s exclusion principle?
@@ -954,6 +1021,7 @@ D
 They will have different n, l, and m, and must have opposite spins
 उनके भिन्न n, 1, और m होंगे, और विपरीत चक्रण होने चाहिए
 Correct Ans : C
+<<<PAGE:755>>>
 Subject : CHEMISTRY graduate
 
 ----------------------------------------

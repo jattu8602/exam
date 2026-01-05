@@ -2,6 +2,7 @@ Subject: PHYSICS graduate
 Questions: 13
 ========================================
 
+Page: 748
 Q.No: 22
 2626410
 Match the following. 
@@ -22,9 +23,11 @@ Correct Ans : B
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 748
 Q.No: 23
 2626419
 Identify the type of diode from the given picture.
+<<<PAGE:749>>>
 दिए गए चित्र से डायोड के प्रकार की पहचान करें।
 A
 LED
@@ -42,6 +45,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 749
 Q.No: 24
 2626420
 What is the junction potential of the silicon PN junction diode?
@@ -62,6 +66,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 749
 Q.No: 25
 2626434
 Which type of loss produce a loss of gain when the filter is connected to the circuit?
@@ -71,6 +76,7 @@ Return loss
 वापसी नुकसान
 B
 Eddy current loss
+<<<PAGE:750>>>
 एड़ीी का विधुत धारा नुकसान
 C
 Insertion loss
@@ -82,6 +88,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 750
 Q.No: 26
 2626435
 Find the cut-off frequency for the filter for the given circuit.  
@@ -102,12 +109,14 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 750
 Q.No: 27
 2626447
 Which is considered as the operation mode of depletion type MOSFET?
 डिप्लीीशन टाइप MOSFET का ऑपरेशन मोड माना जाता है
 A
 Only enhancement mode
+<<<PAGE:751>>>
 केवल वृद्धि मोड
 B
 Only depletion mode
@@ -122,6 +131,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 751
 Q.No: 28
 2626485
 Which one of the following is valid due to the electric repulsion between, each pair of protons in a nucleus?
@@ -142,6 +152,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 751
 Q.No: 29
 2626486
 Which type of accelerators are used in X- rays?
@@ -157,11 +168,13 @@ Linear accelerator
 रैखिक त्वरक
 D
 Van de Graaff accelerator
+<<<PAGE:752>>>
 वान डी ग्रैफ त्वरक
 Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 752
 Q.No: 30
 2626493
 A
@@ -180,6 +193,7 @@ Correct Ans : D
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 752
 Q.No: 31
 2626494
 Which of the following is incorrect with respect to properties of alpha particles?
@@ -198,8 +212,10 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 752
 Q.No: 32
 2626509
+<<<PAGE:753>>>
 अपने मूल तल के संबंध में ध्रुवणतल का परिणाम क्याा होगा, जब हम एक आधे-तरंग रेटर की ऑप्टिक अक्ष को 45 डिग्रीी पर रखते हैं?
 A
 90 डिग्रीी का ध्रुवीकरण रोटेशन
@@ -213,6 +229,7 @@ Correct Ans : A
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 753
 Q.No: 33
 2626510
 In which type of fibre only on type of ray of light can propagate through the fibre.
@@ -233,6 +250,7 @@ Correct Ans : C
 Subject : PHYSICS graduate
 
 ----------------------------------------
+Page: 753
 Q.No: 34
 2626524
 Which one of the following is not required to perform the operations in microprocessor?
@@ -242,6 +260,7 @@ External memory
 बाहरी मेमोरी
 B
 ALU
+<<<PAGE:754>>>
 एएलयू
 C
 Control logic

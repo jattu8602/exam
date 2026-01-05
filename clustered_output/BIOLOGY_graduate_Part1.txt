@@ -2,6 +2,7 @@ Subject: BIOLOGY graduate
 Questions: 50
 ========================================
 
+Page: 1
 Q.No: 1
 2612938
 The membrane and the protoplasm it contains are collectively referred to as _________.
@@ -22,6 +23,7 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 1
 Q.No: 2
 2612948
 _______is a benzoquinone and its structure and function are similar to the plastoquinone found in the thylakoid membranes of
@@ -38,11 +40,13 @@ Ubiquinone
 यूबिकिनोन
 D
 Cytochrome c
+<<<PAGE:2>>>
 साइटोक्रोोम c
 Correct Ans : C
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 2
 Q.No: 3
 2612949
 Which among the following is not an abiotic stress?
@@ -63,6 +67,7 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 2
 Q.No: 4
 2612963
 At germination the testa is ruptured and the seedling radicle emerges through which end?
@@ -81,8 +86,10 @@ Stigmatic     
 स्टिगमैटिक
 Correct Ans : A
 Subject : BIOLOGY graduate
+<<<PAGE:3>>>
 
 ----------------------------------------
+Page: 3
 Q.No: 5
 2612964
 Pollen tubes, though typically unbranched, can become branched in which of the following species?
@@ -103,6 +110,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 3
 Q.No: 6
 2612988
 The smallest group of organisms that is diagnostically distinct from other such clusters and within which there is parental pattern of
@@ -124,12 +132,14 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 3
 Q.No: 7
 2612998
 Which among the followings is not a seed enhancement technology?
 निम्नलिखित में से कौन सी बीज वृद्ध तकनीक नहीं है?
 A
 Seed coating
+<<<PAGE:4>>>
 बीज का लेप
 B
 Drying
@@ -144,6 +154,7 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 4
 Q.No: 8
 2613013
 Which enzymes identify specific nucleotide sequences in DNA of 4– 8 bp, usually palindromes, and cleave specific phosphodiester
@@ -166,6 +177,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 4
 Q.No: 9
 2613029
 Ozone only enters the leaf through_________.
@@ -175,6 +187,7 @@ Stomata
 स्टोोमेटा
 B
 Lamina
+<<<PAGE:5>>>
 लामिना
 C
 Leaf margin
@@ -186,6 +199,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 5
 Q.No: 10
 2613038
 Who developed column liquid chromatography?
@@ -206,6 +220,7 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 5
 Q.No: 11
 2613048
 Which of the following material is not used to make HPLC column?
@@ -221,11 +236,13 @@ Steel
 इस्पाात
 D
 Nichrome
+<<<PAGE:6>>>
 निक्रोोम 
 Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 6
 Q.No: 12
 2613063
 What is not true about Commelinaceae family?
@@ -248,6 +265,7 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 6
 Q.No: 13
 2613078
 When starch is heated directly, or is treated with dilute acids or enzymes, it becomes converted into a tasteless, white, amorphous
@@ -267,9 +285,11 @@ D
 Nitro starch
 नाइट्रोो स्टाार्च
 Correct Ans : C
+<<<PAGE:7>>>
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 7
 Q.No: 14
 2615910
 _________carry material in the direction opposing equilibrium.
@@ -290,6 +310,7 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 7
 Q.No: 15
 2615914
 Lipids are carried throughout the body by way of the lymphatic and circulatory systems in the form of _______.
@@ -310,10 +331,12 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 7
 Q.No: 16
 2615934
 If an individual has a probability of 0.5 of sharing the allele with its parent, offspring or sibling, a probability of 0.25 of sharing it with
 a grandparent or grandchild, of 0.125 of sharing it with a first cousin and so on. This probability is referred to as the ____________.
+<<<PAGE:8>>>
 यदि किसी व्यक्ति के पास एलील को अपने माता-पिता, संतान या भाई-बहन के साथ साझा करने की 0.5 की संभावना है, तो इसे दादा-दादी या पोते के साथ साझा करने
 की 0.25 की संभावना है, इसे पहले चचेरे भाई के साथ साझा करने की 0.125 की संभावना है। इस संभावना को ____________ कहा जाता है।
 A
@@ -332,6 +355,7 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 8
 Q.No: 17
 2615950
 Which of the following is not a fundamental structure found in phylum Chordata?
@@ -352,9 +376,11 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 8
 Q.No: 18
 2615960
 The organism depicted in the figure given below belongs to which family?
+<<<PAGE:9>>>
 नीचे दी गई आकृति में दर्शाया गया जीव किस कुल का है?
 A
 Cladoselache
@@ -373,6 +399,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 9
 Q.No: 19
 2615970
 __________is the raising of egg-laying chicken egg production.
@@ -393,10 +420,12 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 9
 Q.No: 20
 2615985
 A major function of the distal convoluted tubule in many amphibians—a function that may be shared by the collecting ducts and
 urinary bladder—is control of the excretion of pure water, often termed_________.
+<<<PAGE:10>>>
 कई उभयचरों में डिस्टल कन्वोोल्यूटेड ट्यूब्यूल का एक प्रमुख कार्य - एक ऐसा कार्य जो एकत्रित नलिकाओं और मूत्रााशय द्वाारा साझा किया जा सकता है - शुद्ध पानी के उत्सर्जन
 का नियंत्रण है, जिसे अक्सर _________ कहा जाता है।
 A
@@ -415,6 +444,7 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 10
 Q.No: 21
 2616000
 Glycerophospholipids are also called ____________.
@@ -435,6 +465,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 10
 Q.No: 22
 2616010
 Fischer projection formula is used to represent ___________.
@@ -444,6 +475,7 @@ Optical Isomers of Sugars
 शर्करा के ऑप्टिकल आइसोमर्स
 B
 Four dimensional sugar structure
+<<<PAGE:11>>>
 चार आयामी शर्करा संरचना
 C
 Three dimensional sugar structure
@@ -455,6 +487,7 @@ Correct Ans : C
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 11
 Q.No: 23
 2616020
 Identify the ascending order of complete metamorphosis in Arthropoda.
@@ -475,6 +508,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 11
 Q.No: 24
 2616035
 The beak in sparrows is _____.
@@ -490,11 +524,13 @@ Tearing and piercing type
 फाड़ने और भेदने के लिए
 D
 cutting type
+<<<PAGE:12>>>
 काटने के लिए
 Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 12
 Q.No: 25
 2616050
 According to Harper, which property is not concluded when two plant species co-exist?
@@ -515,6 +551,7 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 90
 Q.No: 1
 2612939
 Which of the following transport protein is commonly visualized as a charged-lined, water-filled channel that extends across the
@@ -536,6 +573,7 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 90
 Q.No: 2
 2612950
 A
@@ -546,6 +584,7 @@ Photorespiration
 फोटोरेस्पिरेशन
 C
 Photoinhibition
+<<<PAGE:91>>>
 फोटो इन्हिबीशन
 D
 Photooxidation
@@ -554,6 +593,7 @@ Correct Ans : C
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 91
 Q.No: 3
 2612951
 An energy imbalance due to high light appears to be sensed through changes in the redox state of the PQ pool. Such an energy
@@ -576,6 +616,7 @@ Correct Ans : C
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 91
 Q.No: 4
 2612965
 Which among the following is an example of multicellular archespore?
@@ -591,11 +632,13 @@ Cannabis sativa
 कैनाबिस सत्वाा
 D
 Abelia triflora
+<<<PAGE:92>>>
 एबेलिया ट्रााइफ्लोोरा
 Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 92
 Q.No: 5
 2612966
 In many syncarpous species there is an opening called__________at the base of the style that allows the pollen tubes to reach any
@@ -617,6 +660,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 92
 Q.No: 6
 2612989
 Which of the following is not a direct use value obtained from biodiversity?
@@ -635,8 +679,10 @@ Pollination
 परागन (पोलीनेशन)
 Correct Ans : D
 Subject : BIOLOGY graduate
+<<<PAGE:93>>>
 
 ----------------------------------------
+Page: 93
 Q.No: 7
 2612999
 Which technique helps to overcome water problems faced during horticulture?
@@ -657,6 +703,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 93
 Q.No: 8
 2613014
 A double-stranded RNA is produced by the transcription of an inverted repeated sequence of a gene. This transcript forms a hairpin–
@@ -679,8 +726,10 @@ Variable number tandem repeats (VNTR)
 वेरिएबल नंबर टैंडेम रेपीटस  (VNTR)
 Correct Ans : A
 Subject : BIOLOGY graduate
+<<<PAGE:94>>>
 
 ----------------------------------------
+Page: 94
 Q.No: 9
 2613030
 Which plant genes protect them from foreign antigens?
@@ -701,6 +750,7 @@ Correct Ans : C
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 94
 Q.No: 10
 2613039
 Which statement is untrue about liquid chromatography?
@@ -725,9 +775,11 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 94
 Q.No: 11
 2613049
 Which of the following treatment can be used for degassing?
+<<<PAGE:95>>>
 निम्नलिखित में से किस उपचार का उपयोग डेगासिंग के लिए किया जा सकता है?
 A
 Helium sparging
@@ -745,6 +797,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 95
 Q.No: 12
 2613064
 In order for a name to be established under the PhyloCode, the name and other required information must be submitted to the
@@ -767,12 +820,14 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 95
 Q.No: 13
 2613079
 Which of the following is a viscose product?
 इनमें से कौन-सा विस्कोोस उत्पााद है?
 A
 Cellophane paper
+<<<PAGE:96>>>
 सिलोफ़न पेपर
 B
 Hemicellulose
@@ -787,6 +842,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 96
 Q.No: 14
 2615911
 Which channel proteins act both as receptors of extracellular signals and as ion channels?
@@ -807,6 +863,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 96
 Q.No: 15
 2615920
 Neurons that are entirely within the CNS are called__________.
@@ -817,6 +874,7 @@ Terminal neurons
 B
 Interneurons
 इंटरन्यूरॉन्स
+<<<PAGE:97>>>
 C
 Afferent neurons
 ऐफरन्ट न्यूरॉन्स
@@ -827,6 +885,7 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 97
 Q.No: 16
 2615935
 Identify the type of imitation where animals may direct their activities towards a particular part of the environment as a result of
@@ -849,6 +908,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 97
 Q.No: 17
 2615951
 Which among the following member is not included in protochordata? 
@@ -864,11 +924,13 @@ Acrania
 अक्राानिया
 D
 Craniata
+<<<PAGE:98>>>
 क्रैैनियाटा
 Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 98
 Q.No: 18
 2615961
 Nerves capable of responding to these internal events are classified as______.
@@ -889,6 +951,7 @@ Correct Ans : B
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 98
 Q.No: 19
 2615971
 __________is the farming of aquatic organisms, including fish, mollusks, crustaceans and aquatic plants, and is a major means of
@@ -908,8 +971,10 @@ Aquaculture
 मत्स्य पालन
 Correct Ans : D
 Subject : BIOLOGY graduate
+<<<PAGE:99>>>
 
 ----------------------------------------
+Page: 99
 Q.No: 20
 2615986
 The loops of Henle and their parallel arrangement provide the anatomical basis for the production of urine that is ________ in
@@ -931,6 +996,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 99
 Q.No: 21
 2616001
 Vitamin_______ is the collective name for a group of closely related lipids called tocopherols.
@@ -951,10 +1017,12 @@ Correct Ans : C
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 99
 Q.No: 22
 2616011
 The glycosidic bond between the first carbons of the two hexose sugars which form trehalose is abbreviated as_____________.
 दो हेक्सोोज़ शर्कराओं के पहले कार्बन के बीच ग्लााइकोसिडिक बंधन जो ट्रेहलोज़ बनाता है, को _______________ के रूप में संक्षिप्त किया जाता है।
+<<<PAGE:100>>>
 A
 B
 C
@@ -963,6 +1031,7 @@ Correct Ans : A
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 100
 Q.No: 23
 2616021
 Aristotle’s lantern is used in _________ by the urchin.
@@ -983,12 +1052,14 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 100
 Q.No: 24
 2616036
 The hind limbs are absent in _____ mammals.
 पश्चपाद _____ स्तनधारियों में अनुपस्थित होते हैं।
 A
 Chiropterans
+<<<PAGE:101>>>
 चिरोप्टेरन्स
 B
 Rodents
@@ -1003,6 +1074,7 @@ Correct Ans : D
 Subject : BIOLOGY graduate
 
 ----------------------------------------
+Page: 101
 Q.No: 25
 2616051
 When the two species interact with each other and both species are benefitted, it is called as _________.

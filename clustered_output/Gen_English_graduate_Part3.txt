@@ -2,6 +2,7 @@ Subject: Gen. English graduate
 Questions: 50
 ========================================
 
+Page: 555
 Q.No: 125
 2629913
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives
@@ -20,6 +21,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 555
 Q.No: 126
 2629938
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives
@@ -38,6 +40,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 555
 Q.No: 127
 2629964
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives
@@ -52,10 +55,12 @@ C
 Ayesha told me that she had seen that movie before.
 D
 Ayesha said to me that I had seen this movie before.
+<<<PAGE:556>>>
 Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 556
 Q.No: 128
 2630005
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives
@@ -74,6 +79,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 556
 Q.No: 129
 2637603
 Identify the segment which contains the grammatical error.
@@ -89,6 +95,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 635
 Q.No: 115
 2621182
 Identify the segment in the sentence which contains the grammatical error from the given options. 
@@ -105,6 +112,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 635
 Q.No: 116
 2621198
 Select the grammatically INCORRECT sentence.
@@ -120,6 +128,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 635
 Q.No: 117
 2621214
 The following sentence has been divided into three parts. One of them may be incorrect. Choose the INCORRECT part from the given options. If you don’t find any error,
@@ -137,6 +146,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 635
 Q.No: 118
 2621247
 Select the most appropriate word to fill in the blank.
@@ -150,9 +160,11 @@ chose
 D
 choose
 Correct Ans : D
+<<<PAGE:636>>>
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 636
 Q.No: 119
 2621263
 Select the most appropriate word to fill in the blank.
@@ -169,6 +181,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 636
 Q.No: 120
 2621279
 Select the most appropriate word to fill in the blank.
@@ -185,6 +198,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 636
 Q.No: 121
 2621315
 Select the most appropriate word to fill in the blank.
@@ -201,6 +215,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 636
 Q.No: 122
 2621452
 Select the wrongly spelt word.
@@ -216,6 +231,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 636
 Q.No: 123
 2621467
 Select the wrongly spelt word.
@@ -231,6 +247,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 636
 Q.No: 124
 2621508
 Select the meaning of the given idiom.
@@ -244,9 +261,11 @@ Lacking seriousness 
 D
 Careless  
 Correct Ans : A
+<<<PAGE:637>>>
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 637
 Q.No: 125
 2629915
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best expresses the same
@@ -264,6 +283,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 637
 Q.No: 126
 2629940
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best expresses the same
@@ -281,6 +301,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 637
 Q.No: 127
 2629965
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best expresses the same
@@ -298,6 +319,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 637
 Q.No: 128
 2630006
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best expresses the same
@@ -315,6 +337,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 637
 Q.No: 129
 2637604
 Identify the segment which contains the grammatical error.
@@ -328,8 +351,10 @@ D
 No error
 Correct Ans : C
 Subject : Gen. English graduate
+<<<PAGE:638>>>
 
 ----------------------------------------
+Page: 708
 Q.No: 115
 2621183
 Identify the segment in the sentence which contains the grammatical error from the given options.
@@ -346,6 +371,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 708
 Q.No: 116
 2621199
 Select the grammatically INCORRECT sentence.
@@ -353,6 +379,7 @@ A
 News today is a major negative and has a huge impact on everyone who watches it.
 B
 The project is bound to open up a new window to the plant’s molecular secrets.
+<<<PAGE:709>>>
 C
 Like a good novel, most cricket innings have a beginning, a middle and an end.
 D
@@ -361,6 +388,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 709
 Q.No: 117
 2621215
 Identify the segment in the sentence which contains the grammatical error from the given options. 
@@ -377,6 +405,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 709
 Q.No: 118
 2621248
 Select the most appropriate word to fill in the blank.
@@ -393,6 +422,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 709
 Q.No: 119
 2621264
 Select the most appropriate word to fill in the blank.
@@ -409,6 +439,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 709
 Q.No: 120
 2621280
 Select the most appropriate word to fill in the blank.
@@ -425,6 +456,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 709
 Q.No: 121
 2621316
 Select the most appropriate word to fill in the blank. 
@@ -435,12 +467,14 @@ B
 across
 C
 above
+<<<PAGE:710>>>
 D
 below
 Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 710
 Q.No: 122
 2621453
 Select the wrongly spelt word.
@@ -456,6 +490,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 710
 Q.No: 123
 2621468
 Select the wrongly spelt word.
@@ -471,6 +506,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 710
 Q.No: 124
 2621509
 Select the meaning of the given idiom.
@@ -487,6 +523,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 710
 Q.No: 125
 2629916
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best
@@ -504,6 +541,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 710
 Q.No: 126
 2629942
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best
@@ -513,6 +551,7 @@ A
 He informed me that I am getting lazy day by day.
 B
 He told me that I have been getting lazy day by day.
+<<<PAGE:711>>>
 C
 He told me that I was getting lazy day by day.
 D
@@ -521,6 +560,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 711
 Q.No: 127
 2629967
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best
@@ -538,6 +578,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 711
 Q.No: 128
 2630007
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best
@@ -555,6 +596,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 711
 Q.No: 129
 2637605
 Identify the segment which contains the grammatical error.
@@ -570,6 +612,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 788
 Q.No: 115
 2621184
 Identify the segment in the sentence which contains the grammatical error from the given options.
@@ -586,6 +629,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 788
 Q.No: 116
 2621200
 Identify the segment in the sentence which contains the grammatical error from the given options. 
@@ -602,6 +646,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 788
 Q.No: 117
 2621216
 Identify the segment in the sentence which contains the grammatical error from the given options. 
@@ -618,6 +663,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 788
 Q.No: 118
 2621249
 Select the most appropriate word to fill in the blank. 
@@ -632,8 +678,10 @@ D
 break at
 Correct Ans : B
 Subject : Gen. English graduate
+<<<PAGE:789>>>
 
 ----------------------------------------
+Page: 789
 Q.No: 119
 2621265
 Select the most appropriate word to fill in the blank.
@@ -650,6 +698,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 789
 Q.No: 120
 2621281
 Select the most appropriate word to fill in the blank.
@@ -666,6 +715,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 789
 Q.No: 121
 2621317
 Select the most appropriate word to fill in the blank.
@@ -682,6 +732,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 789
 Q.No: 122
 2621454
 Select the wrongly spelt word. 
@@ -697,6 +748,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 789
 Q.No: 123
 2621469
 Select the wrongly spelt word.
@@ -710,8 +762,10 @@ D
 Noticeable 
 Correct Ans : A
 Subject : Gen. English graduate
+<<<PAGE:790>>>
 
 ----------------------------------------
+Page: 790
 Q.No: 124
 2621510
 Select the meaning of the given idiom.
@@ -728,6 +782,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 790
 Q.No: 125
 2629918
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best
@@ -745,6 +800,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 790
 Q.No: 126
 2629943
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best
@@ -762,6 +818,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 790
 Q.No: 127
 2629969
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best
@@ -779,11 +836,13 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 790
 Q.No: 128
 2630008
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best
 expresses the same sentence in Indirect/Direct Speech and select your answer.
 My friend said to Ritik, "Would you like to go on a trip to Manali?"
+<<<PAGE:791>>>
 A
 My friend said to me that Ritik might like to go on a trip to Manali.
 B
@@ -796,6 +855,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 791
 Q.No: 129
 2637606
 Identify the segment which contains the grammatical error.

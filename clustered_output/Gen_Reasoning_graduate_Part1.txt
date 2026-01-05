@@ -2,6 +2,7 @@ Subject: Gen. Reasoning graduate
 Questions: 50
 ========================================
 
+Page: 71
 Q.No: 158
 2613882
 In a class of 42 students, Nita’s Rank is 22 from the bottom what is her rank from the top?
@@ -22,10 +23,12 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 71
 Q.No: 159
 2614132
 Find the missing letters in the series.
 BKS, DMU, FOW, …...?
+<<<PAGE:72>>>
 निम्नलिखित श्रंखला में लुप्त अक्षर ज्ञाात कीजिये?
 BKS, DMU, FOW, …...?
 A
@@ -44,6 +47,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 72
 Q.No: 160
 2614333
 How would PARENT be written in the same code if LOVING is written as OLIVGN?
@@ -64,8 +68,10 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 72
 Q.No: 161
 2614340
+<<<PAGE:73>>>
 A
 B
 C
@@ -74,6 +80,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 73
 Q.No: 162
 2614348
 When do we sleep if "light" is named "morning," "dark" is called "night," "night" is called "sunshine," and "sunshine" is called "dusk"?
@@ -94,12 +101,14 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 73
 Q.No: 163
 2614366
 Answer the questions that follow the content after carefully reading it.
 Some words and their codes are represented in the table below. Based on some pattern, the codes are assigned.
 The numerical numbers in Columns A, B, C, D, and E represent the codes for the words requested. The column name in which the
 asked-for word is encoded must be marked as your response. The words must be coded in the same way as the codes listed in the
+<<<PAGE:74>>>
 first table are done.
 For instance: If the word STARE were the response, the answer would be "D".
 Which of the following categories does the code for "MANDATE" fall under?
@@ -125,10 +134,12 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 74
 Q.No: 164
 2614391
 Priya walked 10 km towards the west from her home, then turned towards the south and walked 12 km. Then she walked 16 km
 towards the east, and finally walked 6km towards the west. How far is Priya from her initial position?
+<<<PAGE:75>>>
 प्रिया अपने घर से 10 किमी पश्चिम की ओर चलती है, फिर दक्षिण की ओर मुड़ जाती है और 12 किमी चलती है। फिर वह 16 किमी पूर्व की ओर चलती है, और अंत में 6
 किमी पश्चिम की ओर चलती है। प्रिया अपने शुरुआती स्थान से कितनी दूर है?
 A
@@ -147,6 +158,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 75
 Q.No: 165
 2614415
 A school bus driver starts from the school, drives 5 km towards North, takes a left turn and drives for 6 km. He then takes a turn and
@@ -171,9 +183,11 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 75
 Q.No: 166
 2614433
 In the following figure, enter the omitted number in place of question mark (?).
+<<<PAGE:76>>>
 निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त  संख्याा ज्ञाात कीजिए।
 A
 376
@@ -191,12 +205,14 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 76
 Q.No: 167
 2614440
 In the following figure, enter the omitted number in place of question mark (?).
 निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त  संख्याा ज्ञाात कीजिए।
 A
 160
+<<<PAGE:77>>>
 160
 B
 120
@@ -211,6 +227,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 77
 Q.No: 168
 2614466
 Read the given pattern carefully and select the number which can replace the question mark (?) in it.
@@ -231,10 +248,12 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 77
 Q.No: 169
 2618475
 Which is the WRONG term in the following series?
 RTPC, VWTF, ZZXK, DCBL, HFFO
+<<<PAGE:78>>>
 निम्नलिखित श्रंखला में गलत पद कौन सा है?
 RTPC, VWTF, ZZXK, DCBL, HFFO
 A
@@ -253,6 +272,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 78
 Q.No: 170
 2628938
 From the given responses, find the missing letter in the series.
@@ -275,10 +295,12 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 78
 Q.No: 171
 2629041
 Find the odd one out from the given alternatives. 
 दिए गए विकल्पों में से विषम संख्या युग्म चुनिए। 
+<<<PAGE:79>>>
 A
 257
 257 
@@ -295,9 +317,11 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 160
 Q.No: 158
 2613883
 If the letter of the word “ABHINAV” is arranged alphabetically from left to right. How many letters will remain in the same position?
+<<<PAGE:161>>>
 यदि शब्द “ABHINAV” के अक्षरों को वर्णानुक्रम में बाएं से दाएं व्यवस्थित किया जाता है। कितने अक्षर एक ही स्थिति में रहेंगे?
 A
 1
@@ -315,6 +339,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 161
 Q.No: 159
 2614061
 Three trains are standing near each other at a station, the blue train is on the right of the red train and the green train is on the left
@@ -337,11 +362,13 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 161
 Q.No: 160
 2614133
 Find the missing letters in the following series.
 XFB, UGD, RHG, ……?
 निम्नलिखित श्रंखला में लुप्त अक्षर ज्ञाात कीजिये?
+<<<PAGE:162>>>
 XFB, UGD, RHG, ……?
 A
 OIK
@@ -359,6 +386,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 162
 Q.No: 161
 2614334
 APPLE denotes ETTPI in a specific coding scheme. What does "DELHI" look like in code?
@@ -379,6 +407,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 162
 Q.No: 162
 2614341
 When B = 2 and BAG = 10, what will FOX be?
@@ -388,6 +417,7 @@ A
 51
 B
 53
+<<<PAGE:163>>>
 53
 C
 41
@@ -399,6 +429,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 163
 Q.No: 163
 2614349
 Which of the following is used to wash clothes if "orange" is called "butter," "butter" is named "soap," "soap" is called "ink," "ink" is
@@ -421,6 +452,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 163
 Q.No: 164
 2614367
 Answer the questions that follow the content after carefully reading it. In a coded form,
@@ -431,6 +463,7 @@ Where can I find the "Assured value" code?
 सामग्रीी को ध्याान से पढ़ने के बाद उसके बाद आने वाले प्रश्नोंों के उत्तर दें। कोडित रूप में,
 "revenue exceeds expectation" का कोड "7EC 7E 11T" है।
 "money and instruments" के लिए कोड "5NC 3N 11U" है।
+<<<PAGE:164>>>
 "other transaction ahead" के लिए कोड "5H 11AG 5E" है।
 मुझे "Assured value" कोड कहां मिल सकता है?
 A
@@ -449,6 +482,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 164
 Q.No: 165
 2614434
 In the following figure, enter the omitted number in place of question mark (?).
@@ -465,10 +499,12 @@ C
 D
 8
 8
+<<<PAGE:165>>>
 Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 165
 Q.No: 166
 2614441
 In the following figure, enter the omitted number in place of question mark (?).
@@ -489,12 +525,14 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 165
 Q.No: 167
 2614467
 Read the given pattern carefully and select the number which can replace the question mark (?) in it.
 दिए गए पैटर्न को ध्याान से पढ़िए और उस संख्याा का चयन कीजिए जो उसमें प्रश्न चिह्न को प्रतिस्थापित कर सकती है।
 A
 35
+<<<PAGE:166>>>
 35
 B
 85
@@ -509,6 +547,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 166
 Q.No: 168
 2628773
 Select the related letters from the given alternatives.
@@ -531,6 +570,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 166
 Q.No: 169
 2628786
 In the following question, select the related word from the given alternatives.
@@ -539,6 +579,7 @@ Alzheimer's : Brain :: ______ : ______ 
 अल्जााइमर : मस्तिष्क :: ______ :_______
 A
 Arrhythmia : Heart
+<<<PAGE:167>>>
 एरिथमिया : हृदय
 B
 Atherosclerosis : Liver 
@@ -553,6 +594,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 167
 Q.No: 170
 2628882
 Choose the odd one from the given alternatives. 
@@ -573,6 +615,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 167
 Q.No: 171
 2629263
 लड़कों की एक पंक्ति में A आगेसे 15वाँ है। उसके आगे जितने लड़के थे उससे तीन गुना लड़के उसके पीछे थे। पंक्ति केआखिरी से 7 वें लड़के और A के बीच कितने लड़के
@@ -582,6 +625,7 @@ A
 33
 B
 34
+<<<PAGE:168>>>
 34
 C
 35
@@ -593,6 +637,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 233
 Q.No: 158
 2613884
 एक कक्षाा में वीर का स्थान ऊपर से 7वाँ और नीचे से 28वाँ है। कक्षाा में कितने छात्र हैं?
@@ -612,6 +657,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 233
 Q.No: 159
 2614134
 Find the missing letters in the following series.
@@ -632,8 +678,10 @@ W
 W
 Correct Ans : D
 Subject : Gen. Reasoning graduate
+<<<PAGE:234>>>
 
 ----------------------------------------
+Page: 234
 Q.No: 160
 2614335
 If LUTE is written as MUTE and GATE as HATE in one particular code, how will BLUE be expressed in that code?
@@ -654,6 +702,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 234
 Q.No: 161
 2614342
 In the case when Z = 52 and ACT = 48, BAT will be equal to ______.
@@ -674,6 +723,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 234
 Q.No: 162
 2614350
 What will be fitted in a pen to write with it if "lead" is named "stick," "stick" is called "nib," "nib" is called "needle," "needle" is called "rope," and "rope" is called "thread"?
@@ -689,11 +739,13 @@ nib
 nib
 D
 stick
+<<<PAGE:235>>>
 stick
 Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 235
 Q.No: 163
 2614368
 The letters (a), (b), (c), and (d) are followed by four sets of digits or symbols in each of the examples below (d). Determine which of the following coding combinations be
@@ -725,9 +777,11 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 235
 Q.No: 164
 2614435
 In the following figure, enter the omitted number in place of question mark (?).
+<<<PAGE:236>>>
 निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त  संख्याा ज्ञाात कीजिए।
 A
 34
@@ -745,6 +799,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 236
 Q.No: 165
 2614442
 In the following figure, enter the omitted letter in place of question mark (?).
@@ -763,8 +818,10 @@ T
 T
 Correct Ans : B
 Subject : Gen. Reasoning graduate
+<<<PAGE:237>>>
 
 ----------------------------------------
+Page: 237
 Q.No: 166
 2614468
 Read the given pattern carefully and select the number which can replace the question mark (?) in it.
@@ -785,6 +842,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 237
 Q.No: 167
 2618294
 Arrange the following words according to the english dictionary.
@@ -813,8 +871,10 @@ e, a, b, d, c
 e, a, b, d, c
 Correct Ans : A
 Subject : Gen. Reasoning graduate
+<<<PAGE:238>>>
 
 ----------------------------------------
+Page: 238
 Q.No: 168
 2628795
 In the following question, select the related letter/word/number from the given alternatives.
@@ -837,6 +897,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 238
 Q.No: 169
 2629138
 Find the odd one out from the given alternatives. 
@@ -857,6 +918,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 238
 Q.No: 170
 2629227
 A is more intelligent than B. B is not as intelligent as C. D is more intelligent than E but not as good as A. who is the most intelligent of all?
@@ -870,6 +932,7 @@ A
 C
 C or A 
 C या A
+<<<PAGE:239>>>
 D
 D
 D
@@ -877,6 +940,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 239
 Q.No: 171
 2630187
 Six friends A, B, C, D, E and F are sitting in a row facing north. B sits fourth to the left of E. D sits second to the right of F, A sits second to the left of E. F is not a neighbor
@@ -895,6 +959,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 318
 Q.No: 158
 2613885
 Ziya is seated seventh from the bottom in a class of 35 kids, whereas Sofia is seated ninth from the top. Shah stands between
@@ -906,6 +971,7 @@ A
 9 स्थान दूर
 B
 10 places away
+<<<PAGE:319>>>
 10 स्थान दूर
 C
 8 places away
@@ -917,6 +983,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 319
 Q.No: 159
 2613911
 एक समूह में, मिस्टर X आगे से 14वें स्थान पर है और मिस्टर Y अंत से 17वें स्थान पर है। जबकि मिस्टर Z दोनों के ठीक बीच में है। मिस्टर X और मिस्टर Z के बीच
@@ -937,6 +1004,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 319
 Q.No: 160
 2614135
 Find the missing letters in the following series.
@@ -945,6 +1013,7 @@ Z,  D,   X,  G,  V,  J,  T,  M,..?..?.
 Z,  D,   X,  G,  V,  J,  T,  M,..?..?.
 A
 X, P
+<<<PAGE:320>>>
 X, P
 B
 H,N
@@ -959,6 +1028,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 320
 Q.No: 161
 2614160
 Find the missing letter in the series.
@@ -981,12 +1051,14 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 320
 Q.No: 162
 2614336
 If the word "development" is spelled "Tnemdevelop." Following that, "Evaluation" will be written as?
 अगर शब्द "Development" की स्पेलिंग "Tnemdevelop" है। उसके बाद, "Evaluation" के रूप में लिखा जाएगा
 A
 EVALUTIAON
+<<<PAGE:321>>>
 EVALUTIAON
 B
 EVALUATION
@@ -1001,6 +1073,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 321
 Q.No: 163
 2614343
 How would STATION be described in that code if SENSATIONAL may be outlined as 1 2 3 1 4 5 6 7 3 4?  
@@ -1021,6 +1094,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 321
 Q.No: 164
 2614351
 'TEACHER' is represented by the code VGCEJGT in some languages. How does that code translate to "CHILDREN"?
@@ -1030,6 +1104,7 @@ EJNKTFPG
 EJNKTFPG
 B
 PEJKNTFJ
+<<<PAGE:322>>>
 PEJKNTFJ
 C
 EJKNTFPG
@@ -1041,6 +1116,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 322
 Q.No: 165
 2614369
 Read the following codes carefully, then respond to the questions.
@@ -1068,6 +1144,7 @@ kir fop ble bhu
 kir fop ble bhu
 D
 rnu fop ble rub
+<<<PAGE:323>>>
 rnu fop ble rub
 Correct Ans : A
 Subject : Gen. Reasoning graduate

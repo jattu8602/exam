@@ -2,6 +2,7 @@ Subject: FISHERIES SCIENCE graduate
 Questions: 33
 ========================================
 
+Page: 528
 Q.No: 68
 2630476
 Identify the type of boat.
@@ -27,10 +28,12 @@ Correct Ans : A
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 528
 Q.No: 69
 2630479
 Which fisherman may have a considerable investment in boats and gear but more often rely on locally produced
 equipment that is procured at a little financial cost. They may also provide a seasonal labour force for boat and
+<<<PAGE:529>>>
 gear owners? Fishermen in this group usually have other important sources of income, such as agriculture, urban
 labour or transport, with which they alternate their fishing activities.
 कोनसे  मछुआरे का नावों और गियर में काफी निवेश हो सकता है लेकिन वे अक्सर स्थानीय रूप से उत्पाादित उपकरणों पर भरोसा करते हैं जो थोड़ीी
@@ -53,6 +56,7 @@ Correct Ans : D
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 529
 Q.No: 70
 2630480
 Which may be defined as the length at which 50% of all individuals within a population are sexually mature
@@ -72,8 +76,10 @@ Puberty
 पुबर्टी
 Correct Ans : A
 Subject : FISHERIES SCIENCE graduate
+<<<PAGE:530>>>
 
 ----------------------------------------
+Page: 530
 Q.No: 71
 2630483
 Species inhabiting river systems often spawn?
@@ -94,6 +100,7 @@ Correct Ans : D
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 530
 Q.No: 72
 2630487
 What calculates the cost of transport for swimming at a given speed Jg-1 km-1as well as its most efficient speed? 
@@ -112,8 +119,10 @@ Swim Respiro regulator 
 स्विम रेस्पिरो रेगुलेटर
 Correct Ans : A
 Subject : FISHERIES SCIENCE graduate
+<<<PAGE:531>>>
 
 ----------------------------------------
+Page: 531
 Q.No: 73
 2630488
 Which among the following is not present in a fish heart?
@@ -134,6 +143,7 @@ Correct Ans : D
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 531
 Q.No: 74
 2630489
 Distension of the stomach activates cholinergic response which triggers secretion from the gastric mucosa of
@@ -154,8 +164,10 @@ Oxidation 
 ऑक्सीीकरण
 Correct Ans : A
 Subject : FISHERIES SCIENCE graduate
+<<<PAGE:532>>>
 
 ----------------------------------------
+Page: 532
 Q.No: 75
 2630490
 Hyper nutrification during aquaculture leads to which of the following?
@@ -176,6 +188,7 @@ Correct Ans : C
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 532
 Q.No: 76
 2630491
 Carp and goldfish excrete upto 10 times more nitrogen through which of the following?
@@ -196,9 +209,11 @@ Correct Ans : A
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 532
 Q.No: 77
 2630495
 Which among the following is not a free-floating weed?
+<<<PAGE:533>>>
 निम्नलिखित में से कौन मुक्त तैरने वाला खरपतवार नहीं है?
 A
 Pistia stratiotes L
@@ -216,6 +231,7 @@ Correct Ans : D
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 533
 Q.No: 78
 2630496
 Which of the following is not a method for weed cleaning?
@@ -236,10 +252,12 @@ Correct Ans : D
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 533
 Q.No: 79
 2630498
 Pond areas containing a high percentage of coarse-grained soils, but lacking enough clay to prevent excessive
 seepage can be sealed by which of the following?
+<<<PAGE:534>>>
 मोटे दाने वाली मिट्टीी के उच्च प्रतिशत वाले तालाब क्षेत्रोंों, लेकिन अत्यधिक रिसाव को रोकने के लिए पर्याप्त मिट्टीी की कमी को किसके द्वाारा सील किया जा
 सकता है?
 A
@@ -258,6 +276,7 @@ Correct Ans : A
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 534
 Q.No: 80
 2630503
 With more stability in fill material what characteristic is observed in highest amount in slide slope?
@@ -278,9 +297,11 @@ Correct Ans : A
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 534
 Q.No: 81
 2630504
 How many types of excavated ponds are there?
+<<<PAGE:535>>>
 खुदे हुए तालाब कितने प्रकार के होते हैं?
 A
 Five
@@ -298,6 +319,7 @@ Correct Ans : D
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 535
 Q.No: 82
 2630506
 What consistency is used for filling gaps in boat construction?
@@ -318,9 +340,11 @@ Correct Ans : D
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 535
 Q.No: 83
 2630507
 Identify the given figure. 
+<<<PAGE:536>>>
 दी गई आकृति को पहचानिए।
 A
 Sliding bar clamp
@@ -338,6 +362,7 @@ Correct Ans : D
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 536
 Q.No: 84
 2630510
 What is the additional height of the dam provided as a safety factor to prevent overtopping by wave action or other
@@ -351,6 +376,7 @@ Settlement allowance
 बंदोबस्त भत्ताा
 C
 Pore size of soil
+<<<PAGE:537>>>
 मिट्टीी का छिद्र आकार
 D
 Side slopes
@@ -359,6 +385,7 @@ Correct Ans : A
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 537
 Q.No: 85
 2630511
 Which of the following is not a characteristic of wood used for boat construction?
@@ -379,6 +406,7 @@ Correct Ans : C
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 537
 Q.No: 86
 2630514
 Which among the following is not a type of waste in hatcheries or production farms?
@@ -391,6 +419,7 @@ Metabolic by-products
 मेटाबोलिक उपोत्पााद
 C
 Residues of biocides and biostats
+<<<PAGE:538>>>
 बायोसाइड्स और बायोस्टैट्स के अवशेष
 D
 Weed
@@ -399,6 +428,7 @@ Correct Ans : D
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 538
 Q.No: 87
 2630517
 Which of the following is not a method to control bird predators?
@@ -419,10 +449,12 @@ Correct Ans : B
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 538
 Q.No: 88
 2630518
 Identify the weed. 
 खरपतवार की पहचान करें।
+<<<PAGE:539>>>
 A
 Water hyacinth
 जल कुंभी
@@ -439,6 +471,7 @@ Correct Ans : B
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 539
 Q.No: 89
 2630519
 Ipomea carnea Jacq. is an emergent weed and it belongs to which family?
@@ -454,11 +487,13 @@ Convolvulaceae
 कॉन्वॉॉल्वुलसै
 D
 Cyperaceae
+<<<PAGE:540>>>
 साइपरेसी
 Correct Ans : C
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 540
 Q.No: 90
 2630520
 Which process consists of cutting the weeds close to the ground with the help of manual or power-operated mowing
@@ -480,6 +515,7 @@ Correct Ans : D
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 540
 Q.No: 91
 2630523
 What was known as ‘Infectious Dropsy of Carp’ (IDC)?
@@ -495,11 +531,13 @@ Spring septicaemia of carp (SSC)
 कार्प (एसएससी) का स्प्रिंग सेप्टिसीमिया
 D
 Spring protozoal infection (SPI)
+<<<PAGE:541>>>
 स्प्रिंग प्रोोटोजोअल संक्रमण (SPI)
 Correct Ans : A
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 541
 Q.No: 92
 2630524
 Identify the disease from the clinical signs.
@@ -524,10 +562,12 @@ Correct Ans : D
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 541
 Q.No: 93
 2630527
 Identify the ectoparasite.
 एक्टोोपैरासाइट की पहचान करें|
+<<<PAGE:542>>>
 A
 Trichodina sp.
 ट्रााइकोडिना सपा।
@@ -544,6 +584,7 @@ Correct Ans : A
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 542
 Q.No: 94
 2630530
 The glomerular filtration rate (GFR) is high in which of the following?
@@ -562,8 +603,10 @@ Freshwater teleosts
 मीठे पानी का टेलोस्ट
 Correct Ans : D
 Subject : FISHERIES SCIENCE graduate
+<<<PAGE:543>>>
 
 ----------------------------------------
+Page: 543
 Q.No: 95
 2630531
 Assimilation of digested food takes place in which of the following?
@@ -584,6 +627,7 @@ Correct Ans : B
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 543
 Q.No: 96
 2630533
 Which can be defined as any behaviour that increases the fitness, defined in terms of development and survival, of
@@ -604,8 +648,10 @@ Incubation
 इन्क्यूबेशन
 Correct Ans : B
 Subject : FISHERIES SCIENCE graduate
+<<<PAGE:544>>>
 
 ----------------------------------------
+Page: 544
 Q.No: 97
 2630534
 Which also known as viability indicator models, suggest that male ornament expression signals the genetic quality
@@ -628,6 +674,7 @@ Correct Ans : B
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 544
 Q.No: 98
 2630537
 Female competition over males is expected if there is a ?
@@ -646,8 +693,10 @@ Shortage of males or if variation in male quality is large
 पुरुषों की कमी या यदि पुरुष गुणवत्ताा में भिन्नता बड़ीी है
 Correct Ans : D
 Subject : FISHERIES SCIENCE graduate
+<<<PAGE:545>>>
 
 ----------------------------------------
+Page: 545
 Q.No: 99
 2630538
 In water, the solubility of gases does not depend om which of the following?
@@ -668,6 +717,7 @@ Correct Ans : D
 Subject : FISHERIES SCIENCE graduate
 
 ----------------------------------------
+Page: 545
 Q.No: 100
 2630541
 What is the structure of hemoglobin of fish?
@@ -686,5 +736,6 @@ Trimer
 ट्रिमर
 Correct Ans : A
 Subject : FISHERIES SCIENCE graduate
+<<<PAGE:546>>>
 
 ----------------------------------------

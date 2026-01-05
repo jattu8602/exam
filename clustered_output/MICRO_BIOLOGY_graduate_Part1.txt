@@ -2,6 +2,7 @@ Subject: MICRO BIOLOGY graduate
 Questions: 50
 ========================================
 
+Page: 273
 Q.No: 51
 2619166
 Louis Pasteur is not related with:
@@ -22,6 +23,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 273
 Q.No: 52
 2619167
 Which enzymes is responsible for alcoholic fermentation ?
@@ -37,11 +39,13 @@ Zymase 
 ज़ााइमेज़
 D
 Oxidase
+<<<PAGE:274>>>
 ऑक्सीीडेज
 Correct Ans : C
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 274
 Q.No: 53
 2619173
 Mycoplasmas differ from Chalamydiae in that, it ______________.
@@ -62,6 +66,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 274
 Q.No: 54
 2619174
 Techoic acid is ________.
@@ -80,8 +85,10 @@ Influence the permeability of the membrane
 झिल्लीी की पारगम्यता को प्रभावित करना 
 Correct Ans : A
 Subject : MICRO BIOLOGY graduate
+<<<PAGE:275>>>
 
 ----------------------------------------
+Page: 275
 Q.No: 55
 2619175
 ________extremely resistant to most of the common sterilization producers
@@ -102,6 +109,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 275
 Q.No: 56
 2619183
 Resolving power of microscope depends on all except:  
@@ -122,9 +130,11 @@ Correct Ans : D
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 275
 Q.No: 57
 2619184
 The rate at which light enters through objects in Phase contrast microscopy is _________.
+<<<PAGE:276>>>
 चरण कंट्राास्ट माइक्रोोस्कोोपी में वस्तुओं के माध्यम से प्रकाश जिस दर से प्रवेश करता है, वह है _________।
 A
 Constant 
@@ -142,6 +152,7 @@ Correct Ans : D
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 276
 Q.No: 58
 2619185
 In fluorescence microscopy, which of the following performs the function of removing all light except the blue light ?
@@ -162,6 +173,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 276
 Q.No: 59
 2619193
 Which one of the following force is not used in centrifugation?
@@ -169,6 +181,7 @@ Which one of the following force is not used in centrifugation?
 A
 Gravitational force
 गुरुत्वााकर्षण बल
+<<<PAGE:277>>>
 B
 Electrostatic force
 विद्युत बल
@@ -182,6 +195,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 277
 Q.No: 60
 2619194
 What is the correct order of staining reagents in Gram-Staining ?
@@ -202,6 +216,7 @@ Correct Ans : C
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 277
 Q.No: 61
 2619199
 Actinomyces, a subgroup of filamentous bacteria is _______.
@@ -214,6 +229,7 @@ Gram negative
 ग्रााम नेगेटिव
 C
 Fuelgen positive
+<<<PAGE:278>>>
 फ्यूलजेन पॉजिटिव
 D
 Fuelgen negative
@@ -222,6 +238,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 278
 Q.No: 62
 2619200
 What are factors on which disinfectivity of a disinfectant depends ?
@@ -242,6 +259,7 @@ Correct Ans : D
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 278
 Q.No: 63
 2619206
 Which among the following are not the applications of bioinformatics ?
@@ -257,11 +275,13 @@ Understand the relationships between organisms
 जीवों के बीच संबंधों को समझना 
 D
 None of the given option
+<<<PAGE:279>>>
 दिए गए विकल्पोंों में से कोई नहीं
 Correct Ans : D
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 279
 Q.No: 64
 2619207
 Which of the following is a database of first-hand information?
@@ -282,6 +302,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 279
 Q.No: 65
 2619208
 To calculate the median, all the items of a series have to be arranged in a/an ________.
@@ -300,8 +321,10 @@ None of the given option
 दिए गए विकल्पोंों में से कोई नहीं
 Correct Ans : C
 Subject : MICRO BIOLOGY graduate
+<<<PAGE:280>>>
 
 ----------------------------------------
+Page: 280
 Q.No: 66
 2619216
 An enzyme that catalyses the conversion of an aldose sugar to a ketose sugar: 
@@ -322,6 +345,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 280
 Q.No: 67
 2619217
 Enzymes increase the rate of reaction by ________.
@@ -342,9 +366,11 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 280
 Q.No: 68
 2619218
 Minimum growth temperature of microbes is _______.
+<<<PAGE:281>>>
 रोगाणुओं का न्यूनतम वृद्धि तापमान _______ है।
 A
 The growth of organisms at lowest temperature 
@@ -362,6 +388,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 281
 Q.No: 69
 2619226
 .
@@ -379,12 +406,14 @@ Correct Ans : D
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 281
 Q.No: 70
 2619227
 Most of the blood glucose burnt as ‘fuel’ is consumed by ________.
 'ईंधन' के रूप में अधिकांश रक्त ग्लूकोज की खपत ________ द्वाारा की जाती है।
 A
 Liver 
+<<<PAGE:282>>>
 यकृत
 B
 Brain
@@ -399,6 +428,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 282
 Q.No: 71
 2619232
 Which of the following is the correct sequence of electron acceptors in ETS? 
@@ -419,6 +449,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 282
 Q.No: 72
 2619233
 Vitamin lipoic acid is responsible for _______.
@@ -428,6 +459,7 @@ Carboxylation
 कार्बोक्सिलीकरण
 B
 Aldehyde group transfer
+<<<PAGE:283>>>
 एल्डिहाइड समूह स्थानांतरण
 C
 Molecular rearrangement
@@ -439,6 +471,7 @@ Correct Ans : D
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 283
 Q.No: 73
 2619239
 Coding regions of genes are interrupted by _______sequences. 
@@ -459,6 +492,7 @@ Correct Ans : C
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 283
 Q.No: 74
 2619240
 Which of the following RNA’s structure is similar to clover leaf? 
@@ -471,6 +505,7 @@ rRNA
 आरआरएनए
 C
 mRNA
+<<<PAGE:284>>>
 एमआरएनए
 D
 hnRNA
@@ -479,6 +514,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 284
 Q.No: 75
 2619241
 Cistron refers to the __________.
@@ -499,6 +535,7 @@ Correct Ans : C
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 284
 Q.No: 76
 2619249
 Which of the following genes of the E. coli “Lac operon” codes for a repressor protein ?
@@ -514,11 +551,13 @@ c gene 
 c जीन
 D
 z gene
+<<<PAGE:285>>>
 z जीन
 Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 285
 Q.No: 77
 2619250
 The region of the Lac operon which must be free for structural gene transcription to occur is _______.
@@ -539,6 +578,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 285
 Q.No: 78
 2619251
 Degeneracy of the genetic code denotes: 
@@ -557,8 +597,10 @@ Multiple codons for a single amino acid
 एकल अमीनो एसिड के लिए एकाधिक कोडन 
 Correct Ans : D
 Subject : MICRO BIOLOGY graduate
+<<<PAGE:286>>>
 
 ----------------------------------------
+Page: 286
 Q.No: 79
 2619259
 Release of a polypeptide chain from a ribosome is catalyzed by ________.
@@ -579,6 +621,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 286
 Q.No: 80
 2619260
 Codon AUG is ___________ .
@@ -599,9 +642,11 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 286
 Q.No: 81
 2619265
 __________ is a device for introducing air in to the liquid in a fermentor.
+<<<PAGE:287>>>
 __________ एक किण्वक में तरल में हवा को पेश करने का एक उपकरण है।
 A
 Agitator
@@ -619,6 +664,7 @@ Correct Ans : C
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 287
 Q.No: 82
 2619266
 Which microorganism is responsible for major alcoholic fermentation ?
@@ -639,6 +685,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 287
 Q.No: 83
 2619272
 Coliform count is done by ________.
@@ -646,6 +693,7 @@ Coliform count is done by ________.
 A
 VR medium
 वीआर माध्यम
+<<<PAGE:288>>>
 B
 McConkey’s agar
 मैककॉन्कीी अगर
@@ -659,6 +707,7 @@ Correct Ans : C
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 288
 Q.No: 84
 2619273
 HIV can be detected and confirmed by which test ?
@@ -679,6 +728,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 288
 Q.No: 85
 2619274
 Which of the following is not true regarding observation of water pollution?
@@ -689,6 +739,7 @@ Multiple tube method is used to calculate the number of bacteria
 B
 C
 Sodium thiosulfate is used to neutralize chlorine
+<<<PAGE:289>>>
 सोडियम थायोसल्फेेट का उपयोग क्लोोरीन को बेअसर करने के लिए किया जाता है
 D
 Presence of corynebacterium indicates contamination
@@ -697,6 +748,7 @@ Correct Ans : D
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 289
 Q.No: 86
 2619282
 Microbial ecosystem of soil includes-
@@ -717,6 +769,7 @@ Correct Ans : C
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 289
 Q.No: 87
 2619283
 Which of the following is non-fluorescent pseudomonad?
@@ -732,11 +785,13 @@ Streptomyces
 स्ट्रेप्टोोमाइसिस 
 D
 Arthobacter
+<<<PAGE:290>>>
 आर्थ्रोबैक्टर 
 Correct Ans : D
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 290
 Q.No: 88
 2619284
 Microbial degradation of waste water occurs in which of the following treatment ?
@@ -757,6 +812,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 290
 Q.No: 89
 2619292
 Monocytes differentiate into which kind of phagocytic cells ?
@@ -775,8 +831,10 @@ T cell
 T कोशिका
 Correct Ans : A
 Subject : MICRO BIOLOGY graduate
+<<<PAGE:291>>>
 
 ----------------------------------------
+Page: 291
 Q.No: 90
 2619293
 Cell-mediated immunity is carried out by______while humoral immunity is mainly carried out by______ .
@@ -797,6 +855,7 @@ Correct Ans : C
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 291
 Q.No: 91
 2619298
 Immunoglobulin classes are differentiated from each other on the basis of their _______.
@@ -817,9 +876,11 @@ Correct Ans : D
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 291
 Q.No: 92
 2619299
 In an antigen, haptens are _________.
+<<<PAGE:292>>>
 एक प्रतिजन में, हैप्टेंस _________ होते हैं।
 A
 Immunogenic 
@@ -837,6 +898,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 292
 Q.No: 93
 2619305
 In Addison disease antibody are formed against self _______.
@@ -857,6 +919,7 @@ Correct Ans : D
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 292
 Q.No: 94
 2619306
 The normal immunological control of tumors is referred to as ________.
@@ -864,6 +927,7 @@ The normal immunological control of tumors is referred to as ________.
 A
 Immunological tolerance
 प्रतिरक्षाात्मक सहिष्णुता
+<<<PAGE:293>>>
 B
 Immune surveillance
 प्रतिरक्षाा निरीक्षण
@@ -877,6 +941,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 293
 Q.No: 95
 2619307
 _________ refers to aggregates of lymphocytes around the splenic artery.
@@ -897,6 +962,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 293
 Q.No: 96
 2619315
 Causative agent of syphilis is________. 
@@ -909,6 +975,7 @@ T. pertenue 
 टी. परटेन्यू
 C
 T. carateum 
+<<<PAGE:294>>>
 टी. कैरेटियम
 D
 T. endemicum
@@ -917,6 +984,7 @@ Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 294
 Q.No: 97
 2619316
 DNA vaccines cannot be prepared for ________.
@@ -937,6 +1005,7 @@ Correct Ans : C
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 294
 Q.No: 98
 2619317
 AIDS disease is caused by a virus which belongs to ________.
@@ -952,11 +1021,13 @@ Hepatitis virus group 
 हेपेटाइटिस वायरस समूह
 D
 Adeno virus group
+<<<PAGE:295>>>
 एडेनो वायरस समूह
 Correct Ans : A
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 295
 Q.No: 99
 2619325
 Bleach is an example of which group of chemicals used for disinfection ?
@@ -977,6 +1048,7 @@ Correct Ans : B
 Subject : MICRO BIOLOGY graduate
 
 ----------------------------------------
+Page: 295
 Q.No: 100
 2619326
 Enzyme activity in biological systems may be affected by the following:
@@ -995,5 +1067,6 @@ All of the given option
 दिए गए सभी विकल्प
 Correct Ans : D
 Subject : MICRO BIOLOGY graduate
+<<<PAGE:296>>>
 
 ----------------------------------------

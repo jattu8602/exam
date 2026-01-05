@@ -2,6 +2,7 @@ Subject: Gen. Maths graduate
 Questions: 50
 ========================================
 
+Page: 79
 Q.No: 172
 2616608
 एक आयताकार टेबल का परिमाप 48 सेमी हैं। यदि आयताकार टेबल का क्षेत्रफल 128 वर्ग सेमी हैं, तो टेबल की लम्बााई क्याा होगी ?     
@@ -21,6 +22,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 79
 Q.No: 173
 2616615
 Find the perimeter of a rectangle whose length is 23.5 cm and breadth is 16.5 cm.
@@ -30,6 +32,7 @@ A
 80 सेमी 
 B
 79.5 cm
+<<<PAGE:80>>>
 79.5 सेमी 
 C
 82 cm
@@ -41,6 +44,7 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 80
 Q.No: 174
 2616623
 A
@@ -59,6 +63,7 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 80
 Q.No: 175
 2616641
 A street of width 10 m surrounds a rectangular garden from outside, whose measurements are 200 m× 180 m. The area of the path
@@ -72,6 +77,7 @@ B
 7200 वर्ग मीटर
 C
 8000 square meter
+<<<PAGE:81>>>
 8000 वर्ग मीटर
 D
 9000 square meter
@@ -80,6 +86,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 81
 Q.No: 176
 2616822
 The compound interest on Rs. 8000 in 1 year at 4% per annum the interest being compound half yearly is-
@@ -100,6 +107,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 81
 Q.No: 177
 2616829
 An amount of Rs 4000 lent at 10% per annum compound interest for 2 years will become-
@@ -117,9 +125,11 @@ D
 4840
 4840
 Correct Ans : D
+<<<PAGE:82>>>
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 82
 Q.No: 178
 2616837
 A sum of Rs 846.8 is accumulated in 2 years at 20% compound interest on a certain amount. Then the original amount (in rupees)
@@ -141,16 +151,19 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 82
 Q.No: 179
 2617029
 A
 B
 C
+<<<PAGE:83>>>
 D
 Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 83
 Q.No: 180
 2617036
 A
@@ -163,8 +176,10 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 83
 Q.No: 181
 2617044
+<<<PAGE:84>>>
 A
 B
 C
@@ -173,6 +188,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 84
 Q.No: 182
 2617600
 In what time a 250 m long train running with a speed of 30 m/s will cross a 200 m long bridge?
@@ -191,8 +207,10 @@ D
 15 सेकंड
 Correct Ans : D
 Subject : Gen. Maths graduate
+<<<PAGE:85>>>
 
 ----------------------------------------
+Page: 85
 Q.No: 183
 2617607
 A train crosses a 60 meter long platform in 12 seconds and a woman standing on the platform in 10 seconds, find the speed of the
@@ -214,6 +232,7 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 85
 Q.No: 184
 2617615
 Nandini covers a distance of 16 km downstream in a river in 4 hours and returns in 8 hours. What is her speed in still water?
@@ -234,10 +253,12 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 85
 Q.No: 185
 2617633
 Two trains leave at the same time from 2 stations 100 km apart and go in opposite directions and cross each other at a distance of
 90 km from one station. Accordingly, what is the ratio of the speeds of those trains?
+<<<PAGE:86>>>
 100 किलोमीटर दूर 2 स्टेशनों से दो रेलगाड़ियां एक ही समय पर छूटकर विपरीत दिशा में जाती हैं और एक स्टेशन से 90 किलोमीटर की दूरी पर एक दूसरे को पार करती
 हैं| तद्नुसार, उन रेलगाड़ियों की गति का अनुपात क्याा है?
 A
@@ -256,6 +277,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 168
 Q.No: 172
 2616609
 The length of a rectangular board is 5 times that of its breadth. If the area of the board is 125 square meters, what is its length?
@@ -276,8 +298,10 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 168
 Q.No: 173
 2616616
+<<<PAGE:169>>>
 A
 21 cm
 21 सेमी 
@@ -294,6 +318,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 169
 Q.No: 174
 2616624
 एक शंकु की ऊंचाई, जिसके आधार का क्षेत्रफल 60 वर्ग मीटर है और आयतन 1000 वर्ग मीटर है________?
@@ -313,8 +338,10 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 169
 Q.No: 175
 2616642
+<<<PAGE:170>>>
 A
 7 cm
 7 सेमी 
@@ -331,6 +358,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 170
 Q.No: 176
 2616823
 The Principal which will amount to Rs 2800.40 in 3 years at the rate of 4% per annum compound interest is-
@@ -351,6 +379,7 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 170
 Q.No: 177
 2616830
 A principal of Rs 6876, after 2 years compounded annually, the rate of interest being 6% per annum during the first year and 8%
@@ -359,6 +388,7 @@ per annum during the second year (in rupee) will amount to-
 (रुपये में) हो जायेगी -
 A
 7871.64
+<<<PAGE:171>>>
 7871.64
 B
 7873.65
@@ -373,6 +403,7 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 171
 Q.No: 178
 2616838
 The compound interest (in rupees) on a sum of Rs. 3600 at 16% per annum for 9 months when interest is compound quarterly is-
@@ -393,10 +424,12 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 171
 Q.No: 179
 2617030
 A
 120
+<<<PAGE:172>>>
 120
 B
 130
@@ -411,16 +444,19 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 172
 Q.No: 180
 2617037
 A
 B
 C
+<<<PAGE:173>>>
 D
 Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 173
 Q.No: 181
 2617045
 A
@@ -439,6 +475,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 173
 Q.No: 182
 2617601
 A train moves at a speed of 72 m/s, and another train moves at a speed of 25 m/s, find the speed of both trains in km/hr.
@@ -451,6 +488,7 @@ B
 260, 95
 C
 300, 85
+<<<PAGE:174>>>
 300, 85
 D
 305.2, 90.5
@@ -459,6 +497,7 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 174
 Q.No: 183
 2617608
 Gajodhar takes his boat 80 km downstream in 4 hours and comes back in 5 hours. Determine the speed of the boat in still water
@@ -480,6 +519,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 174
 Q.No: 184
 2617616
 A boat goes upstream from B to A and downstream from A to B in 4 hours, if the speed of the boat in still water is 8 km/h and the
@@ -497,11 +537,13 @@ C
 14.25 किमी
 D
 13.75 km
+<<<PAGE:175>>>
 13.75 किमी
 Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 175
 Q.No: 185
 2617634
 Two trains P and Q start from Station and travel towards each other at 70 kmph and 90 kmph respectively. When they meet, the
@@ -524,6 +566,7 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 239
 Q.No: 172
 2616610
 एक आयताकार मैदान का विकर्ण 15 मीटर है और इसका क्षेत्रफल 108 वर्ग मीटर है। 50.50 रुपये प्रति मीटर की दर से खेत में बाड़ लगाने की लागत क्याा है?
@@ -543,11 +586,13 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 239
 Q.No: 173
 2616617
 100 मीटर, 150 मीटर और 200 मीटर भुजाओं वाले त्रिभुजाकार पार्क को समतल करने की लागत (रु. में) 20.50 प्रति वर्ग मीटर की दर से क्याा है?
 A
 106480.575
+<<<PAGE:240>>>
 106480.575
 B
 201406.718
@@ -562,6 +607,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 240
 Q.No: 174
 2616625
 A
@@ -580,6 +626,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 240
 Q.No: 175
 2616643
 The length of a rectangular board is 3 times that of its breadth. If the area of the board is 192 square meters, what is its length?
@@ -589,6 +636,7 @@ A
 24 मीटर 
 B
 18 m
+<<<PAGE:241>>>
 18 मीटर 
 C
 15 m
@@ -600,6 +648,7 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 241
 Q.No: 176
 2616824
 A sum of money on compound interest amounts to Rs 12346 in 3 years and Rs 8640 in 2 years the rate of interest per annum is-
@@ -620,6 +669,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 241
 Q.No: 177
 2616831
 Three years ago, the value of my shop was Rs 68760 if the value depreciates by 5% every year now its value is-
@@ -640,12 +690,14 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 241
 Q.No: 178
 2616839
 A sum of Rs 4000 amounts to Rs 8000 in two years at compound interest. The interest for four years is-
 चक्रवृद्धि ब्यााज पर दो वर्षों में 4000 रुपये की राशि 8000 रुपये हो जाती है। चार साल के लिए ब्यााज क्याा है?
 A
 16000
+<<<PAGE:242>>>
 16000
 B
 14000
@@ -660,6 +712,7 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 242
 Q.No: 179
 2617031
 A
@@ -678,9 +731,11 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 242
 Q.No: 180
 2617038
 A
+<<<PAGE:243>>>
 B
 C
 D
@@ -688,6 +743,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 243
 Q.No: 181
 2617046
 A
@@ -695,9 +751,11 @@ B
 C
 D
 Correct Ans : A
+<<<PAGE:244>>>
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 244
 Q.No: 182
 2617602
 The water of a river is flowing at a speed of 5 km/hour and a boatman can row a boat at a speed of 3 km/hour in still water, how long will it take him to row a boat with a 
@@ -719,6 +777,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 244
 Q.No: 183
 2617609
 Ram can swim at a speed of 8 km per hour in still water, if the current of water is 4 km per hour, how much time will it take for Ram to swim 60 km in the stream?
@@ -739,6 +798,7 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 244
 Q.No: 184
 2617617
 A man can swim at the rate of 5 km per hour in still water, if the speed of water is 2 km per hour, how long will it take him to swim 15 km upstream?
@@ -754,11 +814,13 @@ C
 4 घंटे
 D
 5 hours
+<<<PAGE:245>>>
 5 घंटे
 Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 245
 Q.No: 185
 2617635
 A boat covers the distance from P to Q upstream and from Q to P downstream in 6 hours if the speed of the boat in still water is 12 kmph and the speed of the current is 6
@@ -781,12 +843,14 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 326
 Q.No: 172
 2616611
 एक आयताकार मैदान की लंबाई और चौड़ााई 3:2 के अनुपात में है। यदि मैदान का क्षेत्रफल 1350 वर्ग मीटर है, तो 30 रूपये प्रति मीटर की दर से इसकी बाड़ लगाने
 की लागत होगी :
 A
 Rs. 5680
+<<<PAGE:327>>>
 5680 रुपये
 B
 Rs. 4500
@@ -801,6 +865,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 327
 Q.No: 173
 2616618
 In the given figure, AOBCA represents a quadrant of a circle of radius 8 cm with center O. What is the area of the shaded part?
@@ -808,11 +873,13 @@ In the given figure, AOBCA represents a quadrant of a circle of radius 8 cm with
 A
 B
 C
+<<<PAGE:328>>>
 D
 Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 328
 Q.No: 174
 2616626
 What is the area (in square cm) of the rhombus, if the length of each side of a rhombus is 5 cm and one of the diagonals is 8
@@ -834,6 +901,7 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 328
 Q.No: 175
 2616644
 A park is 32 m long and 16 m wide. A  carpet of 260 square meter area is laid on the floor. What is the area of the park (in
@@ -851,11 +919,13 @@ C
 252
 D
 286
+<<<PAGE:329>>>
 286
 Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 329
 Q.No: 176
 2616825
 At what rate percent per annum will Rs 74088 amount to Rs 97336 in 3 years at compound interest?
@@ -868,6 +938,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 329
 Q.No: 177
 2616832
 Three years ago, the value of my pen was Rs. 675. If the value of profit increases by 5% every year, now its value (in rupees)
@@ -879,6 +950,7 @@ A
 B
 781.39
 781.39
+<<<PAGE:330>>>
 C
 854.35
 854.35
@@ -889,6 +961,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 330
 Q.No: 178
 2616840
 The compound Interest (in rupees) on Rs. 680 in 2 years at 8% per annum, the interest being compounded half yearly is-
@@ -909,6 +982,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 330
 Q.No: 179
 2617032
 A
@@ -916,6 +990,7 @@ A
 5
 B
 4
+<<<PAGE:331>>>
 4
 C
 8

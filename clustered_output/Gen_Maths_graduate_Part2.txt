@@ -2,16 +2,19 @@ Subject: Gen. Maths graduate
 Questions: 50
 ========================================
 
+Page: 331
 Q.No: 180
 2617039
 A
 B
 C
 D
+<<<PAGE:332>>>
 Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 332
 Q.No: 181
 2617047
 A
@@ -30,6 +33,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 332
 Q.No: 182
 2617603
 A boatman goes 30 km downstream in his boat in 3 hours, if the speed of the current is 5 km per hour, find the normal speed
@@ -41,6 +45,7 @@ A
 8 km/hr.
 B
 10 km/hr.
+<<<PAGE:333>>>
 10 km/hr.
 C
 5 km/hr.
@@ -52,6 +57,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 333
 Q.No: 183
 2617610
 A train travelling at an average speed of 80 km per hour reaches its destination on time, if it travels at an average speed of 40
@@ -74,6 +80,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 333
 Q.No: 184
 2617618
 A train running at a speed of 80 km per hour crosses a platform in 25 seconds, if the length of the train is 150 meters, what is
@@ -86,6 +93,7 @@ A
 B
 433.3 m
 433.3 मीटर
+<<<PAGE:334>>>
 C
 435.3 m
 435.3 मीटर
@@ -96,6 +104,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 334
 Q.No: 185
 2617636
 A man can row a boat in still water at a speed of 8 km per hour, if the speed of the river is 2 km per hour, he takes 80 minutes
@@ -118,9 +127,11 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 414
 Q.No: 172
 2616612
 If the length of the diagonal of a square is 15 cm, then what will be its area (in sq cm)?  
+<<<PAGE:415>>>
 यदि एक वर्ग के विकर्ण की लम्बााई 15 सेमी है, तो इसका क्षेत्रफल (वर्ग सेमी में ) क्याा होगा ?   
 A
 36
@@ -138,6 +149,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 415
 Q.No: 173
 2616619
 The base of a solid right prism is a triangle whose sides are 9 cm, 12 cm and 15 cm. The height of the prism is 5 cm. What is the
@@ -160,10 +172,12 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 415
 Q.No: 174
 2616627
 If the length of a rectangle is increased to its three times and breadth is decreases to its half, then the ratio of the area of given
 rectangle to the area of new rectangle is:
+<<<PAGE:416>>>
 यदि एक आयत की लंबाई को तीन गुना कर दी जाए और चौड़ााई को आधा कर दिया जाए, तो दिए गए आयत के क्षेत्रफल का नए आयत के क्षेत्रफल से अनुपात है:
 A
 3:4
@@ -181,6 +195,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 416
 Q.No: 175
 2616645
 The length of a rectangular board is 2 times that of its breadth. If the area of the board is 288 square meters, what is its length?
@@ -201,6 +216,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 416
 Q.No: 176
 2616826
 The compound interest on Rs 18000 for 9 months at 24% per annum, interest being compound quarterly, is-
@@ -208,6 +224,7 @@ The compound interest on Rs 18000 for 9 months at 24% per annum, interest being 
 A
 3438.288
 3438.288
+<<<PAGE:417>>>
 B
 25862.388
 25862.388
@@ -221,6 +238,7 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 417
 Q.No: 177
 2616833
 When principal amount is Rs. T, Rate of interest is 4r% per annum, then a person will get after 2 years at compound interest:
@@ -233,10 +251,12 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 417
 Q.No: 178
 2616841
 Two years ago, the value of my shoes was Rs 1320 if the value depreciates by 2% every year now its value is-
 दो साल पहले, मेरे जूते का मूल्य 1320 रुपये था यदि मूल्य हर साल 2% कम हो जाता है, तो अब इसका मूल्य क्याा है?
+<<<PAGE:418>>>
 A
 1260
 1260
@@ -253,6 +273,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 418
 Q.No: 179
 2617033
 A
@@ -271,8 +292,10 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 418
 Q.No: 180
 2617040
+<<<PAGE:419>>>
 A
 72 units
 72 इकाइयां
@@ -289,6 +312,7 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 419
 Q.No: 181
 2617048
 A
@@ -307,10 +331,12 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 419
 Q.No: 182
 2617604
 Ram goes 96 km upstream in 6 hours with his steamer, if the speed of the stream is 6 km per hour, then find the speed of Ram's
 steamer in still water.
+<<<PAGE:420>>>
 राम अपने स्टीीमर से 6 घंटे में धारा के प्रतिकूल 96 किमी जाता है, यदि धारा की गति 6 किमी प्रति घंटा है, तो शांत जल में राम के स्टीीमर की गति ज्ञाात कीजिए।
 A
 28
@@ -328,6 +354,7 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 420
 Q.No: 183
 2617611
 The diameter of the front wheel of a car engine is (3x) cm and the diameter of the rear wheel is (3y) cm. If the front wheel rotates
@@ -342,9 +369,11 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 420
 Q.No: 184
 2617619
 A train 250 m long running at a speed of 45 km/h, will take how much time to cross a bridge 180 m long?
+<<<PAGE:421>>>
 250 मीटर लंबी एक रेलगाड़ीी 45 किलोमीटर प्रति घंटा की गति से चल रही है, 180 मीटर लंबे पुल को पार करने में उसे कितना समय लगेगा?
 A
 34.4 sec
@@ -362,6 +391,7 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 421
 Q.No: 185
 2617637
 A boat travels 8 km in 3 hours with stream and against the stream, if the speed of the stream is 1 km per hour, then find the speed
@@ -383,6 +413,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 486
 Q.No: 172
 2616613
 The area of a triangular plot having sides 9 m, 40 m, and 41 m is equal to the area of a rectangular field whose sides are in the ratio 20:9. What is the perimeter (in mete
@@ -397,6 +428,7 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 486
 Q.No: 173
 2616620
 If the sum of the edges of a cube is 60 cm, then what will be the volume (in cubic cm) of the cube?
@@ -415,8 +447,10 @@ D
 56
 Correct Ans : A
 Subject : Gen. Maths graduate
+<<<PAGE:487>>>
 
 ----------------------------------------
+Page: 487
 Q.No: 174
 2616628
 What is the area of the square (in square cm) whose vertices lie on a circle of radius 4 cm?
@@ -437,6 +471,7 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 487
 Q.No: 175
 2616646
 एक आयताकार मैदान की लंबाई और चौड़ााई का अनुपात 4:3 है। यदि मैदान का क्षेत्रफल 2700 वर्ग मीटर है, तो इसकी 20 रूपये प्रति मीटर की दर से बाड़ लगाने की कीमत क्याा होगी ??
@@ -456,12 +491,14 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 487
 Q.No: 176
 2616827
 If rate of interest be 6% per annum for the first year 8% per annum for the second year and 10% per annum for the third year, then the compound interest of 12000 for 3
 यदि ब्यााज की दर पहले वर्ष के लिए 6%, दूसरे वर्ष 8% प्रति वर्ष और तीसरे वर्ष के लिए 10% प्रति वर्ष है, तो 3 वर्षों के लिए 12000 का चक्रवृद्धि ब्यााज क्याा होगा?
 A
 4685.36
+<<<PAGE:488>>>
 4685.36
 B
 6536.63
@@ -476,6 +513,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 488
 Q.No: 177
 2616834
 The sum of money which becomes Rs 1680 at 12% rate of compound interest after two years is-
@@ -496,6 +534,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 488
 Q.No: 178
 2616842
 The compound interest (in rupees) on Rs. 8000 in 2 years at 8% per annum, the interest being compounded half yearly is-
@@ -516,8 +555,10 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 488
 Q.No: 179
 2617034
+<<<PAGE:489>>>
 A
 B
 C
@@ -526,6 +567,7 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 489
 Q.No: 180
 2617041
 A
@@ -542,8 +584,10 @@ D
 35
 Correct Ans : B
 Subject : Gen. Maths graduate
+<<<PAGE:490>>>
 
 ----------------------------------------
+Page: 490
 Q.No: 181
 2617049
 A
@@ -554,6 +598,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 490
 Q.No: 182
 2617605
 A boat takes 10 hours to travel from one place to another in a river and back again. If the river's velocity is 5 km per hour and the boat's speed in still water is 10 km per 
@@ -575,10 +620,12 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 490
 Q.No: 183
 2617612
 A swimmer swims from a point (P) against the current for 4 minutes and then swims with the current for another 4 minutes to reach the point (Q). What is the speed of cu
 एक तैराक एक बिंदु (P) से धारा के विरुद्ध 4 मिनट तक तैरता है और फिर बिंदु (Q) तक पहुँचने के लिए धारा के साथ और 4 मिनट तैरता है। यदि PQ 120 मीटर है तो धारा की गति क्याा है?
+<<<PAGE:491>>>
 A
 18 km/hr.
 18 किमी/घंटा
@@ -595,6 +642,7 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 491
 Q.No: 184
 2617620
 A train starts from P to go to Q, and at the same time another train starts from Q to go to P, both trains meet after 8 hours, and the train going from P to Q travels at the s
@@ -617,6 +665,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 491
 Q.No: 185
 2617638
 Two trains A and B start from Station and travel towards each other at 80 kmph and 100 kmph respectively. When they meet, the second train has travelled 160 km more 
@@ -636,8 +685,10 @@ D
 1500 किमी
 Correct Ans : A
 Subject : Gen. Maths graduate
+<<<PAGE:492>>>
 
 ----------------------------------------
+Page: 579
 Q.No: 172
 2616614
 What is the area (in square meter) of an equilateral triangular field, if the side of the field is 9 m?
@@ -656,6 +707,7 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 579
 Q.No: 173
 2616621
 If the sum of the edges of a cube is 48 cm, then what will be the volume (in cubic cm) of the cube?
@@ -674,8 +726,10 @@ D
 64  
 Correct Ans : D
 Subject : Gen. Maths graduate
+<<<PAGE:580>>>
 
 ----------------------------------------
+Page: 580
 Q.No: 174
 2616629
 One diagonal of a rhombus is 6 cm. If the other diagonal is equal to its side, then the area of rhombus (in square
@@ -695,6 +749,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 580
 Q.No: 175
 2616647
 एक आयताकार पार्क की लंबाई और चौड़ााई का अनुपात 7:4 है। एक 4 मीटर चौड़ाा पथ जो इसके बाहर चारों ओर घेरे हुए है, का क्षेत्रफल 416 वर्ग
@@ -711,10 +766,12 @@ C
 D
 12 m
 12 मीटर 
+<<<PAGE:581>>>
 Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 581
 Q.No: 176
 2616828
 In what time Rs 15625 will amount to Rs 19683 at 16% per annum compound interest, when the interest is
@@ -728,6 +785,7 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 581
 Q.No: 177
 2616835
 The compound interest on Rs 625 at 4% per annum for n years is Rs 51. The value of n is-
@@ -737,6 +795,7 @@ A
 4
 B
 5
+<<<PAGE:582>>>
 5
 C
 3
@@ -748,6 +807,7 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 582
 Q.No: 178
 2616843
 A sum for 2 years gives a compound interest of Rs 725 at the rate of 12% per annum. The sum (in rupees) is:
@@ -768,9 +828,11 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 582
 Q.No: 179
 2617035
 A
+<<<PAGE:583>>>
 B
 C
 D
@@ -778,6 +840,7 @@ Correct Ans : A
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 583
 Q.No: 180
 2617042
 A
@@ -791,11 +854,13 @@ C
 39
 D
 28
+<<<PAGE:584>>>
 28
 Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 584
 Q.No: 181
 2617050
 If 60% of 2/5 of a number is 86.4, then the number is:
@@ -816,6 +881,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 584
 Q.No: 182
 2617606
 The length of a train is 200 meters and its speed is 60 km per hour, in how much time will it pass a child standing
@@ -833,11 +899,13 @@ C
 125 sec.
 D
 120 sec.
+<<<PAGE:585>>>
 120 sec.
 Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 585
 Q.No: 183
 2617613
 A boat going downstream at 24 km/hr covers a distance of 3.8 km in 9 minutes. The same boat going upstream at
@@ -860,6 +928,7 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 585
 Q.No: 184
 2617621
 Mohit can row a boat in still water at a speed of 8 kmph, if the speed of the current is 4 km/h then it takes him 4
@@ -875,6 +944,7 @@ B
 C
 24 km
 24 किमी
+<<<PAGE:586>>>
 D
 28 km
 28 किमी
@@ -882,6 +952,7 @@ Correct Ans : C
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 586
 Q.No: 185
 2617639
 A boat travels 10 km per hour in still water but covers the same distance in double time going against the current,
@@ -904,6 +975,7 @@ Correct Ans : D
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 654
 Q.No: 172
 2616622
 The radius of the base and height of a cylinder is 14 cm and 5 cm respectively. What will be the curved surface area of the cylinder?
@@ -916,6 +988,7 @@ Correct Ans : B
 Subject : Gen. Maths graduate
 
 ----------------------------------------
+Page: 654
 Q.No: 173
 2616630
 The circumference of two circular fields is 176 m and 264 m, respectively. What is the difference between the area of the larger and the smaller circular field?

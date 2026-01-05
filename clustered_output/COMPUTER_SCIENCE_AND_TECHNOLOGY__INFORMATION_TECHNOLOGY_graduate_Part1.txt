@@ -2,6 +2,7 @@ Subject: COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 Questions: 50
 ========================================
 
+Page: 663
 Q.No: 1
 2613370
 Which refers to the technique of breaking a sequential process into small portions or suboperations?
@@ -22,6 +23,7 @@ Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 663
 Q.No: 2
 2613371
 In which type of topology, each device has a dedicated point-to-point line configuration only with the two devices on either side of it?
@@ -40,8 +42,10 @@ Tree
 ट्रीी
 Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+<<<PAGE:664>>>
 
 ----------------------------------------
+Page: 664
 Q.No: 3
 2613372
 Which layer of the OSI model coordinates the functions required to transmit a bit stream over a physical medium?
@@ -62,6 +66,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 664
 Q.No: 4
 2613373
 Logic gates are made of which of the following and they are the basic components of the integrated circuit?
@@ -82,6 +87,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 664
 Q.No: 5
 2613378
 What is referred to as the collection of data designed to support management in the process of decision-making?
@@ -94,6 +100,7 @@ Data warehouse
 डेटा वेयरहाउस
 C
 System catalog
+<<<PAGE:665>>>
 सिस्टम कैटलॉग
 D
  Data field
@@ -102,6 +109,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 665
 Q.No: 6
 2613379
 Which model is used to specify the logical structures of the database system?
@@ -122,6 +130,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 665
 Q.No: 7
 2613380
 _______ is a set of flip-flops connected in a series such that the output of one becomes the input of the other and it moves on.
@@ -142,10 +151,12 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 665
 Q.No: 8
 2613381
 The delete mode in ___________ protocol is normally used when the user is working on the personal computer and can save, organise the mail
 received either after reading or replying to it.
+<<<PAGE:666>>>
 ___________ प्रोोटोकॉल में डिलीट मोड का उपयोग आम तौर पर तब किया जाता है जब उपयोगकर्ता पर्सनल कंप्यूटर पर काम कर रहा होता है और प्रााप्त मेल को पढ़ने या उसका जवाब देने
 के बाद सेव कर सकता है, व्यवस्थित कर कर सकता है।
 A
@@ -164,6 +175,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 666
 Q.No: 9
 2613382
 Which refers to the mechanism of producing control signals using Finite State Machines in an appropriate manner?
@@ -184,6 +196,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 666
 Q.No: 10
 2613383
 Which database model was introduced in 1976 that refers to the collection of objects of similar structures?
@@ -196,6 +209,7 @@ Network data model
 नेटवर्क डेटा मॉडल
 C
 Hierarchical data model
+<<<PAGE:667>>>
 हिरार्चिकल डेटा मॉडल
 D
  Entity-Relationship Data model
@@ -204,6 +218,7 @@ Correct Ans : D
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 667
 Q.No: 11
 2613390
 The band between 824 and how many MHz carries those communications that are initiated from mobile phones?
@@ -224,6 +239,7 @@ Correct Ans : D
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 667
 Q.No: 12
 2613391
 Which single route is chosen between sender and receiver at the beginning of the session?
@@ -244,10 +260,12 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 667
 Q.No: 13
 2613392
 It is first field of the 802.3 frame, which contains seven bytes of alternating 0s and 1s that alerts the receiver to the coming frame thereby enabling
 it to synchronize its timing of input.
+<<<PAGE:668>>>
 यह 802.3 फ्रेेम का पहला क्षेत्र है, जिसमें बारी-बारी से 0s और 1s के सात बाइट्स होते हैं जो रिसीवर को आने वाले फ्रेेम के लिए सचेत करता है जिससे वह इनपुट के समय को सिंक्रनाइज़ करने
 में सक्षम हो जाता है।
 A
@@ -266,6 +284,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 668
 Q.No: 14
 2613393
 Which refers to a standard for indicating or specifying any type of data on the Internet?
@@ -286,6 +305,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 668
 Q.No: 15
 2613394
 Which refers to the techniques using which an OS decides as to which memory pages to be swapped or written to disk when a memory page has to
@@ -299,6 +319,7 @@ Page replacement algorithm
 पेज रिपलेस्‍मेंट एल्गोोरिदम
 C
 Page buffering algorithm
+<<<PAGE:669>>>
 पेज बफरिंंग एल्गोोरिदम
 D
 LRU algorithm
@@ -307,6 +328,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 669
 Q.No: 16
 2613395
 Which procedure uses a specific hardware to detect a conflict by routing the data through special paths between the segments of the pipeline?
@@ -327,6 +349,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 669
 Q.No: 17
 2613402
 Which has the ability to provide transmission from any location no matter how remote it may be?
@@ -347,9 +370,11 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 669
 Q.No: 18
 2613403
 Which of the following includes simple instructions with hard-wired control, numerous registers, increased clock rate etc.?
+<<<PAGE:670>>>
 निम्नलिखित में से किसमें हार्ड-वायर्ड कंट्रोोल, कई रजिस्टर, इनक्रिज्‍ड क्‍लॉक रेट आदि के साथ सरल निर्देश शामिल हैं?
 A
 CISC
@@ -367,6 +392,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 670
 Q.No: 19
 2613404
 Blackberry OS, iOS, etc, became popular in which generation OS?
@@ -387,6 +413,7 @@ Correct Ans : D
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 670
 Q.No: 20
 2613405
 Which has been specifically designed for time sharing system and the ready queue is based on the FIFO order?
@@ -399,6 +426,7 @@ Shortest Job First
 शॉर्टेस्ट जॉब फर्स्ट
 C
 Gantt chart
+<<<PAGE:671>>>
 गैंट चार्ट
 D
 Round Robin Scheduling
@@ -407,6 +435,7 @@ Correct Ans : D
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 671
 Q.No: 21
 2613410
 Which form of flip flop is used to synchronize the state change during a clock pulse transition?
@@ -427,6 +456,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 671
 Q.No: 22
 2613411
 The AND gates and inverters in the multiplexer resemble  which circuit? 
@@ -447,9 +477,11 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 671
 Q.No: 23
 2613412
 Whenever a running job is completed, the OS could load a new job from the disk into the empty partition and run it. What does it refer to?
+<<<PAGE:672>>>
 जब भी कोई चालू कार्य पूरा हो जाता है, OS डिस्क से एम्‍पटी पार्टीशन में एक नया कार्य लोड कर सकता है और उसे चला सकता है। इसका क्याा मतलब है?
 A
 Formatting
@@ -467,6 +499,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 672
 Q.No: 24
 2613413
 Which layer is concerned with syntax and semantics of the transmitted data?
@@ -487,6 +520,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 672
 Q.No: 25
 2613418
 Which refers to the suppression of the details of data organisation and storage thereby highlighting the significant features for an enhanced data
@@ -500,6 +534,7 @@ Data abstraction
 डेटा अब्‍सट्रेकशन
 C
 Client server
+<<<PAGE:673>>>
 क्लााइंट सर्वर
 D
 Cloud computing
@@ -508,6 +543,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 673
 Q.No: 26
 2613419
 Which acts as a switchboard for Internet Relay Chat (IRC) channels?
@@ -528,6 +564,7 @@ Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 673
 Q.No: 27
 2613420
 What will be the time taken to download a 10 MB file if the speed of the modem is 4 Mbps?
@@ -548,9 +585,11 @@ Correct Ans : D
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 673
 Q.No: 28
 2613421
 Which refers to the group of bits that instruct the computer to perform a specific task or an operation?
+<<<PAGE:674>>>
 जो बिट्स के उस समूह को संदर्भित करता है जो कंप्यूटर को एक विशिष्ट कार्य या एक ऑपरेशन करने के लिए निर्देश देता है?
 A
 Binary code
@@ -568,6 +607,7 @@ Correct Ans : D
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 674
 Q.No: 29
 2613422
 Which instruction transfers the memory word specified by the effective address to the AC?
@@ -588,6 +628,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 674
 Q.No: 30
 2613423
 In which year, Arthur C. Clarke calculated that a satellite at an altitude of 35,800 km in an equatorial orbit would appear to remain motionless in the
@@ -601,6 +642,7 @@ B
 1956
 C
 1945
+<<<PAGE:675>>>
 1945
 D
 1960
@@ -609,6 +651,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 675
 Q.No: 31
 2613430
 Which type of instructions is most common in commercial computers?
@@ -629,6 +672,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 675
 Q.No: 32
 2613431
 Which term is used to denote a large class of techniques that are used in providing simultaneous data-processing tasks for the purpose of increasing
@@ -649,8 +693,10 @@ D
 मल्टीीप्रोोग्राामिंग
 Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+<<<PAGE:676>>>
 
 ----------------------------------------
+Page: 676
 Q.No: 33
 2613432
 Which is an analog technique that can be applied when the bandwidth of a link is greater than the combined bandwidths of the transmitted signals?
@@ -671,6 +717,7 @@ Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 676
 Q.No: 34
 2613433
 Coaxial cables are widely used in analog telephone networks wherein a single coaxial network has the ability to carry how many voice signals?
@@ -691,6 +738,7 @@ Correct Ans : D
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 676
 Q.No: 35
 2613434
 The earliest random-access method, ALOHA, was developed at which university in the early 1970?
@@ -703,6 +751,7 @@ University of Hawaii
 हवाई विश्वविद्याालय
 C
 Stanford University
+<<<PAGE:677>>>
 स्टैनफोर्ड विश्वविद्याालय
 D
 University of Oxford
@@ -711,6 +760,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 677
 Q.No: 36
 2613435
 Which of the following is the commonly used peripheral devices?
@@ -731,6 +781,7 @@ Correct Ans : D
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 677
 Q.No: 37
 2613442
 Fast Ethernet has the ability to transmit data 10 times faster at a rate of ?
@@ -751,9 +802,11 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 677
 Q.No: 38
 2613443
 Which disk scheduling policy moves the disk heads from one end to the other thereby servicing I/O operations on each track?
+<<<PAGE:678>>>
 कौन-सी डिस्क शेड्यूलिंग पॉलिसी डिस्क हेड्स को एक छोर से दूसरे छोर तक ले जाती है जिससे प्रत्येक ट्रैक पर I/O संचालन की सर्विसिंग होती है?
 A
 First come first serve
@@ -771,6 +824,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 678
 Q.No: 39
 2613444
 In which form of architecture does the processors has the access to remote memory units?
@@ -791,6 +845,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 678
 Q.No: 40
 2613445
 Which layer provides the means to control the dialog between two entities that use a connection-oriented protocol?
@@ -803,6 +858,7 @@ Application layer
 एप्लीीकेशन लेयर
 C
 Session layer
+<<<PAGE:679>>>
 सेशन लेयर
 D
 Network layer
@@ -811,6 +867,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 679
 Q.No: 41
 2613450
 Which refers to a network that is connected to a single router?
@@ -831,6 +888,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 679
 Q.No: 42
 2613451
 The ports from 1024 to 49151 is referred to as?
@@ -851,9 +909,11 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 679
 Q.No: 43
 2613452
 Which denotes acknowledgement of INIT chunk?
+<<<PAGE:680>>>
 जो INIT चंक की पावती को दर्शाता है?
 A
 SACK
@@ -871,6 +931,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 680
 Q.No: 44
 2613453
 The method TRACE refers to ?
@@ -891,6 +952,7 @@ Correct Ans : A
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 680
 Q.No: 45
 2613458
 To enter bold in the web page, which tag is used?
@@ -903,6 +965,7 @@ B
 <s>
 C
 <b>
+<<<PAGE:681>>>
 <b>
 D
 <f>
@@ -911,6 +974,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 681
 Q.No: 46
 2613459
 Common Gateway Interface is defined in?
@@ -931,6 +995,7 @@ Correct Ans : B
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 681
 Q.No: 47
 2613460
 What is the full form of PHP?
@@ -951,9 +1016,11 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 681
 Q.No: 48
 2613461
 Which, in digital computers is a memory unit with an address register that counts only after the addition of an initial value?
+<<<PAGE:682>>>
 डिजिटल कंप्यूटर में क्याा  एक मेमोरी यूनिट है जिसमें एड्रेेस रजिस्टर होता है जो एक प्राारंभिक मूल्य के जोड़ के बाद ही गिना जाता है?
 A
 Shift register
@@ -971,6 +1038,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 682
 Q.No: 49
 2613462
 Which holds some data values that are recently accessed by the CPU?
@@ -991,6 +1059,7 @@ Correct Ans : C
 Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
 
 ----------------------------------------
+Page: 682
 Q.No: 50
 2613463
 Which was the prime concern of the batch processing OS?
@@ -1003,6 +1072,7 @@ Resource sharing
 रिसोर्स शेयरिंंग
 C
 Memory allocation
+<<<PAGE:683>>>
 मेमोरी एलोकेशन
 D
 Resource utilisation

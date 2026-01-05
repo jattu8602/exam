@@ -2,6 +2,7 @@ Subject: ENVIRONMENTAL SCIENCE graduate
 Questions: 20
 ========================================
 
+Page: 365
 Q.No: 61
 2633763
 A tree found in Australia and the local people sometimes uses thin pipe to use the stored water in its trunk for drinking is called:
@@ -22,9 +23,11 @@ Correct Ans : C
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 365
 Q.No: 62
 2633765
 Changpa tribe of Ladakh uses which of the following as their shelter?
+<<<PAGE:366>>>
 लद्दााख की चंगपा जनजाति निम्न में से किस का आश्रय के रूप में उपयोग करती है?
 A
 Donga
@@ -42,6 +45,7 @@ Correct Ans : D
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 366
 Q.No: 63
 2633768
 Snakes respond to sound by moving their heads back and forth while a snake charmer performs on his been. How do you think the
@@ -63,6 +67,7 @@ Correct Ans : D
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 366
 Q.No: 64
 2633769
 Select the true characteristics of tigers.
@@ -71,6 +76,7 @@ Select the true characteristics of tigers.
 (C) A tiger uses several sounds depending on the situation. 
 (D) The roar of a tiger can be heard only up to 3 kilometers.
 बाघों की सही विशिष्टताएँ चुनिएः
+<<<PAGE:367>>>
 (A) बाघ के कान सभी आवाज़ों को ग्रहण करने के लिए विभिन्न दिशाओं में घूम सकते हैं।
 (B) बाघ रात्रि के समय बिल्कुुल भी नहीं देख पाता है।
 (C) बाघ मौके के अनुसार विभिन्न प्रकार की आवाज़ पैदा करता है।
@@ -91,6 +97,7 @@ Correct Ans : A
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 367
 Q.No: 65
 2633770
 The roofs of mud houses in Rajasthan are made up of which wood?
@@ -111,10 +118,12 @@ Correct Ans : C
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 367
 Q.No: 66
 2633772
 Which of the following is correct with regards to Pitcher plant (Nepenthes)?
 पिचर प्लांांट (नेपेंथेस) के संबंध में निम्नलिखित में से कौन सा कथन सही है?
+<<<PAGE:368>>>
 A
 It is not found in India
 यह भारत में नहीं पाया जाता है
@@ -131,6 +140,7 @@ Correct Ans : B
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 368
 Q.No: 67
 2633774
 Oceanic crust primarily consists of which minerals?
@@ -151,6 +161,7 @@ Correct Ans : A
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 368
 Q.No: 68
 2633775
 A disease that affects a large population in a community or region_____.
@@ -160,6 +171,7 @@ Endemic
 स्थानिक (Endemic)
 B
 Pandemic
+<<<PAGE:369>>>
 सर्वव्याापी महामारी (Pandemic)
 C
 Epidemic
@@ -171,6 +183,7 @@ Correct Ans : C
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 369
 Q.No: 69
 2633778
 Consider the following statements with reference to Corals.
@@ -199,12 +212,14 @@ Correct Ans : C
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 369
 Q.No: 70
 2633779
 In which of the following type of house, seal fish is used to keep the inside warm?
 निम्नलिखित में से किस प्रकार के घर में सील मछली का उपयोग अंदर को गर्म रखने के लिए किया जाता है?
 A
 Yurts
+<<<PAGE:370>>>
 युर्ट्स
 B
 Long House
@@ -219,6 +234,7 @@ Correct Ans : C
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 370
 Q.No: 71
 2633781
 Which of the following is a water pollutant?
@@ -239,6 +255,7 @@ Correct Ans : B
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 370
 Q.No: 72
 2633783
 Which of the following toxic waste was the cause of the Minamata disaster in Japan?
@@ -251,6 +268,7 @@ Methyl mercury
 मिथाइल पारा
 C
 Radioactive waste
+<<<PAGE:371>>>
 रेडियोधर्मी कचरा
 D
 Arsenic
@@ -259,6 +277,7 @@ Correct Ans : B
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 371
 Q.No: 73
 2633786
 Which type of waste treatment method is used in the processing of sludge?
@@ -279,6 +298,7 @@ Correct Ans : C
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 371
 Q.No: 74
 2633789
 Global Environment Outlook (GEO) is published by: 
@@ -296,9 +316,11 @@ D
 United nations convention on climate change(UNFCCC)
 जलवायु परिवर्तन पर संयुक्त राष्ट्र सम्मेलन (UNFCCC) द्वाारा
 Correct Ans : A
+<<<PAGE:372>>>
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 372
 Q.No: 75
 2633791
 Which of the following is the first state in India to recently launched an Emission Trading Scheme to combat particulate air pollution? 
@@ -319,6 +341,7 @@ Correct Ans : B
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 372
 Q.No: 76
 2633793
 Which of the following options can be considered as a movement of plants?
@@ -339,10 +362,12 @@ Correct Ans : A
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 372
 Q.No: 77
 2633796
 What is the work of saliva in our mouth?
 हमारे मुँह में लार का क्याा कार्य है?
+<<<PAGE:373>>>
 A
 Help us taste the food
 खाने का स्वााद चखने में हमारी मदद करना
@@ -359,6 +384,7 @@ Correct Ans : B
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 373
 Q.No: 78
 2633799
 What is the primary source of energy flowing in the ecosystem?
@@ -379,6 +405,7 @@ Correct Ans : A
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 373
 Q.No: 79
 2633803
 The spread of oil on the sea surface is known as:
@@ -388,6 +415,7 @@ oil cover
 तेल कवर (oil cover)
 B
 oil net
+<<<PAGE:374>>>
 तेल नेट (oil net)
 C
 oil floor
@@ -399,6 +427,7 @@ Correct Ans : D
 Subject : ENVIRONMENTAL SCIENCE graduate
 
 ----------------------------------------
+Page: 374
 Q.No: 80
 2633806
 Match the following.
@@ -417,5 +446,6 @@ A- iv, B- ii, C-iv, D-i
 A- iv, B- ii, C-iv, D-i
 Correct Ans : A
 Subject : ENVIRONMENTAL SCIENCE graduate
+<<<PAGE:375>>>
 
 ----------------------------------------

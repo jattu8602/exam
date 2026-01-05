@@ -2,6 +2,7 @@ Subject: Gen. Computer graduate
 Questions: 40
 ========================================
 
+Page: 643
 Q.No: 146
 2635643
 A computer that is used to store data or information for users on the internet is called?
@@ -20,8 +21,10 @@ Websites 
 वेबसाइट्स
 Correct Ans : A
 Subject : Gen. Computer graduate
+<<<PAGE:644>>>
 
 ----------------------------------------
+Page: 644
 Q.No: 147
 2635691
 In computer networking, what is the meaning of HTTP?
@@ -42,6 +45,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 644
 Q.No: 148
 2635700
 Which of the following can be used to create a single IP address that permits surfing by numerous users?
@@ -62,6 +66,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 644
 Q.No: 149
 2635709
 In computer networking, GSM stands for?
@@ -79,9 +84,11 @@ D
 Game Server for Mobile
 Game Server for Mobile
 Correct Ans : A
+<<<PAGE:645>>>
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 645
 Q.No: 150
 2635730
 In networking, What does the phrase IANA mean?
@@ -102,6 +109,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 645
 Q.No: 151
 2635760
 The abbreviation DNS is related with internet, what is the full form of DNS.
@@ -122,6 +130,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 645
 Q.No: 152
 2635769
 Which of the following is the full form of ALGOL which is a programming language?
@@ -137,11 +146,13 @@ Alga Language
 एल्‍गा लैंग्‍वेज
 D
 Algorithmic Language
+<<<PAGE:646>>>
 एल्‍गोरिथमिक लैंग्‍वेज
 Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 646
 Q.No: 153
 2635778
 With respect to computers, which of the following is a full form of ASCII?
@@ -162,6 +173,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 646
 Q.No: 154
 2635799
 EDI is related to computers, what is its full form?
@@ -182,6 +194,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 646
 Q.No: 155
 2636052
 Ms office written in which language?
@@ -194,6 +207,7 @@ HTML 
 एचटीएमएल
 C
 Ruby 
+<<<PAGE:647>>>
 रूबी
 D
 C++ 
@@ -202,6 +216,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 647
 Q.No: 156
 2636061
 Which of the following is not a group of related commands in the References tab?
@@ -222,6 +237,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 647
 Q.No: 157
 2636070
 Which option in Case Menu allows us to shift the text case between two different case views?
@@ -242,6 +258,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 717
 Q.No: 144
 2635626
 The transmission of a file to our computer from the internet is called?
@@ -262,6 +279,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 717
 Q.No: 145
 2635635
 Which IP addresses are mostly used by web, email, and gaming servers?
@@ -271,6 +289,7 @@ Firewall
 फ़ाायरवॉल
 B
 Static
+<<<PAGE:718>>>
 स्टैटिक
 C
 MAC 
@@ -282,6 +301,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 718
 Q.No: 146
 2635644
 A small piece of data sent from a website and stored in the user’s web browser is called?
@@ -302,6 +322,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 718
 Q.No: 147
 2635692
 The computer acts as a proxy server, when _______.
@@ -320,8 +341,10 @@ Accessing user permissions
 उपयोगकर्ता अनुमतियों तक पहुँचना
 Correct Ans : A
 Subject : Gen. Computer graduate
+<<<PAGE:719>>>
 
 ----------------------------------------
+Page: 719
 Q.No: 148
 2635701
 Which of the following commands creates a backup of configuration data in router?
@@ -342,6 +365,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 719
 Q.No: 149
 2635710
 Operating system manages_______.
@@ -362,6 +386,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 719
 Q.No: 150
 2635731
 How many different IP versions are there?
@@ -371,6 +396,7 @@ A
 6 संस्करण (versions)
 B
 4 versions
+<<<PAGE:720>>>
 4 संस्करण (versions)
 C
 2 versions
@@ -382,6 +408,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 720
 Q.No: 151
 2635761
 FTP is a type of internet protocol, find the full form of FTP.
@@ -402,6 +429,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 720
 Q.No: 152
 2635770
 Which of the following is a full form of ALU which is an important circuit of a computer?
@@ -420,8 +448,10 @@ Aretha Logic Unit
 एरेथा लॉजिक यूनिट
 Correct Ans : C
 Subject : Gen. Computer graduate
+<<<PAGE:721>>>
 
 ----------------------------------------
+Page: 721
 Q.No: 153
 2635779
 With respect to computers, which of the following is the full form of AT?
@@ -442,6 +472,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 721
 Q.No: 154
 2635800
 In terms of computer abbreviation, which of the following is the full form of EROM?
@@ -462,6 +493,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 721
 Q.No: 155
 2636053
 Which of the following is an example of Application Software?
@@ -471,6 +503,7 @@ MS Office 
 एमएस ऑफिस 
 B
 Mac OS 
+<<<PAGE:722>>>
 मैक ओएस
 C
 Linux 
@@ -482,6 +515,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 722
 Q.No: 156
 2636062
 Which of the following commands is not present in the review tab?
@@ -502,6 +536,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 722
 Q.No: 157
 2636071
 What is the default paper size in MS Word?
@@ -512,8 +547,10 @@ C
 D
 Correct Ans : D
 Subject : Gen. Computer graduate
+<<<PAGE:723>>>
 
 ----------------------------------------
+Page: 797
 Q.No: 144
 2635645
 Recently deleted files are stored in________.
@@ -534,6 +571,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 797
 Q.No: 145
 2635711
 Which of the following is not a topology for a network?
@@ -552,8 +590,10 @@ Peer to Peer
 पीयर टू पीयर
 Correct Ans : D
 Subject : Gen. Computer graduate
+<<<PAGE:798>>>
 
 ----------------------------------------
+Page: 798
 Q.No: 146
 2635732
 Which layer of the TCP/IP stack is equivalent to the transport layer in the OSI model?
@@ -574,6 +614,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 798
 Q.No: 147
 2635780
 AUI is a kind of logical interface, what is its full form?
@@ -594,6 +635,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 798
 Q.No: 148
 2635801
 In terms of computer abbreviation, which of the following is the full form of Email? 
@@ -603,6 +645,7 @@ Electronic Mall
 इलेक्ट्रॉॉनिक मॉल
 B
 Electronic Mobile
+<<<PAGE:799>>>
 इलेक्ट्रॉॉनिक मोबाइल
 C
 Electronic Mail
@@ -614,6 +657,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 799
 Q.No: 149
 2635822
 What must be entered into the computer for a task to be completed?
@@ -634,6 +678,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 799
 Q.No: 150
 2635831
 Software which controls general operations of computer system is classified as______.
@@ -651,9 +696,11 @@ D
 Enquiry system
 इन्क्वाारी सिस्टम
 Correct Ans : C
+<<<PAGE:800>>>
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 800
 Q.No: 151
 2636072
 Word documents contain ______, which appear at the top and bottom of the document, respectively.   
@@ -674,6 +721,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 800
 Q.No: 152
 2636830
 What do you understand by Computer architecture?
@@ -694,6 +742,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 800
 Q.No: 153
 2636839
 Which part of the computer is used for computation and only active unit in our entire computer system?
@@ -701,6 +750,7 @@ Which part of the computer is used for computation and only active unit in our e
 A
 Program
 प्रोोग्रााम 
+<<<PAGE:801>>>
 B
 Processor
 प्रोोसेसर
@@ -714,6 +764,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 801
 Q.No: 154
 2636946
 Which computer program copies itself after entering a system via security flaws, often over a network?
@@ -734,6 +785,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 801
 Q.No: 155
 2636955
 What are firewalls used to protect against?
@@ -750,10 +802,12 @@ Data-driven attacks
 D
 Fire attacks 
 फायर अटैक्स
+<<<PAGE:802>>>
 Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 802
 Q.No: 156
 2638911
 MS Office is an example of? 
@@ -774,6 +828,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 802
 Q.No: 157
 2638920
 Where is hard drive fitted normally?

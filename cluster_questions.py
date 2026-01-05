@@ -44,7 +44,7 @@ def clean_file(filepath):
 
     regex_patterns = [
         r'^={10,}$',                 # Divider lines
-        r'^PAGE \s*\d+$',            # PAGE 1
+        # r'^PAGE \s*\d+$',          # KEEP PAGE NUMBERS!
         r'^\d{1,2}/\d{1,2}/\d{2}.*?$', # Date lines like 4/16/23...
         r'^https?://.*$',            # URLs
         r'^\d+/\d+$',                # Page numbers like 1/89
@@ -65,8 +65,22 @@ def clean_file(filepath):
 
     combined_regex = re.compile('|'.join(regex_patterns))
 
+    current_page = 0
     clean_buffer = []
+
     for line in lines:
+        # Detect Page
+        page_match = re.search(r'^PAGE \s*(\d+)$', line)
+        if page_match:
+            current_page = page_match.group(1)
+            # Insert a marker we can easily find later.
+            # We insert it into the buffer so it appears in the flow.
+            # But wait, parse_questions splits by "Q.No".
+            # If we just put it in the text, it will be inside the *previous* question's body or the current one.
+            # Let's insert it as a special tag.
+            clean_buffer.append(f"<<<PAGE:{current_page}>>>")
+            continue
+
         if combined_regex.match(line.strip()):
             continue
         # Also, specific date matches can be tricky if not at start.
@@ -103,10 +117,60 @@ def parse_questions(text):
         return []
 
     # Start from index 1 safely
+    current_page_num = "Unknown"
+
     for i in range(1, len(parts), 2):
         header = parts[i]
         body = parts[i+1] if i+1 < len(parts) else ""
-        questions.append(header + body)
+
+        full_text = header + body
+
+        # Look for PAGE markers in this block OR use the last seen one.
+        # Actually, the parsing split removes the text *between* Q.No blocks?
+        # No, parts[i+1] is the text between "Q.No: 1" and "Q.No: 2".
+        # So it contains the body of Q1.
+
+        # If there's a PAGE marker in 'full_text', it means the page changed *during* or *after* the previous valid text?
+        # A simpler way: Find all markers in the body. The *last* marker seen applies to subsequent content?
+        # Or, usually, Q.No starts on a page.
+
+        # Let's just grep for the marker in the body.
+        # Ideally, we track the page number in the stream.
+        # But `re.split` approach makes stream tracking hard.
+
+        # Hack: The marker `<<<PAGE:X>>>` will be present in the `body`.
+        # If present, update `current_page_num`.
+        # We assign the *last seen* page number to the *current* question?
+        # No, if Q1 body contains PAGE 2, it probably means Q1 ended on Page 1, then Page 2 started, then Q2 started.
+        # Wait, the body of Q1 goes until Q2 starts.
+        # So if PAGE 2 marker is in Q1 body, it likely appeared *after* Q1's options?
+        # Usually headers appear at top of page.
+        # So: Q1 ... options ... Correct Ans ... PAGE 2 ... Q2.
+        # Thus, when we process Q1, we might see PAGE 2 at the end.
+
+        # Let's check for markers.
+        found_pages = re.findall(r'<<<PAGE:(\d+)>>>', full_text)
+        if found_pages:
+            # If we found pages, the question *might* straddle pages.
+            # But usually we just want to know "on which page does this question start/exist".
+            # Let's capture the *first* page found in the preceding block?
+            # Actually, `parts[0]` (preamble) might have the first page.
+            pass
+
+        # Refined Logic:
+        # The page for Q(i) is likely the page active when "Q.No: i" was encountered.
+        # "Q.No: i" is `header`.
+        # The text *before* `header` is `parts[i-1]` (which is the body of the previous question).
+
+        # Let's look at `parts[i-1]` to find the latest page marker.
+        prev_block = parts[i-1] if i > 0 else parts[0]
+        # Find all page markers in previous block
+        markers = re.findall(r'<<<PAGE:(\d+)>>>', prev_block)
+        if markers:
+            current_page_num = markers[-1]
+
+        # Append meta to question text so generator can find it
+        questions.append(f"Page: {current_page_num}\n" + full_text)
 
     return questions
 

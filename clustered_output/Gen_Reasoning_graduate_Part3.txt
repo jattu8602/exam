@@ -2,6 +2,7 @@ Subject: Gen. Reasoning graduate
 Questions: 40
 ========================================
 
+Page: 648
 Q.No: 160
 2614184
 Select the option that is related to the third term in the same way as the second term is related to the first term.
@@ -16,6 +17,7 @@ FDCS
 FDCS
 C
 BHJL
+<<<PAGE:649>>>
 BHJL
 D
 BDCS
@@ -24,6 +26,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 649
 Q.No: 161
 2614347
 Which of the following, when used in a certain code language, indicates "good"? In that language, "col tip mot" means "singing is awesome," "mot baj min" means
@@ -46,6 +49,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 649
 Q.No: 162
 2614355
 Study the following details well, then respond to the questions that follow:-
@@ -70,8 +74,10 @@ ch na sa
 ch na sa
 Correct Ans : C
 Subject : Gen. Reasoning graduate
+<<<PAGE:650>>>
 
 ----------------------------------------
+Page: 650
 Q.No: 163
 2614373
 To find the answers to the questions, study the following details:-
@@ -108,12 +114,14 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 650
 Q.No: 164
 2614473
 Read the given pattern carefully and select the number which can replace the question mark (?) in it.
 दिए गए पैटर्न को ध्याान से पढ़िए और उस संख्याा का चयन कीजिए जो उसमें प्रश्न चिह्न को प्रतिस्थापित कर सकती है।
 A
 521
+<<<PAGE:651>>>
 521
 B
 650
@@ -128,6 +136,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 651
 Q.No: 165
 2618297
 Which of the following word can't be formed by using the letters of given word?
@@ -150,16 +159,19 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 651
 Q.No: 166
 2628671
 A
 B
 C
 D
+<<<PAGE:652>>>
 Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 652
 Q.No: 167
 2628800
 In the following question, select the related word from the given alternatives.
@@ -182,6 +194,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 652
 Q.No: 168
 2628849
 Find the odd number from the given alternatives.
@@ -202,6 +215,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 652
 Q.No: 169
 2628861
 Choose the odd one from the given alternatives. 
@@ -211,6 +225,7 @@ CEG 
 CEG 
 B
 LNP 
+<<<PAGE:653>>>
 LNP 
 C
 YAC 
@@ -222,6 +237,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 653
 Q.No: 170
 2629048
 Find the missing number in a series given below:
@@ -244,6 +260,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 653
 Q.No: 171
 2630167
 Five persons leave the office at different time among 7:30 pm, 8:00 pm, 9:00 pm, 11:00 pm, 11:30 pm but not necessarily in same order. Q leaves at 9:00 pm. The
@@ -264,8 +281,10 @@ D
 रात 8:00 बजे
 Correct Ans : D
 Subject : Gen. Reasoning graduate
+<<<PAGE:654>>>
 
 ----------------------------------------
+Page: 723
 Q.No: 158
 2614033
 Directions: Read the following information carefully and answer the given question.
@@ -291,6 +310,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 723
 Q.No: 159
 2614185
 Select the option that is related to the third term in the same way as the second term is related to the first term.
@@ -309,10 +329,12 @@ TSGL
 D
 STGL
 STGL
+<<<PAGE:724>>>
 Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 724
 Q.No: 160
 2614356
 How would you determine DANGER, if MACHINE is coded as 19-7-9-14-15-20-11?
@@ -333,6 +355,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 724
 Q.No: 161
 2614374
 Examine the following details thoroughly, then respond to the questions that follow:
@@ -357,6 +380,7 @@ ph bg ke
 ph bg ke
 C
 bg oh tl
+<<<PAGE:725>>>
 bg oh tl
 D
 tl ph oh
@@ -365,6 +389,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 725
 Q.No: 162
 2614392
 Shweta started running from her house towards the north. After 60 m the turned right and ran for 105 m. She then turned right and ran for 50 m
@@ -387,6 +412,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 725
 Q.No: 163
 2614409
 Vijay started walking towards south. After walking 60 m he took a right turn and walked 20 m. He then took a right turn and walked 120 m and
@@ -407,8 +433,10 @@ D
 80 मी.
 Correct Ans : B
 Subject : Gen. Reasoning graduate
+<<<PAGE:726>>>
 
 ----------------------------------------
+Page: 726
 Q.No: 164
 2614474
 Read the given pattern carefully and select the number which can replace the question mark (?) in it.
@@ -429,6 +457,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 726
 Q.No: 165
 2628672
 In a certain code, “SMART” is written as “RKXNO”.  How is “GREAT” written in that code?
@@ -447,8 +476,10 @@ RPFGW 
 RPFGW
 Correct Ans : C
 Subject : Gen. Reasoning graduate
+<<<PAGE:727>>>
 
 ----------------------------------------
+Page: 727
 Q.No: 166
 2628683
 In a certain code, COLD is coded as GSPH, then how is NOT coded in the same way?
@@ -469,6 +500,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 727
 Q.No: 167
 2628772
 In the following question, select the related word from the given alternatives.
@@ -491,6 +523,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 727
 Q.No: 168
 2628850
 Find the odd word/letter from the given alternatives.
@@ -500,6 +533,7 @@ Raipur
 रायपुर
 B
 Bilaspur
+<<<PAGE:728>>>
 बिलासपुर
 C
 Ranchi
@@ -511,6 +545,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 728
 Q.No: 169
 2628862
 Choose the odd one from the given alternatives. 
@@ -531,6 +566,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 728
 Q.No: 170
 2628893
 Choose the odd one from the given alternatives. 
@@ -549,8 +585,10 @@ D-B = C
 D-B = C 
 Correct Ans : D
 Subject : Gen. Reasoning graduate
+<<<PAGE:729>>>
 
 ----------------------------------------
+Page: 729
 Q.No: 171
 2628945
 From the given responses, find the missing letter in the series.
@@ -573,6 +611,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 802
 Q.No: 158
 2613893
 Suraj is stronger than Neha but not as strong as Shiva. Reena is stronger than Shiva but not as strong as Vedika. Vedika is weaker than Pooja
@@ -581,6 +620,7 @@ but not as Chetan. Who is the strongest of all persons?
 व्यक्तियों में सबसे बलवान कौन है?
 A
 Suraj
+<<<PAGE:803>>>
 सूरज
 B
 Vedika
@@ -595,6 +635,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 803
 Q.No: 159
 2614034
 Directions: Read the following information carefully and answer the given question.
@@ -620,11 +661,13 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 803
 Q.No: 160
 2614186
 Select the option that is related to the third term in the same way as the second term is related to the first term.
 AGRA : CJVF :: DELHI: ?
 उस विकल्प का चयन करें जो तीसरे पद से उसी प्रकार संबंधित है जैसे दूसरा पद, पहले पद से संबंधित है।
+<<<PAGE:804>>>
 AGRA : CJVF :: DELHI: ?
 A
 FHPMO
@@ -642,6 +685,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 804
 Q.No: 161
 2614357
 What is the code for SAP, if RAM is coded as 5, GUI is coded as 1, etc.?
@@ -662,6 +706,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 804
 Q.No: 162
 2614375
 Examine the following details thoroughly, then respond to the questions that follow:
@@ -672,6 +717,7 @@ Writing "some people like good evil" is "yc rc um tl zp"
 What does "various nasty things" mean in code?
 निम्नलिखित विवरणों की अच्छीी तरह से जांच करें, और उसके बाद आने वाले प्रश्नोंों का उत्तर दें:
 एक विशेष कूट भाषा में 'We do diverse things' को 'ne tz iq dp' के रूप में दर्शाया जाता है।
+<<<PAGE:805>>>
 वाक्यांांश "always do excellent deeds" को "ge qd dp yc" के रूप में लिखा गया है।
 वाक्यांांश "we detest bad deeds" को "um ol qd tz" के रूप में लिखा गया है।
 "some people like good evil" लिखने पर "yc rc um tl zp" लिखा जाता है
@@ -692,6 +738,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 805
 Q.No: 163
 2614475
 Read the given pattern carefully and select the number which can replace the question mark (?) in it.
@@ -710,8 +757,10 @@ D
 65
 Correct Ans : B
 Subject : Gen. Reasoning graduate
+<<<PAGE:806>>>
 
 ----------------------------------------
+Page: 806
 Q.No: 164
 2618428
 Which is the wrong term in the following series?
@@ -734,6 +783,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 806
 Q.No: 165
 2628673
 If A is coded as 1, CAT is coded as 24, then MAINS will be coded as:
@@ -754,12 +804,14 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 806
 Q.No: 166
 2628684
 In a certain code, VIEW is coded as XKGY, then how is HOTEL coded in the same way?
 एक निश्चित कोड में, VIEW को XKGY के रूप में लिखा जाता है। उस कोड में HOTEL कैसे लिखा जाता है?
 A
 JQNGV
+<<<PAGE:807>>>
 JQNGV
 B
 JQVGN 
@@ -774,6 +826,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 807
 Q.No: 167
 2628771
 In the following question, select the related word/number from the given alternatives.
@@ -796,6 +849,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 807
 Q.No: 168
 2628851
 Find the odd word from the given alternatives.
@@ -808,6 +862,7 @@ Cub
 शावक
 C
 Kitten 
+<<<PAGE:808>>>
 किटन
 D
 Goat 
@@ -816,6 +871,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 808
 Q.No: 169
 2628863
 Find the odd one out from the given alternatives. 
@@ -836,6 +892,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 808
 Q.No: 170
 2629183
 A
@@ -852,8 +909,10 @@ D
 40 
 Correct Ans : C
 Subject : Gen. Reasoning graduate
+<<<PAGE:809>>>
 
 ----------------------------------------
+Page: 809
 Q.No: 171
 2630191
 Five girls - Aradhya, Bunu, Chinu, Deepa and Kriti sit in a row, not necessarily in the same order. Deepa is equidistant from Bunu and Chinu and

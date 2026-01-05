@@ -2,6 +2,7 @@ Subject: SANITARY INSPECTOR graduate
 Questions: 20
 ========================================
 
+Page: 613
 Q.No: 61
 2622403
 Which of the following is the best source of Vitamin B12? 
@@ -14,6 +15,7 @@ Fruits
 फल
 C
 Citrus foods
+<<<PAGE:614>>>
 साइट्रस फूड
 D
 Seafood
@@ -22,6 +24,7 @@ Correct Ans : D
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 614
 Q.No: 62
 2622405
 What is BMI (Bio Mass Index)? 
@@ -42,6 +45,7 @@ Correct Ans : A
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 614
 Q.No: 63
 2622406
 What is not a reason for the low birth weight? 
@@ -62,6 +66,7 @@ Correct Ans : D
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 614
 Q.No: 64
 2622408
 Which of the following is not true about FSSAI registration? 
@@ -71,6 +76,7 @@ FSSAI stands for Food Safety and Standards Authority of India. 
 FSSAI का पूर्ण रूप फूड सेफ्टीी एंड स्टैंडर्ड्स अथॉरिटी ऑफ इंडिया है।
 B
 FSSAI certificate is optional for FBOs (Food Business operators). 
+<<<PAGE:615>>>
 FBOs (खाद्य व्यवसाय संचालक) के लिए FSSAI प्रमाण पत्र वैकल्पिक है।
 C
 All manufacturers, traders, restaurants, and grocery shops are eligible to issue FSSAI licenses. 
@@ -82,6 +88,7 @@ Correct Ans : B
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 615
 Q.No: 65
 2622409
 What is not included in the definition of ‘environmental sanitation’ given by WHO? 
@@ -102,6 +109,7 @@ Correct Ans : C
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 615
 Q.No: 66
 2622411
 Which of the following is not a water-saving irrigation method? 
@@ -122,6 +130,7 @@ Correct Ans : D
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 615
 Q.No: 67
 2622413
 What are the chemicals used for the disinfection of water? 
@@ -130,6 +139,7 @@ B. Chlorine Tablets
 C. Quick lime
 D. Hydrocholoride acid
 E. Potassium Permanganate
+<<<PAGE:616>>>
 जल को कीटाणुरहित करने के लिए कौन-सा रसायन प्रयुक्त होता है?
 A. ब्लीीचिंग पाउडर
 B. क्लोोरीन की गोलियां
@@ -152,6 +162,7 @@ Correct Ans : D
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 616
 Q.No: 68
 2622415
 Which option does not have the correct color code of bags used for biodegradable wastage? 
@@ -172,6 +183,7 @@ Correct Ans : D
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 616
 Q.No: 69
 2622418
 Which of the following gives the correct sequence of treatment processes performed in sewage waste treatment? 
@@ -184,6 +196,7 @@ Biological treatment, Chemical treatment, Mechanical treatment, removal of ammon
 जैविक उपचार, रासायनिक उपचार, यांत्रिक उपचार, अमोनिया को हटाना
 C
 Chemical treatment, removal of ammonia, biological treatment, mechanical treatment
+<<<PAGE:617>>>
 रासायनिक उपचार, अमोनिया को हटाना, जैविक उपचार, यांत्रिक उपचार
 D
 Removal of ammonia, biological treatment, mechanical treatment, chemical treatment
@@ -192,6 +205,7 @@ Correct Ans : A
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 617
 Q.No: 70
 2622421
 Which of the following is not a Covid-19 vaccine? 
@@ -212,6 +226,7 @@ Correct Ans : D
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 617
 Q.No: 71
 2622423
 Match the content of the Table A and Table B.
@@ -227,11 +242,13 @@ C
 1-C, 2-B, 3-A
 D
 1-C, 2-A, 3-C
+<<<PAGE:618>>>
 1-C, 2-A, 3-C
 Correct Ans : C
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 618
 Q.No: 72
 2622425
 A person feeling pain in chest is given sobriquet or aspirin as – 
@@ -252,6 +269,7 @@ Correct Ans : C
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 618
 Q.No: 73
 2622428
 What is not a symptom of swine flu? 
@@ -272,10 +290,12 @@ Correct Ans : C
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 618
 Q.No: 74
 2622431
 Match the contents of Table A and Table B. 
 टेबल A और टेबल B की सामग्रीी का मिलान करें।
+<<<PAGE:619>>>
 A
 1-A, 2-B, 3-C, 4-D
 1-A, 2-B, 3-C, 4-D
@@ -292,6 +312,7 @@ Correct Ans : C
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 619
 Q.No: 75
 2622433
 To terminate a pregnancy after 24 weeks of gestation, the Medical Termination of Pregnancy (Amendment) Act, 2021 mandates – 
@@ -312,6 +333,7 @@ Correct Ans : C
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 619
 Q.No: 76
 2622435
 What is used to increase the size of natural fruits or vegetables? 
@@ -327,11 +349,13 @@ Mineral oil
 मिनरल ऑयल
 D
 Carnauba wax
+<<<PAGE:620>>>
 कारनौबा वैक्स
 Correct Ans : A
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 620
 Q.No: 77
 2622438
 What type of sewage line inspection method is shown in the picture given below? 
@@ -352,6 +376,7 @@ Correct Ans : B
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 620
 Q.No: 78
 2622441
 What is the purpose of booster dose? 
@@ -370,8 +395,10 @@ To give protection from new variants
 नए वेरिएंट से सुरक्षाा देना
 Correct Ans : B
 Subject : SANITARY INSPECTOR graduate
+<<<PAGE:621>>>
 
 ----------------------------------------
+Page: 621
 Q.No: 79
 2622445
 What type of sewage system is used in India in urban areas? 
@@ -392,6 +419,7 @@ Correct Ans : B
 Subject : SANITARY INSPECTOR graduate
 
 ----------------------------------------
+Page: 621
 Q.No: 80
 2622448
 Which of the following is not essential part of a good personal hygiene practice? 

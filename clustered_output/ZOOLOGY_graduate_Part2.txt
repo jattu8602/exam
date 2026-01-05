@@ -2,6 +2,7 @@ Subject: ZOOLOGY graduate
 Questions: 4
 ========================================
 
+Page: 509
 Q.No: 31
 2617245
 A synovial joint is also known as which one of the following?
@@ -11,6 +12,7 @@ Synarthrosis
 सिनार्थ्रोसिस
 B
 Immovable joint
+<<<PAGE:510>>>
 अचल जोड़
 C
 Slightly moveable joint
@@ -22,6 +24,7 @@ Correct Ans : D
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 510
 Q.No: 32
 2617252
 What are the cells that are found in the lacunae of compact bone called?
@@ -42,6 +45,7 @@ Correct Ans : A
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 510
 Q.No: 33
 2617253
 What does the term “haversian canal” refer to in bone?
@@ -51,6 +55,7 @@ The larger examples of foramina
 फोरैमिना के बड़े उदाहरण।
 B
 A groove that receives a muscle’s tendon
+<<<PAGE:511>>>
 एक नाली जो एक पेशी के कण्डरा को ग्रहण करती है
 C
 The centre of an osteon that contains blood capillaries
@@ -62,6 +67,7 @@ Correct Ans : C
 Subject : ZOOLOGY graduate
 
 ----------------------------------------
+Page: 511
 Q.No: 34
 2617259
 What is the role of glucagon and insulin?

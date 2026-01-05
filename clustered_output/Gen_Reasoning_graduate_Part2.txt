@@ -2,6 +2,7 @@ Subject: Gen. Reasoning graduate
 Questions: 50
 ========================================
 
+Page: 323
 Q.No: 166
 2614395
 Rishabh walks a certain distance, say X m, from his Office towards the west. Then he turns left and walks 46 m. After that, he
@@ -26,6 +27,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 323
 Q.No: 167
 2614436
 In the following figure, enter the omitted number in place of question mark (?).
@@ -33,6 +35,7 @@ In the following figure, enter the omitted number in place of question mark (?).
 A
 5400
 5400
+<<<PAGE:324>>>
 B
 1800
 1800
@@ -46,6 +49,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 324
 Q.No: 168
 2614443
 In the following figure, enter the omitted number in place of question mark (?).
@@ -64,8 +68,10 @@ D
 680
 Correct Ans : C
 Subject : Gen. Reasoning graduate
+<<<PAGE:325>>>
 
 ----------------------------------------
+Page: 325
 Q.No: 169
 2614469
 Read the given pattern carefully and select the number which can replace the question mark (?) in it.
@@ -86,6 +92,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 325
 Q.No: 170
 2618513
 Which is the WRONG term in the following series?
@@ -97,6 +104,7 @@ ROHA
 ROHA
 B
 XUNE
+<<<PAGE:326>>>
 XUNE
 C
 BYRK
@@ -108,6 +116,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 326
 Q.No: 171
 2629186
 In the following question, select the related number from the given alternatives.
@@ -130,6 +139,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 407
 Q.No: 158
 2613886
 यदि रणवीर को पता चलता है कि वह बाएं से 8वां लड़का है और दाएं से 13वां लड़का है, यदि पंक्ति में कुल 30 लड़के हो, तो कितने लड़कों को पंक्ति में जोड़ाा जाना चाहिए?
@@ -149,6 +159,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 407
 Q.No: 159
 2614136
 Find the missing letters in the following series.
@@ -166,11 +177,13 @@ W
 W
 D
 X
+<<<PAGE:408>>>
 X
 Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 408
 Q.No: 160
 2614337
 The language code for PROSE is PPOQE. LIGHT is coded in what way?
@@ -191,6 +204,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 408
 Q.No: 161
 2614344
 If the numeral below the provided letters corresponds to those letters,
@@ -210,6 +224,7 @@ EURBSA
 C
 BURSAE
 BURSAE
+<<<PAGE:409>>>
 D
 ERUASB
 ERUASB
@@ -217,6 +232,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 409
 Q.No: 162
 2614352
 What word in that language would be equivalent to "weather" if "oka peru" meant "fine cloth," "meta lisa," meant "clear water," and
@@ -239,6 +255,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 409
 Q.No: 163
 2614370
 Answer the questions that follow the content after carefully reading it. In a coded form,
@@ -253,6 +270,7 @@ What does "7ID 5E" stand for in a code?
 एक कोड में "7ID 5E" का क्याा अर्थ है?
 A
 Clever Women
+<<<PAGE:410>>>
 Clever Women
 B
 Branded Dress
@@ -267,6 +285,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 410
 Q.No: 164
 2614390
 A
@@ -285,10 +304,12 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 410
 Q.No: 165
 2614437
 In the following figure, enter the omitted number in place of question mark (?).
 निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त  संख्याा ज्ञाात कीजिए।
+<<<PAGE:411>>>
 A
 3
 3
@@ -305,6 +326,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 411
 Q.No: 166
 2614445
 In the following figure, enter the omitted letter in place of question mark (?).
@@ -317,6 +339,7 @@ X
 X
 C
 Z
+<<<PAGE:412>>>
 Z
 D
 T
@@ -325,6 +348,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 412
 Q.No: 167
 2614470
 Read the given pattern carefully and select the number which can replace the question mark (?) in it.
@@ -345,6 +369,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 412
 Q.No: 168
 2618500
 Which is the WRONG term in the following series?
@@ -353,6 +378,7 @@ ROPD, ZUXJ, HAFP, PFNV, XMVB
 ROPD, ZUXJ, HAFP, PFNV, XMVB
 A
 ZUXJ
+<<<PAGE:413>>>
 ZUXJ
 B
 HAFP
@@ -367,6 +393,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 413
 Q.No: 169
 2628940
 From the given responses, find the missing letter in the series.
@@ -389,12 +416,14 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 413
 Q.No: 170
 2629187
 Find the missing number in the given analogy:
 20 : 25 :: 8 : ? 
 दिए गए समानता में लुप्त संख्याा ज्ञाात करे:
 20 : 25 :: 8 : ?
+<<<PAGE:414>>>
 A
 9
 9 
@@ -411,6 +440,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 414
 Q.No: 171
 2630189
 A person started from his house, walked 9 km towards south, turned left and walked for 5 km. He then turned left and walked for 10
@@ -434,6 +464,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 479
 Q.No: 158
 2613887
 लड़कों की एक पंक्ति में, A बाएं से 17वें स्थान पर है, और B दाएं से 25वें स्थान पर है। यदि दोनों आपस में स्थान बदल लेते हैं तो B दायें से 37वें स्थान पर हो जाता है। तब बाईं ओर से A की स्थिति क्याा होगी?
@@ -453,10 +484,12 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 479
 Q.No: 159
 2613894
 लड़कियों की एक पंक्ति में, निशा बायें से 13वें स्थान पर है और गीता दायें से 17वें स्थान पर है। यदि इस पंक्ति में निशा दायें से 11वें स्थान पर है तो गीता का बायें से कौन सा स्थान है?
 A
+<<<PAGE:480>>>
 B
 C
 D
@@ -464,6 +497,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 480
 Q.No: 160
 2614114
 Directions: Study the following information and answer the questions given below:
@@ -489,6 +523,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 480
 Q.No: 161
 2614137
 What should come in place of question mark (?) in the following series?
@@ -497,6 +532,7 @@ CZ,   IT,   ON,   ? ,   AB
 CZ,   IT,   ON,   ? ,   AB
 A
 XP
+<<<PAGE:481>>>
 XP
 B
 UH
@@ -511,6 +547,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 481
 Q.No: 162
 2614147
 Find the missing letters in the following series.
@@ -533,6 +570,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 481
 Q.No: 163
 2614338
 In one particular code, PAUSE is denoted by OBVTD, while SHIFT is denoted by RIJGS. THINK will be written in the same code in what way?
@@ -550,9 +588,11 @@ D
 JMOJJ
 JMOJJ
 Correct Ans : B
+<<<PAGE:482>>>
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 482
 Q.No: 164
 2614345
 In a particular code language, "mink yang pe" denotes fruits are ripe, "pe lao may mink" denotes oranges are not ripe, and "may pe nue mink" denotes mangoes are not r
@@ -574,6 +614,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 482
 Q.No: 165
 2614353
 Using a particular code,
@@ -602,9 +643,11 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 482
 Q.No: 166
 2614371
 If a word contains more than two vowels, the code will be written backward.
+<<<PAGE:483>>>
 Situation 2:
 The first three letters of the code will be written in reverse if the word has no vowels.
 Situation 3:
@@ -629,12 +672,14 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 483
 Q.No: 167
 2614438
 In the following figure, enter the omitted number in place of question mark (?).
 निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त  संख्याा ज्ञाात कीजिए।
 A
 4
+<<<PAGE:484>>>
 4
 B
 -6
@@ -649,6 +694,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 484
 Q.No: 168
 2614446
 In the following figure, enter the omitted number in place of question mark (?).
@@ -669,10 +715,12 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 484
 Q.No: 169
 2614459
 In the following figure, enter the omitted number in place of question mark (?).
 निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त संख्याा ज्ञाात कीजिए।
+<<<PAGE:485>>>
 A
 29
 29
@@ -689,6 +737,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 485
 Q.No: 170
 2614471
 Read the given pattern carefully and select the number which can replace the question mark (?) in it.
@@ -709,6 +758,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 485
 Q.No: 171
 2628939
 From the given responses, find the missing letter in the series.
@@ -717,6 +767,7 @@ ZYX, SRQ, LKJ, ?
 ZYX, SRQ, LKJ, ?
 A
 EDC
+<<<PAGE:486>>>
 EDC
 B
 MED 
@@ -731,6 +782,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 570
 Q.No: 158
 2613888
 In a row of boys, A is 9th from the left end whereas B is 8th from the right end. If C is sitting exactly between A
@@ -753,6 +805,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 570
 Q.No: 159
 2614041
 Some fruits are placed on the table in such a way that the apple is to the left of the banana. And guava is to the
@@ -768,6 +821,7 @@ Apple
 सेब
 C
 Orange
+<<<PAGE:571>>>
 संतरा
 D
 Banana
@@ -776,6 +830,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 571
 Q.No: 160
 2614110
 Directions: Study the following information and answer the questions given below:
@@ -802,9 +857,11 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 571
 Q.No: 161
 2614138
 What should come in place of question mark (?) in the following series?
+<<<PAGE:572>>>
 BYE, EWG, HUI,   ?, NQM
 निम्नलिखित श्रृंृंखला में प्रश्नवाचक चिन्ह (?) के स्थान पर क्याा आना चाहिए?
 BYE, EWG, HUI,   ?, NQM
@@ -824,6 +881,7 @@ Correct Ans : B
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 572
 Q.No: 162
 2614145
 Find the missing letters in the following series.
@@ -841,11 +899,13 @@ R
 R
 D
 T
+<<<PAGE:573>>>
 T
 Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 573
 Q.No: 163
 2614339
 ROAD is represented as URDG in a specific code. What is the syntax for SWAN in the code?
@@ -866,6 +926,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 573
 Q.No: 164
 2614346
 In one particular code language, the words "sun shines brightly," "houses are brightly lit," and "light comes from
@@ -883,6 +944,7 @@ ba, sul
 C
 sul, lo
 sul, lo
+<<<PAGE:574>>>
 D
 lo, ba
 lo, ba
@@ -890,6 +952,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 574
 Q.No: 165
 2614354
 Carefully review the following data and respond to the questions that follow:
@@ -920,8 +983,10 @@ ta nj kw rd 
 ta nj kw rd
 Correct Ans : A
 Subject : Gen. Reasoning graduate
+<<<PAGE:575>>>
 
 ----------------------------------------
+Page: 575
 Q.No: 166
 2614372
 Answer the questions that follow after carefully reading the information provided.
@@ -934,10 +999,12 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 575
 Q.No: 167
 2614439
 In the following figure, enter the omitted number in place of question mark (?).
 निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त  संख्याा ज्ञाात कीजिए।
+<<<PAGE:576>>>
 A
 70
 70
@@ -954,6 +1021,7 @@ Correct Ans : D
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 576
 Q.No: 168
 2614447
 In the following figure, enter the omitted number in place of question mark (?).
@@ -966,6 +1034,7 @@ B
 68
 C
 34
+<<<PAGE:577>>>
 34
 D
 72
@@ -974,6 +1043,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 577
 Q.No: 169
 2614472
 Read the given pattern carefully and select the number which can replace the question mark (?) in it.
@@ -994,10 +1064,12 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 577
 Q.No: 170
 2618455
 Which is the WRONG term in the following series?
 PKRF, JFNC, DAJZ, XUEW, RQBT
+<<<PAGE:578>>>
 निम्नलिखित श्रंखला में गलत पद कौन सा है?
 PKRF, JFNC, DAJZ, XUEW, RQBT
 A
@@ -1016,6 +1088,7 @@ Correct Ans : C
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 578
 Q.No: 171
 2629192
 A
@@ -1032,8 +1105,10 @@ D
 185 
 Correct Ans : C
 Subject : Gen. Reasoning graduate
+<<<PAGE:579>>>
 
 ----------------------------------------
+Page: 647
 Q.No: 158
 2614032
 Directions: Read the following information carefully and answer the given question.
@@ -1041,6 +1116,7 @@ A B, C, and D are such that A and B are good at dancing and music. C and B are g
 at painting and elocution.
 Who is expert in dance, music and painting?
 निर्देश: निम्नलिखित जानकारी को ध्याानपूर्वक पढ़ें और दिए गए प्रश्न का उत्तर दीजिए।
+<<<PAGE:648>>>
 A, B, C, and D इस प्रकार है जैसे कि A और B नृत्यकला और संगीत में निपुण है। C और B संगीत और चित्रकला में निपुण है। A और D व्यााख्याान और नृत्यकला में निपुण है। D और C चित्रकारी और व्यााख्याान में निपुण है
 नृत्य, संगीत और चित्रकला में कौन निपुण है?
 A
@@ -1059,6 +1135,7 @@ Correct Ans : A
 Subject : Gen. Reasoning graduate
 
 ----------------------------------------
+Page: 648
 Q.No: 159
 2614089
 Sapna, Vishal, Naman, Chetan, Rani, and Vishu are six students sitting at a hexagon table in the library. Vishal is sitting in the seat between Vishu and Naman. Sapna is

@@ -2,6 +2,7 @@ Subject: Gen. Computer graduate
 Questions: 50
 ========================================
 
+Page: 316
 Q.No: 152
 2635765
 Which of the following is the full form of "computer"?
@@ -22,6 +23,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 316
 Q.No: 153
 2635774
 With respect to computers, which of the following is a full form of ARP?
@@ -42,9 +44,11 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 316
 Q.No: 154
 2635795
 DOS is related to computers, what is its full form?
+<<<PAGE:317>>>
 DOS कंप्यूटर से संबंधित है, इसका पूर्ण रूप क्याा है?
 A
 Disk Management System
@@ -62,6 +66,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 317
 Q.No: 155
 2636048
 PC Program Counter is also called________.
@@ -82,6 +87,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 317
 Q.No: 156
 2636057
 There are 8 tabs in _______ in MS Word 2013.
@@ -89,6 +95,7 @@ There are 8 tabs in _______ in MS Word 2013.
 A
 Title Bar 
 टाइटल्स बार
+<<<PAGE:318>>>
 B
 Ribbon 
 रिबन
@@ -102,6 +109,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 318
 Q.No: 157
 2636066
 There will be a ____ line underlining the text if any contextual errors are found in the document.
@@ -122,6 +130,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 401
 Q.No: 144
 2635622
 How many ports a computer may have?
@@ -142,6 +151,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 401
 Q.No: 145
 2635631
 With respect to internet, what is the full form of W3C?
@@ -162,12 +172,14 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 401
 Q.No: 146
 2635640
 HTTPS is the protocol through which data is passed between a web browser. In, HTTPS, what does “S” means?
 HTTPS वह प्रोोटोकॉल है जिसके माध्यम से वेब ब्रााउज़र के बीच डेटा पास किया जाता है। HTTPS में, "S" का क्याा अर्थ है?
 A
 Schema 
+<<<PAGE:402>>>
 स्कीीमा
 B
 Static 
@@ -182,6 +194,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 402
 Q.No: 147
 2635688
 What type of data transmission medium is best for a computer network that is subject to electrical interference?
@@ -202,6 +215,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 402
 Q.No: 148
 2635697
 Which of the following internet protocols is used the most frequently?
@@ -214,6 +228,7 @@ NetBEUl
 NetBEUl
 C
 TCP/IP
+<<<PAGE:403>>>
 TCP/IP
 D
 IPX/SPX
@@ -222,6 +237,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 403
 Q.No: 149
 2635706
 The gadget that can connect to a network without a cable is called as?
@@ -242,6 +258,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 403
 Q.No: 150
 2635727
 The portion of server memory set aside to temporary hold data packets from workstations is called as?
@@ -259,9 +276,11 @@ D
 Packet Cache Buffer
 पैकेट कैश बफर
 Correct Ans : C
+<<<PAGE:404>>>
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 404
 Q.No: 151
 2635757
 With respect to computer, RAID is an acronym for?
@@ -282,6 +301,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 404
 Q.No: 152
 2635766
 Which of the following is the full form of AAC that is related with computers?
@@ -302,10 +322,12 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 404
 Q.No: 153
 2635775
 With respect to computers, which of the following is a full form of ASP?
 कंप्यूटर के संबंध में, निम्न में से कौन-सा ASP कापूर्ण रूप है?
+<<<PAGE:405>>>
 A
 Active Server Pages
 एक्टिव सर्वर पेजेस
@@ -322,6 +344,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 405
 Q.No: 154
 2635796
 DRAM is a type of computer memory, choose its full form from the given options?
@@ -342,6 +365,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 405
 Q.No: 155
 2636049
 _____ shows the current position as far the text goes.
@@ -351,6 +375,7 @@ Menu Bar 
 मेनू बार
 B
 Ribbon 
+<<<PAGE:406>>>
 रिबन
 C
 Status Bar 
@@ -362,6 +387,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 406
 Q.No: 156
 2636058
 Insert Tab is the _____ tab in the Ribbon.
@@ -382,6 +408,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 406
 Q.No: 157
 2636067
 A Red line will be drawn underlined if a ______ mistake is found in the document.
@@ -397,11 +424,13 @@ Grammar 
 ग्राामर
 D
 Syntax 
+<<<PAGE:407>>>
 सिंटेक्स
 Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 474
 Q.No: 144
 2635623
 With respect to internet, which of the following is full form of ARPANET?
@@ -422,9 +451,11 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 474
 Q.No: 145
 2635632
 With respect to internet, what is the full form of URL?
+<<<PAGE:475>>>
 इंटरनेट के सन्दर्भ में, URL का पूर्ण रूप क्याा है?
 A
 Uniform Resource Locator 
@@ -442,6 +473,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 475
 Q.No: 146
 2635641
 Which device is required to connect multiple computers on the same internet network?
@@ -462,6 +494,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 475
 Q.No: 147
 2635689
 Coaxial cables are widely used on which of the following network?
@@ -480,8 +513,10 @@ Mobile networks 
 मोबाइल नेटवर्क
 Correct Ans : A
 Subject : Gen. Computer graduate
+<<<PAGE:476>>>
 
 ----------------------------------------
+Page: 476
 Q.No: 148
 2635698
 Which of the following describes software that enables you to lawfully copy files and distribute them for free?
@@ -502,6 +537,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 476
 Q.No: 149
 2635707
 Which class of IP address has the most available hosts?
@@ -522,6 +558,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 476
 Q.No: 150
 2635728
 What exactly do computer networks "hamming codes" do?  
@@ -539,9 +576,11 @@ D
 Codes for multiplexing
 मल्टीीप्लेक्सिंग के लिए कोड
 Correct Ans : C
+<<<PAGE:477>>>
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 477
 Q.No: 151
 2635758
 It is an highly reputed engineering institute, what does IEEE stands for?
@@ -562,6 +601,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 477
 Q.No: 152
 2635767
 In respect with computers, which of the following is the full form of AI?
@@ -582,6 +622,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 477
 Q.No: 153
 2635776
 ATM is a network technology, what is its full form?
@@ -597,11 +638,13 @@ System Transfer Mode
 सिस्टम ट्रांांसफर मोड
 D
 Synchronization Transfer Mode
+<<<PAGE:478>>>
 सिन्‍क्रोोनाईजेशन ट्रांांसफर मोड
 Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 478
 Q.No: 154
 2635797
 DML is a type of computer language, what is its full form?
@@ -622,6 +665,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 478
 Q.No: 155
 2636050
 Ms office is developed by?
@@ -642,6 +686,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 478
 Q.No: 156
 2636059
 Which of the following is a command in insert tab?
@@ -654,6 +699,7 @@ Color, Font 
 कलर, फॉन्ट
 C
 Insert, Replay 
+<<<PAGE:479>>>
 इंसर्ट, रिप्ले 
 D
 Caption, Index 
@@ -662,6 +708,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 479
 Q.No: 157
 2636068
 Where is the Word Count shown in MS Word?
@@ -682,6 +729,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 563
 Q.No: 144
 2635624
 The origin of the internet was developed from the concept of_______.
@@ -702,6 +750,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 563
 Q.No: 145
 2635633
 An attached network exclusively used within consortium such as banking, business firms, etc. that use web
@@ -710,6 +759,7 @@ technologies for sharing data or information internally is called as?
 जानकारी साझा करने के लिए वेब प्रौौद्योोगिकियों का उपयोग करता है, को क्याा कहा जाता है?
 A
 Domain
+<<<PAGE:564>>>
 डोमेन
 B
 Intranet
@@ -724,6 +774,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 564
 Q.No: 146
 2635642
 What is the full form of DNS in a network?    
@@ -744,12 +795,14 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 564
 Q.No: 147
 2635690
 The online location of a resource is indicated by?
 किसी रिसोर्स की ऑनलाइन लोकेशन इसके द्वाारा दर्शाई जाती है?
 A
 Protocol
+<<<PAGE:565>>>
 प्रोोटोकॉल
 B
 URL
@@ -764,6 +817,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 565
 Q.No: 148
 2635699
 Which IP address from the list below qualifies as a loop-back address?
@@ -784,6 +838,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 565
 Q.No: 149
 2635708
 E–R modelling technique is a_______.
@@ -793,6 +848,7 @@ Top-down approach
 टॉप-डाउन एप्रोोच
 B
 Bottom-up approach
+<<<PAGE:566>>>
 बॉटम-अप एप्रोोच
 C
 Left-right approach
@@ -804,6 +860,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 566
 Q.No: 150
 2635729
 A proxy server is used for which of the following?
@@ -824,6 +881,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 566
 Q.No: 151
 2635759
 MAR is related to computer, find the full form of MAR.
@@ -834,6 +892,7 @@ Memory Address Register
 B
 Main Address Register
 मैन एड्रेेस रजिस्टर
+<<<PAGE:567>>>
 C
 Memory Accessible Register
 मेमोरी एक्सेसिबल रजिस्टर
@@ -844,6 +903,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 567
 Q.No: 152
 2635768
 ARPANET is related with computer networks, among the following options which of the following is a full form of it?
@@ -864,6 +924,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 567
 Q.No: 153
 2635777
 AVI is related to Microsoft Windows, which of the following is its full form?
@@ -876,6 +937,7 @@ Interplay of Audio and Video
 इंटरप्ले ऑफ ऑडियो एंड वीडियो 
 C
 Intel Audio Video
+<<<PAGE:568>>>
 इंटेल ऑडियो वीडियो
 D
 Audio Video Interleaf
@@ -884,6 +946,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 568
 Q.No: 154
 2635798
 DARPANET was one of the first packet-switched networks, what is its full form?
@@ -904,6 +967,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 568
 Q.No: 155
 2636051
 MS Office  was first announced by?
@@ -916,6 +980,7 @@ Bill Gates 
 बिल गेट्स
 C
 Charles Simonyi 
+<<<PAGE:569>>>
 चार्ल्स सिमोनी
 D
 Steve Jobs 
@@ -924,6 +989,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 569
 Q.No: 156
 2636060
 References tab has _____ related commands.
@@ -944,6 +1010,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 569
 Q.No: 157
 2636069
 In ______ tab, _____ group can help us to change the font color?
@@ -959,14 +1026,17 @@ Insert, Media 
 इंसर्ट, मीडिया
 D
 Review, Changes 
+<<<PAGE:570>>>
 रिव्यूव, चेन्‍जस
 Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 642
 Q.No: 144
 2635625
 A program that is used to view websites is known as?
+<<<PAGE:643>>>
 एक प्रोोग्रााम जिसका उपयोग वेबसाइटों को देखने के लिए किया जाता है, उसे जाना जाता है?
 A
 Web Browser
@@ -984,6 +1054,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 643
 Q.No: 145
 2635634
 A computer network that is used to control access from outside of an organization’s intranet is called?

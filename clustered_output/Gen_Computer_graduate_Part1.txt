@@ -2,6 +2,7 @@ Subject: Gen. Computer graduate
 Questions: 50
 ========================================
 
+Page: 65
 Q.No: 144
 2635618
 A global network of computers all across the world is known as?
@@ -22,12 +23,14 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 65
 Q.No: 145
 2635627
 Each computer on a network is recognized by a unique_______.
 एक नेटवर्क पर प्रत्येक कंप्यूटर को एक अद्वितीय ____ द्वाारा पहचाना जाता है।
 A
 IP address
+<<<PAGE:66>>>
 आईपी एड्रेेस
 B
 HTTP 
@@ -42,6 +45,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 66
 Q.No: 146
 2635636
 Which of the following played an important role in developing common protocols for the evolution of www?
@@ -62,6 +66,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 66
 Q.No: 147
 2635684
 What kind of topology is most suitable for large enterprises that need to closely monitor and coordinate the operation of spread
@@ -73,6 +78,7 @@ Ring Topology
 B
 Mesh Topology
 मैश टोपोलॉजी
+<<<PAGE:67>>>
 C
 Bus Topology
 बस टोपोलॉजी
@@ -83,6 +89,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 67
 Q.No: 148
 2635693
 Which of the following would compromise the integrity of the system?
@@ -103,6 +110,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 67
 Q.No: 149
 2635702
 Which 2.4 GHz WLAN specification among the following enables for up to 54 Mbps? 
@@ -121,8 +129,10 @@ b
 b
 Correct Ans : C
 Subject : Gen. Computer graduate
+<<<PAGE:68>>>
 
 ----------------------------------------
+Page: 68
 Q.No: 150
 2635723
 Which of the following protocols does Ping use?
@@ -143,6 +153,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 68
 Q.No: 151
 2635753
 With respect to computer networks, which of the following is the full form of MAN?
@@ -163,12 +174,14 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 68
 Q.No: 152
 2635762
 With respect to computers, what is the full form of FDDI?
 कंप्यूटर के संबंध में, FDDI का पूर्णरूप क्याा है?
 A
 Fiber Distributed Data Interface
+<<<PAGE:69>>>
 फाइबर डिस्‍ट्रीीब्‍युटेड डेटा इंटरफेस 
 B
 Fabricated Distributed Data Interface
@@ -183,6 +196,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 69
 Q.No: 153
 2635771
 AOL is a web portal, what is its full form?
@@ -203,6 +217,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 69
 Q.No: 154
 2635792
 CD-ROM is related to a computer, which of the following is its full form?
@@ -215,6 +230,7 @@ Common Disk Read Only Memory
 कॉमन डिस्क रीड ओनली मेमोरी
 C
 Common Disk Random Only Memory
+<<<PAGE:70>>>
 कॉमन डिस्क रैंडम ओनली मेमोरी
 D
 Compact Disk Random Only Memory
@@ -223,6 +239,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 70
 Q.No: 155
 2636045
 Microsoft Word, Microsoft Excel, and Microsoft PowerPoint are the parts of?
@@ -243,6 +260,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 70
 Q.No: 156
 2636054
 Which of the following is not Present in MS word?
@@ -260,9 +278,11 @@ D
 Styles 
 स्टााइल्स
 Correct Ans : B
+<<<PAGE:71>>>
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 71
 Q.No: 157
 2636063
 Which of the following doesn't come under text Basics?
@@ -283,6 +303,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 154
 Q.No: 144
 2635619
 What is the detailed form of the internet?
@@ -292,6 +313,7 @@ Intermediate Network
 इंटरमीडिएट नेटवर्क
 B
 Ideal Network
+<<<PAGE:155>>>
 आइडियल नेटवर्क
 C
 Interconnected Network
@@ -303,6 +325,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 155
 Q.No: 145
 2635628
 With respect to internet, what is the full form of HTML?
@@ -323,6 +346,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 155
 Q.No: 146
 2635637
 Which device is required to establish an internet connection on a computer?
@@ -336,6 +360,7 @@ Uniform Resource Locator 
 C
 ISP 
 आईएसपी
+<<<PAGE:156>>>
 D
 Cookies 
 कुकीज
@@ -343,6 +368,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 156
 Q.No: 147
 2635685
 A program that translate a high-level language program into a machine language program:
@@ -363,6 +389,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 156
 Q.No: 148
 2635694
 Which software blocks a system's access from the outside?
@@ -381,8 +408,10 @@ Virus Checker
 वायरस चेकर 
 Correct Ans : A
 Subject : Gen. Computer graduate
+<<<PAGE:157>>>
 
 ----------------------------------------
+Page: 157
 Q.No: 149
 2635703
 Which command should we use for the IOS backup?
@@ -403,6 +432,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 157
 Q.No: 150
 2635724
 How many different types of controlled access techniques exist?
@@ -423,12 +453,14 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 157
 Q.No: 151
 2635754
 VDU is an output device. What is the full form of VDU?
 वीडीयू एक आउटपुट डिवाइस है। वीडीयू का फुलफॉर्म क्याा होता है?
 A
 Virtual Display Unit
+<<<PAGE:158>>>
 वर्चुअल डिस्प्ले यूनिट
 B
 Visual Display Unit
@@ -443,6 +475,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 158
 Q.No: 152
 2635763
 UNIVAC was the USA’s first electronic digital computer. What does UNIVAC stands for?
@@ -463,6 +496,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 158
 Q.No: 153
 2635772
 API is the set of protocols, which of the following is its full form?
@@ -473,6 +507,7 @@ Application Program Interaction
 B
 Applied Program Interface
 एप्लााइड प्रोोग्रााम इंटरफ़ेेस
+<<<PAGE:159>>>
 C
 Application Program Interface
 एप्लीीकेशन प्रोोग्रााम इंटरफेस
@@ -483,6 +518,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 159
 Q.No: 154
 2635793
 CISC is a type of computer architecture, which of the following is its full form?
@@ -503,6 +539,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 159
 Q.No: 155
 2636046
 To Edit a document means to make _________ to its existing content.
@@ -519,10 +556,12 @@ Formatting 
 D
 Save
 सेव
+<<<PAGE:160>>>
 Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 160
 Q.No: 156
 2636055
 Which of the following is present at the right of the Quick Access Toolbar?
@@ -543,6 +582,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 160
 Q.No: 157
 2636064
 What is the keyboard shortcut to Select All?
@@ -563,6 +603,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 228
 Q.No: 144
 2635620
 Which of the following shares hardware, software and data among authorized users?
@@ -583,6 +624,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 228
 Q.No: 145
 2635629
 A set of rules followed by each computer present on a network is known as?
@@ -601,8 +643,10 @@ Computer Program
 कंप्यूटर प्रोोग्रााम
 Correct Ans : C
 Subject : Gen. Computer graduate
+<<<PAGE:229>>>
 
 ----------------------------------------
+Page: 229
 Q.No: 146
 2635638
 A device that is used to convert digital signals (or data) into analogue signals and vice versa is called as?
@@ -623,6 +667,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 229
 Q.No: 147
 2635686
 The shortcut key Ctrl + I in MS-word is used to?
@@ -643,6 +688,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 229
 Q.No: 148
 2635695
 Which of the following corresponds to an valid email address?
@@ -654,11 +700,13 @@ gmail.com
 C
 D
 None of the given options
+<<<PAGE:230>>>
 दिए गए विकल्पोंों में से कोई नहीं
 Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 230
 Q.No: 149
 2635704
 IP address 192.168.168.188 - 255.255.255.192 has a location on which of the following valid IP host ranges?
@@ -679,6 +727,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 230
 Q.No: 150
 2635725
 In the data link layer, which of the following part does not belong to a frame?
@@ -699,6 +748,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 230
 Q.No: 151
 2635755
 With respect to computer, SVGA is an acronym for?
@@ -711,6 +761,7 @@ Super Visual Graphics Array
 सुपर विजुअल ग्रााफिक्स ऐरे
 C
 Standard Video Graphics Array
+<<<PAGE:231>>>
 स्टैंडर्ड वीडियो ग्रााफिक्स ऐरे
 D
 Super Video Graphics Array
@@ -719,6 +770,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 231
 Q.No: 152
 2635764
 What is the full form of BCD which is related to computer binary system?
@@ -739,6 +791,7 @@ Correct Ans : A
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 231
 Q.No: 153
 2635773
 With respect to computers, which of the following is a full form of APT?
@@ -759,6 +812,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 231
 Q.No: 154
 2635794
 With reference to computers, DAT is an acronym for?
@@ -768,6 +822,7 @@ Data on audio tape
 डेटा ऑन ऑडियो टेप
 B
 Decimal audio tape
+<<<PAGE:232>>>
 डेसिमल ऑडियो टेप
 C
 Digit Audio Tape
@@ -779,6 +834,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 232
 Q.No: 155
 2636047
 In MS PowerPoint, Which Command Is Used To Bring You to the First Slide?
@@ -799,6 +855,7 @@ Correct Ans : D
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 232
 Q.No: 156
 2636056
 Microsoft Office 2007 introduced the ________ as a user interface element.
@@ -819,6 +876,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 232
 Q.No: 157
 2636065
 ________ option appears in the menu to Copy the text and _______option appears in the menu to Paste the text.
@@ -826,6 +884,7 @@ ________ option appears in the menu to Copy the text and _______option appears i
 A
 Paragraph, Style
 पैराग्रााफ, स्‍टाईल
+<<<PAGE:233>>>
 B
 Comments, Text
 कमेंट्स, टेक्‍स्‍ट 
@@ -839,6 +898,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 312
 Q.No: 144
 2635621
 Forwarding an E-mail is similar to as?
@@ -859,6 +919,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 312
 Q.No: 145
 2635630
 Who is the Inventor of WWW (World wide web)?
@@ -866,6 +927,7 @@ WWW (वर्ल्डवाइडवेब) का आविष्काा�
 A
 James Goslin 
 जेम्स गोसलिन
+<<<PAGE:313>>>
 B
 Lee. N. Feyong
 ली. एन. फेयोंग
@@ -879,6 +941,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 313
 Q.No: 146
 2635639
 With respect to Internet, what is the full form of ISP?
@@ -899,6 +962,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 313
 Q.No: 147
 2635687
 Which one of the following applies to "parity bits"?
@@ -911,6 +975,7 @@ To transmit faster
 तेजी से संचारित करने के लिए
 C
 To detect errors
+<<<PAGE:314>>>
 त्रुटियों का पता लगाने के लिए
 D
 To identify the user
@@ -919,6 +984,7 @@ Correct Ans : C
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 314
 Q.No: 148
 2635696
 What is the meaning of Bandwidth in Network?
@@ -939,6 +1005,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 314
 Q.No: 149
 2635705
 Internet was possible because of the use of ______.
@@ -954,11 +1021,13 @@ FTP
 FTP
 D
 DHCP
+<<<PAGE:315>>>
 DHCP
 Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 315
 Q.No: 150
 2635726
 Which of the following is the first network?
@@ -979,6 +1048,7 @@ Correct Ans : B
 Subject : Gen. Computer graduate
 
 ----------------------------------------
+Page: 315
 Q.No: 151
 2635756
 With respect to computer, PCI is an acronym for?
@@ -997,5 +1067,6 @@ Peripheral Compound Interaction
 पेरीफरल कंपाउंड इण्टरेक्शन
 Correct Ans : A
 Subject : Gen. Computer graduate
+<<<PAGE:316>>>
 
 ----------------------------------------

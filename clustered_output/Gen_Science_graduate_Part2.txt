@@ -2,6 +2,7 @@ Subject: Gen. Science graduate
 Questions: 50
 ========================================
 
+Page: 309
 Q.No: 138
 2633519
 Which of the following options is correct?
@@ -17,11 +18,13 @@ If pH is more than 7, then the solution is acidic
 यदि पीएच 7 से अधिक है, तो विलयन अम्लीीय है
 D
 If pH is less than 7, then the solution is basic
+<<<PAGE:310>>>
 यदि पीएच 7 से कम है, तो विलयन क्षाारीय है
 Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 310
 Q.No: 139
 2633526
 What is the nature of soda water?
@@ -42,6 +45,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 310
 Q.No: 140
 2633527
 What is sodium hydroxide more commonly known as?
@@ -60,8 +64,10 @@ Caustic soda
 कास्टिक सोडा
 Correct Ans : D
 Subject : Gen. Science graduate
+<<<PAGE:311>>>
 
 ----------------------------------------
+Page: 311
 Q.No: 141
 2639489
 How many parts are the world biomes divided on the basis of climate?
@@ -82,6 +88,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 311
 Q.No: 142
 2639497
 Where is the Blue Mountain National Park of India located?             
@@ -102,9 +109,11 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 311
 Q.No: 143
 2639499
 What year did the Wildlife Protection Act become law?
+<<<PAGE:312>>>
 वन्यजीव संरक्षण अधिनियम किस वर्ष कानून बना?
 A
 In 1962 
@@ -122,6 +131,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 394
 Q.No: 130
 2629694
 A man sitting on a train in motion is facing the engine. He tosses a coin up, the coin falls behind him. This means the train is moving:
@@ -130,6 +140,7 @@ __________.
  इसका मतलब है कि ट्रेन चल रही है: __________।
 A
 Forward with uniform speed
+<<<PAGE:395>>>
 एकसमान गति से आगे
 B
 Backward with uniform speed
@@ -144,6 +155,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 395
 Q.No: 131
 2631995
 Which of the following is the characteristic feature of Mycoplasma? 
@@ -164,6 +176,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 395
 Q.No: 132
 2631996
 Which of the following is not the characteristic feature of the Protozoans?
@@ -176,6 +189,7 @@ They are believed to be primitive relatives of animals
 उन्हें जानवरों का आदिम रिश्तेदार माना जाता है।
 C
 All protozoans are eukaryotes
+<<<PAGE:396>>>
 सभी प्रोोटोजोआ यूकेरियोट्स हैं
 D
 All protozoa are parasitic
@@ -184,6 +198,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 396
 Q.No: 133
 2632010
 Who among the following coined the term Ecology? 
@@ -204,6 +219,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 396
 Q.No: 134
 2632064
 Which one of the following diseases is not caused by a virus?
@@ -221,9 +237,11 @@ D
 Common cold
 सामान्य जुकाम
 Correct Ans : B
+<<<PAGE:397>>>
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 397
 Q.No: 135
 2632073
 Which of the following causes ‘Tuberculosis’?
@@ -244,6 +262,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 397
 Q.No: 136
 2632082
 What leads to vitamin E deficiency?
@@ -264,10 +283,12 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 397
 Q.No: 137
 2633522
 Which of the following is present in acid rain in the highest concentration?
 अम्लीीय वर्षा में निम्नलिखित में से कौन सा उच्चतम सांद्रता में मौजूद है?
+<<<PAGE:398>>>
 A
 Hydrochloric acid
 हाइड्रोोक्लोोरिक अम्ल
@@ -284,6 +305,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 398
 Q.No: 138
 2633524
 What is the chemical name of baking soda ?
@@ -304,6 +326,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 398
 Q.No: 139
 2633532
 Which of the following has the most viscous nature?
@@ -313,6 +336,7 @@ Alcohol
 शराब
 B
 Water
+<<<PAGE:399>>>
 पानी
 C
 Gas
@@ -324,6 +348,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 399
 Q.No: 140
 2633533
 Which of the following is a main component of tooth enamel?
@@ -344,6 +369,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 399
 Q.No: 141
 2639490
 In which book are the endangered species described?
@@ -359,11 +385,13 @@ Pink book
 Pink book
 D
 Red book
+<<<PAGE:400>>>
 Red book
 Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 400
 Q.No: 142
 2639511
 When and for what reason did the Bhopal gas tragedy happen?
@@ -384,6 +412,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 400
 Q.No: 143
 2639512
 Which country first started Earth Hour, celebrated worldwide to reduce global warming by reducing carbon emissions?
@@ -402,8 +431,10 @@ Bhutan
 भूटान 
 Correct Ans : A
 Subject : Gen. Science graduate
+<<<PAGE:401>>>
 
 ----------------------------------------
+Page: 469
 Q.No: 130
 2629700
 If an object's displacement is proportional to the square of time, the object travels with_____________.
@@ -421,9 +452,11 @@ D
 Decreasing acceleration
 घटता त्वरण
 Correct Ans : B
+<<<PAGE:470>>>
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 470
 Q.No: 131
 2631997
 __________ recognised certain microbes as causal organisms of the mosaic disease of tobacco.
@@ -444,6 +477,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 470
 Q.No: 132
 2632011
 Which is the correct term for 'the range of conditions that an organism can tolerate, use a diversity of resources and have a specific functional role in an ecosystem'? 
@@ -464,6 +498,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 470
 Q.No: 133
 2632013
 _________ is the term for the shade loving plants. 
@@ -479,11 +514,13 @@ Xerophytes
 जेरोफाइट्स
 D
 Halophytes
+<<<PAGE:471>>>
 हेलोफाइट्स
 Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 471
 Q.No: 134
 2632065
 Blood cancer is also referred to as ______.
@@ -504,6 +541,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 471
 Q.No: 135
 2632074
 Which of the following diseases is not spread by house flies?
@@ -524,6 +562,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 471
 Q.No: 136
 2632083
 Which of the following does not represent an infectious disease?
@@ -536,6 +575,7 @@ Malaria
 मलेरिया
 C
 Anaemia
+<<<PAGE:472>>>
 एनीमिया
 D
 Dengue
@@ -544,6 +584,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 472
 Q.No: 137
 2633523
 NaCl is a salt of _____ acid with ______ base.
@@ -564,6 +605,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 472
 Q.No: 138
 2633525
 Which of the following acids doesn't contain oxygen?
@@ -584,6 +626,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 472
 Q.No: 139
 2633548
 When the outer surface of a vessel turns black during cooking, it indicates ________ of the following:
@@ -593,6 +636,7 @@ The food is not cooked completely
 खाना पूरी तरह नहीं बना है 
 B
 The fuel is not burning completely
+<<<PAGE:473>>>
 ईंधन पूरी तरह से नहीं जल रहा है 
 C
 The fuel is wet
@@ -604,6 +648,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 473
 Q.No: 140
 2633549
 Cation is formed when:
@@ -624,6 +669,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 473
 Q.No: 141
 2639491
 When was the Customs Act passed?
@@ -644,12 +690,14 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 473
 Q.No: 142
 2639520
 What was the title of the Rio-20 manifesto?
 रियो-20 घोषणा पत्र का शीर्षक क्याा था?
 A
 The Future VC 
+<<<PAGE:474>>>
 द फ्यूचर वीसी
 B
 The future we want 
@@ -664,6 +712,7 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 474
 Q.No: 143
 2639532
 When was the Indian Renewable Energy Development Authority established?
@@ -684,6 +733,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 556
 Q.No: 130
 2629708
 What is an audiometer used for? 
@@ -699,11 +749,13 @@ To Measure the intensity of sound
 ध्वनि की तीव्रता को मापने के लिए
 D
 To Measure electrical power
+<<<PAGE:557>>>
 विद्युत शक्ति को मापने के लिए
 Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 557
 Q.No: 131
 2631998
 Which of the following is not the characteristic feature of the kingdom Animalia?
@@ -724,6 +776,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 557
 Q.No: 132
 2632012
 Which of the following is not among the abiotic factors of an environment? 
@@ -741,9 +794,11 @@ D
 Vegetation
 वनस्पति
 Correct Ans : D
+<<<PAGE:558>>>
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 558
 Q.No: 133
 2632014
 Which of the following is present at the base of the ecological pyramid? 
@@ -764,6 +819,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 558
 Q.No: 134
 2632066
 What causes dengue fever? 
@@ -782,8 +838,10 @@ Pollution
 प्रदूषण
 Correct Ans : B
 Subject : Gen. Science graduate
+<<<PAGE:559>>>
 
 ----------------------------------------
+Page: 559
 Q.No: 135
 2632075
 The DPT vaccine is used to prevent _________.
@@ -804,6 +862,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 559
 Q.No: 136
 2632084
 Amoxicillin, Doxycycline, Azithromycin, and Penicillin are a few examples of ________.
@@ -822,8 +881,10 @@ Vaccinations
 टीकाकरण
 Correct Ans : C
 Subject : Gen. Science graduate
+<<<PAGE:560>>>
 
 ----------------------------------------
+Page: 560
 Q.No: 137
 2633528
 Which of the following base is used in making antacids?
@@ -844,6 +905,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 560
 Q.No: 138
 2633530
 What is the chemical name for bleaching powder?
@@ -864,9 +926,11 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 560
 Q.No: 139
 2633554
 Which of the following statements is correct about diamond and graphite?
+<<<PAGE:561>>>
 हीरे और ग्रेफाइट के बारे में निम्नलिखित में से कौन सा कथन सही है?
 A
 They have the same crystal structure 
@@ -884,6 +948,7 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 561
 Q.No: 140
 2633555
 ____" is the purest form of coal.
@@ -904,9 +969,11 @@ Correct Ans : D
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 561
 Q.No: 141
 2639492
 Which tree was given the metaphor of Kalpa tree?
+<<<PAGE:562>>>
 कल्प पेड़ की उपमा किस पेड़ को दी गई? 
 A
 Coconut
@@ -924,6 +991,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 562
 Q.No: 142
 2639521
 What is the Environment Protection Act known as?
@@ -944,12 +1012,14 @@ Correct Ans : B
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 562
 Q.No: 143
 2639533
 Where is the National Environmental Engineering Research Resource located?
 राष्ट्रीीय पर्यावरण इंजीनियरिंंग अनुसंधान संसाधन कहाँ स्थित है?
 A
 Nagpur
+<<<PAGE:563>>>
 नागपुर
 B
 Chandigarh
@@ -964,6 +1034,7 @@ Correct Ans : A
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 638
 Q.No: 130
 2629714
 The instrument used for measuring electric current is called ________.
@@ -984,6 +1055,7 @@ Correct Ans : C
 Subject : Gen. Science graduate
 
 ----------------------------------------
+Page: 638
 Q.No: 131
 2631999
 Lichens are symbiotic associations between algae and _________. 

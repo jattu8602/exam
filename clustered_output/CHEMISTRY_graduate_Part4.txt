@@ -2,6 +2,7 @@ Subject: CHEMISTRY graduate
 Questions: 31
 ========================================
 
+Page: 755
 Q.No: 37
 2622790
 Which option includes one of the valid conditions for writing a resonating structure?
@@ -22,6 +23,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 755
 Q.No: 38
 2622791
 Which type of hybridisation takes place in a methane molecule?
@@ -36,12 +38,14 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 755
 Q.No: 39
 2622804
 Which of the following is not a correct rule for aromaticity?
 निम्नलिखित में से कौन सा सुगन्धितता के लिए सही नियम नहीं है?
 A
 The molecule must be cyclic.
+<<<PAGE:756>>>
 अणु चक्रीीय होना चाहिए।
 B
 Each atom in the ring must be conjugated.
@@ -54,6 +58,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 756
 Q.No: 40
 2622805
 What is the name of the nonaromatic hydrocarbon, where the molecule is not cyclic or not planar?
@@ -74,6 +79,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 756
 Q.No: 41
 2622815
 In the elimination of HX from an alkyl halide, the predominating product is the more highly substituted alkene. What is it known as? 
@@ -87,6 +93,7 @@ Bredt’s rule
 C
 Markownikoff’s rule
 मार्कोनीकॉफ का नियम
+<<<PAGE:757>>>
 D
 Huckel’s rule
 हकल का नियम
@@ -94,6 +101,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 757
 Q.No: 42
 2622868
 Which of the following reacts with Grignard reagents to give primary alcohols?
@@ -114,6 +122,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 757
 Q.No: 43
 2622869
 Which of the following is obtained when tertiary alcohols are oxidised?
@@ -134,9 +143,11 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 757
 Q.No: 44
 2622883
 Which of the following is a two-component system?
+<<<PAGE:758>>>
 निम्नलिखित में से कौन सा दो-घटक प्रणाली है?
 A
 B
@@ -150,6 +161,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 758
 Q.No: 45
 2622884
 What is the degree of freedom of ice – water – vapour system?
@@ -170,6 +182,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 758
 Q.No: 46
 2622895
 Which of the following is NOT valid according to Kohlrausch law?
@@ -182,6 +195,7 @@ The electrolytic solution is infinitely dilute.
 इलेक्ट्रोोलाइटिक विलयन असीम रूप से पतला होता है।
 C
 Molar conductivity depends on the concentration of the electrolyte.
+<<<PAGE:759>>>
 मोलर चालकता इलेक्ट्रोोलाइट की सांद्रता पर निर्भर करती है।
 D
 The conductivity of a solution is composed of the effect of positive ions.
@@ -190,6 +204,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 759
 Q.No: 47
 2622901
 The calomel electrode is an example of which type of electrode? 
@@ -210,6 +225,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 759
 Q.No: 48
 2622902
 In which type of electrode, the metal is dissolved in mercury rather than in the pure form?
@@ -228,8 +244,10 @@ Oxidation-reduction electrode
 ऑक्सीीकरण-कमी इलेक्ट्रोोड
 Correct Ans : C
 Subject : CHEMISTRY graduate
+<<<PAGE:760>>>
 
 ----------------------------------------
+Page: 760
 Q.No: 49
 2622937
 Which of the following is used to make non-inflammable photographic films?
@@ -250,6 +268,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 760
 Q.No: 50
 2622954
 Which of the following is NOT a correct representation of the faces of a cube in terms of Miller indices?
@@ -261,6 +280,7 @@ B
 001
 001
 C
+<<<PAGE:761>>>
 D
 111
 111
@@ -268,6 +288,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 761
 Q.No: 51
 2622955
 For a general reaction of the type,
@@ -282,6 +303,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 761
 Q.No: 52
 2622965
 Which of the following is NOT a general group trend of d-block elements?
@@ -291,6 +313,7 @@ They have high melting and boiling points.
 इनका गलनांक और क्वथनांक उच्च होता है।
 B
 Theyexhibitcatalytic properties.
+<<<PAGE:762>>>
 ये कैटेलिटिक गुण प्रदर्शित करते हैं।
 C
 They are ductile.
@@ -302,6 +325,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 762
 Q.No: 53
 2622966
 Which of the following hydrated ions of the first transition series is colourless?
@@ -314,6 +338,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 762
 Q.No: 54
 2622981
 Which of the following is an exceptional neutral ligand?
@@ -321,6 +346,7 @@ Which of the following is an exceptional neutral ligand?
 A
 B
 C
+<<<PAGE:763>>>
 D
 CO
 CO
@@ -328,6 +354,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 763
 Q.No: 55
 2622982
 Which of the following complicated molecule is abbreviated as “oxine”?
@@ -348,6 +375,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 763
 Q.No: 56
 2623022
 What is defined as the process of finding and extracting useful data from raw DNA sequence data sets?
@@ -368,9 +396,11 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 763
 Q.No: 57
 2623023
 Which of the following is used as a viscosity improver in motor oils?
+<<<PAGE:764>>>
 निम्नलिखित में से किसका उपयोग मोटर तेलों में चिपचिपापन सुधारने वाले के रूप में किया जाता है?
 A
 Poly (p-methylstyrene)
@@ -388,6 +418,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 764
 Q.No: 58
 2623031
 Which method is used to remove all the oxygen and nitrogen present in the form of impurity in Zirconium and Titanium?
@@ -408,6 +439,7 @@ Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 764
 Q.No: 59
 2623052
 Which of the following polymers can be described as an interconnected branched polymer as all polymer chains are linked to form one giant
@@ -422,6 +454,7 @@ Branched polymer
 शाखाओं वाले पॉलिमर
 C
 Network polymer
+<<<PAGE:765>>>
 नेटवर्क पॉलिमर
 D
 Cross-linked polymer
@@ -430,6 +463,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 765
 Q.No: 60
 2623053
 Initiation in which type of polymerisation employs a “catalyst” that is restored at the end of the polymerization and does not become
@@ -451,6 +485,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 765
 Q.No: 61
 2623061
 Which option contains correct information about the isoelectric point of proteins?
@@ -469,8 +504,10 @@ High in case of the preponderance of acidic amino acids.
 अम्लीीय अमीनो अम्ल की प्रबलता के मामले में उच्च।
 Correct Ans : B
 Subject : CHEMISTRY graduate
+<<<PAGE:766>>>
 
 ----------------------------------------
+Page: 766
 Q.No: 62
 2623104
 What is the formula to determine the average velocity of gas molecules?
@@ -483,6 +520,7 @@ Correct Ans : A
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 766
 Q.No: 63
 2623105
 Which of the following expressions correctly informs about the relationship between the most probable velocity and root mean square velocity of
@@ -491,11 +529,13 @@ the molecules of a gas?
 A
 B
 C
+<<<PAGE:767>>>
 D
 Correct Ans : D
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 767
 Q.No: 64
 2623114
 What is the SI unit of the coefficient of viscosity?
@@ -508,6 +548,7 @@ Correct Ans : B
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 767
 Q.No: 65
 2623115
 What is the effect of temperature change on the viscosity of a liquid?
@@ -525,9 +566,11 @@ D
 Viscosity remains unaffected with an increase in temperature
 तापमान में वृद्धि के साथ श्याानता अप्रभावित रहती है
 Correct Ans : B
+<<<PAGE:768>>>
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 768
 Q.No: 66
 2623128
 Which of the following was first obtained from silk protein, sericin and contains an alcoholic hydroxyl group that participates in ester formation?
@@ -548,6 +591,7 @@ Correct Ans : C
 Subject : CHEMISTRY graduate
 
 ----------------------------------------
+Page: 768
 Q.No: 67
 2623144
 Which of the following refers to the deposition of a metallic coating onto an object by putting a negative charge onto the object and immersing it

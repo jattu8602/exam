@@ -2,6 +2,7 @@ Subject: PHARMACY graduate
 Questions: 50
 ========================================
 
+Page: 206
 Q.No: 76
 2628060
 Which of the following is an incorrect statement regarding the components of blood? 
@@ -22,6 +23,7 @@ Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 206
 Q.No: 77
 2628061
 What is an incorrect statement about Reimer Tiemann’s reaction? 
@@ -37,11 +39,13 @@ The mechanism of the Reimer Tiemann reaction ends with the deprotonation of chlo
 रीमर टिएमैन रिएक्शन मेकनिज़्म (reaction mechanism) क्लोोरोफॉर्म कार्बनियन बनाने के लिए एक मजबूत बेस द्वाारा क्लोोरोफॉर्म के अवक्षेपण के साथ समाप्त होता है।
 D
 The simplest example of this reaction is being the conversion of phenol to salicylaldehyde.
+<<<PAGE:207>>>
 इस रिएक्शन(reaction) का सबसे सरल उदाहरण फिनोल का सैलिसिैलल्डिहाइड में रूपांतरण है।
 Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 207
 Q.No: 78
 2628063
 Fill in the blank with the correct option. 
@@ -64,6 +68,7 @@ Correct Ans : B
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 207
 Q.No: 79
 2628076
 The gelatine hydrolysis test detects the ability of bacteria to produce _____________
@@ -84,6 +89,7 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 207
 Q.No: 80
 2628077
 Which of the following is an electrophile? 
@@ -91,6 +97,7 @@ Which of the following is an electrophile? 
 A
 Ammonia
 अमोनिया
+<<<PAGE:208>>>
 B
 Cyanide
 साइनाइड
@@ -104,6 +111,7 @@ Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 208
 Q.No: 81
 2628084
 Which of the following is not a phase of bacteria growth curve? 
@@ -125,6 +133,7 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 208
 Q.No: 82
 2628090
 In which of the following enkephalins is not present?
@@ -145,12 +154,14 @@ Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 208
 Q.No: 83
 2628096
 Which muscle is multinucleated?
 कौन-सी मांसपेशी बहुकेन्द्रीीय होती है?
 A
 Skeleton
+<<<PAGE:209>>>
 कंकाल
 B
 Cardiac
@@ -165,6 +176,7 @@ Correct Ans : A
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 209
 Q.No: 84
 2628097
 Which of the following is incorrect statement about cell and its parts? 
@@ -186,6 +198,7 @@ Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 209
 Q.No: 85
 2628105
 Which of the following is not necessarily a correct combination? 
@@ -206,9 +219,11 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 209
 Q.No: 86
 2628114
 Which of the following is not an official Drug compendium in India? 
+<<<PAGE:210>>>
 निम्नलिखित में से कौन सा भारत में एक आधिकारिक ड्रग संग्रह नहीं है?
 A
 National formulary of India
@@ -226,6 +241,7 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 210
 Q.No: 87
 2628120
 Match the content of Table A and Table B to mark the correct option. 
@@ -246,6 +262,7 @@ Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 210
 Q.No: 88
 2628126
 What is a factor that does not affect the dissolution properties of a tablet? 
@@ -255,6 +272,7 @@ The particle size of the drug substance
 दवा पदार्थ का कण आकार।
 B
 The solubility and hygroscopicity of formulation. 
+<<<PAGE:211>>>
 सूत्रीीकरण की घुलनशीलता और हीड्रोोस्कोोपिसिटी।
 C
 The type and concentration of the disintegrant, binder and lubricant used. 
@@ -266,6 +284,7 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 211
 Q.No: 89
 2628127
 Which of the following is a characteristic of lyophobic gel? 
@@ -286,6 +305,7 @@ Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 211
 Q.No: 90
 2628135
 Which of the following can not be used as emulsifying agent? 
@@ -306,12 +326,14 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 211
 Q.No: 91
 2628144
 Which of the following is the zero-order reaction? 
 निम्न में से कौन सा शून्य-क्रम प्रतिक्रिया है?
 A
 The plot of log C vs. time is a straight line. 
+<<<PAGE:212>>>
 log C बनाम समय का प्लॉॉट एक सीधी रेखा है।
 B
 The plot of log 1/C vs. time is a straight line.
@@ -324,6 +346,7 @@ Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 212
 Q.No: 92
 2628150
 Which of the following is an incorrect statement about Protein Binding? 
@@ -344,6 +367,7 @@ Correct Ans : B
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 212
 Q.No: 93
 2628156
 Which is the scope of study in Pharmacogenetics? 
@@ -364,9 +388,11 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 212
 Q.No: 94
 2628165
 Which of the following approach to selling suits the pharmaceutical industry? 
+<<<PAGE:213>>>
 फार्मास्युटिकल उद्योोग को बेचने के लिए निम्नलिखित में से कौन सा दृष्टिकोण उपयुक्त है?
 A
 Transactional
@@ -384,6 +410,7 @@ Correct Ans : B
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 213
 Q.No: 95
 2628166
 Which of the following is not a correct statement about the Central Pharmacists register under section 14 of the Pharmacy Act? 
@@ -404,6 +431,7 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 213
 Q.No: 96
 2628174
 Read the statements given below to answer the question. 
@@ -419,6 +447,7 @@ Only 1 follows. 
 केवल 1 अनुसरण करता है।
 B
 Only 2 follows. 
+<<<PAGE:214>>>
 केवल 2 अनुसरण करता है।
 C
 Both 1 and 2 follow. 
@@ -430,6 +459,7 @@ Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 214
 Q.No: 97
 2628180
 Herbal drugs export constitutes ___________of total Indian pharmaceutical export. 
@@ -450,6 +480,7 @@ Correct Ans : A
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 214
 Q.No: 98
 2628186
 Which of the following is used in cardiogenic shock and produces renal shock? 
@@ -470,12 +501,14 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 214
 Q.No: 99
 2628195
 Which of the following drug is the most appropriate one to reduce proteinuria in a diabetic person? 
 मधुमेह वाले व्यक्ति में प्रोोटीनूरिया (proteinuria) को कम करने के लिए निम्नलिखित में से कौन सी दवा सबसे उपयुक्त है?
 A
 Metoprolol
+<<<PAGE:215>>>
 मेटोप्रोोलोल (Metoprolol)
 B
 Perindopril
@@ -490,6 +523,7 @@ Correct Ans : B
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 215
 Q.No: 100
 2628204
 Read the statements to answer the question. 
@@ -514,6 +548,7 @@ Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 248
 Q.No: 1
 2628062
 What is not related to angle strain? 
@@ -534,6 +569,7 @@ Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 248
 Q.No: 2
 2628064
 Which algorithm is used for the antiaromatic system according to Huckel’s rule? 
@@ -547,6 +583,7 @@ N= 4n
 C
 N=2n
 N=2n
+<<<PAGE:249>>>
 D
 N= 4n+1
 N= 4n+1
@@ -554,6 +591,7 @@ Correct Ans : B
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 249
 Q.No: 3
 2628066
 Identify the incorrect statement about the buffer capacity and buffer solutions. 
@@ -573,6 +611,7 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 249
 Q.No: 4
 2628067
 What is not a factor that affects the solubility of drugs? 
@@ -586,6 +625,7 @@ Electronic factors
 C
 Steric factors
 स्टेरिक (steric)कारक
+<<<PAGE:250>>>
 D
 Usage of the drugs
 दवाओं का उपयोग
@@ -593,6 +633,7 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 250
 Q.No: 5
 2628068
 Which of the following is not a Koch’s postulate? 
@@ -614,6 +655,7 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 250
 Q.No: 6
 2628078
 Which of the following is incorrect statement about the aryl diazonium salts?
@@ -630,10 +672,12 @@ Aryl diazonium salts are colourless crystalline solids.
 D
 They have high redox potential. 
 इनमें उच्च रेडॉक्स क्षमता होती है।
+<<<PAGE:251>>>
 Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 251
 Q.No: 7
 2628079
 Which of the following is determined in saponification value? 
@@ -654,6 +698,7 @@ Correct Ans : A
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 251
 Q.No: 8
 2628080
 Read the following statement to mark the correct option. 
@@ -673,11 +718,13 @@ Statement is partially correct. 
 कथन आंशिक रूप से सही है।
 D
 Statement is conditionally correct. 
+<<<PAGE:252>>>
 कथन सशर्त रूप से सही है।
 Correct Ans : A
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 252
 Q.No: 9
 2628085
 Which of the following neurotransmitter’s level directly affect Alzheimer disease and Parkinson’s disease? 
@@ -698,6 +745,7 @@ Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 252
 Q.No: 10
 2628086
 What is the name of the process by which benzene molecule is stabilized? 
@@ -716,8 +764,10 @@ Retraction
 वापस लेना (Retraction)
 Correct Ans : A
 Subject : PHARMACY graduate
+<<<PAGE:253>>>
 
 ----------------------------------------
+Page: 253
 Q.No: 11
 2628091
 A
@@ -736,6 +786,7 @@ Correct Ans : A
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 253
 Q.No: 12
 2628092
 Which of the following muscle groups are innervated by the sciatic nerve?
@@ -756,9 +807,11 @@ Correct Ans : A
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 253
 Q.No: 13
 2628098
 Pisiform bone is found in which of the following joint? 
+<<<PAGE:254>>>
 निम्नलिखित में से किस जोड़ में पिसिफोर्म (Pisiform) हड्डीी पाई जाती है?
 A
 Shoulder joint
@@ -776,6 +829,7 @@ Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 254
 Q.No: 14
 2628099
 The plane which divides the body into upper and lower parts is called as? 
@@ -796,12 +850,14 @@ Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 254
 Q.No: 15
 2628100
 What is the category of patella bone that is present in knee? 
 घुटने में पायी जाने वाली पटेला अस्थि किस श्रेणी की होती है ?
 A
 Flat bone
+<<<PAGE:255>>>
 चपटी हड्डीी
 B
 Extended bone
@@ -816,6 +872,7 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 255
 Q.No: 16
 2628106
 What types of diseases monoclonal antibodies are not used for?
@@ -836,6 +893,7 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 255
 Q.No: 17
 2628107
 What is the role of sodium met bisulphite in parenteral formulations? 
@@ -846,6 +904,7 @@ Used as an antioxidant.
 B
 Used as a chelator.
 एक चेलेटर के रूप में प्रयोग किया जाता है
+<<<PAGE:256>>>
 C
 Used as cosolvent.
 सह-विलायक के रूप में प्रयोग किया जाता है
@@ -856,6 +915,7 @@ Correct Ans : A
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 256
 Q.No: 18
 2628108
 Put the following steps of wet granulation method of drug preparation in the correct sequence. 
@@ -886,8 +946,10 @@ D
 365421
 Correct Ans : A
 Subject : PHARMACY graduate
+<<<PAGE:257>>>
 
 ----------------------------------------
+Page: 257
 Q.No: 19
 2628115
 What is the quantity of dextrose required to prepare a solution isotonic with blood plasma. The molecular weight of dextrose is
@@ -910,6 +972,7 @@ Correct Ans : B
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 257
 Q.No: 20
 2628116
 Which of the following is not correct information about the mixing of drugs at various stages? 
@@ -932,6 +995,7 @@ B
 1 और 2 दोनों
 C
 2 and 3 both
+<<<PAGE:258>>>
 2 और 3 दोनों
 D
 1 and 3 only
@@ -940,6 +1004,7 @@ Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 258
 Q.No: 21
 2628121
 What is the formula of partition coefficient to represent the lipophilicity of an organic compound if A is the concentration of
@@ -953,6 +1018,7 @@ Correct Ans : A
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 258
 Q.No: 22
 2628122
 What are the reasons that dry granulation method of tablet preparation is becoming more popular than other methods? 
@@ -962,6 +1028,7 @@ What are the reasons that dry granulation method of tablet preparation is becomi
 क्याा कारण हैं कि गोली तैयार करने की सूखी दानेदार बनाने की विधि अन्य विधियों की तुलना में अधिक लोकप्रिय हो रही है?
 1. गर्मी या नमी के कारण कोई प्रतिक्रिया नहीं।
 2. उपकरण से निपटने की कम लागत।
+<<<PAGE:259>>>
 3. रचना में समान गोलियां बनाने की क्षमता।
 A
 Only 1
@@ -979,6 +1046,7 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 259
 Q.No: 23
 2628128
 What type of colloidal Aluminum hydroxide sol is? 
@@ -999,12 +1067,14 @@ Correct Ans : C
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 259
 Q.No: 24
 2628129
 Which of the following statements are not correct about Donnan Membrane Equilibrium? 
 1. The side on which non diffusible ion is present, accumulates oppositely charged diffusible ions. 
 2. On the other side of the membrane, diffusible ions will cause accumulation of non-diffusible ions such as R-.
 डोनन मेम्ब्रेन इक्विलिब्रियम (Donnan Membrane Equilibrium) के बारे में निम्नलिखित में से कौन सा कथन सही नहीं है?
+<<<PAGE:260>>>
 1. जिस तरफ गैर-प्रसार योग्य आयन मौजूद होता है, वह विपरीत चार्ज प्रसार योग्य आयन जमा करता है।
 2. झिल्लीी के दूसरी तरफ, प्रसार योग्य आयन गैर-प्रसार योग्य आयनों जैसे R- के संचय का कारण बनेंगे।
 A
@@ -1023,6 +1093,7 @@ Correct Ans : D
 Subject : PHARMACY graduate
 
 ----------------------------------------
+Page: 260
 Q.No: 25
 2628130
 Young’s modulus is a type of –

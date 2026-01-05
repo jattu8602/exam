@@ -2,6 +2,7 @@ Subject: Gen. English graduate
 Questions: 50
 ========================================
 
+Page: 55
 Q.No: 115
 2621175
 Identify the segment in the sentence which contains the grammatical error from the given options.
@@ -14,10 +15,12 @@ C
 a major role
 D
 human communication
+<<<PAGE:56>>>
 Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 56
 Q.No: 116
 2621191
 The following sentence has been divided into three parts. One of them may be incorrect. Choose the INCORRECT part from the given
@@ -35,6 +38,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 56
 Q.No: 117
 2621207
 Identify the segment in the sentence which contains the grammatical error from the given options. 
@@ -51,6 +55,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 56
 Q.No: 118
 2621240
 Select the most appropriate word to fill in the blank.
@@ -67,6 +72,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 56
 Q.No: 119
 2621256
 Select the most appropriate word to fill in the blank.
@@ -83,10 +89,12 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 56
 Q.No: 120
 2621272
 Select the most appropriate word to fill in the blank.
 Tundra plants have developed adaptations that _______ them thrive in this harsh climate.
+<<<PAGE:57>>>
 A
 help
 B
@@ -99,6 +107,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 57
 Q.No: 121
 2621308
 Select the most appropriate word to fill in the blank. 
@@ -115,6 +124,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 57
 Q.No: 122
 2621445
 Select the wrongly spelt word.
@@ -130,6 +140,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 57
 Q.No: 123
 2621460
 Select the wrongly spelt word.
@@ -145,6 +156,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 57
 Q.No: 124
 2621501
 Select the meaning of the given idiom.
@@ -159,8 +171,10 @@ D
 To disagree
 Correct Ans : C
 Subject : Gen. English graduate
+<<<PAGE:58>>>
 
 ----------------------------------------
+Page: 58
 Q.No: 125
 2629903
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one
@@ -178,6 +192,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 58
 Q.No: 126
 2629928
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one
@@ -195,6 +210,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 58
 Q.No: 127
 2629954
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one
@@ -212,6 +228,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 58
 Q.No: 128
 2629999
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one
@@ -227,8 +244,10 @@ D
 Kamlesh asked whether Anshuman had finished your work.
 Correct Ans : C
 Subject : Gen. English graduate
+<<<PAGE:59>>>
 
 ----------------------------------------
+Page: 59
 Q.No: 129
 2637597
 Identify the segment which contains the grammatical error.
@@ -244,6 +263,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 145
 Q.No: 115
 2621176
 Identify the segment in the sentence which contains the grammatical error from the given options.
@@ -260,6 +280,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 145
 Q.No: 116
 2621192
 The following sentence has been divided into three parts. One of them may be incorrect. Choose the INCORRECT part from the
@@ -277,6 +298,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 145
 Q.No: 117
 2621208
 Identify the segment in the sentence which contains the grammatical error from the given options. 
@@ -293,12 +315,14 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 145
 Q.No: 118
 2621241
 Select the most appropriate word to fill in the blank.
 Tiger and bull sharks are two species often found _______ the coast and are known to bite people.
 A
 in
+<<<PAGE:146>>>
 B
 along
 C
@@ -309,6 +333,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 146
 Q.No: 119
 2621257
 Select the most appropriate word to fill in the blank. 
@@ -325,6 +350,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 146
 Q.No: 120
 2621273
 Select the most appropriate word to fill in the blank.
@@ -341,6 +367,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 146
 Q.No: 121
 2621309
 Select the most appropriate word to fill in the blank.
@@ -357,6 +384,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 146
 Q.No: 122
 2621446
 Select the wrongly spelt word.
@@ -370,8 +398,10 @@ D
 Specialization 
 Correct Ans : B
 Subject : Gen. English graduate
+<<<PAGE:147>>>
 
 ----------------------------------------
+Page: 147
 Q.No: 123
 2621461
 Select the wrongly spelt word.
@@ -387,6 +417,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 147
 Q.No: 124
 2621502
 Select the meaning of the given idiom.
@@ -403,6 +434,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 147
 Q.No: 125
 2629904
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the
@@ -420,6 +452,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 147
 Q.No: 126
 2629930
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the
@@ -437,10 +470,12 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 147
 Q.No: 127
 2629955
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the
 one which best expresses the same sentence in Indirect/Direct Speech and select your answer.
+<<<PAGE:148>>>
 I said to Radhika, “How do you know this person so well?”
 A
 I asked Radhika whether she knows that person so well.
@@ -454,6 +489,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 148
 Q.No: 128
 2630000
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the
@@ -471,6 +507,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 148
 Q.No: 129
 2637598
 Identify the segment which contains the grammatical error.
@@ -486,6 +523,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 220
 Q.No: 115
 2621177
 Identify the segment in the sentence which contains the grammatical error from the given options. 
@@ -502,6 +540,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 220
 Q.No: 116
 2621193
 The following sentence has been divided into three parts. One of them may be incorrect. Choose the INCORRECT part from the given options. If you don’t find any error, m
@@ -517,8 +556,10 @@ D
 No Error
 Correct Ans : B
 Subject : Gen. English graduate
+<<<PAGE:221>>>
 
 ----------------------------------------
+Page: 221
 Q.No: 117
 2621209
 Identify the segment in the sentence which contains the grammatical error from the given options.
@@ -535,6 +576,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 221
 Q.No: 118
 2621242
 Select the most appropriate word to fill in the blank.
@@ -551,6 +593,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 221
 Q.No: 119
 2621258
 Select the most appropriate word to fill in the blank.
@@ -567,6 +610,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 221
 Q.No: 120
 2621274
 Select the most appropriate word to fill in the blank.
@@ -583,6 +627,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 221
 Q.No: 121
 2621310
 Select the most appropriate word to fill in the blank.
@@ -599,6 +644,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 221
 Q.No: 122
 2621447
 Select the wrongly spelt word.
@@ -611,9 +657,11 @@ Rediculous
 D
 Receptionist
 Correct Ans : C
+<<<PAGE:222>>>
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 222
 Q.No: 123
 2621462
 Select the wrongly spelt word.
@@ -629,6 +677,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 222
 Q.No: 124
 2621503
 Select the meaning of the given idiom.
@@ -645,6 +694,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 222
 Q.No: 125
 2629906
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best expresses the same sente
@@ -662,6 +712,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 222
 Q.No: 126
 2629931
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best expresses the same sente
@@ -679,6 +730,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 222
 Q.No: 127
 2629957
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best expresses the same sente
@@ -694,8 +746,10 @@ D
 You told me that I would stand by you in every situation.
 Correct Ans : B
 Subject : Gen. English graduate
+<<<PAGE:223>>>
 
 ----------------------------------------
+Page: 223
 Q.No: 128
 2630001
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best expresses the same sente
@@ -713,6 +767,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 223
 Q.No: 129
 2637599
 Identify the segment which contains the grammatical error.
@@ -728,6 +783,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 302
 Q.No: 115
 2621178
 Identify the segment in the sentence which contains the grammatical error from the given options. 
@@ -744,6 +800,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 302
 Q.No: 116
 2621194
 The following sentence has been divided into three parts. One of them may be incorrect. Choose the INCORRECT part from the
@@ -761,10 +818,12 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 302
 Q.No: 117
 2621210
 The following sentence has been divided into three parts. One of them may be incorrect. Choose the INCORRECT part from the
 given options. If you don’t find any error, mark ‘No error’ as your answer.
+<<<PAGE:303>>>
 The State governments at partnership / with the Centre, must use the funds / to transform primary health care.
 A
 The State governments at partnership
@@ -778,6 +837,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 303
 Q.No: 118
 2621243
 Select the most appropriate word to fill in the blank.
@@ -794,6 +854,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 303
 Q.No: 119
 2621259
 Select the most appropriate word to fill in the blank.

@@ -2,6 +2,7 @@ Subject: Gen. Knowledge graduate
 Questions: 50
 ========================================
 
+Page: 49
 Q.No: 101
 2620169
 Who is the author of the book “The Light We Carry: Overcoming in Uncertain Times”, published in 2022?
@@ -14,6 +15,7 @@ Jill Biden
 जिल बिडेन
 C
 Melania Trump
+<<<PAGE:50>>>
 मेलानिया ट्रम्प
 D
 Laura Bush
@@ -22,6 +24,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 50
 Q.No: 102
 2620176
 Who among the following is the author of the book Golden Boy Neeraj Chopra to be published in 2022?
@@ -42,6 +45,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 50
 Q.No: 103
 2620219
 According to an article published in Conservation magazine, in which biosphere reserve in India human settlements are causing a
@@ -59,10 +63,12 @@ Great Nicobar Biosphere Reserve
 D
 Panna Biosphere Reserve
 पन्नाा बायोस्फीीयर रिजर्व
+<<<PAGE:51>>>
 Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 51
 Q.No: 104
 2620226
 Which Indian conglomerate has launched India's first "Green" steel brand?
@@ -83,6 +89,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 51
 Q.No: 105
 2620234
 Which organization released its first global water resources report?
@@ -103,9 +110,11 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 51
 Q.No: 106
 2621890
 Which among the following was the capital of imperial Cholas?
+<<<PAGE:52>>>
 निम्नलिखित में से कौन-सी शाही चोलों की राजधानी थी?
 A
 Uraiyur
@@ -123,6 +132,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 52
 Q.No: 107
 2621891
 Who was the founder of the Imperial Chola dynasty?
@@ -143,6 +153,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 52
 Q.No: 108
 2621893
 Under the Cholas Eripatti meant? 
@@ -152,6 +163,7 @@ Tank land 
 टैंक भूमि
 B
 Pasture land
+<<<PAGE:53>>>
 चारागाह भूमि
 C
 Waste land 
@@ -163,6 +175,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 53
 Q.No: 109
 2622095
 What is T- bills or treasury bills?
@@ -183,6 +196,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 53
 Q.No: 110
 2622096
 One rupee coin is minted by which of the following?
@@ -198,11 +212,13 @@ SBI
 स्टेट बैंक ऑफ इंडिया
 D
 Ministry of Finance
+<<<PAGE:54>>>
 वित्त मंत्राालय
 Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 54
 Q.No: 111
 2622098
 When was the demonetization of Rs 500 and Rs 1000 notes?
@@ -223,6 +239,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 54
 Q.No: 112
 2622100
 On whose recommendation was the Reserve Bank of India established?
@@ -241,8 +258,10 @@ ARC report
 एआरसी रिपो
 Correct Ans : C
 Subject : Gen. Knowledge graduate
+<<<PAGE:55>>>
 
 ----------------------------------------
+Page: 55
 Q.No: 113
 2622455
 To conduct the election of the panchayat and municipalities. Which type of body is constituted?
@@ -263,6 +282,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 55
 Q.No: 114
 2622458
 What is the qualification of the members of the Election Commission according to the constitution?
@@ -283,6 +303,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 139
 Q.No: 101
 2620170
 Which of the following book is written by Ruskin Bond?
@@ -303,6 +324,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 139
 Q.No: 102
 2620177
 Which of the following is correctly matched?
@@ -323,6 +345,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 139
 Q.No: 103
 2620220
 Which of the following national park conducted a bird survey in 2022 that resulted in the identification of 175 species, of which 17
@@ -330,6 +353,7 @@ were newly recorded?
 निम्नलिखित में से किस राष्ट्रीीय उद्याान ने 2022 में एक पक्षीी सर्वेक्षण किया, जिसके परिणामस्वरूप 175 प्रजातियों की पहचान हुई, जिनमें से 17 नई दर्ज की गईं?
 A
 Silent Valley National Park
+<<<PAGE:140>>>
 साइलेंट वैली नेशनल पार्क
 B
 Campbell Bay National Park
@@ -344,6 +368,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 140
 Q.No: 104
 2620227
 Which of the following union's member states and parliamentarians have announced a historic reform of the bloc's carbon market
@@ -365,6 +390,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 140
 Q.No: 105
 2620235
 Who has released an assessment report titled “Carbon Capture, Utilization and Storage Policy Framework and Its Deployment
@@ -375,6 +401,7 @@ Ministry of Environment, Forest and Climate Change
 पर्यावरण, वन और जलवायु परिवर्तन मंत्राालय
 B
 India Meteorological Department
+<<<PAGE:141>>>
 भारत मौसम विज्ञाान विभाग
 C
 NITI Aayog
@@ -386,6 +413,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 141
 Q.No: 106
 2621892
 Which of the following Chola rulers got defeated by the Rashtrakutas in the famous battle of Takkolam?   
@@ -406,6 +434,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 141
 Q.No: 107
 2621894
 What was the last military achievement of Rajaraja Chola?
@@ -419,6 +448,7 @@ Naval conquest of Maldives
 C
 Naval conquest of Ceylon
 सीलोन की नौसेना विजय
+<<<PAGE:142>>>
 D
 Naval conquest of Myanmar
 म्यांांमार की नौसेना विजय 
@@ -426,6 +456,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 142
 Q.No: 108
 2621896
 Who among the following established the Pratihara dynasty?
@@ -446,6 +477,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 142
 Q.No: 109
 2622097
 What is the meaning of M1 in the following statement?
@@ -464,8 +496,10 @@ Total deposits with Post Office Savings Bank
 डाकघर बचत बैंक में कुल जमा राशि
 Correct Ans : A
 Subject : Gen. Knowledge graduate
+<<<PAGE:143>>>
 
 ----------------------------------------
+Page: 143
 Q.No: 110
 2622099
 What is the fixed interest rate at which RBI provides overnight liquidity to banks?
@@ -486,6 +520,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 143
 Q.No: 111
 2622101
 Who among the following controls the cooperative banks in India?
@@ -506,12 +541,14 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 143
 Q.No: 112
 2622106
 When was the SARFAESI Act passed?
 SARFAESI एक्ट कब पास हुआ था?
 A
 2000
+<<<PAGE:144>>>
 2000
 B
 2001
@@ -526,6 +563,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 144
 Q.No: 113
 2622457
 The tenureTenure of the Chief Election Commissioner is _____- 
@@ -546,6 +584,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 144
 Q.No: 114
 2622468
 If a child is born in a foreign country and one of the parents is an Indian and is seeking citizenship, at what time is it mandatory to
@@ -556,6 +595,7 @@ A
 1 साल
 B
 2 year
+<<<PAGE:145>>>
 2 साल
 C
 3 year
@@ -567,6 +607,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 215
 Q.No: 101
 2620171
 Who is the Author of the Book "A Place Called Home" ?
@@ -582,11 +623,13 @@ Preeti Shenoy
 प्रीीति शेनॉय
 D
 Smriti Irani
+<<<PAGE:216>>>
 स्मृति ईरानी
 Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 216
 Q.No: 102
 2620178
 Who has authored the book ‘The Little Book of Joy’ to be released in September 2022?
@@ -607,6 +650,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 216
 Q.No: 103
 2620221
 In which country 20 new frog species have been discovered in December 2022?
@@ -627,6 +671,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 216
 Q.No: 104
 2620228
 Which organization released a report in 2022 stressing the importance of coordinated efforts by all South Asian countries to reduce air pollution?
@@ -639,6 +684,7 @@ International Monetary Fund
 अंतर्राष्ट्रीीय मुद्राा कोष
 C
 South Asian Association for Regional Cooperation
+<<<PAGE:217>>>
 क्षेत्रीीय सहयोग के लिए दक्षिण एशियाई संघ
 D
 World Bank
@@ -647,6 +693,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 217
 Q.No: 105
 2620236
 The Plastics Life-Cycle Report was released by which of the following?
@@ -667,6 +714,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 217
 Q.No: 106
 2621897
 निम्नलिखित में से किस वंश ने 12वीं शताब्दीी में ददल्लीी के तोमरों को विस्थापित किया था?
@@ -686,6 +734,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 217
 Q.No: 107
 2621899
 Which Rajput queen built the famous structure ‘Rani ki Vav’ of Patan?
@@ -695,6 +744,7 @@ Queen Vidyawati
 रानी विद्याावती
 B
 Queen Ragamati
+<<<PAGE:218>>>
 रानी रागमती
 C
 Queen Udaymati
@@ -706,6 +756,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 218
 Q.No: 108
 2621906
 When did Iltutmish’s daughter, Raziyya, become Sultan of Delhi?
@@ -726,6 +777,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 218
 Q.No: 109
 2622102
 The situation when everyone wants to withdraw money from someone's bank account before the bank's reserves are exhausted is called_____________.
@@ -746,12 +798,14 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 218
 Q.No: 110
 2622104
 In which year SIDBI was established?
 सिडबी की स्थापना किस वर्ष हुई थी?
 A
 1981
+<<<PAGE:219>>>
 1981
 B
 1999
@@ -766,6 +820,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 219
 Q.No: 111
 2622110
 When was the Bretton wood conference held?
@@ -786,6 +841,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 219
 Q.No: 112
 2622115
 What is an investment (either in debt or equity) made by a company or entity located in one country in a company or entity located in another country?
@@ -806,9 +862,11 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 219
 Q.No: 113
 2622461
 Which of the following is true regarding the first Indian woman to lead a state electoral commission?
+<<<PAGE:220>>>
 राज्य निर्वाचन आयोग का नेतृत्व करने वाली पहली भारतीय महिला के बारे में निम्नलिखित में से कौन सा सही है?
 A
 Neela Satyanarayana
@@ -826,6 +884,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 220
 Q.No: 114
 2622478
 Anganwadis are run under which programme?
@@ -846,6 +905,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 296
 Q.No: 101
 2620172
 What is the name of the novel written by Smriti Irani which was published in 2021?
@@ -866,6 +926,7 @@ Correct Ans : A
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 296
 Q.No: 102
 2620179
 'A Little Book of India: Celebrating 75 Years of Independence' is written by _______.
@@ -886,9 +947,11 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 296
 Q.No: 103
 2620222
 Which state government has launched the Nilgiri Tahr Project for the conservation of the state animal?
+<<<PAGE:297>>>
 किस राज्य सरकार ने राजकीय पशु के संरक्षण के लिए नीलगिरि तहर परियोजना शुरू की है?
 A
 Kerala
@@ -906,6 +969,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 297
 Q.No: 104
 2620229
 In which conference did the UN honour 10 significant global initiatives for their contribution to the restoration of natural
@@ -927,12 +991,14 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 297
 Q.No: 105
 2620237
 Where has it been proposed to set up a Research Center on Kyasanur Forest Disease (KFD)?
 कसानूर वन रोग (KFD) पर अनुसंधान केंद्र स्थापित करने का प्रस्तााव कहाँ दिया गया है?
 A
 Maharashtra
+<<<PAGE:298>>>
 महाराष्ट्र
 B
 Tamil Nadu
@@ -947,6 +1013,7 @@ Correct Ans : D
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 298
 Q.No: 106
 2621898
 Who was the founder of the Solanki dynasty of Rajputs?
@@ -967,6 +1034,7 @@ Correct Ans : B
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 298
 Q.No: 107
 2621900
 The Paramaras of Malwa were the vassals of ________. 
@@ -976,6 +1044,7 @@ Chandelas
 चंदेल
 B
 Pratiharas
+<<<PAGE:299>>>
 प्रतिहार                    
 C
 Rashtrakutas
@@ -987,6 +1056,7 @@ Correct Ans : C
 Subject : Gen. Knowledge graduate
 
 ----------------------------------------
+Page: 299
 Q.No: 108
 2621912
 Who among the following laid the foundation for Tughlaqabad?

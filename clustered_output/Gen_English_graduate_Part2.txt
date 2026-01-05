@@ -2,6 +2,7 @@ Subject: Gen. English graduate
 Questions: 50
 ========================================
 
+Page: 303
 Q.No: 120
 2621275
 Select the most appropriate word to fill in the blank.
@@ -19,6 +20,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 303
 Q.No: 121
 2621311
 Select the most appropriate word to fill in the blank.
@@ -27,6 +29,7 @@ A
 to
 B
 of
+<<<PAGE:304>>>
 C
 by
 D
@@ -35,6 +38,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 304
 Q.No: 122
 2621448
 Select the wrongly spelt word. 
@@ -50,6 +54,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 304
 Q.No: 123
 2621463
 Select the wrongly spelt word.
@@ -65,6 +70,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 304
 Q.No: 124
 2621504
 Select the meaning of the given idiom.
@@ -81,6 +87,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 304
 Q.No: 125
 2629908
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select
@@ -96,8 +103,10 @@ D
 Brijesh asked me whether he had worked on that project for five days.
 Correct Ans : C
 Subject : Gen. English graduate
+<<<PAGE:305>>>
 
 ----------------------------------------
+Page: 305
 Q.No: 126
 2629933
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select
@@ -115,6 +124,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 305
 Q.No: 127
 2629959
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select
@@ -132,6 +142,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 305
 Q.No: 128
 2630002
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select
@@ -149,6 +160,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 305
 Q.No: 129
 2637600
 Identify the segment which contains the grammatical error.
@@ -162,8 +174,10 @@ D
 No error
 Correct Ans : B
 Subject : Gen. English graduate
+<<<PAGE:306>>>
 
 ----------------------------------------
+Page: 391
 Q.No: 115
 2621179
 Identify the segment in the sentence which contains the grammatical error from the given options.
@@ -180,6 +194,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 391
 Q.No: 116
 2621195
 Select the grammatically INCORRECT sentence. 
@@ -195,10 +210,12 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 391
 Q.No: 117
 2621211
 The following sentence has been divided into three parts. One of them may be incorrect. Choose the INCORRECT part from the given
 options. If you don’t find any error, mark ‘No error’ as your answer.
+<<<PAGE:392>>>
 The failure to get an antibiotic / if you have a bacterial infection / can hurt you very bad.
 A
 The failure to get an antibiotic
@@ -212,6 +229,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 392
 Q.No: 118
 2621244
 Select the most appropriate word to fill in the blank. 
@@ -228,6 +246,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 392
 Q.No: 119
 2621260
 Select the most appropriate word to fill in the blank. 
@@ -244,6 +263,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 392
 Q.No: 120
 2621276
 Select the most appropriate word to fill in the blank. 
@@ -260,6 +280,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 392
 Q.No: 121
 2621312
 Select the most appropriate word to fill in the blank.
@@ -274,8 +295,10 @@ D
 affect
 Correct Ans : A
 Subject : Gen. English graduate
+<<<PAGE:393>>>
 
 ----------------------------------------
+Page: 393
 Q.No: 122
 2621449
 Select the wrongly spelt word.
@@ -291,6 +314,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 393
 Q.No: 123
 2621464
 Select the wrongly spelt word.
@@ -306,6 +330,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 393
 Q.No: 124
 2621505
 Select the meaning of the given idiom.
@@ -322,6 +347,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 393
 Q.No: 125
 2629909
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one
@@ -339,6 +365,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 393
 Q.No: 126
 2629935
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one
@@ -346,6 +373,7 @@ which best expresses the same sentence in Indirect/Direct Speech and select your
 The boss said to his secretary, “Did you discuss the matter with the manager?”
 A
 The boss asked his secretary whether he discussed that matter with the manager.
+<<<PAGE:394>>>
 B
 The boss asked his secretary if you have discussed that matter with the manager.
 C
@@ -356,6 +384,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 394
 Q.No: 127
 2629960
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one
@@ -373,6 +402,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 394
 Q.No: 128
 2630003
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one
@@ -390,6 +420,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 394
 Q.No: 129
 2637601
 Identify the segment which contains the grammatical error.
@@ -405,6 +436,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 467
 Q.No: 115
 2621180
 Identify the segment in the sentence which contains the grammatical error from the given options. 
@@ -421,6 +453,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 467
 Q.No: 116
 2621196
 Select the grammatically INCORRECT sentence.
@@ -436,6 +469,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 467
 Q.No: 117
 2621212
 The following sentence has been divided into three parts. One of them may be incorrect. Choose the INCORRECT part from the given options. If you don’t find any error, m
@@ -452,6 +486,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 467
 Q.No: 118
 2621245
 Select the most appropriate word to fill in the blank.
@@ -468,6 +503,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 467
 Q.No: 119
 2621261
 Select the most appropriate word to fill in the blank.
@@ -484,6 +520,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 467
 Q.No: 120
 2621277
 Select the most appropriate word to fill in the blank.
@@ -496,10 +533,12 @@ C
 in sustaining
 D
 for sustaining
+<<<PAGE:468>>>
 Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 468
 Q.No: 121
 2621313
 Select the most appropriate word to fill in the blank.
@@ -516,6 +555,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 468
 Q.No: 122
 2621450
 Select the wrongly spelt word.
@@ -531,6 +571,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 468
 Q.No: 123
 2621465
 Select the wrongly spelt word.
@@ -546,6 +587,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 468
 Q.No: 124
 2621506
 Select the meaning of the given idiom.
@@ -562,6 +604,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 468
 Q.No: 125
 2629911
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best expresses the same sente
@@ -579,11 +622,13 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 468
 Q.No: 126
 2629937
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best expresses the same sente
 your answer.
 The teacher said to Dinkar, “Would you like to participate in the contest?” Dinkar said, “Yes”.
+<<<PAGE:469>>>
 A
 The teacher asked that Dinkar would like to participate in the contest and Dinkar replied yes.
 B
@@ -596,6 +641,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 469
 Q.No: 127
 2629962
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best expresses the same sente
@@ -613,6 +659,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 469
 Q.No: 128
 2630004
 In the following question, a sentence has been given in Direct/Indirect Speech. Out of the four alternatives suggested, select the one which best expresses the same sente
@@ -630,6 +677,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 469
 Q.No: 129
 2637602
 Identify the segment which contains the grammatical error.
@@ -645,6 +693,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 552
 Q.No: 115
 2621181
 Identify the segment in the sentence which contains the grammatical error from the given options.
@@ -658,9 +707,11 @@ raising of a calf
 D
 disturbed at its death
 Correct Ans : B
+<<<PAGE:553>>>
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 553
 Q.No: 116
 2621197
 Select the grammatically INCORRECT sentence.
@@ -676,6 +727,7 @@ Correct Ans : B
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 553
 Q.No: 117
 2621213
 The following sentence has been divided into three parts. One of them may be incorrect. Choose the INCORRECT
@@ -693,6 +745,7 @@ Correct Ans : D
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 553
 Q.No: 118
 2621246
 Select the most appropriate word to fill in the blank.
@@ -709,6 +762,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 553
 Q.No: 119
 2621262
 Select the most appropriate word to fill in the blank.
@@ -723,8 +777,10 @@ D
 palace
 Correct Ans : C
 Subject : Gen. English graduate
+<<<PAGE:554>>>
 
 ----------------------------------------
+Page: 554
 Q.No: 120
 2621278
 Select the most appropriate word to fill in the blank.
@@ -741,6 +797,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 554
 Q.No: 121
 2621314
 Select the most appropriate word to fill in the blank.
@@ -757,6 +814,7 @@ Correct Ans : C
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 554
 Q.No: 122
 2621451
 Select the wrongly spelt word.
@@ -772,6 +830,7 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 554
 Q.No: 123
 2621466
 Select the wrongly spelt word. 
@@ -787,10 +846,12 @@ Correct Ans : A
 Subject : Gen. English graduate
 
 ----------------------------------------
+Page: 554
 Q.No: 124
 2621507
 Select the meaning of the given idiom.
 Go down in flames
+<<<PAGE:555>>>
 A
 To arrive early
 B
