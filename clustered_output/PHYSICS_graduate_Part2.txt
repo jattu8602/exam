@@ -1,0 +1,921 @@
+Subject: PHYSICS graduate
+Questions: 50
+========================================
+
+Q.No: 26
+2626180
+Name the scientist who first calculated the motion of two gravitating bodies.
+उस महान वैज्ञाानिक का नाम बताइए जिसने सर्वप्रथम दो गुरुत्वााकर्षण पिंडों की गति की गणना की।
+A
+Albert Einstein
+अल्बर्ट आइंस्टीीन
+B
+Michael Faraday 
+माइकल फैराडे
+C
+Isaac Newton
+आइजक न्यूटन
+D
+Ernest Rutherford
+अर्नेस्ट रदरफोर्ड
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 27
+2626190
+What happens to the torque if the distance of the line of action from the origin is greater?
+बल आघूर्ण पर क्याा प्रभाव पड़ेगा यदि मूल बिंदु से क्रिया रेखा की दूरी अधिक हो?
+A
+Zero
+शून्य हो जायेगा
+B
+Smaller
+कम हो जायेगा
+C
+Larger
+अधिक हो जायेगा
+D
+ No effect
+कोई प्रभाव नहीं
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 28
+2626208
+When two light waves arriving in phase at a point on the screen interface constructively giving rise to which type of band?
+जब स्क्रीीन इंटरफ़ेेस पर एक बिंदु पर दो प्रकाश तरंगें चरण में पहुंचती हैं, तो रचनात्मक रूप से किस प्रकार के बैंड को जन्म देती हैं?
+A
+Dark band
+डार्क बैंड
+B
+Bright band
+ब्रााइट बैंड
+C
+Colour band
+रंग बैंड
+D
+Both bright and dark band
+रौशनी और अंधेरे दोनों बैंड
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 29
+2626210
+The phase difference between two waves is equal to how many times of path difference?
+दो तरंगों के बीच कलांतर, पथांतर के कितने गुना के बराबर होता है?
+A
+B
+C
+D
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 30
+2626220
+What is the path difference between any two consecutive half period zones?
+किन्हींीं दो क्रमागत अर्ध आवर्त क्षेत्रोंों के बीच पथान्तर क्याा है?
+A
+B
+C
+D
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 31
+2626255
+What is the standard dielectric strength of paper?
+कागज की परावैद्युत सामर्थ्य किसके के बराबर होती है।
+A
+B
+C
+D
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 32
+2626268
+The number of complete oscillations or cycles per unit time is referred as_____.
+समय की प्रति इकाई पूर्ण दोलनों या चक्रोंों की संख्याा को _____ कहा जाता है।
+A
+Time period
+समय अवधि
+B
+Frequency
+आवृत्ति
+C
+Displacement
+विस्थापन
+D
+Velocity
+वेग
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 33
+2626269
+On which factor does the restoring force in simple harmonic motion proportional to?
+सरल आवर्त गति में प्रत्याानयन बल किस कारक के समानुपाती होता है?
+A
+Time period
+समय अवधि
+B
+Direction of oscillation
+दोलन की दिशा
+C
+Displacement of the body
+विस्थापन
+D
+Frequency of oscillation
+दोलन की आवृत्ति
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 34
+2626280
+Which is the correct expression for natural frequency of vibration of Helmholtz resonator?
+हेल्महोल्ट्ज प्रतिध्वनि की प्रााकृतिक आवृत्ति के लिए सही अभिव्यक्ति कौन सी है?
+A
+B
+C
+D
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 35
+2626296
+Which theory says that light propagates as a stream of tiny particles?  
+कौन सा सिद्धांांत कहता है कि "प्रकाश छोटे कणों की धारा के रूप में फैलता है"?
+A
+Fresnel Theory
+फ्रेेस्नेल थ्योोरी
+B
+Newton’s corpuscular theory
+न्यूटन का कणिका सिद्धांांत
+C
+Huygens’s wave theory 
+ह्यूजेन्स की लहर सिद्धांांत
+D
+Plank’s quantum theory
+प्लैंक का क्वांांटम सिद्धांांत
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 36
+2626332
+In the inverting voltage feedback op amp circuit what would be the output voltage with respect to the input voltage?
+इन्वर्टिंग वोल्टेज फीडबैक ऑप एम्पीीयर सर्किट में इनपुट वोल्टेज के संबंध में आउटपुट वोल्टेज क्याा होगा?।
+A
+In phase
+चरण में
+B
+180 degree Out of phase
+180 डिग्रीी चरण से बाहर
+C
+45 degree Out of phase
+45 डिग्रीी चरण से बाहर
+D
+Neither in phase nor out of phase
+न तो फेज में और नही फेज के बाहर
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 37
+2626334
+What is the gain of the op amp amplifier without the feedback loop being closed?
+फीडबैक लूप बंद किए बिना आप ऐम्पियर एम्पलीफायर का क्याा लाभ है?
+A
+Open-loop gain
+ओपन-लूपगेन
+B
+Signal gain
+सिग्नलगेन
+C
+Noise gain
+नॉइज़गेन
+D
+Unity gain
+यूनिटीगेन
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 38
+2626341
+Which one of the following is an example of digital IC?
+निम्नलिखित में से कौनसा एक डिजिटल आईसी का उदाहरण है?
+A
+BEL CA 3020
+BEL CA 3020
+B
+BEL CA 3065
+BEL CA 3065
+C
+SSD 710
+SSD 710
+D
+BEL 7400
+BEL 7400
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 39
+2626342
+Which is used on the surface of a silicon wafer in the process of oxidation?
+ऑक्सीीकरण की प्रक्रिया में सिलिकॉन वेफर की सतह पर किसका उपयोग किया जाता है?
+A
+B
+C
+D
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 40
+2626357
+Which type of flip-flop is a true representation of physical memory?
+भौतिक स्मृति का सही प्रतिनिधित्व किस प्रकार का फ्लिप-फ्लॉॉप है?
+A
+JK flip-flop
+जेके फ्लिप-फ्लॉॉप
+B
+SR flip-flop
+एस आर फ्लिप-फ्लॉॉप
+C
+D flip -flop
+डी फ्लिप-फ्लॉॉप
+D
+N flip-flop
+एन फ्लिप-फ्लॉॉप
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 41
+2626358
+Which one of the following specifies the Space group symmetry operation in crystal?
+निम्नलिखित में से कौन सा क्रिस्टल में अंतरिक्ष समूह समरूपता संक्रिया को निर्दिष्ट करता है?
+A
+Symmetry operations performed about a point in a crystal
+एक क्रिस्टल में एक बिंदु के बारे में समरूपता संचालन किया जाता है
+B
+Symmetry operation performed by translation as well as rotation
+समरूपता संचालन अनुवाद के साथ-साथ रोटेशन द्वाारा किया जाता है
+C
+Symmetry operation performed about a line in a crystal
+एक क्रिस्टल में एक रेखा के बारे में की गई सममिति संक्रिया
+D
+Symmetry operation performed about a plane in a crystal
+एक क्रिस्टल में एक विमान के बारे में समरूपता ऑपरेशन किया गया
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 42
+2626370
+According to Meissner effect, when a weak magnetic field is applied to a superconducting specimen, superconductors expel magnetic flux on which condition?
+मेइसनर प्रभाव के अनुसार, जब एक कमजोर चुंबकीय क्षेत्र को एक सुपरकंडक्टिंग नमूने पर लागू किया जाता है, तो सुपरकंडक्टर्स किस स्थिति में चुंबकीय प्रवाह को बाहर निकाल देते हैं?|
+A
+Above transition temperature
+संक्रमण तापमान से ऊपर
+B
+Below transition temperature.
+संक्रमण तापमान के नीचे।
+C
+Equal to threshold value 
+प्रभावसीमा बराबर
+D
+Above threshold value
+प्रभावसीमा से ऊपर
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 43
+2626405
+Which classification of polarization consists of two perpendicular electromagnetic plane waves of equal amplitude and 90 degree difference in phase?
+ध्रुवीयकरण का कौन सा वर्गीकरण समान आयाम की दो लंबवत विद्युत चुम्बकीय समतल तरंगों और चरण में 90 डिग्रीी अंतर से मिलकर बना है
+A
+Circularly polarised 
+गोलाकार रूप से ध्रुवीकृत
+B
+Linearly polarised 
+रैखिक रूप से ध्रुवीकृत
+C
+Elliptically polarised
+अण्डााकार रूप से ध्रुवीकृत
+D
+Spherically polarised
+गोलाकार रूप से ध्रुवीकृत
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 44
+2626415
+Read the following statement and choose the correct option:
+Statement A: Optic axis of a crystal is the direction along which a ray of transmitted experience birefringence
+Statement B. Light propagates along optic axis with a speed independent of its polarization.
+निम्नलिखित कथन को पढ़िए और सही विकल्प का चयन कीजिए:
+विकल्प
+कथन A: एक क्रिस्टल का ऑप्टिक अक्ष वह दिशा है जिसके साथ संचरित अनुभव की एक किरण द्विअपवर्तन करती है
+कथन B: प्रकाश अपने ध्रुवीकरण से स्वतंत्र गति के साथ ऑप्टिक अक्ष के साथ फैलता है।
+A
+Statement A is correct and B is incorrect
+कथन A सही है और बी गलत है
+B
+Statement B is correct and A is incorrect
+कथन B सही है और A गलत है
+C
+Both the statement A and B are correct 
+A और B दोनों कथन सही हैं
+D
+Both the statement A and B are incorrect
+A और B दोनों कथन गलत हैं
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 45
+2626430
+Which of the following is used to convert only positive half cycle of the AC signal into DC signal?
+निम्नलिखित में से किसका उपयोग एसी सिग्नल के केवल सकारात्मक आधे चक्र को डीसी सिग्नल में बदलने के लिए किया जाता है?
+A
+Transformer
+ट्रांांसफार्मर
+B
+Full wave rectifier
+पूर्ण तरंग सुधारक
+C
+Half wave rectifier
+हाफ वेव रेक्टिफायर
+D
+Half and full wave rectifier
+आधा और पूर्ण तरंग सुधारक
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 46
+2626445
+Which of the following has an insulated gate that relies on the action of a depletion layer to control the drain current?
+निम्नलिखित में से कौन सा इन्सुलेटेड गेट है जो निकास धारा को नियंत्रित करने के लिए एक रिक्तिकरण परत की क्रिया पर निर्भर करता है?
+A
+Enhancement type MOSFET
+वृद
+ प्रकार MOSFET
+B
+Depletion type MOSFET
+कमी प्रकार MOSFET
+C
+N- channelJFET
+N-चैनल JFET
+D
+P-channel JFET
+P-चैनल JFET
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 47
+2626480
+If the packing fraction is lower, what will be the binding energy per nucleon?
+यदि संकुलन अंश कम है तो प्रति न्यूक्लिऑन बंधन ऊर्जा क्याा होगी ?
+A
+Equal to Zero
+शून्य के बराबर
+B
+Lower
+निचला
+C
+Greater
+अधिक
+D
+Instable
+अस्थिर
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 48
+2626489
+The maximum magnetic field in a betetron is 1 tesla. If the radius of doughnut is 1 m and the frequency of variation of magnetic field is 50 Hz, calculate the energy gained
+per turn. 
+एक बीटाट्रॉॉन में अधिकतम चुंबकीय क्षेत्र 1 टेस्लाा होता है। यदि डोनट की त्रिज्याा 1 मीटर है और चुंबकीय क्षेत्र की भिन्नता की आवृत्ति 50 हर्ट्ज है, तो प्रति चक्कर इलेक्ट्रॉॉन द्वाारा प्रााप्त ऊर्जा की गणना करें।
+A
+B
+C
+D
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 49
+2626505
+Read the following statement and choose the correct option:
+Statement A: Body cantered cube has eight corner atoms and one atom at the centre.
+Statement B. Centre atom has six nearest atoms.
+निम्नलिखित कथन को पढ़िए और सही विकल्प का चयन कीजिए:
+कथन A: बॉडी कैन्डर्ड क्यूब में आठ कोने वाले परमाणु और केंद्र में एक परमाणु होता है।
+कथन B. केंद्र परमाणु में छह निकटतम परमाणु होते हैं।
+A
+Statement A is correct and B is incorrect
+कथन A सही है और B गलत है
+B
+Statement B is correct and A is incorrect
+कथन B सही है और A गलत है
+C
+Both the statement A and B are correct 
+A और B दोनों कथन सही हैं
+D
+Both the statement A and B are incorrect
+A और B दोनों कथन गलत हैं
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 50
+2626521
+What happens to the scattered photons when the incident photons undergo elastic scattering with the molecules of the medium in Raman effect?
+रमन प्रभाव में माध्यम के अणुओं के साथ आपतित फोटॉन प्रत्याास्थ प्रकीर्णन से गुजरने पर प्रकीर्ण फोटॉन का क्याा होता है?
+A
+Have the same energy as that of the incident photons.
+में वही ऊर्जा होती है जो आपतित फोटॉन में होती है।
+B
+Will be less than that of the incident photons
+आपतित फोटॉन से कम
+C
+Will be greater than that of the incident photons
+आपतित फोटॉन से अधिक
+D
+Independent of incident photon
+आपतित फोटान से स्वतंत्र
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 34
+2626181
+How many external forces acts on the objects during collision?
+टक्कर या टकराव के समय वस्तुओं पर कितने बाह्य बल कार्य करते हैं?
+A
+One 
+एक
+B
+Two
+दो
+C
+Three
+तीन
+D
+No external forces.
+कोई भी बाह्य बल नहीं।
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 35
+2626191
+Which one of the following is the correct representation of moment of inertia of the particle about an axis?
+निम्नलिखित में से कौन सा विकल्प किसी कण का अक्ष के जड़त्व आघूर्ण के क्षण का सही प्रतिनिधित्व है?
+A
+B
+C
+D
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 36
+2626192
+A car is accelerated from 8 m/sec to 14 m/sec in 2 sec. What is the acceleration of car?
+एक कार 2 सेकंड में 8 मीटर/सेकंड से 14 मीटर/सेकंड तक त्वरित उत्पन्न करती कार का त्वरण क्याा है?
+A
+B
+C
+D
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 37
+2626211
+The intensity of the wave is proportional to the which of the following factor?
+तरंग की तीव्रता निम्नलिखित में से किस के समानुपाती होती है?
+A
+Half of the amplitude
+ऐंप्लिट्यूड का आधा
+B
+Square root of the amplitude
+ऐंप्लिट्यूड का वर्गमूल
+C
+Cube of the amplitude
+ऐंप्लिट्यूड का घन
+D
+Square of the amplitude
+ऐंप्लिट्यूड का वर्ग
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 38
+2626212
+Which one of the following is correct regarding constructive interference?
+रचनात्मक हस्तक्षेप के संबंध में निम्नलिखित में से कौन सा सही है?
+A
+B
+C
+The phase difference between two light waves must be zero 
+दो प्रकाश तरंगों के बीच चरण अंतर शून्य होना चाहिए
+D
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 39
+2626221
+How can we express the dispersive power of grating?
+प्रकाशिकी में, विवर्तन ग्रेटिंग की फैलाने वाली शक्ति को कैसे व्यक्त कर सकते हैं?
+A
+B
+C
+D
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 40
+2626256
+Which type of polarization occurs due to the diffusion of ions, along the field direction, thereby giving rise to redistribution of charges in the dielectrics?
+क्षेत्र की दिशा में आयनों के विसरण के कारण किस प्रकार का ध्रुवीकरण होता है, जिससे परावैद्युत में आवेशों का पुनर्वितरण होता है?
+A
+Electronic polarization
+इलेक्ट्रॉॉनिक ध्रुवीकरण
+B
+Ionic polarization
+आयनिक ध्रुवीकरण
+C
+Orientational polarisation
+ओरिएंटेशनल ध्रुवीकरण
+D
+Space charge polarisations
+अंतरिक्षचार्ज ध्रुवीकरण
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 41
+2626270
+What is the time period of the simple pendulum?
+सरल लोलक का आवर्तकाल कितना होता है ?
+A
+B
+C
+D
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 42
+2626271
+In which type of oscillatory system body itself doesn’t change its position but its physical property varies periodically?
+किस प्रकार की दोलन प्रणाली में शरीर स्वयं अपनी स्थिति नहीं बदलता है लेकिन इसकी भौतिक संपत्ति समय-समय पर बदलती रहती है?
+A
+Driven oscillatory circuit
+संचालित दोलन सर्किट
+B
+Damped oscillatory circuit
+अवमन्दित दोलन सर्किट
+C
+Mechanical oscillatory system
+यांत्रिक ऑसिलेटरी सिस्टम
+D
+Non-mechanical oscillatory system
+गैर-यांत्रिक दोलन प्रणाली
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 43
+2626281
+Radios, cell phones are an example of which type of resonance?
+रेडियो और सेल फोन किस प्रकार के अनुनाद के उदाहरण हैं?
+A
+Helmholtz resonator
+हेल्महोल्ट्ज़ रेसोनाटोर
+B
+Desirable resonance
+वांछनीय अनुनाद
+C
+Undesirable resonance
+अवांछित अनुनाद
+D
+Orbital resonance
+कक्षीीय अनुनाद
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 44
+2626282
+Which of the following is equal to the power observed by a forced oscillator?
+निम्नलिखित में से कौन सा एक मजबूर दोलक द्वाारा देखी गई शक्ति के बराबर है?
+A
+Damping force × Velocity
+डंपिंग बल × वेग
+B
+Damping force / velocity
+भिगोना बल / वेग
+C
+Damping force -Velocity
+भिगोना बल - वेग
+D
+Damping force + velocity
+डंपिंग बल + वेग
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 45
+2626297
+Which is defined as an ability of any substance to rotate the plane of incident linearly polarized light?
+आपतित रैखिक ध्रुवीकृत प्रकाश के तल को घुमाने के लिए किसी पदार्थ की क्षमता के रूप में किसे परिभाषित किया जाता है?
+A
+Plane polarization
+विमान ध्रुवीकरण
+B
+Elliptical polarization
+दीर्घवृत्तीीय ध्रुवीकरण
+C
+Optical activity
+ऑप्टिकल गतिविधि
+D
+Circular polarization
+परिपत्र ध्रुवीकरण
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 46
+2626298
+____________is the equation of state for an ideal gas.
+____________ एक आदर्श गैस की अवस्था का समीकरण है।
+A
+P = nT
+P = nT
+B
+PV=nRT
+PV=nRT
+C
+PV= nT
+PV= nT
+D
+P =nRT
+P =nRT
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 47
+2626335
+What happens to the gain of an Op-Amp amplifier if the frequency is doubled?
+यदि आवृत्ति दुगुनी कर दी जाए तो Op-Amp प्रवर्धक के लाभ पर क्याा प्रभाव पड़ेगा?
+A
+Doubled
+दोगुना
+B
+ Tripled
+तिगुना
+C
+Halved
+आधा
+D
+No change
+कोई बदलाव नहीं
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 48
+2626336
+Which one of the following is the input impedance and the output impedance of an ideal op-amp?
+निम्नलिखित में से कौन सा इनपुट प्रतिबाधा और एक आदर्श ऑप-एएमपी की आउटपुट प्रतिबाधा है?
+A
+Zero and infinity respectively
+क्रमशः शून्य और अनंत
+B
+Zero and zerorespectively
+क्रमशः शून्य और शून्य
+C
+Infinity and zerorespectively
+क्रमशः अनंत और शून्य
+D
+Infinity and infinityrespectively
+अनंत और अनंत क्रमशः
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 49
+2626343
+In which process selective regions of a semiconductor, metal or silicon dioxide can be removed?
+किस प्रक्रिया में अर्धचालक, धातु या सिलिकॉन डाइ ऑक्सााइड के चयनात्मक क्षेत्रोंों को हटाया जा सकता है?
+A
+Metallization
+धातुकरण
+B
+Epitaxy
+एपिटॉक्सीी
+C
+Diffusion
+प्रसार
+D
+Etching
+एचिंग
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 50
+2626344
+Name a process in which dopants are introduced into selected areas of the surface of the wafer by bombarding the surface with high-energy ions of the particular dopant.
+उस प्रक्रिया का नाम बताइए जिसमें विशेष डोपेंट के उच्च-ऊर्जा आयनों के साथ सतह पर बमबारी करके डोपेंट को वेफर की सतह के चयनित क्षेत्रोंों में पेश किया जाता है।
+A
+Oxidation
+ऑक्सीीकरण
+B
+Drive in diffusion
+प्रसारमेंड्रााइव
+C
+Ion implantation
+आयन आरोपण
+D
+Metallization
+धातुकरण
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 51
+2626359
+In which type of symmetry all the edges are of the same distance from the centre of crystals?
+किस प्रकार की समरूपता में सभी किनारे क्रिस्टल के केंद्र से समान दूरी पर होते हैं?
+A
+Centre of symmetry
+केंद्र की समरूपता
+B
+Plane of symmetry
+समतल की समरूपता
+C
+Rotational symmetry
+घूर्णी समरूपता
+D
+Space group symmetry
+अंतरिक्ष समूह की समरूपता
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 52
+2626360
+Which type electromagnetic radiation has shorter wavelengths of the order of 0.001 to 10 nm?
+किस प्रकार के विद्युत चुम्बकीय विकिरण में 0.001 से 10 एनएम के क्रम के छोटे तरंग दैर्ध्य होते हैं?
+A
+Alpha rays
+अल्फाा किरणें
+B
+Gamma rays
+गामा किरणें
+C
+X-rays
+एक्स- किरणें
+D
+Beta rays
+बीटा किरणें
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 53
+2626371
+Which one of the following is not an example of type I super conductors?
+निम्नलिखित में से कौन सा टाइप I सुपर कंडक्टर का उदाहरण नहीं है?
+A
+V
+V
+B
+Zn
+Zn
+C
+Hg
+Hg
+D
+Sn
+Sn
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 54
+2626406
+Which one of the following is valid with respect to elliptically polarised waves?
+निम्नलिखित में से कौन सी एक दीर्घ ध्रुवीय तरंगों के संबंध में मान्य है?
+A
+Two plane waves of equal amplitude and 90 degree difference in phase.
+समान आयाम और चरण में 90 डिग्रीी अंतर की दो समतल तरंगें।
+B
+If two plane waves of differing amplitude are related in phase by 90 degree.
+यदि भिन्न-भिन्न आयाम की दो समतल तरंगें 90 डिग्रीी की कला में संबंधित हैं।
+C
+Two plane waves of equal amplitude and 180 degree difference in phase.
+समान आयाम और कला में 180 डिग्रीी के अंतर की दो समतल तरंगें
+D
+If two plane waves of differing amplitude are related in phase by 180 degree.
+यदि भिन्न-भिन्न आयाम की दो समतल तरंगें 180 डिग्रीी की कला में संबंधित हैं।
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 55
+2626407
+From the following, identify the correct example of biaxial crystal. 
+निम्नलिखित में से द्विअक्षीीय क्रिस्टल के सही उदाहरण की पहचान कीजिए।
+A
+KDP
+केडीपी (kdp)
+B
+Mica
+अभ्रक
+C
+Quartz
+क्वाार्ट्ज
+D
+Rutile
+रूटाइल
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 56
+2626416
+If circularly polarized light is incident on quarter wave plate at 45 degree to the optic axis, then it produces which type of polarization?
+यदि गोलाकार पोलराइज्ड प्रकाश ऑप्टिक अक्ष के 45 डिग्रीी पर क्वाार्टर वेव प्लेट पर घटना है, तो यह किस प्रकार के ध्रुवीकरण का उत्पाादन करता है?
+A
+Elliptically polarised light
+दीर्घवृत्तीीय रूप से ध्रुवीकृत प्रकाश
+B
+Circularly polarised light
+गोलाकार ध्रुवीकृत प्रकाश
+C
+Linearly polarised light
+रैखिक रूप से ध्रुवीकृत प्रकाश
+D
+Unpolarised light
+अध्रुवित प्रकाश
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 57
+2626417
+Write the expression for the phase difference between O-ray & E-ray?
+ओ-किरण और ई-किरण के बीच कलाअंतर के लिए अभिव्यक्ति लिखें?
+A
+B
+C
+D
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 58
+2626431
+Which is used to reduce the high ripples in the half wave rectifier?
+हाफ-वेव रेक्टिफायर में उच्च तरंगों को कम करने के लिए कौन सा उपयोग किया जाता है?
+A
+Transistor
+ट्रांांजिस्टर
+B
+Filters
+फिल्टर
+C
+Resistor
+प्रतिरोधी
+D
+Diode
+डायोड
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------

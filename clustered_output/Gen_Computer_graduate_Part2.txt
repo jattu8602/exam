@@ -1,0 +1,1006 @@
+Subject: Gen. Computer graduate
+Questions: 50
+========================================
+
+Q.No: 152
+2635765
+Which of the following is the full form of "computer"?
+निम्नलिखित में से कौन-सा "कंप्यूटर" का पूर्ण रूप है
+A
+Commonly Operated Machine Particularly Used for Trade, Technology, Education, and Research
+कॉमनली ऑपरेटेड मशीन पार्टिक्यूलरी यूज़्ड फॉर ट्रेड, टेकनोलॉजी, एजुकेशन, एंड रिसर्च
+B
+Commonly Used Machine Particularly Used for Trade, Technology, Education, and Research
+कॉमनली यूज़्ड मशीन पार्टिक्यूलरी फॉर ट्रेड, टेकनोलॉजी, एजुकेशन, एंड रिसर्च
+C
+Commonly Operated Manually, Particularly Used for Trade/Technology, Education, and Research
+कॉमनली ऑपरेटेड मनुअली, पार्टिक्यूलरी यूज़्ड फॉर ट्रेड/टेकनोलॉजी, एजुकेशन, एंड रिसर्च
+D
+Common Output Machines in Trade, Technology, Education, and Research
+कॉमन आउटपुट मशीन, इन ट्रेड, टेकनोलॉजी, एजुकेशन, एंड रिसर्च
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 153
+2635774
+With respect to computers, which of the following is a full form of ARP?
+कंप्यूटर के संबंध में, निम्नलिखित में से कौन-सा ARP का पूर्णरूप है?
+A
+Address Redo Protocol
+एड्रेेस रीडो प्रोोटोकॉल
+B
+Advanced Resolution Protocol
+एडवांस रिजोल्‍यूशन प्रोोटोकॉल
+C
+Include the Resolute Protocol
+इनक्‍लूड द रिजोल्‍यूट प्रोोटोकॉल
+D
+Address Resolution Protocol
+एड्रेेस रिजोल्‍यूशन प्रोोटोकॉल
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 154
+2635795
+DOS is related to computers, what is its full form?
+DOS कंप्यूटर से संबंधित है, इसका पूर्ण रूप क्याा है?
+A
+Disk Management System
+डिस्क मैनेजमेंट सिस्‍टम
+B
+Disk Operator System
+डिस्क ऑपरेटर सिस्टम
+C
+Disk Operating System
+डिस्क ऑपरेटिंग सिस्टम
+D
+Disk Operation System
+डिस्क ऑपरेशन सिस्टम
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 155
+2636048
+PC Program Counter is also called________.
+PC प्रोोग्रााम काउंटर को ______ भी कहा जाता है।
+A
+Memory pointer
+मेमोरी पॉईन्‍टर
+B
+Instruction pointer
+इंस्‍ट्रक्‍शन पॉईन्‍टर
+C
+Data counter
+डेटा काउन्टर
+D
+File pointer
+फाइल पॉईन्‍टर
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 156
+2636057
+There are 8 tabs in _______ in MS Word 2013.
+एमएस वर्ड 2013 में _______ में 8 टैब हैं।
+A
+Title Bar 
+टाइटल्स बार
+B
+Ribbon 
+रिबन
+C
+Home
+होम
+D
+Status Bar 
+स्टेटस बार
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 157
+2636066
+There will be a ____ line underlining the text if any contextual errors are found in the document.
+यदि दस्ताावेज़ में कोई प्राासंगिक त्रुटि पाई जाती है तो टेक्स्ट को रेखांकित करने वाली एक ____ रेखा होगी।
+A
+Yellow 
+येलो
+B
+Green 
+ग्रीीन
+C
+Blue 
+ब्ल्यू 
+D
+Red 
+रेड
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 144
+2635622
+How many ports a computer may have?
+कंप्यूटर में कितने पोर्ट हो सकते हैं?
+A
+128
+128
+B
+256
+256
+C
+1024
+1024
+D
+65535
+65535
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 145
+2635631
+With respect to internet, what is the full form of W3C?
+इंटरनेट के संबंध में, W3C का पूरा नाम क्याा है?
+A
+World Wide Web Communication
+वर्ल्ड वाइड वेब कम्यूनिकेशन
+B
+World Wide Web Capitalised 
+वर्ल्ड वाइड वेब कैपिटलाइज्ड
+C
+World Web Wide Cable 
+वर्ल्ड वेब वाइड केबल
+D
+World Wide Web Consortium 
+वर्ल्ड वाइड वेब कंसोर्टियम
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 146
+2635640
+HTTPS is the protocol through which data is passed between a web browser. In, HTTPS, what does “S” means?
+HTTPS वह प्रोोटोकॉल है जिसके माध्यम से वेब ब्रााउज़र के बीच डेटा पास किया जाता है। HTTPS में, "S" का क्याा अर्थ है?
+A
+Schema 
+स्कीीमा
+B
+Static 
+स्टैटिक
+C
+Socket 
+सॉकेट
+D
+Secure  
+सिक्योोर
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 147
+2635688
+What type of data transmission medium is best for a computer network that is subject to electrical interference?
+विद्युत हस्तक्षेप के अधीन कंप्यूटर नेटवर्क के लिए किस प्रकार का डेटा ट्रांांसमिशन माध्यम सबसे अच्छाा है?
+A
+Unshielded Twisted Pair Cable
+अनशील्डेड ट्विस्टेड पेअर केबल
+B
+Optical Fiber
+ऑप्टिकल फाइबर
+C
+Coaxial Cable
+कोएक्सिअल केबल
+D
+Microwave
+माइक्रोोवेव
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 148
+2635697
+Which of the following internet protocols is used the most frequently?
+निम्नलिखित में से कौन-सा इंटरनेट प्रोोटोकॉल सबसे अधिक बार उपयोग किया जाता है?
+A
+HTML
+HTML
+B
+NetBEUl
+NetBEUl
+C
+TCP/IP
+TCP/IP
+D
+IPX/SPX
+IPX/SPX
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 149
+2635706
+The gadget that can connect to a network without a cable is called as?
+एक गैजेट जो बिना केबल के नेटवर्क से जुड़ सकता है, क्याा कहलाता है?
+A
+Distributed Device
+डिस्ट्रिब्यूटेड डिवाइस
+B
+Centralized Device
+सेंट्रलाइज्ड डिवाइस
+C
+Open-Source Device
+ओपन-सोर्स डिवाइस
+D
+Wireless Device
+वायरलेस डिवाइस
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 150
+2635727
+The portion of server memory set aside to temporary hold data packets from workstations is called as?
+वर्कस्टेशन से डेटा पैकेट को अस्थायी रूप से होल्ड करने के लिए सर्वर मेमोरी के हिस्से को अलग रखा जाता है, उसे क्याा कहा जाता है?
+A
+Dirty Packet Buffer
+डर्टी पैकेट बफर
+B
+Packet Block
+पैकेट ब्लॉॉक
+C
+Packet Receive Buffer
+पैकेट रिसिव बफर
+D
+Packet Cache Buffer
+पैकेट कैश बफर
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 151
+2635757
+With respect to computer, RAID is an acronym for?
+कंप्यूटर के संबंध में, RAID किसका संक्षिप्त रूप है?
+A
+Redundant Array of Independent Discs
+रिडन्‍डेंट ऐरे ऑफ इंडिपेंडेंट डिस्‍क
+B
+Redundant Array of Individual Discs
+रिडन्‍डेंट ऐरे ऑफ इंडिविजुअल डिस्‍क
+C
+Reusable Array of Independent Discs
+रियुजेबल ऐरे ऑफ इंडिपेंडेंट डिस्‍क
+D
+Reusable Array of Individual Discs
+रियुजेबल ऐरे ऑफ इंडिविजुअल डिस्‍क
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 152
+2635766
+Which of the following is the full form of AAC that is related with computers?
+निम्नलिखित में से कौन सा AAC का पूर्ण रूप है जो कंप्यूटर से संबंधित है?
+A
+Actual Advanced Coding
+एक्‍चुअल एडवांस्‍ड कोडिंग
+B
+Advanced Audio Coding
+एडवांस्‍ड ऑडियो कोडिंग
+C
+Advanced Audio Complex
+एडवांस्‍ड ऑडियो कॉम्प्लेक्स
+D
+Advanced Audio Compilation
+एडवांस्‍ड ऑडियो कंपाईलेशन
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 153
+2635775
+With respect to computers, which of the following is a full form of ASP?
+कंप्यूटर के संबंध में, निम्न में से कौन-सा ASP कापूर्ण रूप है?
+A
+Active Server Pages
+एक्टिव सर्वर पेजेस
+B
+Server Pages in Action
+सर्वर पेजेस इन एक्‍सन
+C
+Active Servo Pages
+एक्टिव सर्वो पेजेस
+D
+Action Server Pages
+एक्शन सर्वर पेजेस
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 154
+2635796
+DRAM is a type of computer memory, choose its full form from the given options?
+DRAM एक प्रकार की कंप्यूटर मेमोरी है, दिए गए विकल्पोंों में से इसका पूर्ण रूप चुनें?
+A
+Dynamic Random Access Memory
+डायनेमिक रैंडम एक्सेस मेमोरी
+B
+Dine Random Access Memory
+डाइन रैंडम एक्सेस मेमोरी
+C
+Dame Random Access Memory
+डेम रैंडम एक्सेस मेमोरी
+D
+Dink Random Access Memory
+डिंक रैंडम एक्सेस मेमोरी
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 155
+2636049
+_____ shows the current position as far the text goes.
+_____ टेक्स्ट की वर्तमान स्थिति को दिखाता है।
+A
+Menu Bar 
+मेनू बार
+B
+Ribbon 
+रिबन
+C
+Status Bar 
+स्टेटस बार
+D
+Home Tab 
+होम टैब
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 156
+2636058
+Insert Tab is the _____ tab in the Ribbon.
+इंसर्ट टैब रिबन में _____ टैब है।
+A
+Third 
+तीसरा
+B
+First 
+पहला
+C
+Last 
+अंतिम
+D
+Second 
+दूसरा
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 157
+2636067
+A Red line will be drawn underlined if a ______ mistake is found in the document.
+यदि दस्ताावेज़ में ______ गलती पाई जाती है तो एक लाल रेखा खींची जाएगी।
+A
+Spelling 
+स्पेलिंग 
+B
+Contextual 
+कॉन्टेक्स्टुअल
+C
+Grammar 
+ग्राामर
+D
+Syntax 
+सिंटेक्स
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 144
+2635623
+With respect to internet, which of the following is full form of ARPANET?
+इंटरनेट के संबंध में, निम्नलिखित में से कौन-सा ARPANET का पूर्ण रूप है?
+A
+Advanced Rehearse Projects Agency Network
+अडवांस्ड रिहर्स प्रोोजेक्ट्स एजेंसी नेटवर्क
+B
+Advanced Research Projects Agency Network
+अडवांस्ड रिसर्च प्रोोजेक्ट्स एजेंसी नेटवर्क
+C
+Advanced Role Projects Agent Network
+अडवांस्ड रोल प्रोोजेक्ट्स एजेंट नेटवर्क
+D
+Enhance Research Projects Agency Network 
+एनहांस रिसर्च प्रोोजेक्ट्स एजेंसी नेटवर्क
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 145
+2635632
+With respect to internet, what is the full form of URL?
+इंटरनेट के सन्दर्भ में, URL का पूर्ण रूप क्याा है?
+A
+Uniform Resource Locator 
+यूनिफॉर्म रिसोर्स लोकेटर
+B
+Unique Resource Locator
+यूनिक रिसोर्स लोकेटर
+C
+Universal Resource Line
+यूनिवर्सल रिसोर्स लाइन
+D
+Uniform Reform Locator
+यूनिफॉर्म रिफॉर्म लोकेटर
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 146
+2635641
+Which device is required to connect multiple computers on the same internet network?
+एक ही इंटरनेट नेटवर्क पर कई कंप्यूटरों को जोड़ने के लिए कौन-सा उपकरण आवश्यक है?
+A
+Interlaced
+इंटरलेस्ड
+B
+Firewall 
+फायरवॉल
+C
+DNS 
+डीएनएस
+D
+Router 
+राउटर
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 147
+2635689
+Coaxial cables are widely used on which of the following network?
+निम्नलिखित में से कौन-सा नेटवर्क समाक्षीीय केबल का व्याापक तौर पर इस्तेमाल करते हैं?
+A
+Telephone networks 
+टेलीफोन नेटवर्क
+B
+Cable TV networks 
+केबल टीवी नेटवर्क
+C
+Broadband networks 
+ब्रॉॉडबैंड नेटवर्क
+D
+Mobile networks 
+मोबाइल नेटवर्क
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 148
+2635698
+Which of the following describes software that enables you to lawfully copy files and distribute them for free?
+निम्नलिखित में से कौनसा उस सॉफ़्टवेयर का वर्णन करता है जो आपको कानूनी रूप से फाइलों की प्रतिलिपि बनाने और उन्हें मुफ्त में वितरित करने में सक्षम बनाता है?
+A
+Probeware
+प्रोोबवेयर
+B
+Timeshare
+टाइमशेयर
+C
+Shareware
+शेयरवेयर
+D
+Public Domain 
+पब्लिक डोमेन
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 149
+2635707
+Which class of IP address has the most available hosts?
+IP पते के किस वर्ग में सबसे अधिक होस्ट उपलब्ध हैं? 
+A
+A and B
+A और B
+B
+A
+A
+C
+B and C
+B और C
+D
+D
+D
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 150
+2635728
+What exactly do computer networks "hamming codes" do?  
+कंप्यूटर नेटवर्क "हैमिंग कोड" वास्तव में क्याा करते हैं?
+A
+It is a code to crack any network
+यह किसी भी नेटवर्क को क्रैैक करने का कोड होता है
+B
+It is a logical code for the interconnection
+यह इंटरकनेक्शन के लिए एक तार्किक कोड है
+C
+Set of error connection codes to detect and correct the errors
+त्रुटियों का पता लगाने और उन्हें ठीक करने के लिए त्रुटि कनेक्शन कोड का सेट
+D
+Codes for multiplexing
+मल्टीीप्लेक्सिंग के लिए कोड
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 151
+2635758
+It is an highly reputed engineering institute, what does IEEE stands for?
+यह एक अत्यधिक प्रतिष्ठित इंजीनियरिंंग संस्थान है, IEEE का क्याा अर्थ है?
+A
+Instantaneous Electrical Engineering
+इंस्‍टेंटेटेनियस इलेक्ट्रिकल इंजीनियरिंंग 
+B
+Institute of Emerging Electrical Engineers
+इंस्टीीट्यूट ऑफ इमर्जिंग इलेक्ट्रिकल इंजीनियर्स
+C
+Institute of Emerging Electronic Engineers
+इंस्टीीट्यूट ऑफ इमर्जिंग इलेक्ट्रॉॉनिक इंजीनियर्स
+D
+Institute of Electrical and Electronic Engineers
+इंस्टीीट्यूट ऑफ इलेक्ट्रिकल एंड इलेक्ट्रॉॉनिक इंजीनियर्स
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 152
+2635767
+In respect with computers, which of the following is the full form of AI?
+कंप्यूटर के संबंध में, निम्नलिखित में से कौन-सा AI का पूर्ण रूप है?
+A
+Article Intelligence
+आर्टिकल इंटेलिजेंस
+B
+Artificial Intel
+आर्टिफिशियल इंटेल
+C
+Artificial Intelligence
+आर्टिफिशियल इंटेलिजेंस
+D
+Art Intelligence
+आर्ट इंटेलिजेंस
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 153
+2635776
+ATM is a network technology, what is its full form?
+ATM एक नेटवर्क तकनीक है, इसका पूर्णरूप क्याा है?
+A
+Asynchrony Transfer Mode
+एसिन्‍क्रोोनी ट्रांांसफर मोड
+B
+Asynchronous Transfer Mode
+एसिन्‍क्रोोनोमस ट्रांांसफर मोड
+C
+System Transfer Mode
+सिस्टम ट्रांांसफर मोड
+D
+Synchronization Transfer Mode
+सिन्‍क्रोोनाईजेशन ट्रांांसफर मोड
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 154
+2635797
+DML is a type of computer language, what is its full form?
+DML एक प्रकार की कंप्यूटर भाषा है, इसका पूर्ण रूप क्याा है?
+A
+Manic Data Language
+मैनिक डेटा लैंग्वेज
+B
+Data Manipulation Language
+डेटा मैनीपुलेशन लैंग्वेज
+C
+Data Maculation Language
+डेटा मैक्यूलेशन लैंग्वेज
+D
+Language of Data Motion
+लैंग्वेज ऑफ डेटा मोशन
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 155
+2636050
+Ms office is developed by?
+एमएस ऑफिस किसके द्वाारा विकसित किया गया है?
+A
+TCS 
+टीसीएस
+B
+Apple 
+एप्पल
+C
+IBM 
+आईबीएम
+D
+Microsoft 
+माइक्रोोसॉफ्ट
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 156
+2636059
+Which of the following is a command in insert tab?
+निम्नलिखित में से कौन-सा इन्सर्ट टैब में एक कमांड है?
+A
+Page, Table 
+पेज, टेबल 
+B
+Color, Font 
+कलर, फॉन्ट
+C
+Insert, Replay 
+इंसर्ट, रिप्ले 
+D
+Caption, Index 
+कैप्शन, इंडेक्‍स
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 157
+2636068
+Where is the Word Count shown in MS Word?
+एमएस वर्ड में वर्ड काउंट कहां दिखाया जाता है?
+A
+Ribbon 
+रिबन
+B
+View 
+व्यू 
+C
+Draw 
+ड्राा
+D
+Status Bar 
+स्टेटस बार
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 144
+2635624
+The origin of the internet was developed from the concept of_______.
+इंटरनेट की उत्पत्ति ______ की अवधारणा से विकसित की गई थी।
+A
+WWW
+WWW
+B
+Google
+Google
+C
+ARPANET
+ARPANET
+D
+Hyperspace
+Hyperspace
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 145
+2635633
+An attached network exclusively used within consortium such as banking, business firms, etc. that use web
+technologies for sharing data or information internally is called as?
+बैंकिंंग, व्याावसायिक फर्मों आदि द्वाारा कॉन्स्टोोरियम के भीतर विशेष रूप से उपयोग किया जाने  वाला एक अटैच्ड नेटवर्क जो आंतरिक रूप से डेटा या
+जानकारी साझा करने के लिए वेब प्रौौद्योोगिकियों का उपयोग करता है, को क्याा कहा जाता है?
+A
+Domain
+डोमेन
+B
+Intranet
+इंट्राानेट
+C
+Internet
+इंटरनेट
+D
+Web server
+वेब सर्वर
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 146
+2635642
+What is the full form of DNS in a network?    
+एक नेटवर्क में DNS का पूर्ण रूप क्याा है?
+A
+Domain Name System
+डोमेन नेम सिस्टम
+B
+Direct Number System
+डायरेक्ट नंबर सिस्टम
+C
+Decimal Numeric System
+डेसिमल न्यूमेरिक सिस्टम
+D
+Dual Name System 
+ड्यूल नेम सिस्टम
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 147
+2635690
+The online location of a resource is indicated by?
+किसी रिसोर्स की ऑनलाइन लोकेशन इसके द्वाारा दर्शाई जाती है?
+A
+Protocol
+प्रोोटोकॉल
+B
+URL
+यूआरएल
+C
+Email Address
+ईमेल एड्रेेस
+D
+ICQ
+आईसीक्यू
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 148
+2635699
+Which IP address from the list below qualifies as a loop-back address?
+नीचे दी गई सूची में से कौन-सा आईपी एड्रेेस लूप-बैक एड्रेेस के रूप में योग्य है?
+A
+0.0.0.0
+0.0.0.0
+B
+127.0.0.1
+127.0.0.1
+C
+255.255.255.255
+255.255.255.255
+D
+0.255.255.255
+0.255.255.255
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 149
+2635708
+E–R modelling technique is a_______.
+E-R मॉडलिंग तकनीक _______ है।
+A
+Top-down approach
+टॉप-डाउन एप्रोोच
+B
+Bottom-up approach
+बॉटम-अप एप्रोोच
+C
+Left-right approach
+लेफ्ट-राइट एप्रोोच
+D
+None of the given options
+दिए गए विकल्पोंों में से कोई नहीं
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 150
+2635729
+A proxy server is used for which of the following?
+एक प्रॉॉक्सीी सर्वर का इस्तेमाल निम्न में से किन चीज़ों के लिए होता है?
+A
+To provide security against unauthorized users
+अनाधिकृत उपयोगकर्ताओ के खिलाफ सुरक्षाा प्रदान करने के लिए
+B
+To process client requests for Web pages 
+वेब पेजों के लिए क्लााइंट अनुरोधों को संसाधित (process) करने के लिए
+C
+To process client requests for database access 
+डेटाबेस एक्सेस के लिए क्लााइंट अनुरोधों को संसाधित (process) करने के लिए
+D
+To provide TCP/IP
+TCP/IP प्रदान करने के लिए
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 151
+2635759
+MAR is related to computer, find the full form of MAR.
+MAR कंप्यूटर से संबंधित है, MAR का पूर्ण रूप ज्ञाात कीजिये.
+A
+Memory Address Register
+मेमोरी एड्रेेस रजिस्टर
+B
+Main Address Register
+मैन एड्रेेस रजिस्टर
+C
+Memory Accessible Register
+मेमोरी एक्सेसिबल रजिस्टर
+D
+Machine Address Register 
+मशीन एड्रेेस रजिस्टर
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 152
+2635768
+ARPANET is related with computer networks, among the following options which of the following is a full form of it?
+ARPANET कंप्यूटर नेटवर्क से संबंधित है, निम्नलिखित विकल्पोंों में से कौन-सा इसका पूर्ण रूप है?
+A
+Advanced Research Projects Agency Network
+एडवांस्ड रिसर्च प्रोोजेक्ट्स एजेंसी नेटवर्क
+B
+Adverse Research Projects Agency Network
+एडवर्स रिसर्च प्रोोजेक्ट्स एजेंसी नेटवर्क
+C
+Advanced Reach Projects Agency Network
+एडवांस्ड रीच प्रोोजेक्ट्स एजेंसी नेटवर्क
+D
+Advice Research Projects Agency Network
+एडवाईस रिसर्च प्रोोजेक्ट्स एजेंसी नेटवर्क
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 153
+2635777
+AVI is related to Microsoft Windows, which of the following is its full form?
+AVI माइक्रोोसॉफ्ट विंडोज़ से संबंधित है, इसका फुलफॉर्म निम्न में से कौन-सा है?
+A
+Audio Video Interleave
+ऑडियो वीडियो इंटरलीव
+B
+Interplay of Audio and Video
+इंटरप्ले ऑफ ऑडियो एंड वीडियो 
+C
+Intel Audio Video
+इंटेल ऑडियो वीडियो
+D
+Audio Video Interleaf
+ऑडियो वीडियो इंटरलीफ
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 154
+2635798
+DARPANET was one of the first packet-switched networks, what is its full form?
+DARPANET पहले पैकेट स्विच्ड नेटवर्क में से एक था, इसका पूर्ण रूप क्याा है?
+A
+Defense Advanced Research Project Agency Network
+डिफेंस एडवांस्ड रिसर्च प्रोोजेक्ट एजेंसी नेटवर्क
+B
+Network of Defense Advent Research Project Agencies
+नेटवर्क ऑफ डिफेंस एडवेंट रिसर्च प्रोोजेक्‍ट एजेंसीज
+C
+Agency Network for Defense Advice Research
+एजेंसी नेटवर्क फॉर डिफेंस एडवाईस रिसर्च
+D
+Defense Advocate Research Project Agency Network
+डिफेंस एडवोकेट रिसर्च प्रोोजेक्ट एजेंसी नेटवर्क
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 155
+2636051
+MS Office  was first announced by?
+एमएस ऑफिस की घोषणा सर्वप्रथम किसके द्वाारा की गई थी?
+A
+Ratan Tata 
+रतन टाटा
+B
+Bill Gates 
+बिल गेट्स
+C
+Charles Simonyi 
+चार्ल्स सिमोनी
+D
+Steve Jobs 
+स्टीीव जॉब्स
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 156
+2636060
+References tab has _____ related commands.
+रेफरेंस टैब में _____ संबंधित कमांड होते हैं।
+A
+8 
+8
+B
+4 
+4
+C
+6 
+6
+D
+2 
+2
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 157
+2636069
+In ______ tab, _____ group can help us to change the font color?
+ _____ टैब में, ____ समूह फ़ॉॉन्ट कलर बदलने में हमारी मदद करता है?
+A
+Home, Font 
+होम, फ़ॉॉन्ट
+B
+Draw, Convert 
+ड्रॉॉ, कन्वर्ट 
+C
+Insert, Media 
+इंसर्ट, मीडिया
+D
+Review, Changes 
+रिव्यूव, चेन्‍जस
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 144
+2635625
+A program that is used to view websites is known as?
+एक प्रोोग्रााम जिसका उपयोग वेबसाइटों को देखने के लिए किया जाता है, उसे जाना जाता है?
+A
+Web Browser
+वेब ब्रााउजर
+B
+Web server
+वेब सर्वर
+C
+Web forum
+वेब फोरम
+D
+HTML
+एचटीएमएल
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 145
+2635634
+A computer network that is used to control access from outside of an organization’s intranet is called?
+एक कंप्यूटर नेटवर्क जिसका उपयोग किसी ऑर्गनाईजेशन के इंट्राानेट के बाहर से एक्सेस को नियंत्रित करने के लिए किया जाता है, उसे क्याा कहा जाता है?
+A
+Intranet
+इंट्राानेट
+B
+Internet
+इंटरनेट
+C
+Extranet
+एक्स्ट्राानेट
+D
+ISP
+आईएसपी
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------

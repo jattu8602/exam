@@ -1,0 +1,1045 @@
+Subject: PHARMACY graduate
+Questions: 50
+========================================
+
+Q.No: 76
+2628060
+Which of the following is an incorrect statement regarding the components of blood? 
+निम्नलिखित में से कौन सा कथन रक्त के घटकों के बारे में गलत है?
+A
+Erythrocytes transport oxygen and, to a lesser extent, carbon dioxide between the lungs and all body cells.
+लाल रक्त कोशिकाएं (एरिथ्रोोसाइट्स, Erythrocytes) फेफड़ोंों और शरीर की सभी कोशिकाओं के बीच ऑक्सीीजन और कुछ हद तक कार्बन डाइऑक्सााइड का परिवहन करते हैं।
+B
+Leukocytes are mainly concerned with the protection of the body against infection and foreign substances. 
+सफेद रक्त कोशिकाएं (ल्यूकोसाइट्स, Leukocytes) मुख्य रूप से संक्रमण और विदेशी पदार्थों से शरीर की सुरक्षाा से संबंधित हैं।
+C
+Leukocyte cells are larger but more numerous than erythrocytes.
+सफेद रक्त कोशिकाएं (ल्यूकोसाइट्स, Leukocytes) लाल रक्त कोशिकाओं की तुलना में बड़ीी लेकिन अधिक संख्याा में होती हैं।
+D
+Thrombocytes are tiny cell fragments that play an essential part in blood clotting.
+प्लेटलेट्स (थ्रोोम्बोोसाइट्स, Thrombocytes) छोटे कोशिका के टुकड़े होते हैं जो रक्त के थक्केे जमने में एक आवश्यक भूमिका निभाता हैं।
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 77
+2628061
+What is an incorrect statement about Reimer Tiemann’s reaction? 
+रीमर टिएमैन की रिएक्शन(reaction)  के बारे में कौन सा कथन गलत है?
+A
+It is an organic reaction where phenol is converted into an ortho hydroxy benzaldehyde.
+यह एक आर्गेनिक रिएक्शन(reaction) है जिसमें फिनोल को ऑर्थो हाइड्रॉॉक्सीी बेन्जेल्डहाइड में परिवर्तित किया जाता है।
+B
+In the Reimer-Tiemann reaction, reactants are both Phenol, CHCl3 and alkali and phenol, CCl4 and alkali.
+रीमर-टिएमैन रिएक्शन(reaction) में, रिएक्टेंट(reactant) फिनोल, सीएचसीएल3 और अल्कली और फिनोल, सीसीएल4 और अल्कली दोनों हैं।
+C
+The mechanism of the Reimer Tiemann reaction ends with the deprotonation of chloroform by a strong base to form a chloroform carbanion.
+रीमर टिएमैन रिएक्शन मेकनिज़्म (reaction mechanism) क्लोोरोफॉर्म कार्बनियन बनाने के लिए एक मजबूत बेस द्वाारा क्लोोरोफॉर्म के अवक्षेपण के साथ समाप्त होता है।
+D
+The simplest example of this reaction is being the conversion of phenol to salicylaldehyde.
+इस रिएक्शन(reaction) का सबसे सरल उदाहरण फिनोल का सैलिसिैलल्डिहाइड में रूपांतरण है।
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 78
+2628063
+Fill in the blank with the correct option. 
+The acid value is defined as the number of milligrams of ____________Potassium hydroxide required to neutralize the free fatty acids present in one gram of fat.
+रिक्त स्थान में सही विकल्प भरिए।
+अम्ल मान को एक ग्रााम वसा में मौजूद मुक्त फैटी एसिड को न्यूट्रलाइज़ करने के लिए आवश्यक _____________ पोटेशियम हाइड्रॉॉक्सााइड के मिलीग्रााम की संख्याा के रूप में परिभाषित किया गया है।
+A
+Triglycerides 
+ट्रााइग्लिसराइड्स (Triglycerides )
+B
+Potassium Hydroxide
+पोटेशियम हाइड्रोोक्सााइड (Potassium Hydroxide)
+C
+Potassium Chloride 
+पोटेशियम क्लोोराइड(Potassium Chloride)
+D
+Carboxylic acid 
+कार्बोक्जिलिक एसिड(Carboxylic acid)
+Correct Ans : B
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 79
+2628076
+The gelatine hydrolysis test detects the ability of bacteria to produce _____________
+जिलेटिन हाइड्रोोलिसिस परीक्षण बैक्टीीरिया की _____________ उत्पन्न करने की क्षमता का पता लगाता है|
+A
+Pseudomonas
+स्यूडोमोनास (Pseudomonas)
+B
+Flavobacterium 
+फ्लेवोबैक्टीीरियम (Flavobacterium)
+C
+Clostridium
+क्लोोस्ट्रीीडियम(Clostridium)
+D
+Gelatinases 
+जिलेटिनस (Gelatinases)
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 80
+2628077
+Which of the following is an electrophile? 
+निम्नलिखित में से कौन सा एक इलेक्ट्रोोफाइल है?
+A
+Ammonia
+अमोनिया
+B
+Cyanide
+साइनाइड
+C
+Carbocations
+कार्बोकेशन
+D
+Water 
+पानी
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 81
+2628084
+Which of the following is not a phase of bacteria growth curve? 
+निम्नलिखित में से कौन सा जीवाणु विकास वक्र का चरण नहीं है?
+A
+Lag 
+लैग (Lag )
+B
+Exponential
+एक्सपोनेंशि
+यल (exponential )
+C
+Stationary 
+स्टेशनरी (stationery )
+D
+Revival 
+रिवाइवल (revival )
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 82
+2628090
+In which of the following enkephalins is not present?
+निम्नलिखित में से किसमें एन्केेफेलिन्स(enkephalins) मौजूद नहीं है?
+A
+Central Nervous System
+केंद्रीीय तंत्रिका तंत्र
+B
+Brain
+मस्तिष्क
+C
+Heart
+हृदय
+D
+Pituitary gland
+पिट्यूटरी ग्रंथि
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 83
+2628096
+Which muscle is multinucleated?
+कौन-सी मांसपेशी बहुकेन्द्रीीय होती है?
+A
+Skeleton
+कंकाल
+B
+Cardiac
+कार्डिएक (cardiac )
+C
+Smooth
+चिकना
+D
+Nervous system
+तंत्रिका तंत्र
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 84
+2628097
+Which of the following is incorrect statement about cell and its parts? 
+कोशिका और उसके भागों के बारे में निम्नलिखित में से कौन सा कथन गलत है?
+A
+All of the functions for cell expansion, growth and replication are carried out in the cytoplasm of a cell.
+कोशिका विस्ताार, वृद्धि और प्रतिकृति के सभी कार्य कोशिका के कोशिका द्रव्य में किए जाते हैं।
+B
+The cell membrane is a double layer of phospholipid molecules. 
+कोशिका झिल्लीी फॉस्फोोलिपिड अणुओं की दोहरी परत होती है।
+C
+Cytokinesis, division of the cytoplasm does not occur during telophase.
+साइटोकिनेसिस, साइटोप्लााज्म का विभाजन टलोफ़ेेज़ के दौरान नहीं होता है।
+D
+DNA in the nucleus directs protein synthesis in the cytoplasm. 
+केंद्रक में डीएनए साइटोप्लााज्म में प्रोोटीन संश्लेषण को निर्देशि
+त करता है।
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 85
+2628105
+Which of the following is not necessarily a correct combination? 
+निम्नलिखित में से कौन स आवश्यक रूप से सही संयोजन नहीं है?
+A
+Pharmaceutical alternatives - contain an identical therapeutic moiety
+फार्मास्युटिकल विकल्प - एक समान चिकित्सीीय अंश होते हैं
+B
+Pharmaceutical equivalent drugs - identical amount of active elements
+फार्मास्युटिकल समतुल्य दवाएं - सक्रिय तत्वोंों की समान मात्राा
+C
+Biological equivalents – equivalents for all purpose and intent. 
+जैविक समकक्ष - सभी उद्देश्य और इरादे के लिए समकक्ष।
+D
+Pharmaceutical equivalents – copy of patented drugs. 
+फार्मास्युटिकल समतुल्य - पेटेंट दवाओं की कॉपी।
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 86
+2628114
+Which of the following is not an official Drug compendium in India? 
+निम्नलिखित में से कौन सा भारत में एक आधिकारिक ड्रग संग्रह नहीं है?
+A
+National formulary of India
+भारत का राष्ट्रीीय सूत्र
+B
+Pharmacopoeia of India
+फार्माकोपिया (Pharmacopoeia) ऑफ इंडिया
+C
+British Pharmacopoeia
+ब्रिटिश फार्माकोपिया (Pharmacopoeia)
+D
+Merc Index
+मर्क इंडेक्स (Merc Index)
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 87
+2628120
+Match the content of Table A and Table B to mark the correct option. 
+सही विकल्प को चिह्नित करने के लिए टेबल ए और टेबल बी की सामग्रीी का मिलान करें।
+A
+1-A, 2-B, 3-C, 4-D
+1-A, 2-B, 3-C, 4-D
+B
+1-B, 2-C, 3-C, 4-D
+1-B, 2-C, 3-C, 4-D
+C
+1-C, 2-D ,3-B, 4-A
+1-C, 2-D ,3-B, 4-A
+D
+1-D ,2-A ,3-D ,4-C
+1-D ,2-A ,3-D ,4-C
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 88
+2628126
+What is a factor that does not affect the dissolution properties of a tablet? 
+वह कौन सा कारक है जो गोली के विघटन गुणों को प्रभावित नहीं करता है?
+A
+The particle size of the drug substance
+दवा पदार्थ का कण आकार।
+B
+The solubility and hygroscopicity of formulation. 
+सूत्रीीकरण की घुलनशीलता और हीड्रोोस्कोोपिसिटी।
+C
+The type and concentration of the disintegrant, binder and lubricant used. 
+उपयोग किए गए विघटनकारी, बाइंडर और स्नेहक का प्रकार और एकाग्रता।
+D
+The cost of drug manufacturing
+दवा निर्माण की लागत।
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 89
+2628127
+Which of the following is a characteristic of lyophobic gel? 
+निम्नलिखित में से कौन सा लियोफोबिक जेल की विशेषता है?
+A
+Stabilization due to small amount of electrolytes
+इलेक्ट्रोोलाइट्स (electrolytes) की थोड़ीी मात्राा के कारण स्थिरीकरण
+B
+Reversibility
+उलटने अथवा पुलटने योग्यता
+C
+Electrically charged particles
+विद्युत आवेशित कण
+D
+Increase in viscosity due to presence of particles. 
+कणों की उपस्थिति के कारण श्याानता में वृद्धि।
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 90
+2628135
+Which of the following can not be used as emulsifying agent? 
+निम्नलिखित में से कौन सा पायसीकारी एजेंट के रूप में इस्तेमाल नहीं किया जा सकता है?
+A
+Aluminum oxide 
+एल्यूमीनियम ऑक्सााइड (Aluminum oxide)
+B
+Stearyl OH
+स्टीीयरिल (Stearyl) OH
+C
+Cholesterol
+कोलेस्ट्रॉॉल (Cholesterol)
+D
+Glycerin
+ग्लिसरीन
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 91
+2628144
+Which of the following is the zero-order reaction? 
+निम्न में से कौन सा शून्य-क्रम प्रतिक्रिया है?
+A
+The plot of log C vs. time is a straight line. 
+log C बनाम समय का प्लॉॉट एक सीधी रेखा है।
+B
+The plot of log 1/C vs. time is a straight line.
+log 1/C बनाम समय का प्लॉॉट एक सीधी रेखा है।
+C
+The plot of C vs. time is a straight line. 
+C बनाम समय का प्लॉॉट एक सीधी रेखा है।
+D
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 92
+2628150
+Which of the following is an incorrect statement about Protein Binding? 
+निम्नलिखित में से कौन सा प्रोोटीन बंधन के बारे में गलत कथन है?
+A
+It decreases the distribution of drugs. 
+यह दवाओं के वितरण को कम करता है
+B
+It increases the metabolism of drugs. 
+यह दवाओं के उपापचय को बढ़ााता है।
+C
+It decreases the renal excretion of drugs. 
+यह दवाओं के गुर्दे के उत्सर्जन को कम करता है।
+D
+Protein drug complexes acts as transporters. 
+प्रोोटीन ड्रग कॉम्प्लेक्स ट्रांांसपोर्टर्स के रूप में कार्य करता है।
+Correct Ans : B
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 93
+2628156
+Which is the scope of study in Pharmacogenetics? 
+फार्माकोजेनेटिक्स (Pharmacogenetics) में अध्ययन का दायरा क्याा है?
+A
+Variability of enzyme action
+एंजाइम क्रिया की परिवर्तनशीलता
+B
+Environmental influence
+पर्यावरणीय प्रभाव
+C
+Individual variability in oral absorption
+मौखिक अवशोषण में व्यक्तिगत परिवर्तनशीलता
+D
+Different mechanism of actions in different individuals
+अलग-अलग व्यक्तियों में क्रियाओं का अलग-अलग तंत्र
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 94
+2628165
+Which of the following approach to selling suits the pharmaceutical industry? 
+फार्मास्युटिकल उद्योोग को बेचने के लिए निम्नलिखित में से कौन सा दृष्टिकोण उपयुक्त है?
+A
+Transactional
+लेन-देन
+B
+Consultative
+सलाहकार
+C
+Enterprise
+उद्यम
+D
+Promotional 
+प्रचार
+Correct Ans : B
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 95
+2628166
+Which of the following is not a correct statement about the Central Pharmacists register under section 14 of the Pharmacy Act? 
+फार्मेसी अधिनियम की धारा 14 के तहत सेंट्रल फार्मासिस्ट रजिस्टर के बारे में निम्नलिखित में से कौन सा कथन सही नहीं है?
+A
+The Central Council shall cause to be maintained in the prescribed manner a register of pharmacists to be known as the Central Register.
+केंद्रीीय परिषद फार्मासिस्टोंों के एक रजिस्टर को निर्धारित तरीके से बनाए रखेगी जिसे केंद्रीीय रजिस्टर के रूप में जाना जाएगा।
+B
+Each State Council shall supply to the Central Council five copies of the register for the State as soon as may be after the first day of April of each year.
+प्रत्येक राज्य परिषद प्रत्येक वर्ष अप्रैल के पहले दिन के बाद यथाशीघ्र राज्य के लिए रजिस्टर की पांच प्रतियों की आपूर्ति केंद्रीीय परिषद को करेगी।
+C
+The Registrar, of each State Council, shall inform the Central Council, without delay, of all additions to, and other amendments in, the Register. 
+प्रत्येक राज्य परिषद के रजिस्ट्राार, बिना किसी देरी के, रजिस्टर में सभी परिवर्धन और अन्य संशोधनों के बारे में केंद्रीीय परिषद को सूचित करेंगे।
+D
+The Central Register is not deemed to be a public document within the meaning of the Indian Evidence Act, of 1872 (1 of 1872).
+1872 (1872 का 1) के भारतीय साक्ष्य अधिनियम के अर्थ में केंद्रीीय रजिस्टर को एक सार्वजनिक दस्ताावेज नहीं माना जाता है।
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 96
+2628174
+Read the statements given below to answer the question. 
+Statement – Frequency distribution is important. 
+Reason 1- It facilitates the analysis of data and helps in the computation of various statistical measures. 
+Reason 2 – It helps to estimate the frequencies of the unknown population distribution from the distribution of sample data. 
+प्रश्न का उत्तर देने के लिए नीचे दिए गए कथनों को पढ़ें।
+कथन - आवृत्ति वितरण महत्वपूर्ण है।
+कारण 1- यह डेटा के विश्लेषण को सुगम बनाता है और विभिन्न सांख्यिकीय उपायों की गणना में मदद करता है।
+कारण 2 - यह नमूना डेटा के वितरण से अज्ञाात जनसंख्याा वितरण की बारंबारताओं का अनुमान लगाने में मदद करता है।
+A
+Only 1 follows. 
+केवल 1 अनुसरण करता है।
+B
+Only 2 follows. 
+केवल 2 अनुसरण करता है।
+C
+Both 1 and 2 follow. 
+1 और 2 दोनों अनुसरण करते हैं।
+D
+Neither 1 nor 2 follows. 
+न तो 1 और न ही 2 अनुसरण करता है।
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 97
+2628180
+Herbal drugs export constitutes ___________of total Indian pharmaceutical export. 
+हर्बल दवाओं का निर्यात कुल भारतीय फार्मास्युटिकल निर्यात का ___________ है।
+A
+Below 10%
+10% से कम
+B
+10-15%
+10-15%
+C
+15-20 %
+15-20%
+D
+More than 20 percent
+20 प्रतिशत से अधिक
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 98
+2628186
+Which of the following is used in cardiogenic shock and produces renal shock? 
+निम्नलिखित में से किसका उपयोग कार्डियोजेनिक (cardiogenic) शॉक में किया जाता है और रीनल (renal) शॉक पैदा करता है?
+A
+Adrenaline 
+एड्रेेनालाईन (Adrenaline)
+B
+Dopamine
+डोपामाइन (Dopamine)
+C
+Noradrenaline
+नॉरएड्रेेनालाईन (Noradrenaline)
+D
+Dobutamine
+डोबुटामाइन (Dobutamine)
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 99
+2628195
+Which of the following drug is the most appropriate one to reduce proteinuria in a diabetic person? 
+मधुमेह वाले व्यक्ति में प्रोोटीनूरिया (proteinuria) को कम करने के लिए निम्नलिखित में से कौन सी दवा सबसे उपयुक्त है?
+A
+Metoprolol
+मेटोप्रोोलोल (Metoprolol)
+B
+Perindopril
+पेरिंंडोप्रिल (Perindopril)
+C
+Chlorthiazide
+क्लोोर्थियाज़ााइड (Chlorthiazide)
+D
+Clonidine
+क्लोोनिडाइन (Clonidine)
+Correct Ans : B
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 100
+2628204
+Read the statements to answer the question. 
+Assertion- Dextromethorphan can be used to relieve cough.
+Reason- It acts like expectorants and reduce viscosity of sputum. 
+प्रश्न का उत्तर देने के लिए कथनों को पढ़ें।
+अभिकथन- डेक्सट्रोोमेथॉर्फ़न (Dextromethorphan) का उपयोग खांसी से राहत के लिए किया जा सकता है।
+कारण- यह कफ निस्साारक की तरह कार्य करता है और थूक की चिपचिपाहट को कम करता है।
+A
+Both A and R are true and R is correct explanation of assertion. 
+A और R दोनों सत्य हैं और R अभिकथन की सही व्यााख्याा है।
+B
+Both A and R are true and R is not correct explanation of assertion. 
+A और R दोनों सत्य हैं और R अभिकथन की सही व्यााख्याा नहीं करता है।
+C
+Assertion is true and reason is false. 
+कथन सत्य है और कारण गलत है।
+D
+Both assertion and reason are true. 
+कथन और कारण दोनों सत्य हैं।
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 1
+2628062
+What is not related to angle strain? 
+एंगल स्ट्रेन (angle strain)  किससे संबंधित नहीं है
+A
+Increase in potential energy.
+स्थितिज ऊर्जा में वृद्धि।
+B
+Deviation in bond angles.
+बांड कोणों में विचलन।
+C
+Decrease in potential energy
+स्थितिज ऊर्जा में कमी
+D
+Deviation in C-C angle
+सी-सी एंगल में विचलन।
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 2
+2628064
+Which algorithm is used for the antiaromatic system according to Huckel’s rule? 
+हकल (Huckel) के नियम के अनुसार ऐंटिऐरोमैटिक सिस्टम के लिए किस एल्गोोरिद्म का उपयोग किया जाता है?
+A
+N= 4n+2
+N= 4n+2
+B
+N= 4n
+N= 4n
+C
+N=2n
+N=2n
+D
+N= 4n+1
+N= 4n+1
+Correct Ans : B
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 3
+2628066
+Identify the incorrect statement about the buffer capacity and buffer solutions. 
+बफर क्षमता और बफर घोल के बारे में गलत कथन की पहचान करें।
+A
+  .
+B
+"बफर क्षमता" (बीओ) शब्द एक मजबूत एसिड या बेस के योग के कारण घोल के पीएच में परिवर्तन को मापता है।
+C
+An important property of buffer solutions is their ability to maintain a relatively constant pH value in response to
+the addition of small amount of acid or base.
+बफर घोल का एक महत्वपूर्ण गुण अम्ल या क्षाार की थोड़ीी सी मात्राा मिलाने पर अपेक्षााकृत स्थिर पीएच मान बनाए रखने की उनकी क्षमता है।
+D
+Buffer capacity is the ability of a solution to change rapidly with the addition of acid or base. 
+अम्ल या क्षाार के मिलाने पर घोल का तेजी से बदलने की क्षमता बफर क्षमता है।
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 4
+2628067
+What is not a factor that affects the solubility of drugs? 
+इनमे से कौन सा दवाओं की घुलनशीलता को प्रभावित करने वाला एक कारक नहीं है?
+A
+Amount of force between solute and solvent
+विलेय और विलायक के बीच बल की मात्राा।
+B
+Electronic factors
+इलेक्ट्रॉॉनिक कारक
+C
+Steric factors
+स्टेरिक (steric)कारक
+D
+Usage of the drugs
+दवाओं का उपयोग
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 5
+2628068
+Which of the following is not a Koch’s postulate? 
+निम्नलिखित में से कौन कोच की पोस्टुलेट्स (postulates) नहीं है?
+A
+The microorganism must be found in diseased but not healthy individuals.
+सूकजीव रोगग्रस्त व्यक्तियों में पाए जाते हैं, लेकिन स्वस्थ व्यक्तियों में नहीं।
+B
+The microorganism must be cultured from the diseased individual. 
+सूक्ष्मजीव को रोगग्रस्त व्यक्ति से ही कल्चर किया जाना चाहिए।
+C
+Inoculation of a healthy individual with the cultured microorganism must recapitulate the disease.
+कल्चर किया हुआ सूक्ष्मजीव के साथ एक स्वस्थ व्यक्ति का टीकाकरण रोग को दोहराना चाहिए।
+D
+The microorganism must not be re-isolated from the inoculated, diseased individual and matched to the original
+microorganism. 
+सूक्ष्मजीव को टीका लगाए गए व्यक्ति, रोगग्रस्त व्यक्ति से अलग नहीं किया जाना चाहिए और मूल सूक्ष्मजीव से मिलान नहीं करना चाहिए।
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 6
+2628078
+Which of the following is incorrect statement about the aryl diazonium salts?
+ऐरिल डाइऐज़ोोनियम लवणों के बारे में निम्नलिखित में से कौन-सा कथन गलत है?
+A
+They are ionic in nature.
+ये आयनिक प्रकृति के होते हैं।
+B
+They are water-soluble.
+वे पानी में घुलनशील हैं।
+C
+Aryl diazonium salts are colourless crystalline solids.
+ऐरिल डाइऐज़ोोनियम लवण रंगहीन क्रिस्टलीय ठोस होते हैं।
+D
+They have high redox potential. 
+इनमें उच्च रेडॉक्स क्षमता होती है।
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 7
+2628079
+Which of the following is determined in saponification value? 
+निम्नलिखित में से कौन सैपोनोफिकशन (saponification) मूल्य में निर्धारित होता है?
+A
+KOH
+केओएच (KOH)
+B
+NaCl
+एनएसीएल (NaCl)
+C
+Oxygen
+ऑक्सीीजन (Oxygen)
+D
+Chloride
+क्लोोराइड (Chloride)
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 8
+2628080
+Read the following statement to mark the correct option. 
+Statement - In the Hinsberg Test, the amines act as nucleophiles and attack the electrophile (sulfonyl chloride). This leads to
+the displacement of the chloride and the generation of the sulphonamides.
+निम्नलिखित कथन को पढ़कर सही विकल्प को चिह्नित करें।
+कथन - हिंसबर्ग टेस्ट में, एमाइन न्यूक्लियोफिल्स के रूप में कार्य करते ह और इलेक्ट्रोोफाइल (सल्फोोनील क्लोोराइड) पर हमला करते हैं। इससे क्लोोराइड का विस्थापन
+होता है और सल्फोोनामाइड्स का निर्माण होता है।
+A
+Statement is true
+कथन सही है
+B
+Statement is false. 
+कथन गलत है।
+C
+Statement is partially correct. 
+कथन आंशिक रूप से सही है।
+D
+Statement is conditionally correct. 
+कथन सशर्त रूप से सही है।
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 9
+2628085
+Which of the following neurotransmitter’s level directly affect Alzheimer disease and Parkinson’s disease? 
+निम्नलिखित में से कौन सा न्यूरोट्रांांसमीटर स्तर अल्जााइमर रोग और पार्किंसंस रोग को सीधे प्रभावित करता है?
+A
+Gamma-amino butyric acid
+गामा-एमिनोब्यूट्रिक एसिड
+B
+Dopamine
+डोपामाइन
+C
+Glutamate
+ग्लूटामेट
+D
+Acetylcholine
+एसिटाइलकोलाइन
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 10
+2628086
+What is the name of the process by which benzene molecule is stabilized? 
+उस प्रक्रिया का नाम क्याा है जिसके द्वाारा बेंजीन अणु को स्थिर किया जाता है?
+A
+Resonance
+प्रतिध्वनि (Resonance)
+B
+Reflection
+प्रतिबिंब (Reflection)
+C
+Refraction
+अपवर्तन (Refraction)
+D
+Retraction
+वापस लेना (Retraction)
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 11
+2628091
+A
+retinol
+रेटिनॉल (retinol)
+B
+thiamine
+थायमिन (thiamine)
+C
+calciferol
+कैल्सिफेरोल (calciferol)
+D
+retinoic acid
+रेटिनोइक (retinoic) अम्ल
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 12
+2628092
+Which of the following muscle groups are innervated by the sciatic nerve?
+निम्नलिखित में से कौन से मांसपेशी समूह साइटिक तंत्रिका द्वाारा इन्नेर्वटेड होते हैं?
+A
+Thigh muscles
+जांघ की मांसपेशियां
+B
+Deep back muscles
+गहरी पीठ की मांसपेशियां
+C
+Throat  muscles
+गले की मांसपेशियां
+D
+Abdominal muscles
+पेट की मांसपेशियां
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 13
+2628098
+Pisiform bone is found in which of the following joint? 
+निम्नलिखित में से किस जोड़ में पिसिफोर्म (Pisiform) हड्डीी पाई जाती है?
+A
+Shoulder joint
+कंधे का जोड़
+B
+Sternoclavicular joint
+स्टर्नोक्लेविकुलर (Sternoclavicular) जोड़
+C
+Wrist joint
+कलाई का जोड़
+D
+Ankle joint
+टखने का जोड़
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 14
+2628099
+The plane which divides the body into upper and lower parts is called as? 
+वह तल जो शरीर को ऊपरी और निचले भागों में विभाजित करता है, क्याा कहलाता है?
+A
+Sagittal plane
+सगित्तल (Sagittal) तल
+B
+Coronal plane
+कोरोनल (Coronal) तल
+C
+Transverse plane
+ट्रांांसवर्स (Transverse) तल
+D
+All of the above
+उपरोक्त सभी
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 15
+2628100
+What is the category of patella bone that is present in knee? 
+घुटने में पायी जाने वाली पटेला अस्थि किस श्रेणी की होती है ?
+A
+Flat bone
+चपटी हड्डीी
+B
+Extended bone
+विस्ताारित हड्डीी
+C
+Pneumatic bone
+न्युमेटिक (neumatic ) हड्डीी
+D
+Sesamoid bone
+सीस्मोोइड (Sesamoid) हड्डीी
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 16
+2628106
+What types of diseases monoclonal antibodies are not used for?
+किस प्रकार के रोगों के लिए मोनोक्लोोनल (monoclonal) एंटीबॉडी का उपयोग नहीं किया जाता है?
+A
+Cancer
+कैंसर
+B
+Covid -19
+कोविड 19
+C
+High Cholesterol
+उच्च कोलेस्ट्रॉॉल
+D
+Viral fever
+वायरल बुखार
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 17
+2628107
+What is the role of sodium met bisulphite in parenteral formulations? 
+पैरेंटेटेरल योगों में सोडियम मेट बाइसल्फााइट की क्याा भूमिका है?
+A
+Used as an antioxidant.
+एक एंटीऑक्सीीडेंट के रूप में प्रयोग किया जाता है
+B
+Used as a chelator.
+एक चेलेटर के रूप में प्रयोग किया जाता है
+C
+Used as cosolvent.
+सह-विलायक के रूप में प्रयोग किया जाता है
+D
+Used as an emulsifying agent.
+एक पायसीकारी एजेंट के रूप में उपयोग किया जाता है
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 18
+2628108
+Put the following steps of wet granulation method of drug preparation in the correct sequence. 
+1. Weighing and blending
+2. Preparation of wet granulate with binder
+3. Screening the damp mass into pellets
+4. Drying in thermostatically controlled ovens
+5. Dry screening with ingredient and lubricants
+6. Filling in die cavity and compression
+औषधि बनाने की गीली दानेदार बनाने की विधि के निम्नलिखित चरणों को सही क्रम में रखें।
+1. तौलना और सम्मिश्रण करना
+2. बाइंडर के साथ गीला दाना तैयार करना
+3. नम द्रव्यमान को छर्रों में छानना
+4. थर्मोस्टेटिक रूप से नियंत्रित ओवन में सुखाना
+5. संघटक और स्नेहक के साथ ड्रााई स्क्रीीनिंग
+6. डाई कैविटी और कम्प्रेशन में भरना
+A
+123456
+123456
+B
+654321
+654321
+C
+324156
+324156
+D
+365421
+365421
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 19
+2628115
+What is the quantity of dextrose required to prepare a solution isotonic with blood plasma. The molecular weight of dextrose is
+180 and it is non-ionizing? 
+रक्त प्लााज्माा के साथ आइसोटोनिक (isotonic) घोल तैयार करने के लिए आवश्यक डेक्सट्रोोज (dextrose) की मात्राा क्याा है। डेक्सट्रोोज (dextrose) का आणविक
+भार 180 है और गैर-आयनीकरण है?
+A
+5 grams
+5 ग्रााम
+B
+5.4 grams
+5.4 ग्रााम
+C
+10. 2 grams 
+10. 2 ग्रााम
+D
+8.5 grams 
+8.5 ग्रााम
+Correct Ans : B
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 20
+2628116
+Which of the following is not correct information about the mixing of drugs at various stages? 
+1. Positive mixing - These types of mixtures are formed when two or more than two gases or miscible liquids are mixed
+together by means of diffusion process.
+2. Negative mixing - Many pharmaceutical products such as pastes, ointments and mixed powders are the examples of
+neutral mixtures.
+3. Neutral Mixing - These types of mixtures are formed when insoluble solids are mixed with a vehicle to form a suspension or
+when two immiscible liquids are mixed to form an emulsion.
+निम्नलिखित में से कौन सी विभिन्न चरणों में दवाओं के मिश्रण के बारे में सही जानकारी नहीं है?
+1. सकारात्मक मिश्रण - इस प्रकार के मिश्रण तब बनते हैं जब दो या दो से अधिक गैसें या घुलनशील तरल पदार्थ एक साथ विसरण प्रक्रिया के माध्यम से मिश्रित होते हैं।
+2. नकारात्मक मिश्रण - कई दवा उत्पााद जैसे पेस्ट, मलहम और मिश्रित पाउडर तटस्थ मिश्रण के उदाहरण हैं।
+3. तटस्थ मिश्रण - इस प्रकार के मिश्रण तब बनते हैं जब अघुलनशील ठोस पदार्थों को एक वाहन के साथ मिलाकर निलंबन बनाया जाता है या जब दो अमिश्रणीय तरल
+पदार्थ एक पायस बनाने के लिए मिश्रित होते हैं।
+A
+Only 1
+केवल 1
+B
+1 and 2 both
+1 और 2 दोनों
+C
+2 and 3 both
+2 और 3 दोनों
+D
+1 and 3 only
+केवल 1 और 3
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 21
+2628121
+What is the formula of partition coefficient to represent the lipophilicity of an organic compound if A is the concentration of
+unionized compound? 
+एक कार्बनिक यौगिक की लिपोफिलिसिटी (lipophilicity) का प्रतिनिधित्व करने के लिए विभाजन गुणांक का सूत्र क्याा है यदि A संघीकृत यौगिक की सांद्रता है?
+A
+B
+C
+D
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 22
+2628122
+What are the reasons that dry granulation method of tablet preparation is becoming more popular than other methods? 
+1. No reaction due to heat or moisture.
+2. Low cost of equipment handling. 
+3. Ability to produce uniform tablets in composition.
+क्याा कारण हैं कि गोली तैयार करने की सूखी दानेदार बनाने की विधि अन्य विधियों की तुलना में अधिक लोकप्रिय हो रही है?
+1. गर्मी या नमी के कारण कोई प्रतिक्रिया नहीं।
+2. उपकरण से निपटने की कम लागत।
+3. रचना में समान गोलियां बनाने की क्षमता।
+A
+Only 1
+केवल 1
+B
+Only 3
+केवल 3
+C
+1 and 2
+1 और 2
+D
+1, 2 and 3
+1, 2 और 3
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 23
+2628128
+What type of colloidal Aluminum hydroxide sol is? 
+एल्युमीनियम हाइड्रॉॉक्सााइड सॉल (Aluminum hydroxide sol) किस प्रकार का कोलाइडल (colloidal) है?
+A
+Association
+एसोसिएशन (Association)
+B
+Hydrophobic
+हाइड्रोोफोबिक (Hydrophobic)
+C
+Lyophobic
+ल्योोफोबिक (Lyophobic)
+D
+Lyophilic
+लियोफिलिक (Lyophilic)
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 24
+2628129
+Which of the following statements are not correct about Donnan Membrane Equilibrium? 
+1. The side on which non diffusible ion is present, accumulates oppositely charged diffusible ions. 
+2. On the other side of the membrane, diffusible ions will cause accumulation of non-diffusible ions such as R-.
+डोनन मेम्ब्रेन इक्विलिब्रियम (Donnan Membrane Equilibrium) के बारे में निम्नलिखित में से कौन सा कथन सही नहीं है?
+1. जिस तरफ गैर-प्रसार योग्य आयन मौजूद होता है, वह विपरीत चार्ज प्रसार योग्य आयन जमा करता है।
+2. झिल्लीी के दूसरी तरफ, प्रसार योग्य आयन गैर-प्रसार योग्य आयनों जैसे R- के संचय का कारण बनेंगे।
+A
+Only 1 is correct
+केवल 1 सही है
+B
+Only 2 is correct
+केवल 2 सही है
+C
+Neither 1 nor 2 is correct
+न तो 1 और न ही 2 सही है
+D
+Both 1 and 2 are correct
+1 और 2 दोनों सही हैं
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 25
+2628130
+Young’s modulus is a type of –
+यंग मापांक एक प्रकार का होता है -
+A
+Elastic modulus
+लोचदार मापांक
+B
+Plastic modulus 
+प्लाास्टिक मापांक
+C
+Pseudo modulus 
+छद्म मापांक
+D
+Bingham modulus
+बिंघम मापांक
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------

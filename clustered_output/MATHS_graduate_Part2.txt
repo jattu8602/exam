@@ -1,0 +1,595 @@
+Subject: MATHS graduate
+Questions: 40
+========================================
+
+Q.No: 81
+2625469
+If the number of variables in non-homogeneous system of linear equations AX = B is n, then the system has a unique solution if: 
+यदि असमघात रैखिक समीकरणों के निकाय AX = B में चरों की संख्‍या n है, तब निकाय एक अद्वितीय हल रखता है यदि: 
+A
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 82
+2625473
+If P and Q are two statements, then PVQ will be false if:
+यदि P और Q दो कथन हैं, तब PVQ असत्य होगा यदि:
+A
+P is false and Q is true 
+P असत्य है और Q सत्य 
+B
+Q is false and P is true 
+Q असत्य है और P सत्य 
+C
+P and Q both are false
+P और Q दोनों असत्य हैं
+D
+P and Q both are true
+P और Q दोनों सत्य हैं
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 83
+2625486
+A
+B
+C
+D
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 84
+2625498
+A
+log (1 + x)
+log (1 + x)
+B
+C
+D
+2x
+2x
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 85
+2625506
+A
+-2
+-2
+B
+-3
+-3
+C
+-4
+-4
+D
+0
+0
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 86
+2625516
+A
+B
+C
+D
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 87
+2625517
+A
+Cone 
+शंकू 
+B
+Sphere 
+गोला
+C
+Cylinder 
+बेलन
+D
+Pair of planes  
+समतलों का जोड़ाा 
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 88
+2625528
+A
+B
+C
+D
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 89
+2625529
+Number of generators of the cyclic group of order 10:
+10 कोटि के चक्रीीय समूह के जनकों की संख्याा है :
+A
+2
+2
+B
+3
+3
+C
+4
+4
+D
+5
+5
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 90
+2625546
+A
+Convergent 
+अभिसारी
+B
+Divergent 
+अपसारी
+C
+Conditional convergent 
+प्रतिबंधीअभिसारी 
+D
+Absolutely convergent 
+पूर्णत: अभिसारी 
+Correct Ans : D
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 91
+2625556
+At which of the following values of x and y the function u = sin x sin y sin (x + y) has maxima?  
+x तथा y के निम्‍नलिखित मानों में से किस पर फलन u = sin x sin y sin (x + y) उच्चिष्‍ठ रखता है?
+A
+B
+C
+D
+x = 0 = y
+x = 0 = y
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 92
+2625566
+A
+-1
+-1
+B
+C
+D
+1
+1
+Correct Ans : D
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 93
+2625578
+A
+z = a
+z = a
+B
+z = b
+z = b
+C
+D
+Correct Ans : D
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 94
+2625644
+A
+Diagonal [3, 4, -12]
+Diagonal [3, 4, -12]
+B
+Diagonal [6, 12, 18]
+Diagonal [6, 12, 18]
+C
+Diagonal [6, -12, 18]
+Diagonal [6, -12, 18]
+D
+Diagonal [-6, 12, 18]
+Diagonal [-6, 12, 18]
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 95
+2625658
+Which of the following is a graph where edges cannot appear more than once but vertex may be:
+निम्‍नलिखित में से कौन एक आलेख है जहाँ भुजाऐं एक बार से अधिक नहीं आ सकती हैं लेकिन शीर्ष आ सकते हैं-  
+A
+Walk 
+गमन 
+B
+Euler graph 
+ऑयूलर आलेख
+C
+Connected graph
+सम्‍बद्ध आलेख
+D
+Tree 
+वृक्ष
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 96
+2625668
+A
+Normal 
+सामान्‍य 
+B
+Platykurtic 
+प्लेटिकुर्टिक
+C
+Leptokurtic 
+लेप्टोोकुर्टिक
+D
+Mesokurtic 
+मीसोकुर्टिक
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 97
+2625676
+The chance that a leap-year selected at random will contain 53 Sundays is: 
+यादृच्‍छाया रूप से चुने गए अधि वर्ष में 53 रविवार होने की प्राायिकता है:
+A
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 98
+2625684
+A
+Improper integral of first kind 
+प्रथम प्रकार का अनुचित समाकल
+B
+Improper integral of second kind
+द्वितिय प्रकार का अनुचित समाकल
+C
+Improper integral of third kind
+तृतीय प्रकार का अनुचित समाकल 
+D
+Improper integral of fourth kind
+चतुर्थ प्रकार का अनुचित समाकल
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 99
+2625696
+A
+0
+0
+B
+1
+1
+C
+-1
+-1
+D
+2
+2
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 100
+2625708
+A
+uv
+uv
+B
+uvw
+uvw
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 81
+2625470
+A
+B
+C
+D
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 82
+2625474
+A
+Commutative law
+क्रम विनिमेय नियम
+B
+Associative law
+सहचर्य नियम
+C
+Distributive law
+वितरण नियम
+D
+De-Morgan’s law 
+डी-मोर्गन का नियम
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 83
+2625487
+n घातीय वक्र की अनंत स्पर्शीयाँ वक्र को काटती हैं:  
+A
+n points
+n बिन्दुओं पर
+B
+(n - 1) points
+(n - 1) बिन्दुओं पर
+C
+n(n - 2) points
+n(n - 2) बिन्दुओं पर
+D
+(n - 2) points
+(n - 2) बिन्दुओं पर
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 84
+2625499
+Integrating factor of the differential equation (1 + xy) y dx + (1 - xy) x dy = 0 is:
+अवकल समीकरण (1 + xy) y dx + (1 - xy) x dy = 0 का समाकल गुणांक है:
+A
+B
+C
+D
+Correct Ans : D
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 85
+2625507
+A
+6V
+6V
+B
+3V
+3V
+C
+2V
+2V
+D
+V
+V
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 86
+2625518
+A
+B
+C
+D
+Correct Ans : D
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 87
+2625519
+The equation of a right circular cylinder of radius 5 cm and whose axis is y-axis is: 
+एक लम्बवृत्तीय बेलन जिसका अक्ष y-अक्ष तथा त्रिज्या 5 सेमी है का समीकरण है: 
+A
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 88
+2625530
+A
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 89
+2625531
+If H and K are finite sub-groups of G then: 
+यदि H और K, G के परिमित उप समूह है तब: 
+A
+O(HK) = O(H) O(K)
+O(HK) = O(H) O(K)
+B
+C
+D
+O(H) O(HK) = O(K)
+O(H) O(HK) = O(K)
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 90
+2625547
+A
+Continuous and differentiable 
+सतत् एवं अवकलनीय
+B
+Continuous but not differentiable
+सतत् लेकिन अवकलनीय नहीं 
+C
+Neither continuous nor differentiable
+न तो सतत् और ना ही अवकलनीय 
+D
+Not continuous but differentiable
+सतत् नहीं लेकिन अवकलनीय 
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 91
+2625557
+A
+B
+C
+D
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 92
+2625567
+Choose the correct formula; 
+सही सूत्र को चुनिए-
+A
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 93
+2625579
+A
+Parabolic 
+परवलियक
+B
+Elliptic 
+दीर्घवृत्तीय 
+C
+Hyperbolic 
+अति परवलयिक
+D
+Pair of straight lines 
+सरल रेखा युग्म 
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 94
+2625645
+If all Eigen values of a square matrix A are distinct, then the matrix A is similar to:   
+यदि एक वर्ग आव्‍यूह A के सभी आइगेन मान अलग-अलग हैं तब आव्‍यूह A सममित है-
+A
+A triangular matrix
+एक त्रिभुजाकार आवयूह के 
+B
+A diagonal matrix 
+एक विकर्ण आव्‍यूह के 
+C
+A unitary matrix
+एक एकैक आव्‍यूह के 
+D
+An orthogonal matrix 
+एक लाम्बिक आव्‍यूह के 
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 95
+2625659
+The maximum number of edges in a simple graph with n vertices is: 
+एक n शीर्ष वाले सरल ग्रााफ (आलेख) में भुजाओं की अधिकतम संख्‍या है-
+A
+n + 1
+n + 1
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 96
+2625669
+A
+0
+0
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 97
+2625677
+A
+np
+np
+B
+npq
+npq
+C
+D
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 98
+2625685
+A
+First kind 
+प्रथम प्रकार का 
+B
+Second kind
+द्वितिय प्रकार का 
+C
+Third kind
+तृतीय प्रकार का 
+D
+Fourth kind
+चतुर्थ प्रकार का 
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 99
+2625697
+A
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 100
+2625709
+A
+B
+C
+D
+Correct Ans : D
+Subject : MATHS graduate
+
+----------------------------------------

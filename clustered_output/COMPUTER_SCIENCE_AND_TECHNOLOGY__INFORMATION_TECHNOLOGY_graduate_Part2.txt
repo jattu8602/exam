@@ -1,0 +1,1008 @@
+Subject: COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+Questions: 50
+========================================
+
+Q.No: 51
+2613470
+Which refers to the scrambled message produced as an output and that depends on the plaintext and secret key?
+कौन-सा आउटपुट के रूप में उत्पन्न स्क्रैैम्बल संदेश को संदर्भित करता है और यह प्लेनटेक्स्ट और सीक्रेेट की पर निर्भर करता है?
+A
+Encryption algorithm
+एन्क्रिप्शन एल्गोोरिदम
+B
+Decryption algorithm
+डिक्रिप्शन एल्गोोरिदम
+C
+Ciphertext
+सिफरटेक्स्ट
+D
+ Postscript
+पोस्टस्क्रिप्ट
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 52
+2613471
+Which is the last component of the learning agent responsible for suggesting actions that will lead to new and informative experiences?
+लर्निंग एजेंट का अंतिम कॉम्पोोनेन्ट कौन-सा है जो एक्‍संस का सुझाव देने के लिए जिम्मेदार है जो नए और सूचनात्मक अनुभवों को जन्म देगा?
+A
+Problem generator
+प्रॉॉब्‍लम जनरेटर
+B
+Learning element
+लर्निंग एलिमेंट
+C
+Performance element
+परफॉरमेंस एलिमेंट
+D
+Critic
+क्रिटिक
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 53
+2613472
+Which refers to the graph search algorithm that starts at the root node and explores all the adjacent nodes?
+जो ग्रााफ सर्च एल्गोोरिथम को संदर्भित करता है जो रूट नोड से शुरू होता है और सभी आसन्न नोड्स की खोज करता है?
+A
+Depth-first search
+डेप्‍थ- फर्स्‍ट सर्च
+B
+Closed states
+क्‍लोज स्टेट्स
+C
+Breadth-first search
+ब्रेथ- फर्स्‍ट सर्च
+D
+Heuristic search
+ह्यूरिस्टिक सर्च
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 54
+2613473
+In ___________ the display image/jpg is stored in the form of 1’s and 0’s in the refresh buffer.
+___________ में डिस्प्ले इमेज को रिफ्रेेश बफर में 1 और 0 के रूप में स्टोोर किया जाता है।
+A
+LED
+एलईडी (LED)
+B
+LCD
+एलसीडी ( LCD)
+C
+Raster scan display
+रास्टर स्कैैन डिस्प्ले
+D
+Random scan display
+रैंडम स्कैैन डिस्प्ले
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 55
+2613474
+In which method, touch panel is constructed with two transparent plates separated by a small distance?
+किस तरीके से एक छोटी सी दूरी से अलग दो पारदर्शी प्लेटों से बना है?
+A
+Optical method
+ऑप्टिकल विधि
+B
+Electrical method
+विद्युत विधि
+C
+Acoustical method
+एकोस्टिकल विधि
+D
+ Random scan technique
+रैंडम स्कैैन तकनीक
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 56
+2613475
+Which method generates view from the solid object by projecting parallel lines onto the display plane?
+कौन-सी विधि समानांतर रेखाओं को प्रक्षेपित करके ठोस वस्तु से डिस्प्ले प्लेन पर विव्‍यू उत्पन्न करती है?
+A
+Perspective projection
+परिप्रेक्ष्य प्रक्षेपण
+B
+Polygon clipping
+पॉलीगोन क्‍लीपिंग
+C
+Line clipping
+लाइन क्लिपिंग
+D
+Parallel projection
+समानांतर प्रक्षेपण
+Correct Ans : D
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 57
+2613482
+The __________ combines elements of parallel and linear process flows.
+__________ समानांतर और रैखिक प्रक्रिया प्रवाह के तत्वोंों को जोड़ता है।
+A
+Prototyping
+प्रोोटोटाइप
+B
+Spiral model
+सर्पिल मॉडल
+C
+Incremental process model
+इंक्रीीमेंटल प्रोोसेस मॉडल
+D
+Concurrent model
+कंकर्रेंट मॉडल
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 58
+2613483
+Which refers to a set of programs installed on a system to maintain administrator access to that system?
+सिस्टम में एडमिनिस्ट्रेटर एक्सेस को बनाए रखने के लिए सिस्टम पर इंस्टॉॉल किए गए प्रोोग्रााम के सेट को कौन संदर्भित करता है?
+A
+Bots
+बॉट्स
+B
+Rootkits
+रूटकिट्स
+C
+Ingress Monitors
+इन्ग्रेस मॉनिटर
+D
+Sensors
+सेंसर
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 59
+2613484
+In 1666, who discovered that when a beam of sunlight is passed through a glass prism the beam of light thus emerged is not white but comprises of
+a continuous spectrum of colours from violet to red?
+सन 1666 में, किसने ने पता लगाया कि जब सूर्य के प्रकाश की एक किरण को एक कांच के प्रिज्म के माध्यम से गुजारा किया जाता है, तो प्रकाश की किरण सफेद नहीं होती है, लेकिन इसमें
+बैंगनी से लाल तक रंगों का एक सतत स्पेक्ट्रम शामिल होता है?
+A
+Edison
+एडिसन
+B
+Sir Isaac Newton
+सर आइजक न्यूटन
+C
+Charles Babbage
+चार्ल्स बैबेज
+D
+Rutherford
+रदरफोर्ड
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 60
+2613485
+Which refers to the removal or minimisation of known degradation in an image/jpg?
+किसी छवि में ज्ञाात डिग्रेडेशन को हटाने या कम करने को कौन संदर्भित करता है?
+A
+Image enhancement
+इमेज एनहेंसमेंट
+B
+Image analysis
+इमेज एनालिसिस
+C
+Image restoration
+इमेज रिस्‍टोरेशन
+D
+Image representation
+इमेज रिप्रिजेंटशन
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 61
+2613490
+Which provides a diagnostic technique for assessment of the relative maturity of a software organisation?
+सॉफ्टवेयर आर्गेनाईजेशन की रिलेटिव मैच्‍यूरिटी के आकलन के लिए कौन-सा नैदानिक तकनीक प्रदान करता है?
+A
+SPICE
+SPICE
+B
+CMM based appraisal
+CMM आधारित मूल्यांांकन
+C
+SCAMPI
+SCAMPI
+D
+ISO 9001 2000 for Software
+सॉफ्टवेयर के लिए ISO 9001 2000
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 62
+2613491
+Which defines a series of events that will trigger transitions from state to state for every software engineering actions, or tasks?
+कौन सी घटनाओं की एक श्रृंृंखला को परिभाषित करता है जो प्रत्येक सॉफ्टवेयर इंजीनियरिंंग कार्यों या कार्यों के लिए एक स्टेट से दूसरे स्टेट में संक्रमण को ट्रिगर करेगा?
+A
+Formal methods model
+औपचारिक मेथड  मॉडल
+B
+Concurrent model
+कंकर्रेंट मॉडल
+C
+Spiral model
+स्पााइरल मॉडल
+D
+Evolutionary process model
+विकासवादी प्रक्रिया मॉडल
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 63
+2613492
+Which deals with tools for extraction of image/jpg components that are useful in the representation and description of the shape of the objects?
+कौन-सा इमेज कंपोनेंट्स के निष्कर्षण के लिए उपकरणों से संबंधित है जो वस्तुओं के आकार के रिप्रिजेंटेटेशन और विवरण में उपयोगी होते हैं?
+A
+Image recognition
+इमेज रिकग्निशन
+B
+Morphological processing 
+मॉर्फोलॉजिकल प्रोोसेसिंग
+C
+Multiresolution processing
+मल्टीी रेसोलुशन प्रोोसेसिंग
+D
+Image enhancement
+इमेज एनहेंसमेंट
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 64
+2613493
+The first argument to eval () is known as?
+eval () के पहले तर्क को किस  रूप में जाना जाता है?
+A
+Variable
+वेरिएबल
+B
+Constant
+कांस्टेंट
+C
+Expression
+एक्सप्रेशन
+D
+Globals
+ग्लोोबल्स
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 65
+2613498
+Which indicates the evolution of the design model as design tasks are executed as part of the software process?
+कौन-सा डिज़ााइन मॉडल के विकास को इंगित करता है क्योंोंकि
+ डिज़ााइन कार्यों को सॉफ़्टवेयर प्रक्रिया के भाग के रूप में एक्जिक्‍यूट किया जाता है?
+A
+Control flow
+कंट्रोोल फ्लोो
+B
+Process dimension
+प्रोोसेस डायमेंसन
+C
+Project indicator
+प्रोोजेक्‍ट इंडिकेटर
+D
+Data flow
+डाटा फ्लोो
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 66
+2613499
+Which will display a question in the dialog box along with an input field where the user can enter a response?
+कौन सा संवाद बॉक्स में एक इनपुट फ़ीील्ड के साथ एक प्रश्न प्रदर्शित करेगा जहां उपयोगकर्ता प्रतिक्रिया दर्ज कर सकता है?
+A
+Prompt
+प्रोोम्प्ट
+B
+Cancel
+कैंसिल
+C
+Confirm
+कन्फर्म
+D
+Alert
+अलर्ट
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 67
+2613500
+Which issues, manages, authenticates, revokes and signs digital certificates of the users?
+कौन-सा उपयोगकर्ताओं के डिजिटल प्रमाणपत्रोंों को जारी करता है, प्रबंधित करता है, प्रमाणित करता है, रद्द करता है और हस्तााक्षर करता है?
+A
+Registration Authority
+रजिस्‍ट्रेशन ऑथोरिटी
+B
+Certificate Authority
+सर्टीफिकेट ऑथोरिटी
+C
+Public key infrastructure
+पब्लिक की इन्‍फ्राास्‍ट्रक्‍चर
+D
+Digilocker
+डिजिलॉकर
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 68
+2613501
+The art of secret writing is known as ?
+गुप्त लेखन की कला को किस नाम से जाना जाता है?
+A
+Cryptography
+क्रिप्टोोग्रााफी
+B
+Calligraphy
+कैलीग्रााफी
+C
+Steganography
+स्टेग्नोोग्रााफ़ीी
+D
+Pictography
+पिक्टोोग्रााफी
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 69
+2613502
+Which involves the replacement of each letter of the alphabet with the letter positioned at three places further down in the alphabet?
+जिसमें वर्णमाला के प्रत्येक अक्षर को वर्णमाला में तीन स्थान और नीचे स्थित अक्षर के साथ बदलना शामिल है।
+A
+Caesar Cipher
+सीज़र साइफर
+B
+Monoalphabetic Cipher
+मोनोलफैबेटिक साइफर
+C
+Playfair Cipher
+प्लेफेयर साइफर
+D
+Hill Cipher
+हिल साइफर
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 70
+2613503
+Which is used to print large format image/jpgs like that of construction drawings?
+कंस्‍ट्रक्‍शन ड्रााविंग जैसे बड़े प्राारूप की इमेजेस को प्रिंट करने के लिए किसका उपयोग किया जाता है?
+A
+Non-impact printers
+नॉन-इम्पैक्ट प्रिंटर
+B
+Data glove
+डेटा ग्लोोव
+C
+Digitizer
+डिजिटाइज़र
+D
+Plotter
+प्लॉॉटर
+Correct Ans : D
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 71
+2613510
+Which refers to a set of design steps that allows DFD with transform flow features to be mapped into the specific architectural style?
+कौन-सा डिजाइन चरणों के एक सेट को संदर्भित करता है जो डीएफडी को विशिष्ट वास्तुकला शैली में मैप करने के लिए फ्लोो फिचर्स को बदलने की अनुमति देता है?
+A
+Transform mapping
+ट्रांांसफॉर्म मैपिंग
+B
+Incoming flow
+इनकमिंग फ्लोो
+C
+Transform centre
+ट्रांांसफॉर्म  सेंटर
+D
+Flow diagram
+फ्लोो डायग्रााम
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 72
+2613511
+What refers to two conditions indicates the conjunction of the conditions which means both conditions have to be true?
+दो स्थितियों को क्याा संदर्भित करता है जो शर्तों के संयोजन को इंगित करता है जिसका अर्थ है कि दोनों स्थितियों को सत्य होना चाहिए?
+A
+Semi colon
+सेमी कोलन
+B
+Question mark
+क्‍वेश्चन मार्क
+C
+Comma
+कॉमा
+D
+Underscore
+अंडरस्कोोर
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 73
+2613512
+Which starts with an upper-case letter or an underscore character in Prolog?
+जो प्रोोलॉग में अपर-केस अक्षर या अंडरस्कोोर वर्ण से शुरू होता है?
+A
+Constants
+कांस्‍टेंट्स
+B
+Variables
+वेरिएबल
+C
+Real numbers
+रियल नंबर्स
+D
+Structures
+स्ट्रक्चर
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 74
+2613513
+Which of the following refers to the project schedule developed by a planner wherein the work breakdown is input as a task outline?
+निम्नलिखित में से कौन सा योजनाकार द्वाारा विकसित परियोजना अनुसूची को संदर्भित करता है जिसमें कार्य विश्लेषण एक कार्य रूपरेखा के रूप में इनपुट है?
+A
+Critical Path Method
+महत्वपूर्ण पथ विधि
+B
+PERT
+पीईआरटी (PERT)
+C
+Timeline chart
+टाइमलाइन चार्ट
+D
+Reports
+रिपोर्ट
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 75
+2613514
+What refers to the degree to which the design specifications are followed during manufacturing?
+निर्माण के दौरान डिजाइन विनिर्देशों का किस डिग्रीी तक पालन किया जाता है, इससे क्याा तात्पर्य है?
+A
+Quality of design
+डिजाइन की गुणवत्ताा
+B
+Quality of conformance
+अनुरूपता की गुणवत्ताा
+C
+Quality assurance
+गुणवत्ताा आश्वाासन
+D
+Quality control
+गुणवत्ताा नियंत्रण
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 76
+2613515
+What would disappear if no defects appeared prior shipping a product to the customers?
+यदि ग्रााहकों को उत्पााद भेजने से पहले कोई दोष प्रकट नहीं होता है तो क्याा गायब हो जाएगा?
+A
+Quality costs
+गुणवत्ताा लागत
+B
+Appraisal costs
+मूल्यांांकन लागत
+C
+Failure costs
+विफलता लागत
+D
+Prevention costs
+रोकथाम लागत
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 77
+2613522
+Which refers to the process of attempting to discover the ‘plaintext’ or a ‘key’?
+प्लेनटेक्स्ट’ या ‘की’ को खोजने की कोशिश करने की प्रक्रिया को किस रूप में जाना जाता है?
+A
+Stream cipher
+स्ट्रीीम सिफर
+B
+Block cipher
+ब्लॉॉक सिफर
+C
+Crypt analysis
+क्रिप्ट विश्लेषण
+D
+Encryption
+एन्क्रिप्शन
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 78
+2613523
+Which refers to the code embedded in a legitimate program that is set to delete or crash when certain conditions are fulfilled?
+जो एक वैध प्रोोग्रााम में एम्बेड किए गए कोड को संदर्भित करता है जो कुछ शर्तों के पूरा होने पर डिलीट या क्रैैश होने के लिए सेट होता है।
+A
+Trojan horse
+ट्रोोजन हॉर्स
+B
+Mobile code
+मोबाइल कोड
+C
+Logic bomb
+लॉजिक बम
+D
+Backdoor
+बैक डोर
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 79
+2613524
+The email virus uses which language supported by the email package?
+ईमेल वायरस ईमेल पैकेज द्वाारा समर्थित किस भाषा का उपयोग करता है?
+A
+C++
+सी ++
+B
+JavaScript
+जावास्क्रिप्ट
+C
+Visual Basic
+विजुअल बेसिक
+D
+Unix
+यूनिक्स
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 80
+2613525
+Mydoom is a mass-mailing email worm that appeared in which year?
+Mydoom एक मास-मेलिंग ईमेल वर्म है जो किस वर्ष में दिखाई दिया?
+A
+2001
+2001
+B
+2005
+2005
+C
+2004
+2004
+D
+1999
+1999
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 81
+2613530
+Which of the following is used to separate statements?
+निम्नलिखित में से किसका प्रयोग कथनों को अलग करने के लिए किया जाता है?
+A
+Parentheses
+कोष्ठक
+B
+Colon
+कोलन
+C
+Semicolon
+सेमीकोलन
+D
+Comma
+कोमा
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 82
+2613531
+Which of the following is used for safe handling of code that may cause exception like division by zero?
+निम्नलिखित में से कौन सा कोड के सुरक्षित संचालन के लिए उपयोग किया जाता है जो शून्य से विभाजन जैसे अपवादों का कारण बन सकता है?
+A
+Synchronization statement
+सिंक्रनाइज़ेशन स्टेटमेंट
+B
+Jump statement
+जम्प स्टेटमेंट
+C
+Guarding statement
+गार्डिंग स्टेटमेंट
+D
+Iteration statement
+इटरेशन स्टेटमेंट
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 83
+2613532
+The backslash character constant \ r refers to?
+बैकस्लैश वर्ण स्थिरांक \r किस को संदर्भित करता है?
+A
+Backspace
+बैकस्पेस
+B
+New line
+न्‍यू लाइन
+C
+Carriage return
+कैरिज रिटर्न
+D
+Single quote
+सिंगल कोट
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 84
+2613533
+Which is declared in methods, blocks and created for the execution of the same?
+जो तरीकों, ब्लॉॉकों में डिक्‍लैर किया गया है और उसी के एक्‍जीक्‍यूजन के लिए बनाया गया है?
+A
+Instance variable
+इंस्‍टेंस वेरीएबल
+B
+Local variable
+लोकल वेरीएबल
+C
+Static variable
+स्‍टेटिक वेरीएबल
+D
+Array
+अरे
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 85
+2613538
+Which is the image/jpg space approach used to eliminate hidden surfaces?
+छिपी हुई सतहों को खत्म करने के लिए किस इमेज स्‍पेस दृष्टिकोण का उपयोग किया जाता है?
+A
+Painter’s Algorithm
+पेंटर का एल्गोोरिदम
+B
+Z-Buffer
+जेड-बफर
+C
+Ray tracing
+रे ट्रेसिंग
+D
+Warnock Algorithm
+वार्नाक एल्गोोरिदम
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 86
+2613539
+What is the resolution of ink-jet printer that gives better printing quality?
+इंक-जेट प्रिंटर का रिजॉल्यूशन क्याा होता है जो बेहतर प्रिंटिंग गुणवत्ताा प्रदान करता है?
+A
+180 dots
+180 डॉट्स
+B
+360 dots
+360 डॉट्स
+C
+390 dots
+390 डॉट्स
+D
+500 dots
+500 डॉट्स
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 87
+2613540
+Which is carried out for polygons by multiplying the coordinate values of each vertex by scaling factors to produce the transformed coordinates?
+यह रूपांतरित निर्देशांक उत्पन्न करने के लिए स्केेलिंग कारकों द्वाारा प्रत्येक शीर्ष के समन्वय मूल्योंों को गुणा करके बहुभुजों के लिए कैरी किया जाता है।
+A
+Scaling
+स्केेलिंग
+B
+Translation
+ट्रांांसलेशन
+C
+Scan line
+स्कैैन लाइन
+D
+Clipping
+क्लिपिंग
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 88
+2613541
+Which refers to the phenomenon of the reflection of incident light in a concentrated region?
+जो एक कंसनट्रेटेड क्षेत्र में आपतित प्रकाश के परावर्तन की घटना को संदर्भित करता है।
+A
+Angle of incidence
+एंगल ऑफ इंसिडेंस
+B
+Surface brightness
+सरफेस ब्रााइटनेस
+C
+Diffuse reflection
+डिफ्युज रिफ्लेक्‍सन
+D
+Specular reflection
+स्पेक्युलर रिफ्लेक्शन
+Correct Ans : D
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 89
+2613542
+Which refers to the method that can be accessed anywhere in a program with the same name as that of the class?
+जो एक मेथड को संदर्भित करता है जिसे प्रोोग्रााम में कहीं भी उसी नाम से एक्सेस किया जा सकता है जैसे कि क्लाास?
+A
+Constructors
+कन्स्ट्रक्टर
+B
+Variables
+वेरिएबल्स
+C
+Inheritance
+इनहेरिटेंस
+D
+Arrays
+अरे
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 90
+2613543
+Which of the following used in CRT monitors and colour raster graphics employs a Cartesian Coordinate system?
+निम्नलिखित में से किसका उपयोग CRT मॉनिटर और कलर रैस्टर ग्रााफिक्स में कार्टेशियन कोऑर्डिनेट सिस्टम को नियोजित करता है?
+A
+RGB colour model
+RGB कलर मॉडल
+B
+CMY model
+GMY मॉडल
+C
+HSV model
+HSV मॉडल
+D
+HLS model
+HLS मॉडल
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 91
+2613551
+Which refers to the generic term used to denote any method for storing certificates?
+कौन-सा प्रमाणपत्रोंों के भंडारण के लिए किसी विधि को डिनोट करने के लिए उपयोग किए जाने वाले जेनेरिक शब्द को संदर्भित करता है?
+A
+End entity
+एंड एन्‍टाईटी
+B
+Certificate authority
+सर्टिफिकेट ऑथोरिटी
+C
+Repository
+रिपोजिटरी
+D
+Digital library
+डिजिटल लायब्रेरी
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 92
+2613552
+Which are memory resident programs that identify a virus by its activities rather than its structure in an infected program?
+मेमोरी रेजिडेंट प्रोोग्रााम कौन से हैं जो किसी इनफेक्‍टेड प्रोोग्रााम में वायरस की संरचना की बजाय उसकी गतिविधियों से पहचान करते हैं?
+A
+First generation scanners
+पहली पीढ़ीी के स्कैैनर
+B
+Third generation 
+तीसरी पीढ़ीी
+C
+Fourth generation
+चौथी पीढ़ीी
+D
+Second generation
+दूसरी पीढ़ीी
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 93
+2613553
+The Slammer worm was extremely compact and spread rapidly thereby infecting which of the following vulnerable hosts within 10 minutes?
+स्लैमर वर्म बेहद कॉम्पैक्ट था और तेजी से फैलता था जिससे 10 मिनट के भीतर निम्नलिखित में से कौन सा कमजोर मेजबान संक्रमित हो गया?
+A
+85%
+85%
+B
+55%
+55%
+C
+77%
+77%
+D
+90%
+90%
+Correct Ans : D
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 94
+2613554
+Which of the following are easier to fill since they have linear boundaries?
+निम्नलिखित में से किसे भरना आसान है क्योंोंकि
+ उनकी रैखिक सीमाएँ हैं?
+A
+Polygon
+बहुभुज
+B
+Hexagon
+हेक्साागोन
+C
+Square
+स्क्वाायर
+D
+Rectangle
+आयत
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 95
+2613555
+Which refers to the process by which objects of a class acquire the properties of objects of another class?
+कौन उस प्रक्रिया को संदर्भित करता है जिसके द्वाारा एक वर्ग की वस्तुएँ दूसरे वर्ग की वस्तुओं के गुणों को प्रााप्त करती हैं?
+A
+Polymorphism
+पॉलीमॉरफिस्म
+B
+Inheritance
+इनहेरिटेंस
+C
+Dynamic binding
+डायनामिक बाईडिंग
+D
+Abstraction
+एब्स्ट्रैक्ट
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 96
+2613556
+Name the tool used to create HTML format documentation from Java source code files.
+जावा सोर्स कोड फ़ााइलों से HTML प्राारूप दस्ताावेज़ीीकरण बनाने के लिए उपयोग किए जाने वाले टूल का नाम बताएं।
+A
+ jdb
+जेडीबी
+B
+javah
+जावा
+C
+javadoc
+जावाडोक
+D
+javap
+जावप
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 97
+2613563
+The success of an intelligent behaviour of a system can be measured with?
+एक प्रणाली के बुद्धिमान व्यवहार की सफलता को किस से मापा जा सकता है?
+A
+Turing test
+ट्यूरिंंग परीक्षण
+B
+Sensors
+सेंसर
+C
+Utility
+उपयोगिता
+D
+Effectors
+इफ़्फ़ेेक्टर
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 98
+2613564
+Which refers to the method of reasoning that resembles human reasoning?
+जो तर्क की पद्धति को संदर्भित करता है जो ह्यूमन रिजनिंग के समान है?
+A
+Fuzzy Logic
+फ़ज़ीी लॉजिक
+B
+Simulated Annealing
+सिमुलेटेड एनीलिंग
+C
+Local search algorithm
+लोकल सर्च एल्गोोरिदम
+D
+Heuristic Evaluation
+हेयरिस्टिक्स इवाल्‍यूऐशन
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 99
+2613565
+Which refers to arrangement of words to make a sentence and involves determining the structural role of words in the sentences and phrases?
+जो वाक्य बनाने के लिए शब्दोंों की व्यवस्था को संदर्भित करता है और वाक्योंों और वाक्यांांशों में शब्दोंों की संरचनात्मक भूमिका का निर्धारण करता है?
+A
+Semantics
+शब्दाार्थ
+B
+Discourse
+प्रवचन
+C
+Syntax
+सिंटेक्स
+D
+Pragmatics
+प्रैग्मैटिक
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 100
+2613566
+Which consists of auditing and reporting functions of management?
+प्रबंधन के ऑडिटिंग और रिपोर्टिंग कार्य किसके होते हैं?
+A
+Cost of Quality
+कोस्‍ट ऑफ क्‍वालिटी 
+B
+Quality assurance
+क्‍वालिटी एस्‍युरेंस
+C
+Quality control
+क्‍वालिटी कंट्रोोल
+D
+Quality planning
+क्‍वालिटी प्‍लानिंग
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------

@@ -1,0 +1,1083 @@
+Subject: Gen. Reasoning graduate
+Questions: 50
+========================================
+
+Q.No: 166
+2614395
+Rishabh walks a certain distance, say X m, from his Office towards the west. Then he turns left and walks 46 m. After that, he
+turns left and walks 72 m. Then he turns left again to walk 46 m. He finally turns left and walks 36 m to reach his Office. Find
+the value of X.
+ऋषभ अपने कार्यालय से पश्चिम की ओर एक निश्चित दूरी मान लीजिए X मीटर चलता है। फिर वह बाएं मुड़ता है और 46 मीटर चलता है। उसके बाद, वह बाएं मुड़ता है
+और 72 मीटर चलता है। फिर वह 46 मीटर चलने के लिए फिर से बाएं मुड़ता है। अंत में वह बाएं मुड़ता है और अपने कार्यालय तक पहुंचने के लिए 36 मीटर चलता
+है। X का मान ज्ञाात करें।
+A
+36 m
+36 मी.
+B
+40 m
+40 मी.
+C
+44 m
+44 मी.
+D
+82 m
+82 मी
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 167
+2614436
+In the following figure, enter the omitted number in place of question mark (?).
+निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त संख्याा ज्ञाात कीजिए।
+A
+5400
+5400
+B
+1800
+1800
+C
+5000
+5000
+D
+3600
+3600
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 168
+2614443
+In the following figure, enter the omitted number in place of question mark (?).
+निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त संख्याा ज्ञाात कीजिए।
+A
+960
+960
+B
+360
+360
+C
+480
+480
+D
+680
+680
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 169
+2614469
+Read the given pattern carefully and select the number which can replace the question mark (?) in it.
+दिए गए पैटर्न को ध्याान से पढ़िए और उस संख्याा का चयन कीजिए जो उसमें प्रश्न चिह्न को प्रतिस्थापित कर सकती है।
+A
+25
+25
+B
+30
+30
+C
+45
+45
+D
+65
+65
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 170
+2618513
+Which is the WRONG term in the following series?
+NKDW, ROHA, XUNE, BYRK, HEXQ
+निम्नलिखित श्रंखला में गलत पद कौन सा है?
+NKDW, ROHA, XUNE, BYRK, HEXQ
+A
+ROHA
+ROHA
+B
+XUNE
+XUNE
+C
+BYRK
+BYRK
+D
+HEXQ
+HEXQ
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 171
+2629186
+In the following question, select the related number from the given alternatives.
+12 : 62 :: 14 : ?
+निम्नलिखित प्रश्न में दिए गए विकल्पों में से सम्बन्धित संख्या को चुनिए।
+12 : 62 :: 14 : ?
+A
+75
+75 
+B
+70
+70 
+C
+72
+72 
+D
+80
+80 
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 158
+2613886
+यदि रणवीर को पता चलता है कि वह बाएं से 8वां लड़का है और दाएं से 13वां लड़का है, यदि पंक्ति में कुल 30 लड़के हो, तो कितने लड़कों को पंक्ति में जोड़ाा जाना चाहिए?
+A
+18
+18
+B
+15
+15
+C
+20
+20
+D
+10
+10
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 159
+2614136
+Find the missing letters in the following series.
+B,  H,  M,  Q,  T  ?
+निम्नलिखित श्रंखला में लुप्त अक्षर ज्ञाात कीजिये?
+B,  H,  M,  Q,  T  ?
+A
+U
+U
+B
+V
+V
+C
+W
+W
+D
+X
+X
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 160
+2614337
+The language code for PROSE is PPOQE. LIGHT is coded in what way?
+PROSE का भाषा कोड PPOQE है। LIGHT को किस प्रकार कोडित किया जाता है?
+A
+LGGFT
+LGGFT
+B
+LGGTF
+LGGTF
+C
+FLGGT
+FLGGT
+D
+LGTGT
+LGTGT
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 161
+2614344
+If the numeral below the provided letters corresponds to those letters,
+R T S U V A B C D E.
+8 5 2 0 6 7 9 1 3 4
+Then 408927 = ?
+यदि दिए गए अक्षरों के नीचे दिया गया अंक उन अक्षरों से मेल खाता है,
+R T S U V A B C D E
+8 5 2 0 6 7 9 1 3 4
+तब 408927 = ?
+A
+EURSBA
+EURSBA
+B
+EURBSA
+EURBSA
+C
+BURSAE
+BURSAE
+D
+ERUASB
+ERUASB
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 162
+2614352
+What word in that language would be equivalent to "weather" if "oka peru" meant "fine cloth," "meta lisa," meant "clear water," and
+"dona lisa peru," meant "fine clear weather" respectively?
+उस भाषा में कौन सा शब्द "weather" के बराबर होगा यदि " oka peru " का अर्थ "fine cloth," "meta lisa," का अर्थ "clear water" और "dona lisa
+peru" का अर्थ "fine clear water" क्रमशः है?
+A
+peru
+peru
+B
+dona
+dona
+C
+meta
+meta
+D
+oka
+oka
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 163
+2614370
+Answer the questions that follow the content after carefully reading it. In a coded form,
+The code for "revenue exceeds expectation" is "7EC 7E 11T."
+The code for "money and instruments" is "5NC 3N 11U."
+The code for “other transaction ahead” is “5H 11AG 5E.”
+What does "7ID 5E" stand for in a code?
+सामग्रीी को ध्याान से पढ़ने के बाद उसके बाद आने वाले प्रश्नोंों के उत्तर दें। कोडित रूप में,
+"revenue exceeds expectation" का कोड "7EC 7E 11T" है।
+"money and instruments" के लिए कोड "5NC 3N 11U" है।
+"other transaction ahead" के लिए कोड "5H 11AG 5E" है।
+एक कोड में "7ID 5E" का क्याा अर्थ है?
+A
+Clever Women
+Clever Women
+B
+Branded Dress
+Branded Dress
+C
+Pacific Ocean
+Pacific Ocean
+D
+Instant Magic
+Instant Magic
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 164
+2614390
+A
+West
+पश्चिम
+B
+East
+पूर्व
+C
+Northeast
+पूर्वोत्तर
+D
+Southwest
+दक्षिण पश्चिम
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 165
+2614437
+In the following figure, enter the omitted number in place of question mark (?).
+निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त  संख्याा ज्ञाात कीजिए।
+A
+3
+3
+B
+320
+320
+C
+5
+5
+D
+24
+24
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 166
+2614445
+In the following figure, enter the omitted letter in place of question mark (?).
+निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त अक्षर ज्ञाात कीजिए।
+A
+W
+W
+B
+X
+X
+C
+Z
+Z
+D
+T
+T
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 167
+2614470
+Read the given pattern carefully and select the number which can replace the question mark (?) in it.
+दिए गए पैटर्न को ध्याान से पढ़िए और उस संख्याा का चयन कीजिए जो उसमें प्रश्न चिह्न को प्रतिस्थापित कर सकती है।
+A
+6
+6
+B
+12
+12
+C
+20
+20
+D
+2
+2
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 168
+2618500
+Which is the WRONG term in the following series?
+ROPD, ZUXJ, HAFP, PFNV, XMVB
+निम्नलिखित श्रंखला में गलत पद कौन सा है?
+ROPD, ZUXJ, HAFP, PFNV, XMVB
+A
+ZUXJ
+ZUXJ
+B
+HAFP
+HAFP
+C
+PFNV
+PFNV
+D
+XMVB
+XMVB
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 169
+2628940
+From the given responses, find the missing letter in the series.
+AEI, EIO, IOU, ?
+दिए गए विकल्पों में से श्रेणी में लुप्त अक्षर को ज्ञाात करे:
+AEI, EIO, IOU, ?
+A
+AIL
+AIL
+B
+OUA 
+OUA
+C
+IOA 
+IOA
+D
+AIE 
+AIE
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 170
+2629187
+Find the missing number in the given analogy:
+20 : 25 :: 8 : ? 
+दिए गए समानता में लुप्त संख्याा ज्ञाात करे:
+20 : 25 :: 8 : ?
+A
+9
+9 
+B
+10
+10 
+C
+7
+7 
+D
+6
+6 
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 171
+2630189
+A person started from his house, walked 9 km towards south, turned left and walked for 5 km. He then turned left and walked for 10
+km before taking left and walked for 2 km. The person finally turned right and travelled 3 km to reach his office. How far and in which
+direction is the person from his house?
+एक व्यक्ति अपने घर से चलकर 9 किमी दक्षिण की ओर चला, फिर बाएँ मुड़ाा और 5 किमी चला। फिर वह बाएं मुड़ाा और बाएं मुड़ने से पहले 10 किमी चला और 2 किमी
+चला। वह व्यक्ति अंत में दाएँ मुड़ाा और 3 किमी चलकर अपने कार्यालय पहुँचा। वह व्यक्ति अपने घर से कितनी दूर और किस दिशा में है?
+A
+8 km, north-east
+8 किमी, उत्तर-पूर्व
+B
+5 km, north-east
+5 किमी, उत्तर-पूर्व
+C
+10 km, north-west  
+10 किमी, उत्तर-पश्चिम
+D
+6 km, north-east
+6 किमी, उत्तर-पूर्व
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 158
+2613887
+लड़कों की एक पंक्ति में, A बाएं से 17वें स्थान पर है, और B दाएं से 25वें स्थान पर है। यदि दोनों आपस में स्थान बदल लेते हैं तो B दायें से 37वें स्थान पर हो जाता है। तब बाईं ओर से A की स्थिति क्याा होगी?
+A
+27
+27
+B
+28
+28
+C
+29
+29
+D
+30
+30
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 159
+2613894
+लड़कियों की एक पंक्ति में, निशा बायें से 13वें स्थान पर है और गीता दायें से 17वें स्थान पर है। यदि इस पंक्ति में निशा दायें से 11वें स्थान पर है तो गीता का बायें से कौन सा स्थान है?
+A
+B
+C
+D
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 160
+2614114
+Directions: Study the following information and answer the questions given below:
+Around the hexagonal table, the six colleagues A, B, C, D, E, and F are seated, facing the hexagon's center from their respective corners. Second, from F's left is A. C and 
+D is E.
+Who is E's closest neighbour?
+निर्देश: निम्नलिखित जानकारी का अध्ययन करें और नीचे दिए गए प्रश्नोंों के उत्तर दें:
+हेक्साागोनल टेबल के चारों ओर, छह सहकर्मी A, B, C, D, E, और F बैठे हैं, जो अपने संबंधित कोनों से हेक्साागोन के केंद्र की ओर उन्मुख हैं। F के बाएं से दूसरा A है। C और D का पड़ोोसी B है। D के बाएं से दूसरा E है।
+E का निकटतम पड़ोोसी कौन है?
+A
+C
+C
+B
+B
+B
+C
+D
+D
+D
+A
+A
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 161
+2614137
+What should come in place of question mark (?) in the following series?
+CZ,   IT,   ON,   ? ,   AB
+निम्नलिखित श्रृंृंखला में प्रश्नवाचक चिन्ह (?) के स्थान पर क्याा आना चाहिए?
+CZ,   IT,   ON,   ? ,   AB
+A
+XP
+XP
+B
+UH
+UH
+C
+DJ
+DJ
+D
+JR
+JR
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 162
+2614147
+Find the missing letters in the following series.
+FT,  KQ,  PN,  UK,  ?
+निम्नलिखित श्रंखला में लुप्त अक्षर ज्ञाात कीजिये?
+FT,  KQ,  PN,  UK,  ?
+A
+US
+US
+B
+HJ
+HJ
+C
+KQ
+KQ
+D
+ZH
+ZH
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 163
+2614338
+In one particular code, PAUSE is denoted by OBVTD, while SHIFT is denoted by RIJGS. THINK will be written in the same code in what way?
+एक विशेष कोड में, PAUSE को OBVTD द्वाारा निरूपित किया जाता है, जबकि SHIFT को RIJGS द्वाारा निरूपित किया जाता है। THINK को उसी कूट भाषा में किस प्रकार लिखा जाएगा?
+A
+SIJMJ
+SIJMJ
+B
+SIJOJ
+SIJOJ
+C
+SIJJM
+SIJJM
+D
+JMOJJ
+JMOJJ
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 164
+2614345
+In a particular code language, "mink yang pe" denotes fruits are ripe, "pe lao may mink" denotes oranges are not ripe, and "may pe nue mink" denotes mangoes are not r
+that language?
+एक विशेष कोड भाषा में, "mink yang pe" दर्शाता है fruits are ripe को, "pe lao may mink" दर्शाता है oranges are not ripe को, और "may pe nue mink" दर्शाता है mangoes are not ripe को । 
+A
+milk
+milk
+B
+mangoes
+mangoes
+C
+nue
+nue
+D
+pe
+pe
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 165
+2614353
+Using a particular code,
+"134" stands for “good and tasty;"
+"478" stands for "see good world," and
+“729” stands for “world are faint”.
+Which of the following numbers denotes "see"?
+एक विशेष कोड का उपयोग करना,
+"134" संकेत देना " good and tasty;"
+"478" संकेत देना " see good world " और
+"729" संकेत देना " world are faint "।
+निम्नलिखित में से कौन-सी संख्याा "see" को दर्शाती है?
+A
+4
+4
+B
+7
+7
+C
+8
+8
+D
+1
+1
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 166
+2614371
+If a word contains more than two vowels, the code will be written backward.
+Situation 2:
+The first three letters of the code will be written in reverse if the word has no vowels.
+Situation 3:
+The last two letters of the code will be modified if any two letters in the word are the same.
+Note: All conditions will be applied if more than one is required.
+What would the word "HNRBH" mean in code?
+नीचे दिया गया प्रत्येक प्रश्न संख्यााओं या अक्षरों के संग्रह से शुरू होता है, उसके बाद अक्षर और संख्याा A, B, C, और D के साथ चार अलग-अलग प्रतीक संयोजन होते हैं।
+ प्रतीक कोड और नीचे सूचीबद्ध आवश्यकताओं के आधार पर, आपको यह निर्धारित करना होगा कि कौन सा निम्नलिखित चार संयोजन अंकों या अक्षरों के समूह को सटीक रूप से दर्शाते हैं।
+स्थिति 1:
+यदि किसी शब्द में दो से अधिक स्वर हैं, तो कोड को पीछे की ओर लिखा जाएगा।
+स्थिति 2:
+यदि शब्द में कोई स्वर नहीं है तो कोड के पहले तीन अक्षर उल्टे लिखे जाएंगे।
+स्थिति 3:
+यदि शब्द में कोई दो अक्षर समान हैं तो कोड के अंतिम दो अक्षर संशोधित किए जाएंगे।
+नोट: एक से अधिक की आवश्यकता होने पर सभी शर्तें लागू होंगी।
+कोड में "HNRBH" शब्द का क्याा अर्थ होगा?
+A
+B
+C
+D
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 167
+2614438
+In the following figure, enter the omitted number in place of question mark (?).
+निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त  संख्याा ज्ञाात कीजिए।
+A
+4
+4
+B
+-6
+-6
+C
+2
+2
+D
+12
+12
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 168
+2614446
+In the following figure, enter the omitted number in place of question mark (?).
+निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त संख्याा ज्ञाात कीजिए।
+A
+201
+201
+B
+731
+731
+C
+406
+406
+D
+2031
+2031
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 169
+2614459
+In the following figure, enter the omitted number in place of question mark (?).
+निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त संख्याा ज्ञाात कीजिए।
+A
+29
+29
+B
+37
+37
+C
+41
+41
+D
+47
+47
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 170
+2614471
+Read the given pattern carefully and select the number which can replace the question mark (?) in it.
+दिए गए पैटर्न को ध्याान से पढ़िए और उस संख्याा का चयन कीजिए जो उसमें प्रश्न चिह्न को प्रतिस्थापित कर सकती है।
+A
+25
+25
+B
+65
+65
+C
+4
+4
+D
+75
+75
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 171
+2628939
+From the given responses, find the missing letter in the series.
+ZYX, SRQ, LKJ, ?
+दिए गए विकल्पों में से श्रेणी में लुप्त अक्षर को ज्ञाात करे:
+ZYX, SRQ, LKJ, ?
+A
+EDC
+EDC
+B
+MED 
+MED
+C
+JGF 
+JGF
+D
+STR 
+STR
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 158
+2613888
+In a row of boys, A is 9th from the left end whereas B is 8th from the right end. If C is sitting exactly between A
+and B and C is 15th from the right end. Find the total number of boys in that row?
+लड़कों की एक पंक्ति में, A बाएं छोर से 9वें स्थान पर है जबकि B दाएं छोर से 8वें स्थान पर है। यदि C, A और B के ठीक बीच में बैठा है और C दायें
+छोर से 15वें स्थान पर है। उस पंक्ति में लोगों की कुल संख्याा ज्ञाात कीजिये?
+A
+26
+26
+B
+27
+27
+C
+28
+28
+D
+30
+30
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 159
+2614041
+Some fruits are placed on the table in such a way that the apple is to the left of the banana. And guava is to the
+right of the orange. Mangoes are on the right of bananas. And guava is on the left of the apple. So, which fruit is
+placed in the middle?
+कुछ फलों को मेज पर इस प्रकार रखा जाता है कि सेब, केले के बायीं ओर हो। और अमरूद, संतरे के दाहिनी ओर है। केले के दाहिनी ओर आम हैं।
+और अमरूद, सेब के बायीं ओर है। तो बीच में कौन सा फल रखा है?
+A
+Mango
+आम
+B
+Apple
+सेब
+C
+Orange
+संतरा
+D
+Banana
+केला
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 160
+2614110
+Directions: Study the following information and answer the questions given below:
+Six buddies are seated at a round table with equal space between them. S is direct to Q's left. O is to T's second
+right. Q and T are next-door Neighbours. In front of S is P. One of the friends sitting there is R.
+What is P's place in relation to R?
+निर्देश: निम्नलिखित जानकारी का अध्ययन करें और नीचे दिए गए प्रश्नोंों के उत्तर दें:
+छह मित्र एक गोल मेज पर उनके बीच समान स्थान पर बैठे हैं। S, Q के सीधे बायें है। O, T के दायें से दूसरे स्थान पर है। Q और T पड़ोोसी हैं।
+ S के सामने P है। वहाँ बैठे मित्रोंों में से एक R है।
+R के संबंध में P का क्याा स्थान है?
+A
+Second to the left of R
+R के बायें से दूसरा
+B
+Second to the right of R
+R के दायें से दूसरा
+C
+Immediate left of R
+R के ठीक बाएं
+D
+Immediate right of R
+R के ठीक दायें
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 161
+2614138
+What should come in place of question mark (?) in the following series?
+BYE, EWG, HUI,   ?, NQM
+निम्नलिखित श्रृंृंखला में प्रश्नवाचक चिन्ह (?) के स्थान पर क्याा आना चाहिए?
+BYE, EWG, HUI,   ?, NQM
+A
+LSK
+LSK
+B
+KSK
+KSK
+C
+KLS
+KLS
+D
+NKS
+NKS
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 162
+2614145
+Find the missing letters in the following series.
+S,  X,  C,  H, M,  ?
+निम्नलिखित श्रंखला में लुप्त अक्षर ज्ञाात कीजिये?
+S,  X,  C,  H, M,  ?
+A
+Q
+Q
+B
+P
+P
+C
+R
+R
+D
+T
+T
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 163
+2614339
+ROAD is represented as URDG in a specific code. What is the syntax for SWAN in the code?
+ROAD को एक विशिष्ट कोड में URDG के रूप में दर्शाया जाता है। कोड में SWAN के लिए सिंटैक्स क्याा है?
+A
+ZZVQ
+ZZVQ
+B
+QDZV
+QDZV
+C
+VZDQ
+VZDQ
+D
+VQZD
+VQZD
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 164
+2614346
+In one particular code language, the words "sun shines brightly," "houses are brightly lit," and "light comes from
+the sun" are written as "ba lo sul," "kado ula ari ba," and "dopi kup lo nro," respectively. What are the respective
+codewords for "sun" and "brightly"?
+एक विशेष कोड भाषा में, sun shines brightly," "houses are brightly lit," और "light comes from the sun" शब्दोंों को "ba lo
+sul," "kado ula ari ba," और "dopi kup lo nro," के रूप में लिखा जाता है, क्रमशः।
+ "sun" और "brightly" के लिए संबंधित कोडवर्ड क्याा हैं?
+A
+ba, lo
+ba, lo
+B
+ba, sul
+ba, sul
+C
+sul, lo
+sul, lo
+D
+lo, ba
+lo, ba
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 165
+2614354
+Carefully review the following data and respond to the questions that follow:
+Using a specific code,
+"good time to buy" is represented by the letters "sy bo nj kw."
+"spend money and time" is spelled as "sy ta ge mr."
+The character for "buy good stuff only" is "kw bo rd fp."
+Writing "only work and money" as "ta fp mr ux."
+In the above code language, what does "spend stuff to work" mean?
+निम्नलिखित डेटा की सावधानीपूर्वक समीक्षाा करें और प्रश्नोंों का उत्तर दें जो अनुसरण करते हैं:
+एक विशिष्ट कोड का उपयोग करना,
+"good time to buy" "sy bo nj kw" अक्षरों द्वाारा दर्शाया गया है।
+"spend money and time" की वर्तनी " sy ta ge mr " है।
+"buy good stuff only" के लिए वर्ण "kw bo rd fp" है।
+"only work and money " को "ta fp mr ux" के रूप में लिख रहे हैं।
+उपरोक्त कूट भाषा में, "spend stuff to work" का क्याा अर्थ है?
+A
+ux ge nj rd
+ux ge nj rd
+B
+sy bo mr fp
+sy bo mr fp
+C
+mr sy bo ta
+mr sy bo ta
+D
+ta nj kw rd 
+ta nj kw rd
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 166
+2614372
+Answer the questions that follow after carefully reading the information provided.
+दी गई जानकारी को ध्याान से पढ़ने के बाद दिए गए प्रश्नोंों के उत्तर दें।
+A
+B
+C
+D
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 167
+2614439
+In the following figure, enter the omitted number in place of question mark (?).
+निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त  संख्याा ज्ञाात कीजिए।
+A
+70
+70
+B
+80
+80
+C
+90
+90
+D
+100
+100
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 168
+2614447
+In the following figure, enter the omitted number in place of question mark (?).
+निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त संख्याा ज्ञाात कीजिए।
+A
+66
+66
+B
+68
+68
+C
+34
+34
+D
+72
+72
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 169
+2614472
+Read the given pattern carefully and select the number which can replace the question mark (?) in it.
+दिए गए पैटर्न को ध्याान से पढ़िए और उस संख्याा का चयन कीजिए जो उसमें प्रश्न चिह्न को प्रतिस्थापित कर सकती है।
+A
+37
+37
+B
+58
+58
+C
+69
+69
+D
+89
+89
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 170
+2618455
+Which is the WRONG term in the following series?
+PKRF, JFNC, DAJZ, XUEW, RQBT
+निम्नलिखित श्रंखला में गलत पद कौन सा है?
+PKRF, JFNC, DAJZ, XUEW, RQBT
+A
+JFNC
+JFNC
+B
+DAJZ
+DAJZ
+C
+XUEW
+XUEW
+D
+RQBT
+RQBT
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 171
+2629192
+A
+162
+162 
+B
+165
+165 
+C
+172
+172 
+D
+185
+185 
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 158
+2614032
+Directions: Read the following information carefully and answer the given question.
+A B, C, and D are such that A and B are good at dancing and music. C and B are good at music and painting. A and D are good at elocution and dancing. D and C are good
+at painting and elocution.
+Who is expert in dance, music and painting?
+निर्देश: निम्नलिखित जानकारी को ध्याानपूर्वक पढ़ें और दिए गए प्रश्न का उत्तर दीजिए।
+A, B, C, and D इस प्रकार है जैसे कि A और B नृत्यकला और संगीत में निपुण है। C और B संगीत और चित्रकला में निपुण है। A और D व्यााख्याान और नृत्यकला में निपुण है। D और C चित्रकारी और व्यााख्याान में निपुण है
+नृत्य, संगीत और चित्रकला में कौन निपुण है?
+A
+B
+B
+B
+A
+A
+C
+D
+D
+D
+C
+C
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 159
+2614089
+Sapna, Vishal, Naman, Chetan, Rani, and Vishu are six students sitting at a hexagon table in the library. Vishal is sitting in the seat between Vishu and Naman. Sapna is
+seated in the middle of Rani and Chetan. Vishu is seated on Chetan's immediate right. Who is the opposite of Rani?
+सपना, विशाल, नमन, चेतन, रानी और विशु छह छात्र हैं जो पुस्तकालय में एक षट्भुज मेज पर बैठे हैं। विशाल, विशु और नमन के बीच वाली सीट पर बैठा है। सपना, रानी और चेतन के बीच में बैठी है।
+ विशु, चेतन के ठीक दायें बैठा है। रानी के विपरीत कौन है?
+A
+Naman
+नमन
+B
+Vishu
+विशु
+C
+Sapna
+सपना
+D
+Vishal
+विशाल
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------

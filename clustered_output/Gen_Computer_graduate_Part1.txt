@@ -1,0 +1,1001 @@
+Subject: Gen. Computer graduate
+Questions: 50
+========================================
+
+Q.No: 144
+2635618
+A global network of computers all across the world is known as?
+दुनिया भर में कंप्यूटर के एक वैश्विक नेटवर्क को इस रूप में जाना जाता है?
+A
+Intranet
+इंट्राानेट
+B
+Internet
+इंटरनेट
+C
+Web Server 
+वेब सर्वर
+D
+Web Browser 
+वेब ब्रााउज़र
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 145
+2635627
+Each computer on a network is recognized by a unique_______.
+एक नेटवर्क पर प्रत्येक कंप्यूटर को एक अद्वितीय ____ द्वाारा पहचाना जाता है।
+A
+IP address
+आईपी एड्रेेस
+B
+HTTP 
+एचटीटीपी
+C
+HTTPS 
+एचटीटीपीएस
+D
+WWW
+डब्ल्यूडब्ल्यूडब्ल्यू
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 146
+2635636
+Which of the following played an important role in developing common protocols for the evolution of www?
+निम्नलिखित में से किसने www के विकास के लिए सामान्य प्रोोटोकॉल विकसित करने में महत्वपूर्ण भूमिका निभाई थी?
+A
+Web browser
+वेब ब्रााउजर
+B
+WWW Consortium
+डब्ल्यूडब्ल्यूडब्ल्यू कंसोर्टियम
+C
+Internet Architecture Board
+इंटरनेट आर्किटेक्चर बोर्ड
+D
+Web server
+वेब सर्वर
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 147
+2635684
+What kind of topology is most suitable for large enterprises that need to closely monitor and coordinate the operation of spread
+branch outlets?
+बड़े उद्यमों के लिए किस प्रकार की टोपोलॉजी सबसे उपयुक्त है, जिसे स्प्रेड ब्रांांच आउटलेट्स के संचालन की बारीकी से निगरानी और कोआर्डिनेट करने के लिए आवश्यकता है?
+A
+Ring Topology
+रिंंग टोपोलॉजी
+B
+Mesh Topology
+मैश टोपोलॉजी
+C
+Bus Topology
+बस टोपोलॉजी
+D
+Star Topology
+स्टाार टोपोलॉजी
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 148
+2635693
+Which of the following would compromise the integrity of the system?
+निम्नलिखित में से कौन-सा सिस्टम की इंटीग्रिटी से समझौता करेगा? 
+A
+Searching the room to prevent theft
+चोरी रोकने के लिए कमरे की तलाशी लेना
+B
+Full access right to all users
+सभी उपयोगकर्ताओं के लिए पूर्ण पहुँच अधिकार देना
+C
+Fitting the system with an anti-theft device
+सिस्टम में एंटी-थेफ्ट डिवाइस लगाना
+D
+Protecting the device against willful or accidental damage
+विलफुल या आकस्मिक क्षति से डिवाइस की सुरक्षाा करना
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 149
+2635702
+Which 2.4 GHz WLAN specification among the following enables for up to 54 Mbps? 
+निम्नलिखित में से कौन-सा विनिर्देश 2.4 GHz WLAN को 54 एमबीपीएस तक सक्षम बनाता है?
+A
+a
+a
+B
+f
+f
+C
+g
+g
+D
+b
+b
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 150
+2635723
+Which of the following protocols does Ping use?
+पिंग निम्नलिखित में से किस प्रोोटोकॉल का उपयोग करता है?
+A
+ICMP
+ICMP
+B
+SNMP
+SNMP
+C
+SDP
+SDP
+D
+TCP
+TCP
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 151
+2635753
+With respect to computer networks, which of the following is the full form of MAN?
+कंप्यूटर नेटवर्क के संबंध में, निम्नलिखित में से MAN का पूर्ण रूप क्याा है?
+A
+Metro Area Network
+मेट्रोो एरिया नेटवर्क
+B
+Metropolitan Area Network
+मेट्रोोपॉलिटन एरिया नेटवर्क
+C
+Metropolitan Advance Network
+मेट्रोोपॉलिटन एडवांस नेटवर्क
+D
+Metropolitan Arial Network
+मेट्रोोपॉलिटन एरियल नेटवर्क
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 152
+2635762
+With respect to computers, what is the full form of FDDI?
+कंप्यूटर के संबंध में, FDDI का पूर्णरूप क्याा है?
+A
+Fiber Distributed Data Interface
+फाइबर डिस्‍ट्रीीब्‍युटेड डेटा इंटरफेस 
+B
+Fabricated Distributed Data Interface
+फैब्रिकेटेड डिस्ट्रीीब्यूटेड डेटा इंटरफेस
+C
+Full Distributed Data Interface
+फुल डिस्ट्रीीब्यूटेड डेटा इंटरफेस
+D
+Fibonacci Distributed Data Interface
+फाइबोनैचि डिस्ट्रीीब्यूटेड डेटा इंटरफ़ेेस 
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 153
+2635771
+AOL is a web portal, what is its full form?
+AOL एक वेब पोर्टल है, इसका फुलफॉर्म क्याा है?
+A
+Azeri Online
+एजेरी ऑनलाइन
+B
+America Online
+अमेरिका ऑनलाइन
+C
+Amor Online
+अमोर ऑनलाइन
+D
+Amber Online
+एम्बर ऑनलाइन
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 154
+2635792
+CD-ROM is related to a computer, which of the following is its full form?
+CD-ROM कंप्यूटर से संबंधित है, निम्न में से इसका पूर्णरूप क्याा है?
+A
+Compact Disk Read-Only Memory
+कॉम्पैक्ट डिस्क रीड ओनली मेमोरी
+B
+Common Disk Read Only Memory
+कॉमन डिस्क रीड ओनली मेमोरी
+C
+Common Disk Random Only Memory
+कॉमन डिस्क रैंडम ओनली मेमोरी
+D
+Compact Disk Random Only Memory
+कॉम्पैक्ट डिस्क रैंडम ओनली मेमोरी
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 155
+2636045
+Microsoft Word, Microsoft Excel, and Microsoft PowerPoint are the parts of?
+माइक्रोोसॉफ्ट वर्ड, माइक्रोोसॉफ्ट एक्सेल और माइक्रोोसॉफ्ट पावरपॉइंट किसका हिस्साा हैं?
+A
+Mac OS X 
+मैक ओएस एक्स
+B
+Microsoft Windows 
+माइक्रोोसॉफ्ट विंडोज
+C
+Microsoft Office Suite 
+माइक्रोोसॉफ्ट ऑफिस सूट
+D
+Microsoft Access 
+माइक्रोोसॉफ्ट एक्सेस
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 156
+2636054
+Which of the following is not Present in MS word?
+निम्नलिखित में से कौन-सा एमएस वर्ड में मौजूद नहीं है?
+A
+Font 
+फ़ॉॉन्ट
+B
+Magic Tool 
+मैजिक टूल
+C
+Underline 
+अंडरलाइन
+D
+Styles 
+स्टााइल्स
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 157
+2636063
+Which of the following doesn't come under text Basics?
+निम्नलिखित में से कौन-सा टेक्स्ट बेसिक्स के अंतर्गत नहीं आता है?
+A
+Apply a Style 
+अप्लााई अ स्टााइल
+B
+Delete Text 
+डिलीट टेक्स्ट
+C
+Insert Text 
+इंसर्ट टेक्स्ट
+D
+Save the document 
+सेव डॉक्यूमेंट
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 144
+2635619
+What is the detailed form of the internet?
+इंटरनेट का विस्तृत रूप क्याा है?
+A
+Intermediate Network
+इंटरमीडिएट नेटवर्क
+B
+Ideal Network
+आइडियल नेटवर्क
+C
+Interconnected Network
+इंटरकनेक्टेड नेटवर्क
+D
+Internal Network
+इंटरनल नेटवर्क 
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 145
+2635628
+With respect to internet, what is the full form of HTML?
+इंटरनेट के संबंध में, HTML का पूरा नाम क्याा है?
+A
+High Text Markup Language
+हाई टेक्स्ट मार्कअप लैंग्वेज
+B
+Hyper Tabular Markup Language 
+हाइपर टैबुलर मार्कअप लैंग्वेज
+C
+Hyper Text Markup Language 
+हाइपर टेक्स्ट मार्कअप लैंग्वेज
+D
+High Tension Markup Language 
+हाई टेंशन मार्कअप लैंग्वेज
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 146
+2635637
+Which device is required to establish an internet connection on a computer?
+कंप्यूटर पर इंटरनेट कनेक्शन स्थापित करने के लिए किस उपकरण की आवश्यकता होती है?
+A
+Modem
+मॉडेम 
+B
+Uniform Resource Locator 
+यूनिफॉर्म रिसोर्स लोकेटर
+C
+ISP 
+आईएसपी
+D
+Cookies 
+कुकीज
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 147
+2635685
+A program that translate a high-level language program into a machine language program:
+एक प्रोोग्रााम जो उच्च स्तर भाषा (High-Level Language) का मशीन भाषा में अनुवाद करता है:
+A
+Compiler
+कम्पााइलर
+B
+Interpreter
+इन्टरप्रेटर
+C
+Linker
+लिंकर
+D
+Assembler
+असेम्बलर
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 148
+2635694
+Which software blocks a system's access from the outside?
+कौन-सा सॉफ्टवेयर सिस्टम को बाहर से एक्सेस करने से रोकता है?
+A
+Firewall
+फ़ाायरवॉल
+B
+Gateway
+गेटवे
+C
+Router
+राऊटर
+D
+Virus Checker
+वायरस चेकर 
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 149
+2635703
+Which command should we use for the IOS backup?
+IOS बैकअप के लिए हमें किस कमांड का उपयोग करना चाहिए?
+A
+IOS Disk Backup
+IOS Disk Backup
+B
+IOS TFTP Copy
+IOS TFTP Copy
+C
+Copy Flash TFTP
+Copy Flash TFTP
+D
+TFTP Backup
+TFTP Backup
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 150
+2635724
+How many different types of controlled access techniques exist?
+कितने विभिन्न प्रकार की कंट्रोोल एक्‍सेस तकनीकें मौजूद हैं? 
+A
+3
+3
+B
+4
+4
+C
+5
+5
+D
+6
+6
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 151
+2635754
+VDU is an output device. What is the full form of VDU?
+वीडीयू एक आउटपुट डिवाइस है। वीडीयू का फुलफॉर्म क्याा होता है?
+A
+Virtual Display Unit
+वर्चुअल डिस्प्ले यूनिट
+B
+Visual Display Unit
+विजुअल डिस्प्ले यूनिट
+C
+Visual detection unit
+विजुअल डिटेक्शन यूनिट
+D
+virtual detection unit
+वर्चुअल डिटेक्शन यूनिट
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 152
+2635763
+UNIVAC was the USA’s first electronic digital computer. What does UNIVAC stands for?
+UNIVAC, USA का पहला इलेक्ट्रॉॉनिक डिजिटल कंप्यूटर था। UNIVAC का क्याा अर्थ है?
+A
+Universal Automatic Computer
+यूनिवर्सल ऑटोमेटिक कंप्यूटर
+B
+Universal Array Computer
+यूनिवर्सल ऐरे कंप्यूटर
+C
+Unique Automatic Computer
+यूनिक ऑटोमेटिक कंप्यूटर
+D
+Unvalued Automatic Computer
+अनवैल्‍यूड ऑटोमेटिक कंप्यूटर
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 153
+2635772
+API is the set of protocols, which of the following is its full form?
+API प्रोोटोकॉल का सेट है, निम्न में से इसका फुलफॉर्म क्याा है?
+A
+Application Program Interaction
+एप्लिकेशन प्रोोग्रााम इंटरेक्शन
+B
+Applied Program Interface
+एप्लााइड प्रोोग्रााम इंटरफ़ेेस
+C
+Application Program Interface
+एप्लीीकेशन प्रोोग्रााम इंटरफेस
+D
+Applicant Program Interface
+एप्‍लीकेंट प्रोोग्रााम इंटरफेस
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 154
+2635793
+CISC is a type of computer architecture, which of the following is its full form?
+CISC एक प्रकार का कंप्यूटर आर्किटेक्चर है, निम्न में से इसका फुल फॉर्म क्याा है?
+A
+Computer Instruction Set Controller
+कंप्यूटर इंस्ट्रक्शन सेट कंट्रोोलर
+B
+Complex Instruction Set computer
+काम्‍पलेक्‍स इंस्ट्रक्शन सेट कंप्यूटर
+C
+Computer Insured Set Compilation
+कंप्यूटर इंश्योोर्ड सेट कंपाइलेशन
+D
+Computer Institutional Series Complex
+कंप्यूटर इंस्टीीट्यूशनल सीरीज कॉम्प्लेक्स
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 155
+2636046
+To Edit a document means to make _________ to its existing content.
+किसी दस्ताावेज़ को एडिट करने का अर्थ है उसकी मौजूदा सामग्रीी में __________ करना।
+A
+Changes 
+चैंज्स
+B
+Cutting 
+कटिंग 
+C
+Formatting 
+फॉर्मेटिंंग 
+D
+Save
+सेव
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 156
+2636055
+Which of the following is present at the right of the Quick Access Toolbar?
+निम्नलिखित में से कौन-सा क्विक एक्सेस टूलबार के दायीं ओर मौजूद है?
+A
+Status Bar 
+स्टेटस बार
+B
+Slide Bar 
+स्लााइड बार
+C
+Design 
+डिज़ााइन
+D
+Title Bar 
+टाइटल बार
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 157
+2636064
+What is the keyboard shortcut to Select All?
+सभी को सिलेक्‍ट करने के लिए की-बोर्ड शॉर्टकट क्याा है?
+A
+CTRL + B 
+कंट्रोोल+ बी 
+B
+CTRL + A 
+कंट्रोोल+ ए 
+C
+CTRL + V
+कंट्रोोल+ वी
+D
+CTRL + L
+कंट्रोोल+एल
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 144
+2635620
+Which of the following shares hardware, software and data among authorized users?
+निम्नलिखित में से कौन-सा अधिकृत उपयोगकर्ताओं के बीच हार्डवेयर, सॉफ्टवेयर और डेटा साझा करता है?
+A
+IP 
+आईपी
+B
+CPU
+सीपीयू
+C
+Network
+नेटवर्क
+D
+DNS
+डीएनएस
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 145
+2635629
+A set of rules followed by each computer present on a network is known as?
+नेटवर्क पर मौजूद प्रत्येक कंप्यूटर द्वाारा पालन किए जाने वाले नियमों के सेट को क्याा कहा जाता है?
+A
+URL
+यूआरएल
+B
+Application Domain
+अप्लीीकेशन डोमेन
+C
+Network Protocol
+नेटवर्क प्रोोटोकॉल
+D
+Computer Program
+कंप्यूटर प्रोोग्रााम
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 146
+2635638
+A device that is used to convert digital signals (or data) into analogue signals and vice versa is called as?
+एक उपकरण जिसका उपयोग डिजिटल सिग्नल (या डेटा) को एनालॉग सिग्नल में बदलने और एनालॉग सिग्नल को डिजिटल सिग्नल में बदलने के लिए किया जाता है, क्याा कहलाता है?
+A
+Speaker
+स्पीीकर
+B
+Router
+राउटर
+C
+Modem
+मॉडेम
+D
+Pen Tab 
+पेन टैब
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 147
+2635686
+The shortcut key Ctrl + I in MS-word is used to?
+MS-वर्ड में शॉर्टकट कुंजी Ctrl+I का प्रयोग किसके लिए किया जाता है?
+A
+Increase font size
+फॉन्ट का आकार बढ़ाने के लिए 
+B
+Inserts a line break
+लाइन ब्रेक इंसर्ट करने के लिए 
+C
+Applies italic format to select text
+चयनित टेक्स्ट को इटैलिक प्राारूप देने के लिए 
+D
+Text to bold
+टेक्स्ट को बोल्ड करने के लिए 
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 148
+2635695
+Which of the following corresponds to an valid email address?
+निम्न में से कौन-सा एक वास्तविक ईमेल पते से मेल खाता है?
+A
+B
+gmail.com
+gmail.com
+C
+D
+None of the given options
+दिए गए विकल्पोंों में से कोई नहीं
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 149
+2635704
+IP address 192.168.168.188 - 255.255.255.192 has a location on which of the following valid IP host ranges?
+IP एड्रेेस 192.168.168.188 - 255.255.255.192 का निम्न में से किस वैध IP होस्ट रेंज पर लोकेशन है?
+A
+192.168.168.129-190
+192.168.168.129-190
+B
+192.168.168.129-152
+192.168.168.129-152
+C
+192.168.168.129-192
+192.168.168.129-192
+D
+192.168.152.129-151
+192.168.152.129-151
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 150
+2635725
+In the data link layer, which of the following part does not belong to a frame?
+डेटा लिंक लेयर में, निम्न में से कौन-सा भाग फ्रेेम से संबंधित नहीं है? 
+A
+Flag
+फ्लैग
+B
+Payload Field 
+पेलोड फील्ड
+C
+Trailer
+ट्रेलर
+D
+Footer 
+फुटर
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 151
+2635755
+With respect to computer, SVGA is an acronym for?
+कंप्यूटर के संबंध में, SVGA किसका संक्षिप्त नाम है?
+A
+Standard Visual Graphics Array
+स्टैंडर्ड विजुअल ग्रााफिक्स ऐरे
+B
+Super Visual Graphics Array
+सुपर विजुअल ग्रााफिक्स ऐरे
+C
+Standard Video Graphics Array
+स्टैंडर्ड वीडियो ग्रााफिक्स ऐरे
+D
+Super Video Graphics Array
+सुपर वीडियो ग्रााफिक्स ऐरे
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 152
+2635764
+What is the full form of BCD which is related to computer binary system?
+BCD का पूर्ण रूप क्याा है जो कंप्यूटर बाइनरी सिस्टम से संबंधित है?
+A
+Binary Coded Decimal
+बाइनरी कोडेड डेसिमल
+B
+Bit- Coded Decimal
+बिट-कोडेड डेसिमल
+C
+Binary Coding Digit
+बाइनरी कोडिंग डिजिट
+D
+Bit-Coded Digit
+बिट-कोडेड डिजिट
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 153
+2635773
+With respect to computers, which of the following is a full form of APT?
+कंप्यूटर के संबंध में, निम्नलिखित में से कौन-सा APT का पूर्णरूप है?
+A
+Automated programmed tooling
+ऑटोमेटेड-प्रोोग्रााम्ड टूलिंग
+B
+Atom-programmed tooling
+एटम-प्रोोग्रााम्ड टूलिंग
+C
+Automatically programmed tooling
+ऑटोमेटिकली -प्रोोग्रााम्ड टूलिंग
+D
+Automatically protection tooling
+ऑटोमेटिकली प्रोोटेक्‍शन टूलींग
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 154
+2635794
+With reference to computers, DAT is an acronym for?
+कंप्यूटर के संदर्भ में DAT किसका संक्षिप्त रूप है?
+A
+Data on audio tape
+डेटा ऑन ऑडियो टेप
+B
+Decimal audio tape
+डेसिमल ऑडियो टेप
+C
+Digit Audio Tape
+डिजिट ऑडियो टेप
+D
+Digital Audio Tape
+डिजिटल ऑडियो टेप
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 155
+2636047
+In MS PowerPoint, Which Command Is Used To Bring You to the First Slide?
+एमएस पावरपॉइंट में आपको पहली स्लााइड पर लाने के लिए किस कमांड का प्रयोग किया जाता है?
+A
+Ctrl + 1 
+Ctrl + 1
+B
+Ctrl + V 
+Ctrl +वी
+C
+Ctrl + F 
+Ctrl + एफ
+D
+Ctrl + Home 
+Ctrl + होम
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 156
+2636056
+Microsoft Office 2007 introduced the ________ as a user interface element.
+माइक्रोोसॉफ्ट ऑफिस 2007 ने ____ को यूजर इंटरफेस एलिमेंट के रूप में पेश किया।
+A
+Status Bar 
+स्टेटस बार
+B
+Slide Bar 
+स्लााइड बार
+C
+Ribbon 
+रिबन
+D
+Title Bar 
+टाइटल बार
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 157
+2636065
+________ option appears in the menu to Copy the text and _______option appears in the menu to Paste the text.
+टेक्स्ट को ________ करने के लिए मेनू में कॉपी विकल्प दिखाई देता है और टेक्स्ट को पेस्ट करने के लिए मेनू में ________  विकल्प दिखाई देता है
+A
+Paragraph, Style
+पैराग्रााफ, स्‍टाईल
+B
+Comments, Text
+कमेंट्स, टेक्‍स्‍ट 
+C
+Copy, Paste  
+कॉपी, पेस्ट
+D
+Tracking, Changes
+ट्रेकिंंग, चेंज्‍स 
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 144
+2635621
+Forwarding an E-mail is similar to as?
+ई-मेल फोरवर्डिंग करना किसके समान है?
+A
+Sending a parcel
+पार्सल भेजना
+B
+Chatting with friends
+मित्रोंों से गपशप
+C
+Writing a letter
+पत्र लिखना
+D
+Drawing a portray
+चित्र बनाना
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 145
+2635630
+Who is the Inventor of WWW (World wide web)?
+WWW (वर्ल्डवाइडवेब) का आविष्काारक कौन हैं?
+A
+James Goslin 
+जेम्स गोसलिन
+B
+Lee. N. Feyong
+ली. एन. फेयोंग
+C
+Tim Berners Lee 
+टिम बर्नर्स ली
+D
+Jim Kim
+जिम किम
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 146
+2635639
+With respect to Internet, what is the full form of ISP?
+इंटरनेट के सन्दर्भ में, ISP का पूर्णरूप क्याा है?
+A
+International Service Provider
+इंटरनेशनल सर्विस प्रोोवाइडर
+B
+Internet Service Provider 
+इंटरनेट सर्विस प्रोोवाइडर
+C
+Intranet Service Publisher 
+इंट्राानेट सर्विस पब्लिशर
+D
+Intramail Service Provider 
+इंटरमैल सर्विस प्रोोवाइडर
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 147
+2635687
+Which one of the following applies to "parity bits"?
+निम्न में से क्याा "पैरिटी बिट" पर लागू होता है?
+A
+Encryption of data
+डेटा का एन्क्रिप्शन
+B
+To transmit faster
+तेजी से संचारित करने के लिए
+C
+To detect errors
+त्रुटियों का पता लगाने के लिए
+D
+To identify the user
+उपयोगकर्ता की पहचान करने के लिए
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 148
+2635696
+What is the meaning of Bandwidth in Network?
+नेटवर्क में बैंडविड्थ का क्याा अर्थ है?
+A
+Connected Computers in the Network 
+नेटवर्क में जुड़े कंप्यूटर (Connected Computers in the Network )
+B
+Transmission capacity of a communication channels 
+एक संचार चैनल का संचरण क्षमता (Transmission capacity of a communication channels)
+C
+Class of IP used in Network
+नेटवर्क में प्रयुक्त आईपी की क्लाास (Class of IP used in Network)
+D
+Compiler
+संकलक (Compiler)
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 149
+2635705
+Internet was possible because of the use of ______.
+इंटरनेट ______ के उपयोग के कारण संभव हुआ।
+A
+UDP
+UDP
+B
+TCP/IP
+TCP/IP
+C
+FTP
+FTP
+D
+DHCP
+DHCP
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 150
+2635726
+Which of the following is the first network?
+निम्नलिखित में से कौन-सा पहला नेटवर्क है?
+A
+NSFNET
+NSFNET
+B
+APRANET
+APRANET
+C
+CSNET
+CSNET
+D
+None of the given options
+दिए गए विकल्पोंों में से कोई नहीं
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 151
+2635756
+With respect to computer, PCI is an acronym for?
+कंप्यूटर के संबंध में,  PCI किसका संक्षिप्त रूप है?
+A
+Peripheral Component Interconnect
+पेरीफरल कंपोनेंट इंटरकनेक्ट
+B
+Partial Component Interconnect
+पार्शियल कंपोनेंट इंटरकनेक्ट
+C
+Peripheral Component Interaction
+पेरीफरल कंपोनेंट इण्टरेक्शन
+D
+Peripheral Compound Interaction
+पेरीफरल कंपाउंड इण्टरेक्शन
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------

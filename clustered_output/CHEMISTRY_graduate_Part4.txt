@@ -1,0 +1,571 @@
+Subject: CHEMISTRY graduate
+Questions: 31
+========================================
+
+Q.No: 37
+2622790
+Which option includes one of the valid conditions for writing a resonating structure?
+किस विकल्प में एक प्रतिध्वनित संरचना लिखने के लिए मान्य शर्तों में से एक शामिल है?
+A
+The nuclei of the atoms in each structure may change their positions.
+प्रत्येक संरचना में परमाणुओं के नाभिक अपनी स्थिति बदल सकते हैं।
+B
+The contributing structures can have a different number of unpaired electrons.
+योगदान करने वाली संरचनाओं में अयुग्मित इलेक्ट्रॉॉनों की भिन्न संख्याा हो सकती है।
+C
+The contributing structures should have similar energies.
+योगदान करने वाली संरचनाओं में समान ऊर्जा होनी चाहिए।
+D
+The contribution of resonating structures increases with a decrease in the number of covalent bonds.
+सहसंयोजक बंधों की संख्याा में कमी के साथ प्रतिध्वनित संरचनाओं का योगदान बढ़ता है।
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 38
+2622791
+Which type of hybridisation takes place in a methane molecule?
+मीथेन अणु में किस प्रकार का संकरण होता है? 
+A
+sp
+sp
+B
+C
+D
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 39
+2622804
+Which of the following is not a correct rule for aromaticity?
+निम्नलिखित में से कौन सा सुगन्धितता के लिए सही नियम नहीं है?
+A
+The molecule must be cyclic.
+अणु चक्रीीय होना चाहिए।
+B
+Each atom in the ring must be conjugated.
+रिंंग में प्रत्येक परमाणु संयुग्मित होना चाहिए।
+C
+D
+The molecule must have a planar structure.
+अणु में एक तलीय संरचना होनी चाहिए।
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 40
+2622805
+What is the name of the nonaromatic hydrocarbon, where the molecule is not cyclic or not planar?
+एक गैर-सुगंधित हाइड्रोोकार्बन, जहां अणु चक्रीीय नहीं है या प्लाानर नहीं है, का क्याा नाम है?
+A
+Aliphatic
+एलिफैटिक
+B
+Alicyclic
+ऐलिसाइक्लिक
+C
+Alkaloid
+एलकेलॉइड
+D
+Aldose
+एल्डोोज
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 41
+2622815
+In the elimination of HX from an alkyl halide, the predominating product is the more highly substituted alkene. What is it known as? 
+ऐल्किल हैलाइड से एचएक्स  के विलोपन में, प्रबल उत्पााद अधिक उच्च स्थानापन्न ऐल्कीीन होता है। इसे किस नाम से जाना जाता है?
+A
+Zaitsev’s rule
+जैत्सेव नियम
+B
+Bredt’s rule
+ब्रेड्ट का नियम
+C
+Markownikoff’s rule
+मार्कोनीकॉफ का नियम
+D
+Huckel’s rule
+हकल का नियम
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 42
+2622868
+Which of the following reacts with Grignard reagents to give primary alcohols?
+प्रााथमिक अल्कोोहल देने के लिए निम्नलिखित में से कौन ग्रिग्नाार्ड अभिकर्मकों के साथ प्रतिक्रिया करता है?
+A
+Esters
+एस्टर
+B
+Formaldehyde
+फॉर्मल्डेहाइड
+C
+Aldehydes
+एल्डीीहाइड
+D
+Ketones
+केटोन्स
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 43
+2622869
+Which of the following is obtained when tertiary alcohols are oxidised?
+निम्न में से कौन सा प्रााप्त होता है जब तृतीयक अल्कोोहल ऑक्सीीकृत होते हैं?
+A
+Aldehydes
+एल्डीीहाइड
+B
+Ketones
+कीटोन्स
+C
+Carboxylic acids
+कार्बोक्जिलिक एसिड
+D
+No reaction with oxidising agents
+ऑक्सीीकरण एजेंटों के साथ कोई प्रतिक्रिया नहीं करते
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 44
+2622883
+Which of the following is a two-component system?
+निम्नलिखित में से कौन सा दो-घटक प्रणाली है?
+A
+B
+C
+Sulphur system
+सल्फर प्रणाली
+D
+Water system
+पानी की व्यवस्था
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 45
+2622884
+What is the degree of freedom of ice – water – vapour system?
+बर्फ-जल-वाष्प प्रणाली की मुक्त डिग्रीी क्याा है?
+A
+0
+0
+B
+1
+1
+C
+2
+2
+D
+3
+3
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 46
+2622895
+Which of the following is NOT valid according to Kohlrausch law?
+कोलराउश नियम के अनुसार निम्नललखित में से कौन मान्य नहीं है?
+A
+The molar conductivity of a solution is the sum of independent contributions from each ion.
+किसी विलयन की मोलर चालकता प्रत्येक आयन के स्वतंत्र योगदान का योग होती है।
+B
+The electrolytic solution is infinitely dilute.
+इलेक्ट्रोोलाइटिक विलयन असीम रूप से पतला होता है।
+C
+Molar conductivity depends on the concentration of the electrolyte.
+मोलर चालकता इलेक्ट्रोोलाइट की सांद्रता पर निर्भर करती है।
+D
+The conductivity of a solution is composed of the effect of positive ions.
+एक विलयन की चालकता सकारात्मक आयनों के प्रभाव से बनी होती है।
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 47
+2622901
+The calomel electrode is an example of which type of electrode? 
+कैलोमेल इलेक्ट्रोोड किस प्रकार के इलेक्ट्रोोड का एक उदाहरण है?
+A
+Amalgam electrode
+अमलगम इलेक्ट्रोोड
+B
+Metal-insoluble salt electrode
+धातु-अघुलनशील नमक इलेक्ट्रोोड
+C
+Metal-metal ion electrode
+धातु-धातु आयन इलेक्ट्रोोड
+D
+Oxidation-reduction electrode
+ऑक्सीीकरण-कमी इलेक्ट्रोोड
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 48
+2622902
+In which type of electrode, the metal is dissolved in mercury rather than in the pure form?
+किस प्रकार के इलेक्ट्रोोड में धातु शुद्ध रूप में न होकर पारे में घुल जाती है?
+A
+Metal-metal ion electrode
+धातु-धातु आयन इलेक्ट्रोोड
+B
+Gas electrode
+गैस इलेक्ट्रोोड
+C
+Amalgam electrode
+अमलगम इलेक्ट्रोोड
+D
+Oxidation-reduction electrode
+ऑक्सीीकरण-कमी इलेक्ट्रोोड
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 49
+2622937
+Which of the following is used to make non-inflammable photographic films?
+निम्नलिखित में से कौन सा पदार्थ गैर ज्वलनशील फोटोग्रााफिक फिल्म बनाने के लिए प्रयोग किया जाता है?
+A
+Cellulose acetate
+सेलूलोज एसीटेट
+B
+Cupra silk
+कपरा रेशम
+C
+Cellulose nitrate
+सेल्युलोज नाइट्रेट
+D
+Pyroxylin
+प्य्रोोक्सिलिन
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 50
+2622954
+Which of the following is NOT a correct representation of the faces of a cube in terms of Miller indices?
+निम्नलिखित में से कौन मिलर सूचकांकों के संदर्भ में एक घन के फलकों का सही प्रतिनिधित्व नहीं है?
+A
+010
+010
+B
+001
+001
+C
+D
+111
+111
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 51
+2622955
+For a general reaction of the type,
+Which of the following is correct?
+प्रकार की एक सामान्य प्रतिक्रिया के लिए,
+निम्न में से कौन सा सही है?
+A
+B
+C
+D
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 52
+2622965
+Which of the following is NOT a general group trend of d-block elements?
+निम्नलिखित में से कौन डी-ब्लॉॉक तत्वोंों की सामान्य समूह प्रवृत्ति नहीं है?
+A
+They have high melting and boiling points.
+इनका गलनांक और क्वथनांक उच्च होता है।
+B
+Theyexhibitcatalytic properties.
+ये कैटेलिटिक गुण प्रदर्शित करते हैं।
+C
+They are ductile.
+वे लचीले हैं।
+D
+Most of the transition elements are bad conductors of electricity.
+अधिकांश संक्रमण तत्व विद्युत के कुचालक होते हैं।
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 53
+2622966
+Which of the following hydrated ions of the first transition series is colourless?
+निम्नलिखित में से प्रथम संक्रमण श्रेणी का कौन सा हाइड्रेेटेड आयन रंगहीन है?
+A
+B
+C
+D
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 54
+2622981
+Which of the following is an exceptional neutral ligand?
+निम्नलिखित में से कौन सा एक असाधारण तटस्थ लिगेंड है?
+A
+B
+C
+D
+CO
+CO
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 55
+2622982
+Which of the following complicated molecule is abbreviated as “oxine”?
+निम्नलिखित में से कौन सा जटिल अणु "ऑक्सााइन" के रूप में संक्षिप्त है?
+A
+Oxalate
+ऑक्साालेट
+B
+8-quinoline
+8-क्विनोलिन
+C
+Dimethyl glyoxime
+डाइमिथाइल ग्लाायॉक्सिम
+D
+Dimethyl sulphoxide
+डाइमिथाइल सल्फोोक्सााइड
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 56
+2623022
+What is defined as the process of finding and extracting useful data from raw DNA sequence data sets?
+कच्चे डीएनए अनुक्रम डेटा सेट से उपयोगी डेटा खोजने और निकालने की प्रक्रिया के रूप में क्याा परिभाषित किया गया है?
+A
+Data mining
+डेटा माइनिंग
+B
+Genetic code
+जेनेटिक कोड
+C
+Gene screening
+जीन स्क्रीीनिंग
+D
+Genomic database mining
+जीनोमिक डेटाबेस माइनिंग
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 57
+2623023
+Which of the following is used as a viscosity improver in motor oils?
+निम्नलिखित में से किसका उपयोग मोटर तेलों में चिपचिपापन सुधारने वाले के रूप में किया जाता है?
+A
+Poly (p-methylstyrene)
+पॉली (P -मिथाइलस्टााइरीन)
+B
+Polychlorostyrene
+पॉलीक्लोोरोस्टााइरीन
+C
+Poly (p-tertbutylstyrene)
+पॉली (p- टर्टब्यूटिलस्टााइरीन)
+D
+ Poly (sodium styrenesulfonate)
+पॉली (सोडियम स्टााइरेनसल्फोोनेट)
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 58
+2623031
+Which method is used to remove all the oxygen and nitrogen present in the form of impurity in Zirconium and Titanium?
+ज़िरकोनियम और टाइटेनियम में मौजूद सभी ऑक्सीीजन और नाइट्रोोजन को अशुद्धता के रूप में हटाने के लिए किस विधि का उपयोग किया जाता है?
+A
+Mond’s process
+मोंड की प्रक्रिया
+B
+Zone refining
+क्षेत्र शोधन
+C
+Smelting
+प्रगलन
+D
+Van Arkel de Boer process
+वैन आर्केल डी बोअर प्रक्रिया
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 59
+2623052
+Which of the following polymers can be described as an interconnected branched polymer as all polymer chains are linked to form one giant
+molecule?
+निम्नलिखित में से कौन से पॉलिमर को परस्पर जुड़े शाखित बहुलक के रूप में वर्णित किया जा सकता है क्योंोंकि
+ सभी बहुलक श्रृंृंखलाएँ एक विशाल अणु बनाने के लिए जुड़ीी हुई हैं?
+A
+Linear polymer
+रैखिक पॉलिमर
+B
+Branched polymer
+शाखाओं वाले पॉलिमर
+C
+Network polymer
+नेटवर्क पॉलिमर
+D
+Cross-linked polymer
+क्रॉॉस-लिंक्ड पॉलिमर
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 60
+2623053
+Initiation in which type of polymerisation employs a “catalyst” that is restored at the end of the polymerization and does not become
+incorporated into the terminated polymer chain?
+किस प्रकार क पोलीमराइजेशन का प्राारंभ एक "उत्प्रेरक" को नियोजित करती है जो पोलीमराइजेशन के अंत में बहाल हो जाता है और समाप्त पॉलीमर श्रृंृंखला में शामिल नहीं हो जाता है?
+A
+Step-growth polymerisation
+चरण-विकास पोलीमराइजेशन
+B
+Anionic polymerisation
+एनीओनिक पोलीमराइजेशन
+C
+Cationic polymerisation
+धनायनित पोलीमराइजेशन
+D
+Ring polymerisation
+रिंंग पोलीमराइजेशन
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 61
+2623061
+Which option contains correct information about the isoelectric point of proteins?
+किस विकल्प में प्रोोटीन के समविद्युत बिंदु के बारे में सही जानकारी है?
+A
+Is always neutral.
+सदैव तटस्थ रहता है।
+B
+High in case of the preponderance of basic amino acids.
+बुनियादी अमीनो अम्ल की प्रबलता के मामले में उच्च।
+C
+Low in case of the preponderance of basic amino acids.
+बुनियादी अमीनो अम्ल की प्रबलता के मामले में कम
+D
+High in case of the preponderance of acidic amino acids.
+अम्लीीय अमीनो अम्ल की प्रबलता के मामले में उच्च।
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 62
+2623104
+What is the formula to determine the average velocity of gas molecules?
+गैस के अणुओं का औसत वेग ज्ञाात करने का सूत्र क्याा है ?
+A
+B
+C
+D
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 63
+2623105
+Which of the following expressions correctly informs about the relationship between the most probable velocity and root mean square velocity of
+the molecules of a gas?
+निम्नलिखित में से कौन सा व्यंजक किसी गैस के अणुओं के सर्वाधिक संभावित वेग और मूल माध्य वर्ग वेग के बीच संबंध के बारे में सही जानकारी देता है?
+A
+B
+C
+D
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 64
+2623114
+What is the SI unit of the coefficient of viscosity?
+श्याानता गुणांक का सआई मात्रक क्याा है?
+A
+B
+C
+D
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 65
+2623115
+What is the effect of temperature change on the viscosity of a liquid?
+किसी द्रव की श्याानता पर तापमान परिवर्तन का क्याा प्रभाव पड़ता है?
+A
+Viscosity increases with an increase in temperature
+तापमान में वृद्धि के साथ श्याानता बढ़ती है
+B
+Viscosity decreases with an increase in temperature
+तापमान में वृद्धि के साथ श्याानता घट जाती है
+C
+Viscosity decreases with a decrease in temperature
+तापमान में कमी के साथ श्याानता कम हो जाती है
+D
+Viscosity remains unaffected with an increase in temperature
+तापमान में वृद्धि के साथ श्याानता अप्रभावित रहती है
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 66
+2623128
+Which of the following was first obtained from silk protein, sericin and contains an alcoholic hydroxyl group that participates in ester formation?
+निम्नलिखित में से कौन सा पहले सिल्क प्रोोटीन, सेरिसिन से प्रााप्त किया गया था और इसमें अल्कोोहल हाइड्रॉॉक्सिल समूह होता है जो एस्टर गठन में भाग लेता है?
+A
+Tyrosine
+टायरोसिन
+B
+Glycine
+ग्लााइसीन
+C
+Serine
+सेरीन
+D
+Proline
+प्रोोलाइन
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 67
+2623144
+Which of the following refers to the deposition of a metallic coating onto an object by putting a negative charge onto the object and immersing it
+into a solution containing a salt of the metal to be deposited?
+निम्नलिखित में से कौन वस्तु पर एक ऋणात्मक आवेश डालकर और उसे जमा करने के लिए धातु के नमक युक्त घोल में डुबो कर किसी वस्तु पर धातु की परत के जमाव को संदर्भित करता है?
+A
+ Metal Plating
+मेटल प्लेटिंग
+B
+ Electroplating
+इलेक्ट्रोोप्लेटिंग
+C
+ Stripping
+स्ट्रिपिंग
+D
+ Oxidation 
+ऑक्सीीडेशन
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------

@@ -1,0 +1,704 @@
+Subject: Gen. Maths graduate
+Questions: 40
+========================================
+
+Q.No: 174
+2616648
+A
+18 cm
+18 सेमी
+B
+16 cm
+16 सेमी
+C
+32 cm
+32 सेमी
+D
+35 cm
+35 सेमी
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 175
+2616667
+Find the total area of lateral surface of cube A whose edge length is equal to the magnitude of volume of cylinder.
+घन A की पार्श्व सतह का क्षेत्रफल ज्ञाात कीजिए जिसके किनारे की लंबाई बेलन के आयतन के संख्याात्मक मान के बराबर है।
+A
+B
+C
+D
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 176
+2616836
+The compound interest on Rs 27000 for 2 years compounded annually at 2.5% per annum is-
+27000 रुपये पर 2 वर्ष का चक्रवृद्धि ब्यााज 2.5% दर से जो वार्षिक संयोजित होता है-
+A
+Rs. 13500
+13500 रुपये 
+B
+Rs. 13668
+13668 रुपये 
+C
+Rs. 1366.87
+1366.87 रुपये 
+D
+Rs. 1456.25
+1456.25 रुपये 
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 177
+2616844
+In 3 years Rs 10648 amounts to Rs 13824 at x% compound interest compounded annually. The value of x is
+3 वर्षों में 10648 रुपये सालाना चक्रवृद्धि ब्यााज पर x% चक्रवृद्धि ब्यााज पर 13824 रुपये हो जाता है। x का मान क्याा है?
+A
+B
+C
+D
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 178
+2617043
+A
+B
+C
+D
+None of the given options
+दिए गए विकल्पोंों में से कोई नहीं
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 179
+2617051
+A
+B
+C
+D
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 180
+2617550
+When a product's price was raised by 20%, sales of that product decreased by 50%. What impact did this have on overall revenue, afterward?
+जब किसी उत्पााद की कीमत में 20% की वृद्धि हुई, तो उस उत्पााद की बिक्रीी में 50% की कमी आई। बाद में कुल राजस्व पर इसका क्याा प्रभाव पड़ाा?
+A
+-20% 
+-20%
+B
+-40% 
+-40%
+C
++40% 
++40%
+D
++20% 
++20%
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 181
+2617614
+A 150 m long train running at a speed of 50 km per hour, at what time will it pass in front of the person standing near the railway line?
+एक 150 मीटर लंबी रेलगाड़ीी 50 किलोमीटर प्रति घंटा की रफ्ताार से चल रही है, यह रेलवे लाइन के पास खड़े व्यक्ति के सामने से कितने समय में गुजरेगी?
+A
+10 sec
+10 सेकंड
+B
+10.8 sec
+10.8 सेकंड
+C
+11 sec
+11 सेकंड
+D
+12 sec
+12 सेकंड
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 182
+2617622
+A
+2 km/hour
+2 किमी/घंटा
+B
+C
+D
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 183
+2617640
+Mohan is sitting in a train travelling at a speed of 40 kmph, and observes that a train of length 250 m travelling in the opposite direction passes him in 9 seconds. What is
+the speed of the other train?
+मोहन 40 किमी प्रति घंटे की गति से चलने वाली ट्रेन में बैठा है, वह देखता है कि विपरीत दिशा में चलने वाली 250 मीटर लंबी ट्रेन उसे 9 सेकंड में पार करती है| दूसरी ट्रेन की गति क्याा है?
+A
+60 km/h
+60 किमी/घं
+B
+50 km/h
+50 किमी/घं
+C
+70 km/h
+70 किमी/घं
+D
+80 km/h
+80 किमी/घं
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 184
+2617752
+A
+B
+C
+D
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 185
+2617872
+How many days will it take 6 men and 12 women to do the same amount of work if 4 men or 8 women can finish it in 15 days?
+उसी कार्य को 6 पुरुष और 12 महिलाएँ कितने दिनों में पूरा कर लेंगी यदि 4 पुरुष या 8 महिलाएँ उस कार्य को 15 दिनों में पूरा कर सकते हैं?
+A
+2 days
+2 days
+B
+5 days
+5 days
+C
+7 days
+7 days
+D
+9 days
+9 days
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 172
+2616631
+The cost of building a fence around a circular field is Rs. 8400 at the rate of Rs.14 per foot. What is the area of the circular field (in square foot)?
+एक वृत्तााकार मैदान के चारों ओर एक बाड़ बनाने की लागत 14 रुपये प्रति फुट की दर से 8400 रुपये है। वृत्तााकार मैदान का क्षेत्रफल (वर्ग फुट में) क्याा है?
+A
+24087.46
+24087.46
+B
+23567.23
+23567.23
+C
+43563.45
+43563.45
+D
+28,636.36
+28,636.36
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 173
+2616649
+A park is 26 m long and 15 m wide. A  carpet of 196 square meter area is laid on the floor. What is the area of the park (in square meter) which is
+not carpeted?
+एक पार्क 26 मीटर लंबा और 15 मीटर चौड़ाा है। फर्श पर 196 वर्ग मीटर क्षेत्रफल का कालीन बिछाया जाता है। पार्क का क्षेत्रफल (वर्ग मीटर में) कितना है जिस पर कालीन नहीं बिछाया गया है?
+A
+194
+194
+B
+180
+180
+C
+300
+300
+D
+350
+350
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 174
+2616668
+How many spheres of radius 1cm can be filled in the cylinder of radius 1m and height 2m? Also, find out the error percentage.
+त्रिज्याा 1m और ऊंचाई 2m वाले बेलन में 1cm त्रिज्याा वाले कितने गोले भरे जा सकते हैं? त्रुटि प्रतिशत भी ज्ञाात कीजिए।
+A
+15500,0%
+15500,0%
+B
+13000,0%
+13000,0%
+C
+15000,0%
+15000,0%
+D
+15000,5%
+15000,5%
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 175
+2616674
+A
+22
+22
+B
+24
+24
+C
+28
+28
+D
+20
+20
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 176
+2616845
+On a certain sum of money the compound interest for 2 years is 292.15 and the simple interest for the same period of time is 280. The rate of
+interest per annum is:
+एक निश्चित राशि पर 2 वर्षों के लिए चक्रवृद्धि ब्यााज 292.15 रूपये है और उसी अवधि के लिए साधारण ब्यााज 280 रूपये है । प्रति वर्ष ब्यााज की दर क्याा है?
+A
+7%
+7%
+B
+6.8%
+6.8%
+C
+8.6%
+8.6%
+D
+25.2%
+25.2%
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 177
+2617052
+A
+B
+C
+D
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 178
+2617551
+If 420 is 60% of a number, what percentage of 420 is that number?
+यदि 420 किसी संख्याा का 60% है, तो वह संख्याा 420 का कितना प्रतिशत है?
+A
+166.66% 
+166.66%
+B
+150.66% 
+150.66%
+C
+156.66% 
+156.66%
+D
+160.66%
+160.66%
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 179
+2617557
+A
+300
+300
+B
+140 
+140
+C
+120
+120
+D
+280
+280
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 180
+2617623
+A person covers a distance of 1 km downstream in 10 minutes and upstream in 30 minutes, and another person covers a distance of 2 km
+downstream in 12 minutes and upstream in 32 minutes. What is the sum of the speed of the stream of both persons?
+एक व्यक्ति 1 किलोमीटर की दूरी को धारा की दिशा में 10 मिनट में और धारा के विपरीत दिशा में 30 मिनट में तय करता है, और दूसरा व्यक्ति 2 किलोमीटर की दूरी को धारा की दिशा
+में 12 मिनट में और धारा की विपरीत दिशा में 32 मिनट में तय करता है, तो दोनों व्यक्तियों की धारा की गति का योग क्याा है?
+A
+4
+4
+B
+6
+6
+C
+8
+8
+D
+5
+5
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 181
+2617641
+Place A is 140 km away from place B. A train started from place A at 3:00 pm towards B at a speed of 40 kmph. While another train started from B
+to A at 3:45 with a speed of 60 kmph. When will both the trains meet each other?
+स्थान A, स्थान B से 140 किमी दूर है। एक ट्रेन स्थान A से अपराह्न 3:00 बजे B की ओर 40 किमी प्रति घंटे की गति से चलती है। जबकि दूसरी ट्रेन B से A के लिए 3:45 पर 60 किमी प्रति
+घंटे की गति से चलती है। दोनों ट्रेनें एक दूसरे से कब मिलेंगी?
+A
+B
+C
+D
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 182
+2617753
+A
+B
+C
+D
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 183
+2617759
+A
+25
+25
+B
+12
+12
+C
+32
+32
+D
+23
+23
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 184
+2617873
+In 50 days, 4 goats or 6 sheep may graze a field. In how many days can 2 goats and 9 sheep graze the field?
+50 दिनों में, 4 बकरियाँ या 6 भेड़ें एक खेत को चर सकती हैं। 2 बकरियां और 9 भेड़ें कितने दिनों में खेत चर सकती हैं?
+A
+25 days
+25 दिन
+B
+35 days
+35 दिन
+C
+45 days
+45 दिन
+D
+15 days
+15 दिन
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 185
+2617879
+If 21 men can accomplish a task in 25 days while putting in 10 hours per day, how many men are needed to finish the task in 15 days while putting
+in 7 hours per day
+यदि 21 व्यक्ति प्रतिदिन 10 घंटे लगाकर किसी कार्य को 25 दिनों में पूरा कर सकते हैं, तो प्रतिदिन 7 घंटे लगाकर कार्य को 15 दिनों में पूरा करने के लिए कितने व्यक्तियों की आवश्यकता होगी?
+A
+10 men
+10 men
+B
+50 men
+50 men
+C
+30 men
+30 men
+D
+25 men
+25 men
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 172
+2616632
+The ratio of length to width of a rectangular park is 5:3. If the perimeter of the park is 640 meters, what is the area (in square meter) of the
+park?
+एक आयताकार पार्क की लंबाई और चौड़ााई का अनुपात 5:3 है। यदि पार्क का परिमाप 640 मीटर है, तो पार्क का क्षेत्रफल (वर्ग मीटर में) कितना है?
+A
+26000
+26000
+B
+24000
+24000
+C
+45600
+45600
+D
+56400
+56400
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 173
+2616650
+A
+65 m
+65 मीटर
+B
+55 m
+55 मीटर
+C
+45 m
+45 मीटर
+D
+70 m
+70 मीटर
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 174
+2616669
+Find the area of quarter cylinder which has height “1 cm” and radius “2 cm”.
+एकचौथाई बेलन का क्षेत्रफल ज्ञाात कीजिए जिसकी ऊँचाई "1 cm" और त्रिज्याा "2 cm" है।
+A
+B
+C
+D
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 175
+2616675
+How many spheres bowls of radius 2 cm can be fitted in a big sphere of radius 4 cm?
+4 सेमी त्रिज्याा वाले एक बड़े गोले में 2 सेमी त्रिज्याा वाले कितने गोले फिट किए जा सकते हैं?
+A
+64
+64
+B
+54
+54
+C
+67
+67
+D
+84
+84
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 176
+2616846
+The compound interest on a certain sum of money at 4% per annum for 2 years is Rs 186, the simple interest on the same sum for 3 years at
+8% per annum is:
+एक निश्चित राशि पर 2 वर्षों के लिए 4% प्रति वर्ष की दर से चक्रवृद्धि ब्यााज 186 रुपये है, उसी राशि पर 3 वर्षों के लिए 8% प्रति वर्ष की दर से साधारण ब्यााज क्याा है?
+A
+Rs. 547.05
+547.05 रुपये 
+B
+Rs. 555
+555 रुपये 
+C
+Rs. 650
+650 रुपये 
+D
+Rs. 564
+564 रुपये 
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 177
+2617053
+A
+B
+C
+D
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 178
+2617552
+If the total of two numbers squares is 7650 and one of them is 60% of the other, then the numbers are:
+यदि दो संख्यााओं के वर्गों का योग 7650 है और उनमें से एक दूसरी संख्याा का 60% है, तो संख्यााएँ हैं:
+A
+35 and 65
+35 और 65
+B
+35 and 85
+35 और 85
+C
+45 and 75 
+45 और 75
+D
+45 and 65
+45 और 65
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 179
+2617558
+A 90-liter combination of HCl and water comprises 20% water. How much water must be added to achieve a water content of 40% in the
+mixture?
+एचसीएल और पानी के 90 लीटर के संयोजन में 20% पानी है। मिश्रण में 40% पानी की मात्राा प्रााप्त करने के लिए कितना पानी मिलाया जाना चाहिए?
+A
+40 liters
+40 लीटर
+B
+30 liters
+30 लीटर
+C
+48 liters
+48 लीटर
+D
+120 liters
+120 लीटर
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 180
+2617624
+A
+4.8 km/h
+4.8 किमी/घं
+B
+5.8 km/h
+5.8 किमी/घं
+C
+6.8 km/h
+6.8 किमी/घं
+D
+7.8 km/h
+7.8 किमी/घं
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 181
+2617642
+A boatman goes 50 km per hour upstream and 60 km per hour downstream for a total of 13 hours. Find the speed of the boat in still water and
+the speed of the stream if he goes 30 km upstream and 40 km downstream in a total of 10 hours.
+एक नाविक कुल 13 घंटे में धारा के प्रतिकूल 50 किमी प्रति घंटे और धारा के अनुकूल 60 किमी प्रति घंटे की दूरी तय करता है। यदि वह कुल 10 घंटे में धारा के प्रतिकूल 30 किमी और
+धारा के अनुकूल 40 किमी जाता है, तो शांत जल में नाव की गति और धारा की गति ज्ञाात कीजिए?
+A
+10 km/h, 5 km/h
+10 किमी/घं, 5 किमी/घं
+B
+12 km/h, 8 km/h
+12 किमी/घं, 8 किमी/घं
+C
+12 km/h, 6 km/h
+12 किमी/घं, 6 किमी/घं
+D
+15 km/h, 8 km/h 
+15 किमी/घं, 8 किमी/घं
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 182
+2617754
+A
+0
+0
+B
+1-C
+1-C
+C
+1
+1
+D
+8
+8
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 183
+2617760
+A
+5
+5
+B
+-1/3
+-1/3
+C
+12
+12
+D
+-1/6
+-1/6
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 184
+2617874
+How long will it take 28 men and 15 women to complete a task if 16 men or 20 women can finish it in 25 days?
+एक कार्य को 28 पुरुष और 15 महिलाएँ कितने समय में पूरा करेंगे यदि 16 पुरुष या 20 महिलाएँ इसे 25 दिनों में पूरा कर सकते हैं?
+A
+5 days
+5 दिन
+B
+20 days
+20 दिन
+C
+10 days
+10 दिन
+D
+35 days
+35 दिन
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 185
+2617880
+Together, P and Q complete a project in 24 days despite P being a three times more skilled worker than Q. How many days did P need to
+complete the task by himself?
+P और Q मिलकर एक परियोजना को 24 दिनों में पूरा करते हैं, जबकि P, Q से तीन गुना अधिक कुशल श्रमिक है। P को अकेले कार्य को पूरा करने के लिए कितने दिनों की आवश्यकता है?
+A
+32
+32
+B
+22
+22
+C
+42
+42
+D
+52
+52
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------

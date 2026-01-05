@@ -1,0 +1,1075 @@
+Subject: Gen. Reasoning graduate
+Questions: 50
+========================================
+
+Q.No: 158
+2613882
+In a class of 42 students, Nita’s Rank is 22 from the bottom what is her rank from the top?
+42 विद्याार्थियों की एक कक्षाा में नीता का स्थान नीचे से 22वां है, ऊपर से उसका स्थान क्याा है?
+A
+18
+18
+B
+20
+20
+C
+39
+39
+D
+21
+21
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 159
+2614132
+Find the missing letters in the series.
+BKS, DMU, FOW, …...?
+निम्नलिखित श्रंखला में लुप्त अक्षर ज्ञाात कीजिये?
+BKS, DMU, FOW, …...?
+A
+TSZ
+TSZ
+B
+CHP
+CHP
+C
+HQY
+HQY
+D
+LNP
+LNP
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 160
+2614333
+How would PARENT be written in the same code if LOVING is written as OLIVGN?
+यदि LOVING को OLIVGN लिखा जाता है तो उसी कोड में PARENT को कैसे लिखा जाएगा?
+A
+APERTN
+APERTN
+B
+ERAPTN
+ERAPTN
+C
+TNERAP
+TNERAP
+D
+RAPTNE
+RAPTNE
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 161
+2614340
+A
+B
+C
+D
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 162
+2614348
+When do we sleep if "light" is named "morning," "dark" is called "night," "night" is called "sunshine," and "sunshine" is called "dusk"?
+जब "light" को "morning", "dark" को "night", "night" को "sunshine" और "sunshine" को "dusk" कहा जाता है , तो हम कब सोते हैं?
+A
+night
+night
+B
+dark
+dark
+C
+sunshine
+sunshine
+D
+dusk
+dusk
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 163
+2614366
+Answer the questions that follow the content after carefully reading it.
+Some words and their codes are represented in the table below. Based on some pattern, the codes are assigned.
+The numerical numbers in Columns A, B, C, D, and E represent the codes for the words requested. The column name in which the
+asked-for word is encoded must be marked as your response. The words must be coded in the same way as the codes listed in the
+first table are done.
+For instance: If the word STARE were the response, the answer would be "D".
+Which of the following categories does the code for "MANDATE" fall under?
+सामग्रीी को ध्याान से पढ़ने के बाद उसके बाद आने वाले प्रश्नोंों के उत्तर दें।
+नीचे दी गई तालिका में कुछ शब्द और उनके कूट दर्शाए गए हैं। कुछ पैटर्न के आधार पर, कोड असाइन किए जाते हैं।
+कॉलम ए, बी, सी, डी और ई में संख्याात्मक संख्यााएं अनुरोधित शब्दोंों के लिए कोड का प्रतिनिधित्व करती हैं। कॉलम का नाम जिसमें मांगा गया शब्द एन्कोोड किया गया है, उसे
+आपकी प्रतिक्रिया के रूप में चिह्नित किया जाना चाहिए। शब्दोंों को उसी तरह कोडित किया जाना चाहिए जैसे पहली तालिका में सूचीबद्ध कोड किए गए हैं।
+उदाहरण के लिए: यदि STARE शब्द का उत्तर होता, तो उत्तर "D" होता।
+निम्नलिखित में से कौन सी श्रेणी "MANDATE" के लिए कोड के अंतर्गत आती है?
+A
+E
+E
+B
+D
+D
+C
+A
+A
+D
+B
+B
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 164
+2614391
+Priya walked 10 km towards the west from her home, then turned towards the south and walked 12 km. Then she walked 16 km
+towards the east, and finally walked 6km towards the west. How far is Priya from her initial position?
+प्रिया अपने घर से 10 किमी पश्चिम की ओर चलती है, फिर दक्षिण की ओर मुड़ जाती है और 12 किमी चलती है। फिर वह 16 किमी पूर्व की ओर चलती है, और अंत में 6
+किमी पश्चिम की ओर चलती है। प्रिया अपने शुरुआती स्थान से कितनी दूर है?
+A
+10 km
+10 किमी
+B
+12 km
+12 किमी
+C
+16 km
+16 किमी
+D
+14 km
+14 किमी
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 165
+2614415
+A school bus driver starts from the school, drives 5 km towards North, takes a left turn and drives for 6 km. He then takes a turn and
+drives for 12 km before taking a left turn again and driving for further 6 km. The driver finally takes a left turn and drives 3 km
+before stopping. How far and towards which direction should the driver drive to reach the school again?
+एक स्कूूल बस चालक स्कूूल से शुरू करता है, 5 किमी उत्तर की ओर ड्रााइव करता है, बाएं मुड़ता है और 6 किमी तक ड्रााइव करता है। फिर वह मुड़ता है और फिर से बाएं
+मुड़ने से पहले 12 किमी ड्रााइव करता है और आगे 6 किमी ड्रााइव करता है। ड्रााइवर अंत में बाएं मुड़ता है और रुकने से पहले 3 किमी ड्रााइव करता है। ड्रााइवर को फिर से
+स्कूूल पहुँचने के लिए कितनी दूर और किस दिशा में गाड़ीी चलानी चाहिए?
+A
+5 km, North
+5 किमी, उत्तर
+B
+4 km, North
+4 किमी, उत्तर
+C
+3 km, East
+3 किमी, पूर्व
+D
+5 km, South
+5 किमी, दक्षिण
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 166
+2614433
+In the following figure, enter the omitted number in place of question mark (?).
+निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त  संख्याा ज्ञाात कीजिए।
+A
+376
+376
+B
+364
+364
+C
+242
+242
+D
+286
+286
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 167
+2614440
+In the following figure, enter the omitted number in place of question mark (?).
+निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त  संख्याा ज्ञाात कीजिए।
+A
+160
+160
+B
+120
+120
+C
+83
+83
+D
+38
+38
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 168
+2614466
+Read the given pattern carefully and select the number which can replace the question mark (?) in it.
+दिए गए पैटर्न को ध्याान से पढ़िए और उस संख्याा का चयन कीजिए जो उसमें प्रश्न चिह्न को प्रतिस्थापित कर सकती है।
+A
+28
+28
+B
+25
+25
+C
+30
+30
+D
+35
+35
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 169
+2618475
+Which is the WRONG term in the following series?
+RTPC, VWTF, ZZXK, DCBL, HFFO
+निम्नलिखित श्रंखला में गलत पद कौन सा है?
+RTPC, VWTF, ZZXK, DCBL, HFFO
+A
+VWTF
+VWTF
+B
+ZZXK
+ZZXK
+C
+DCBL
+DCBL
+D
+HFFO
+HFFO
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 170
+2628938
+From the given responses, find the missing letter in the series.
+ECI, JFG, OIE, TLC, ?
+दिए गए विकल्पों में से श्रेणी में लुप्त अक्षर को ज्ञाात करे:
+ECI, JFG, OIE, TLC, ?
+A
+YOA
+YOA
+B
+ADI 
+ADI
+C
+YOU 
+YOU
+D
+SOM 
+SOM
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 171
+2629041
+Find the odd one out from the given alternatives. 
+दिए गए विकल्पों में से विषम संख्या युग्म चुनिए। 
+A
+257
+257 
+B
+145 
+145
+C
+122
+122 
+D
+288
+288 
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 158
+2613883
+If the letter of the word “ABHINAV” is arranged alphabetically from left to right. How many letters will remain in the same position?
+यदि शब्द “ABHINAV” के अक्षरों को वर्णानुक्रम में बाएं से दाएं व्यवस्थित किया जाता है। कितने अक्षर एक ही स्थिति में रहेंगे?
+A
+1
+1
+B
+3
+3
+C
+2
+2
+D
+0
+0
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 159
+2614061
+Three trains are standing near each other at a station, the blue train is on the right of the red train and the green train is on the left
+of the red train. What will happen if the blue train and the green train interchange their positions?
+एक स्टेशन पर तीन ट्रेनें एक दूसरे के पास खड़ीी हैं, नीली ट्रेन लाल ट्रेन के दायीं ओर है और हरी ट्रेन लाल ट्रेन के बायीं तरफ है। यदि नीली ट्रेन और हरी ट्रेन आपस में स्थान
+बदल लें तो क्याा होगा?
+A
+The green train and blue train are near each other
+हरी ट्रेन और नीली ट्रेन एक दूसरे के पास हैं
+B
+The Red train is in the middle
+लाल ट्रेन बीच में है
+C
+The green train is between the red train and the blue train
+हरी ट्रेन, लाल ट्रेन और नीली ट्रेन के बीच है
+D
+The red train is on the immediate left of the blue train
+लाल ट्रेन, नीली ट्रेन के ठीक बायीं ओर है
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 160
+2614133
+Find the missing letters in the following series.
+XFB, UGD, RHG, ……?
+निम्नलिखित श्रंखला में लुप्त अक्षर ज्ञाात कीजिये?
+XFB, UGD, RHG, ……?
+A
+OIK
+OIK
+B
+PJK
+PJK
+C
+NIJ
+NIJ
+D
+HXV
+HXV
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 161
+2614334
+APPLE denotes ETTPI in a specific coding scheme. What does "DELHI" look like in code?
+APPLE एक विशिष्ट कोडिंग योजना में ETTPI को दर्शाता है। कोड में "DELHI" कैसा दिखता है?
+A
+MLPHI
+MLPHI
+B
+HIPLM
+HIPLM
+C
+HPLIM
+HPLIM
+D
+MLPIH
+MLPIH
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 162
+2614341
+When B = 2 and BAG = 10, what will FOX be?
+जब B = 2 और BAG = 10, तो FOX क्याा होगा?
+A
+51
+51
+B
+53
+53
+C
+41
+41
+D
+45
+45
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 163
+2614349
+Which of the following is used to wash clothes if "orange" is called "butter," "butter" is named "soap," "soap" is called "ink," "ink" is
+called "honey," and "honey" is called "orange"?
+निम्नलिखित में से किसका उपयोग कपड़े धोने के लिए किया जाता है यदि "orange" को "butter" कहा जाता है, "butter" को "soap" कहा जाता है, "soap" को "ink"
+कहा जाता है, "ink" को "honey" और "honey" को “orange” कहा जाता है?
+A
+butter
+butter
+B
+honey 
+honey
+C
+orange
+orange
+D
+ink
+ink
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 164
+2614367
+Answer the questions that follow the content after carefully reading it. In a coded form,
+The code for "revenue exceeds expectation" is "7EC 7E 11T."
+The code for "money and instruments" is "5NC 3N 11U."
+The code for “other transaction ahead” is “5H 11AG 5E.”
+Where can I find the "Assured value" code?
+सामग्रीी को ध्याान से पढ़ने के बाद उसके बाद आने वाले प्रश्नोंों के उत्तर दें। कोडित रूप में,
+"revenue exceeds expectation" का कोड "7EC 7E 11T" है।
+"money and instruments" के लिए कोड "5NC 3N 11U" है।
+"other transaction ahead" के लिए कोड "5H 11AG 5E" है।
+मुझे "Assured value" कोड कहां मिल सकता है?
+A
+7A 5V
+7A 5V
+B
+7U 5LB
+7U 5LB
+C
+7U 5L
+7U 5L
+D
+7UD 5LB
+7UD 5LB
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 165
+2614434
+In the following figure, enter the omitted number in place of question mark (?).
+निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त  संख्याा ज्ञाात कीजिए।
+A
+5
+5
+B
+6
+6
+C
+14
+14
+D
+8
+8
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 166
+2614441
+In the following figure, enter the omitted number in place of question mark (?).
+निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त संख्याा ज्ञाात कीजिए।
+A
+10
+10
+B
+4
+4
+C
+13
+13
+D
+11
+11
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 167
+2614467
+Read the given pattern carefully and select the number which can replace the question mark (?) in it.
+दिए गए पैटर्न को ध्याान से पढ़िए और उस संख्याा का चयन कीजिए जो उसमें प्रश्न चिह्न को प्रतिस्थापित कर सकती है।
+A
+35
+35
+B
+85
+85
+C
+15
+15
+D
+95
+95
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 168
+2628773
+Select the related letters from the given alternatives.
+AXRO : EATP :: LUJI : ?
+दिए गए विकल्पोंों में से संबंधित अक्षरों का चयन करें।
+AXRO : EATP :: LUJI : ?
+A
+PXLJ
+PXLJ
+B
+PNFZ 
+PNFZ
+C
+QHDA 
+QHDA
+D
+QABJ 
+QABJ
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 169
+2628786
+In the following question, select the related word from the given alternatives.
+Alzheimer's : Brain :: ______ : ______ 
+निम्नलिखित प्रश्न में दिए गए विकल्पों में से सम्बन्धित शब्द को चुनिए।
+अल्जााइमर : मस्तिष्क :: ______ :_______
+A
+Arrhythmia : Heart
+एरिथमिया : हृदय
+B
+Atherosclerosis : Liver 
+एथेरोस्क्लेरोसिस : लिवर 
+C
+Cataract : Ear 
+मोतियाबिंद : कान
+D
+Scabies : Eyes 
+चर्म रोग : आंखें 
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 170
+2628882
+Choose the odd one from the given alternatives. 
+दिए गए विकल्पों से भिन्न को चुनें।
+A
+sOlA 
+sOlA
+B
+jAkU 
+jAkU
+C
+GeMe 
+GeMe
+D
+IEpn 
+IEpn
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 171
+2629263
+लड़कों की एक पंक्ति में A आगेसे 15वाँ है। उसके आगे जितने लड़के थे उससे तीन गुना लड़के उसके पीछे थे। पंक्ति केआखिरी से 7 वें लड़के और A के बीच कितने लड़के
+है?
+A
+33
+33
+B
+34
+34
+C
+35
+35
+D
+40
+40
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 158
+2613884
+एक कक्षाा में वीर का स्थान ऊपर से 7वाँ और नीचे से 28वाँ है। कक्षाा में कितने छात्र हैं?
+A
+30
+30
+B
+37
+37
+C
+34
+34
+D
+39
+39
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 159
+2614134
+Find the missing letters in the following series.
+I,  K,  N,  R,  ?
+निम्नलिखित श्रंखला में लुप्त अक्षर ज्ञाात कीजिये?
+I,  K,  N,  R,  ?
+A
+U
+U
+B
+V
+V
+C
+X
+X
+D
+W
+W
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 160
+2614335
+If LUTE is written as MUTE and GATE as HATE in one particular code, how will BLUE be expressed in that code?
+यदि एक विशेष कोड में LUTE को MUTE और GATE को HATE लिखा जाता है, तो उस कोड में BLUE को कैसे व्यक्त किया जाएगा?
+A
+DLUE
+DLUE
+B
+BLUE
+BLUE
+C
+CLUE
+CLUE
+D
+GLUE
+GLUE
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 161
+2614342
+In the case when Z = 52 and ACT = 48, BAT will be equal to ______.
+मामले में जब Z = 52 और ACT = 48, BAT ______ के बराबर होगा।
+A
+49
+49
+B
+46
+46
+C
+38
+38
+D
+54
+54
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 162
+2614350
+What will be fitted in a pen to write with it if "lead" is named "stick," "stick" is called "nib," "nib" is called "needle," "needle" is called "rope," and "rope" is called "thread"?
+पेन में लिखने के लिए क्याा फिट होगा यदि "lead" का नाम "stick", "stick" का नाम "nib", "nib" का नाम "needle", "needle" का नाम "rope" और "rope" को "thread" कहा जाता है?
+A
+lead
+lead
+B
+needle
+needle
+C
+nib
+nib
+D
+stick
+stick
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 163
+2614368
+The letters (a), (b), (c), and (d) are followed by four sets of digits or symbols in each of the examples below (d). Determine which of the following coding combinations be
+the set of letters, and then mark that combination's number as the correct response. Mark (e), which means "None of these," as the correct response if none of the four co
+accurately describes the set of letters.
+Note: The conditions must be applied in the order listed below if more than one applies.
+Conditions:
+(i) Both letters are coded using the consonant's code if the first letter is a vowel and the  last letter is a consonant.
+(ii) If the second and last letters are both vowels, their codes must be switched.
+(iii) Both letters must be coded as the vowel if the second letter is a consonant and the second to last letter is a vowel.
+(iv) If the first letter and the fifth letter are both consonants, the third letter is denoted by both of them.
+(v) If a term is given but does not fit any of the criteria listed above, the first letter's code is switched for the second letter, the third letter's code for the fourth letter, and 
+Find the "SPYKER" code here.
+अक्षर (ए), (बी), (सी), और (डी) के बाद नीचे दिए गए प्रत्येक उदाहरण (डी) में अंकों या प्रतीकों के चार सेट होते हैं। निर्धारित करें कि निम्नलिखित में से कौन सा कोडिंग संयोजन अक्षरों के सेट को सबसे अच्छाा दर्शाता है, औ
+संयोजन की संख्याा को सही प्रतिक्रिया के रूप में चिह्नित करें। मार्क (ई), जिसका अर्थ है "इनमें से कोई नहीं," सही प्रतिक्रिया के रूप में यदि चार संयोजनों में से कोई भी अक्षरों के सेट का सटीक वर्णन नहीं करता है।
+ध्याान दें: यदि एक से अधिक लागू होते हैं तो शर्तों को नीचे सूचीबद्ध क्रम में लागू किया जाना चाहिए।
+स्थितियाँ:
+(i) दोनों अक्षरों को व्यंजन के कोड का उपयोग करके कोडित किया जाता है यदि पहला अक्षर एक स्वर है और अंतिम अक्षर एक व्यंजन है।
+(ii) यदि दूसरा और अंतिम अक्षर दोनों स्वर हैं, तो उनके कोड स्विच किए जाने चाहिए।
+(iii) दोनों अक्षरों को स्वर के रूप में कोडित किया जाना चाहिए यदि दूसरा अक्षर एक व्यंजन है और दूसरे से अंतिम अक्षर एक स्वर है।
+(iv) यदि पहला अक्षर और पांचवां अक्षर दोनों व्यंजन हैं, तो तीसरे अक्षर को दोनों द्वाारा दर्शाया जाता है।
+(v) यदि कोई शब्द दिया गया है, लेकिन ऊपर सूचीबद्ध किसी भी मानदंड में फिट नहीं होता है, तो पहले अक्षर का कोड दूसरे अक्षर के लिए बदल दिया जाता है, तीसरे अक्षर का कोड चौथे अक्षर के लिए बदल दिया जाता है, 
+यहां "SPYKER" कोड खोजें।
+A
+B
+C
+D
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 164
+2614435
+In the following figure, enter the omitted number in place of question mark (?).
+निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त  संख्याा ज्ञाात कीजिए।
+A
+34
+34
+B
+28
+28
+C
+32
+32
+D
+30
+30
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 165
+2614442
+In the following figure, enter the omitted letter in place of question mark (?).
+निम्नलिखित आकृति में, प्रश्न चिह्न (?) के स्थान पर लुप्त अक्षर ज्ञाात कीजिए।
+A
+M
+M
+B
+D
+D
+C
+N
+N
+D
+T
+T
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 166
+2614468
+Read the given pattern carefully and select the number which can replace the question mark (?) in it.
+दिए गए पैटर्न को ध्याान से पढ़िए और उस संख्याा का चयन कीजिए जो उसमें प्रश्न चिह्न को प्रतिस्थापित कर सकती है।
+A
+24
+24
+B
+50
+50
+C
+65
+65
+D
+35
+35
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 167
+2618294
+Arrange the following words according to the english dictionary.
+a. Collect 
+b. Collinear 
+c. Collection 
+d. Column 
+e. Collapse
+अंग्रेजी शब्‍दकोश के अनुसार, निम्‍न शब्‍दों को व्‍यवस्थित करें:
+a. Collect 
+b. Collinear 
+c. Collection 
+d. Column 
+e. Collapse
+A
+e, a, c, b, d 
+e, a, c, b, d 
+B
+e, a, b, c, d
+e, a, b, c, d
+C
+e, a, d, c, b
+e, a, d, c, b
+D
+e, a, b, d, c
+e, a, b, d, c
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 168
+2628795
+In the following question, select the related letter/word/number from the given alternatives.
+Daffodil : Flower 
+निम्नलिखित प्रश्न में दिए गए विकल्पों में से सम्बन्धित अक्षर/शब्द/संख्या को चुनिए।
+डैफोडिल : फूल
+A
+Grapevine : Creeper 
+ग्रेपवाइन : लता
+B
+Beetroot : Herb 
+चुकंदर : जड़ीी बूटी
+C
+Linseed : Fruit 
+अलसी : फल
+D
+Tulsi : Climber 
+तुलसी : पर्वतारोही
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 169
+2629138
+Find the odd one out from the given alternatives. 
+दिए गए विकल्पों में से विषम संख्या/अक्षर युग्म चुनिए। 
+A
+2112
+2112 
+B
+4281
+4281 
+C
+3261
+3261 
+D
+3381
+3381 
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 170
+2629227
+A is more intelligent than B. B is not as intelligent as C. D is more intelligent than E but not as good as A. who is the most intelligent of all?
+A, B की तुलना में अधिक बुद्धिमान है। B, C से अधिक बुद्धिमान नहीं है। D, E की तुलना में अधिक बुद्धिमान है परन्तु A से अच्छाा नहीं है।सभी में सबसे बुद्धिमान कौन है? 
+A
+B
+B
+B
+A
+A
+C
+C or A 
+C या A
+D
+D
+D
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 171
+2630187
+Six friends A, B, C, D, E and F are sitting in a row facing north. B sits fourth to the left of E. D sits second to the right of F, A sits second to the left of E. F is not a neighbor
+is the position of C from left?
+छह मित्र A, B, C, D, E और F एक पंक्ति में उत्तर की ओर मुख करके बैठे हैं। B, E के बायें से चौथे स्थान पर बैठा है। D, F के दायें से दूसरे स्थान पर बैठा है, A, E के बायें से दूसरे स्थान पर बैठा है। F, B का पड़ोोसी नहीं
+से C का स्थान क्याा है?
+A
+तीसरा
+B
+दूसरा
+C
+चौथा
+D
+छठा
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 158
+2613885
+Ziya is seated seventh from the bottom in a class of 35 kids, whereas Sofia is seated ninth from the top. Shah stands between
+Ziya and Sofia. How many places away is Ziya from Shah?
+35 बच्चोंों की एक कक्षाा में जिया नीचे से सातवें स्थान पर बैठी है, जबकि सोफिया ऊपर से नौवें स्थान पर बैठी है। शाह, जिया और सोफिया के बीच में खड़े हैं। जिया,
+शाह से कितने स्थान दूर है?
+A
+9 places away
+9 स्थान दूर
+B
+10 places away
+10 स्थान दूर
+C
+8 places away
+8 स्थान दूर
+D
+15 places away
+15 स्थान दूर
+Correct Ans : B
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 159
+2613911
+एक समूह में, मिस्टर X आगे से 14वें स्थान पर है और मिस्टर Y अंत से 17वें स्थान पर है। जबकि मिस्टर Z दोनों के ठीक बीच में है। मिस्टर X और मिस्टर Z के बीच
+कितने लोग हैं यदि मिस्टर X, मिस्टर Y के सामने है और लाइन में 48 लोग हैं?
+A
+6
+6
+B
+7
+7
+C
+8
+8
+D
+9
+9
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 160
+2614135
+Find the missing letters in the following series.
+Z,  D,   X,  G,  V,  J,  T,  M,..?..?.
+निम्नलिखित श्रंखला में लुप्त अक्षर ज्ञाात कीजिये?
+Z,  D,   X,  G,  V,  J,  T,  M,..?..?.
+A
+X, P
+X, P
+B
+H,N
+H,N
+C
+R, P
+R, P
+D
+F, K
+F, K
+Correct Ans : C
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 161
+2614160
+Find the missing letter in the series.
+AAZ, BCT, DEN, ?
+निम्नलिखित श्रंखला में लुप्त अक्षर ज्ञाात कीजिये?
+AAZ, BCT, DEN, ?
+A
+GGH
+GGH
+B
+KIB
+KIB
+C
+GGJ
+GGJ
+D
+GGT
+GGT
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 162
+2614336
+If the word "development" is spelled "Tnemdevelop." Following that, "Evaluation" will be written as?
+अगर शब्द "Development" की स्पेलिंग "Tnemdevelop" है। उसके बाद, "Evaluation" के रूप में लिखा जाएगा
+A
+EVALUTIAON
+EVALUTIAON
+B
+EVALUATION
+EVALUATION
+C
+NOITEVAUAL
+NOITEVAUAL
+D
+NOITEVALUA
+NOITEVALUA
+Correct Ans : D
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 163
+2614343
+How would STATION be described in that code if SENSATIONAL may be outlined as 1 2 3 1 4 5 6 7 3 4?  
+यदि SENSATIONAL को 1 2 3 1 4 5 6 7 3 4 के रूप में परिभाषित किया जा सकता है, तो उस कोड में STATION को कैसे प्रदर्शित किया जाएगा?
+A
+1545673
+1545673
+B
+1574683
+1574683
+C
+1545667
+1545667
+D
+1545657
+1545657
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 164
+2614351
+'TEACHER' is represented by the code VGCEJGT in some languages. How does that code translate to "CHILDREN"?
+कुछ भाषाओं में 'TEACHER' को कोड VGCEJGT द्वाारा प्रदर्शित किया जाता है। वह कोड "CHILDREN" में कैसे अनुवाद करता है?
+A
+EJNKTFPG
+EJNKTFPG
+B
+PEJKNTFJ
+PEJKNTFJ
+C
+EJKNTFPG
+EJKNTFPG
+D
+EJKNFTGP
+EJKNFTGP
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------
+Q.No: 165
+2614369
+Read the following codes carefully, then respond to the questions.
+Using a specific code,
+The code for "Try hard to beat the world" is "fop rnu kir nhy dlo qsp."
+“Tib fet nhy yug kir rnu zde”, which is coded as "Hard to find world under one roof,"
+The code for "Find ball under the tree" is "ble fop bhu yug tib."
+'nhy zde rub dlo ble tib' is the code for the phrase "under one ball try to score."
+Where can I find the “beat the ball score” code?
+निम्नलिखित कोडों को ध्याानपूर्वक पढ़ें, फिर प्रश्नोंों के उत्तर दें।
+एक विशिष्ट कोड का उपयोग करना,
+"Try hard to beat the world" का कोड "fop rnu kir nhy dlo qsp" है।
+“Tib fet nhy yug kir rnu zde”, जिसे "Hard to find world under one roof” के रूप में कोडित किया गया है।
+"Find ball under the tree " का कोड "ble fop bhu yug tib" है।
+'nhy zde rub dlo ble tib' वाक्यांांश "under one ball try to score " के लिए कोड है।
+मुझे “beat the ball score” कोड कहां मिल सकता है?
+A
+qsp fop ble rub
+qsp fop ble rub
+B
+qsp tib bhu rub
+qsp tib bhu rub
+C
+kir fop ble bhu
+kir fop ble bhu
+D
+rnu fop ble rub
+rnu fop ble rub
+Correct Ans : A
+Subject : Gen. Reasoning graduate
+
+----------------------------------------

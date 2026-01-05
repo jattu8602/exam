@@ -1,0 +1,969 @@
+Subject: CHEMISTRY graduate
+Questions: 50
+========================================
+
+Q.No: 51
+2622771
+Which of the following is the statement of the Heisenberg Uncertainty Principle?
+निम्नलिखित में से कौन हाइजेनबर्ग अनिश्चितता सिद्धांांत का कथन है?
+A
+Electrons revolve in well-defined orbits around the nucleus.
+इलेक्ट्रॉॉन नाभिक के चारों ओर अच्छीी तरह से परिभाषित कक्षााओं में घूमते हैं।
+B
+All material particles possess dual characters.
+सभी भौतिक कणों में दोहरे गुण होते हैं।
+C
+The simultaneous measurement of the position and momentum of a small particle is not possible with absolute accuracy.
+एक छोटे कण की स्थिति और गति का एक साथ माप पूर्ण सटीकता के साथ संभव नहीं है।
+D
+In a strong magnetic field, an atomic spectrum is split into a number of lines.
+एक मजबूत चुंबकीय क्षेत्र में, एक परमाणु स्पेक्ट्रम कई रेखाओं में विभाजित होता है।
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 52
+2622782
+While calculating the lattice energy of an ionic solid, the repulsion energy is – 
+Which of the following is indicated by “b”?
+एक आयनिक ठोस की जालक ऊर्जा की गणना करते समय, प्रतिकर्षण ऊर्जा होती है –
+निम्नलिखित में से कौन सा "b" द्वाारा इंगित किया गया है?
+A
+Electronic charge
+इलेक्ट्रिक चार्ज 
+B
+Repulsion coefficient
+प्रतिकर्षण गुणांक
+C
+Distance between the ions
+आयनों के बीच की दूरी
+D
+Born repulsion exponent
+प्रतिकर्षण प्रतिपादक
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 53
+2622783
+Which of the following statements is in accordance with the lattice energy of an ionic substance?
+निम्नलिखित में से कौन सा कथन किसी आयनिक पदार्थ की जालक ऊर्जा के अनुसार है?
+A
+A greater stability of the ionic bond is indicated by a greater value of lattice energy.
+आयनिक बंधन की अधिक स्थिरता जालक ऊर्जा के अधिक मूल्य से संकेतित होती है।
+B
+A greater lattice energy indicates a lower value of the melting point.
+अधिक जालक ऊर्जा कम गलनांक मान दर्शाती है।
+C
+A harder substance has lower lattice energy.
+कठोर पदार्थ की जालक ऊर्जा कम होती है।
+D
+Greater values of ionic charge and ionic radii give a greater value of lattice energy.
+आयनिक आवेश और आयनिक त्रिज्याा के अधिक मूल्य जालक ऊर्जा का अधिक मूल्य देते हैं।
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 54
+2622798
+Which of the following is one of the salient features of antibonding molecular orbitals?
+निम्नलिखित में से कौन-सा प्रति-बंधन आण्विक कक्षकों की मुख्य विशेषताओं में से एक है?
+A
+Every electron in this molecular orbital contributes to repulsion between two atoms.
+इस आणविक कक्षीीय में प्रत्येक इलेक्ट्रॉॉन दो परमाणुओं के बीच प्रतिकर्षण में योगदान देता है।
+B
+It has high electron density in the region between two atomic nuclei.
+इसमें दो परमाणु नाभिकों के बीच के क्षेत्र में उच्च इलेक्ट्रॉॉन घनत्व होता है।
+C
+It has lower energy than the atomic orbitals from which it is formed.
+इसकी ऊर्जा उन परमाणु कक्षोंों की तुलना में कम होती है जिनसे यह बना है।
+D
+It is formed when the atomic orbitals’ lobes have the same signs.
+यह तब बनता है जब परमाणु ऑर्बिटल्स के लोब में समान संकेत होते हैं।
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 55
+2622799
+Which of the following is a disadvantage of the (MO) Molecular Orbital Theory?
+निम्नलिखित में से कौन सा आण्विक या अणु कक्षक सिद्धांांत (MO) का नुकसान है?
+A
+B
+Resonance is not a part of this theory.
+रेजोनेंस इस सिद्धांांत का हिस्साा नहीं है।
+C
+It is simple to apply.
+इसे प्रयोग में लाना आसान है।
+D
+Electrons in molecules are localised as if they are in isolated atoms.
+अणुओं में इलेक्ट्रॉॉन स्थानीयकृत होते हैं जैसे कि वे पृथक परमाणुओं में हों।
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 56
+2622811
+Grignard reagents are alkyl magnesium halides. Which of the following cannot be one of the halogens to prepare Grignard reagents?
+ग्रिग्नाार्ड अभिकर्मक एल्कााइल मैग्नीीशियम हलाइड्स हैं। ग्रिग्नाार्ड अभिकर्मकों को तैयार करने के लिए निम्नलिखित में से कौन सा हलोजन नहीं हो सकता है?
+A
+Chlorine
+क्लोोरीन
+B
+Bromine
+ब्रोोमिन
+C
+Fluorine
+फ्लोोरीन
+D
+Iodine
+आयोडीन
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 57
+2622855
+A
+The reaction rate is halved.
+प्रतिक्रिया की दर आधी हो जाती है
+B
+The reaction rate does not change.
+प्रतिक्रिया दर नहीं बदलती है
+C
+The reaction rate is doubled.
+प्रतिक्रिया की दर दोगुनी हो जाती है
+D
+The reaction rate is tripled.
+प्रतिक्रिया दर तीन गुना है
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 58
+2622856
+A
+Methyl halides
+मिथाइल हलाइड्स
+B
+Primary alkyl halides
+प्रााथमिक एल्कााइल हलाइड्स
+C
+Tertiary halides
+तृतीयक हलाइड्स
+D
+Vinylic halides
+वाइनिलिक हलाइड्स
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 59
+2622863
+Which of the following methods of forming aryl halides requires the diazonium salt to be warmed in the presence of copper powder when it decomposes to yield halobenzen
+एरील हैलाइड्स बनाने की निम्नलिखित विधियों में से किस विधि में डायज़ोोनियम नमक को तांबे के पाउडर की उपस्थिति में गर्म करने की आवश्यकता होती है जब यह हेलोबेंजीन उत्पन्न करने के लिए विघटित हो जाता है?
+A
+Schiemann reaction
+शिमैन प्रतिक्रिया
+B
+Sandmeyer’s reaction
+सैंडमेयर की प्रतिक्रिया
+C
+Direct halogenation of benzene
+बेंजीन का प्रत्यक्ष हैलोजनेशन
+D
+Gattermann reaction
+गैटरमैन प्रतिक्रिया
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 60
+2622878
+What is formed when benzaldehyde is refluxed with aqueous ethanolic KCN?
+जब बेंजाल्डिहाइड को जलीय एथेनॉलिक KCN के साथ रिफ्लक्स किया जाता है, तो क्याा बनता है?
+A
+Cinnamic acid
+सिनामिक अम्ल
+B
+Benzylacetophenone
+बेंजाइलैसेटोफेनोन
+C
+p-nitrobenzaldehyde
+पी-नाइट्रोोबेंजाल्डिहाइड
+D
+benzoin
+बेन्ज़ोइन
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 61
+2622893
+Why the Nernst distribution law is not valid for the distribution of benzoic acid between water and benzene?
+पानी और बेंजीन के बीच बेंजोइक अम्ल के वितरण के लिए नेर्नस्ट वितरण कानून मान्य क्योंों नहीं है?
+A
+The temperature of the system increases.
+सिस्टम का तापमान बढ़ जाता है।
+B
+The solvents are miscible.
+सॉल्वैंट्स मिश्रणीय हैं।
+C
+The solute is in the same molecular state as the solvents.
+विलेय सॉल्वैंट्स के समान आणविक अवस्था में है।
+D
+Benzoic acid undergoes association in benzene to form dimers.
+बेंजोइक एसिड बेंजीन में जुड़कर डिमर बनाता है।
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 62
+2622935
+Which option contains correct information about cellulose?
+किस विकल्प में सेल्युलोज के बारे में सही जानकारी है?
+A
+It is soluble in water.
+यह पानी में घुलनशील है।
+B
+It is insoluble in Schweitzer’s reagent.
+यह श्विट्जर के अभिकर्मक में अघुलनशील है।
+C
+It is a source of cellobiose when hydrolysed.
+हाइड्रोोलाइज्ड होने पर यह सेलोबायोस का स्रोोत है।
+D
+It is obtained in its purest form from wood.
+यह लकड़ीी से अपने शुद्धतम रूप में प्रााप्त किया जाता है।
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 63
+2622947
+What is the other term used for the centre of symmetry?
+सममिति केंद्र के लिए प्रयुक्त अन्य शब्द क्याा है?
+A
+Centre of conversion
+रूपांतरण केंद्र
+B
+Centre of inversion
+व्युत्क्रम केंद्र
+C
+Centre of equality
+समानता का केंद्र
+D
+Centre of rotation
+रोटेशन का केंद्र
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 64
+2622948
+How many diagonal planes of symmetry exist for a cube?
+एक घन में सममिति के कितने विकर्णीय तल होते हैं?
+A
+Six
+छह
+B
+Three 
+तीन
+C
+Eight
+आठ
+D
+Nine
+नौ
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 65
+2622960
+Which of the following is NOT correct about the order of a reaction?
+अभिक्रिया के क्रम के बारे में निम्नलिखित में से कौन सा सही नहीं है?
+A
+It is always a whole number.
+यह सदैव एक पूर्ण संख्याा होती है।
+B
+It can be experimentally determined.
+इसे प्रयोगात्मक रूप से निर्धारित किया जा सकता है।
+C
+It can be zero.
+यह शून्य हो सकता है।
+D
+It is the same for the overall reaction.
+यह समग्र प्रतिक्रिया के लिए समान है।
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 66
+2622976
+Which of the following does not belong to lanthanoids?
+निम्न में से कौन लैंथेनॉयड्स से संबंधित नहीं है?
+A
+Samarium
+सैमरियम
+B
+Holmium
+होल्मियम
+C
+Cerium
+सेरियम
+D
+Thallium
+थैलियम
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 67
+2623017
+What is the power generation potential of the Bay of Fundy Canada having 17 - 18 m high tides?
+17 - 18 मीटर उच्च ज्वाार वाली फन्डीी कनाडा की खाड़ीी की बिजली उत्पाादन क्षमता क्याा है?
+A
+3500 MW
+3500 मेगावाट
+B
+5000 MW
+5000 मेगावाट
+C
+2000 MW
+2000 मेगावाट
+D
+1000 MW
+1000 मेगावाट
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 68
+2623027
+Which law has limitations like that it holds good only for monochromatic radiation and governs the absorption behaviour of dilute solutions only?
+किस नियम की सीमाएँ हैं जैसे कि यह केवल मोनोक्रोोमैटिक विकिरण के लिए मान्य है और केवल तनु विलयनों के अवशोषण व्यवहार को नियंत्रित करता है?
+A
+Lambert - Beer law
+लैम्बर्ट - बीयर नियम
+B
+Grottus-Drapper law
+ग्रोोटस-ड्रेेपर नियम
+C
+Stark-Einstein Law
+स्टाार्क-आइंस्टीीन नियम
+D
+ Stern-Volmer equation
+स्टर्न-वोल्मर समीकरण
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 69
+2623044
+Which of the following describes the overall shape of the protein that includes the side chains and any other nonpeptide components of the protein?
+निम्नलिखित में से कौन सा प्रोोटीन के समग्र आकार का वर्णन करता है जिसमें साइड चेन और प्रोोटीन के अन्य गैर-पेप्टााइड घटक शामिल हैं?
+A
+Primary structure
+प्रााथमिक संरचना
+B
+ Quaternary structure
+चतुर्धातुक संरचना
+C
+Secondary structure
+माध्यमिक संरचना
+D
+Tertiary structure
+तृतीयक संरचना
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 70
+2623045
+What are long hydrocarbon chains of various lengths and degrees of unsaturation, terminated with carboxylic acid groups?
+कार्बोक्जिलिक अम्ल समूहों के साथ समाप्त होने वाली विभिन्न लंबाई और असंतृप्तता की डिग्रीी की लंबी हाइड्रोोकार्बन श्रृंृंखलाएं क्याा हैं?
+A
+Amino acids
+अमीनो अम्ल
+B
+Nucleic acid
+न्यूक्लिक अम्ल
+C
+Fatty Acids
+फैटी अम्ल
+D
+Carbohydrates
+कार्बोहाइड्रेेट
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 71
+2623057
+Which of the following have high strength, good resistance to gas, oil, and aromatic hydrocarbons, high abrasion resistance, and excellent resistance to oxygen and ozone 
+susceptible to microbial attack?
+निम्न में से किसके पास उच्च शक्ति, गैस, तेल और सुगंधित हाइड्रोोकार्बन के लिए अच्छाा प्रतिरोध, उच्च घर्षण प्रतिरोध और ऑक्सीीजन और ओजोन के लिए उत्कृृष्ट प्रतिरोध है लेकिन माइक्रोोबियल हमले के लिए अतिसंवेदनशील हैं
+A
+Polyurethane
+पॉलीयुरेथेन
+B
+Fluoropolymers
+फ्लोोरोपॉलीमर
+C
+Toluene
+टोल्यूनि
+D
+ Silicone polymers
+सिलिकॉन पॉलिमर
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 72
+2623099
+What is the term used to express the number of collisions per second per unit volume?
+प्रति इकाई आयतन प्रति सेकंड संघट्टोंों की संख्याा को व्यक्त करने के लिए किस शब्द का प्रयोग किया जाता है?
+A
+Collision frequency
+संघट्टन आवृत्ति
+B
+Collision cross-section
+संघट्टन क्रॉॉस-सेक्शन
+C
+Collision diameter
+संघट्टन व्याास
+D
+Collision rate
+संघट्टन दर
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 73
+2623109
+According to Andrews’ experiment on the critical phenomenon, which of the following can be observed?
+क्रांांतिक परिघटना पर एंड्रूज के प्रयोग के अनुसार, निम्नलिखित में से किसे देखा जा सकता है?
+A
+B
+C
+The volume of the gas increases with an increase in pressure.
+दाब बढ़ााने पर गैस का आयतन बढ़ता है।
+D
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 74
+2623124
+Which of the following type of glass is obtained by pressing together several layers of glass with vinyl resins in alternate layers?
+निम्नलिखित में से किस प्रकार का कांच एकांतर परतों में विनाइल रेजिन के साथ कांच की कई परतों को एक साथ दबाने से प्रााप्त होता है?
+A
+ Soda lime glass
+सोडा लाइम ग्लाास
+B
+ Laminated glass
+लैमिनेटेड ग्लाास
+C
+ Armoured glass
+आर्मर्ड ग्लाास
+D
+ Lead glass
+लीड ग्लाास
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 75
+2623139
+Which type of catalysts are relatively rare in industrial processes till date but they play a vital role in the development of pharmaceuticals?
+किस प्रकार के उत्प्रेरक आज तक औद्योोगिक प्रक्रियाओं में अपेक्षााकृत दुर्लभ हैं लेकिन वे फार्मास्यूटिकल्स के विकास में महत्वपूर्ण भूमिका निभाते हैं?
+A
+ Asymmetric catalysts
+असममित उत्प्रेरक
+B
+ Phase transfer catalysts
+उत्प्रेरक चरण हस्तांांतरण
+C
+ Photocatalysts
+फोटोकैटलिस्ट्स
+D
+ Biocatalysts
+जैव उत्प्रेरक
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 41
+2622772
+The Schrodinger wave equation for a single particle in three dimensions is :
+In this equation, what does ‘h’ stand for?
+तीन आयामों में एक कण के लिए श्रोोडिंगर तरंग समीकरण है –
+इस समीकरण में, 'h' किसका प्रतीक है?
+A
+The amplitude of the wave function associated with the electron
+इलेक्ट्रॉॉन से संबद्ध तरंग फलन का आयाम
+B
+Mass of the electron
+इलेक्ट्रॉॉन का द्रव्यमान
+C
+Planck’s constant
+प्लैंक स्थिरांक
+D
+The potential energy of the system
+सिस्टम की संभावित ऊर्जा
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 42
+2622784
+In the Born-Haber cycle for the formation of an ionic solid MX, which of the following options contains a set of positive quantities?
+आयनिक ठोस एमएक्स के निर्माण के लिए बोर्न-हेबर चक्र में, निम्नलिखित में से किस विकल्प में सकारात्मक मात्राा का एक सेट होता है?
+A
+Sublimation energy of the metal and electron affinity
+धातु और इलेक्ट्रॉॉन बंधुता की उर्ध्वपातन ऊर्जा
+B
+Lattice energy and heat of formation
+जालक ऊर्जा और गठन की गर्मी
+C
+Ionisation energy and dissociation energy
+आयनीकरण ऊर्जा और पृथक्करण ऊर्जा
+D
+Electron affinity and lattice energy
+इलेक्ट्रॉॉन बंधुता और जालक ऊर्जा
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 43
+2622785
+What happens to the solvation energy of an ionic compound if the solvent has high polarizability?
+यदि विलायक में उच्च ध्रुवीकरण होता है, तो आयनिक यौगिक की सॉल्वैंशन ऊर्जा का क्याा होता है?
+A
+Decreases
+कम हो जाती है
+B
+Increases
+बढ़ती है
+C
+Remains the same
+वैसा ही रहता है
+D
+First decreases, then gradually increases
+पहले घटता है, फिर धीरे-धीरे बढ़ता है
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 44
+2622800
+What is the name given to the hypothetical depiction of two or more structures for a given chemical species which differ in the
+distribution of electrons?
+दी गई रासायनिक प्रजातियों के लिए दो या दो से अधिक संरचनाओं के काल्पनिक चित्रण को क्याा नाम दिया गया है जो इलेक्ट्रॉॉनों के वितरण में भिन्न हैं?
+A
+Aromaticity
+ऐरोमैटिकता
+B
+Resonance
+रेजोनेंस
+C
+Hyperconjugation
+अतिसंयुग्मन
+D
+Electromeric effect
+इलेक्ट्रोोमेरिक प्रभाव
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 45
+2622812
+Alkane can be obtained by heating a solution of an alkyl halide in ether with sodium. Which of the following process for forming
+alkane is illustrated through this example?
+सोडियम के साथ ईथर में एल्कााइल हैलाइड के घोल को गर्म करके एल्केेन प्रााप्त किया जा सकता है।
+ इस उदाहरण के माध्यम से अल्केेन बनाने के लिए निम्न में से कौन सी प्रक्रिया का वर्णन किया गया है?
+A
+Catalytic hydrogenation
+उत्प्रेरक हाइड्रोोजनीकरण
+B
+Kolbe’s synthesis
+कोल्बे का संश्लेषण
+C
+From Grignard reagent
+ग्रिग्नाार्ड अभिकर्मक से
+D
+Wurtz reaction
+वुर्ट्ज़ अभिक्रिया
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 46
+2622857
+A
+B
+C
+D
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 47
+2622864
+Which of the following is NOT a correct factor responsible for the lack of reactivity of aryl halides than alkyl halides in nucleophilic
+substitution reaction?
+न्यूक्लियोफिलिक प्रतिस्थापन प्रतिक्रिया में एल्कााइल हलाइड्स की तुलना में एरिल हलाइड्स की प्रतिक्रियाशीलता की कमी के लिए निम्नलिखित में से कौन सा सही कारक नहीं है?
+A
+B
+C
+Carbon-halogen bond of aryl halides is too strong.
+एरील हैलाइड्स का कार्बन-हैलोजन बंधन बहुत मजबूत है
+D
+The aromatic ring blocks the nucleophile’s approach to carbon at the side opposite the bond to the leaving group.
+सुगन्धित वलय छोड़ने वाले समूह के बंधन के विपरीत तरफ कार्बन के लिए न्यूक्लियोफाइल के दृष्टिकोण को अवरुद्ध करता है।
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 48
+2622879
+What is the characteristic of an ideal solution?
+एक आदर्श विलयन की क्याा विशेषता होती है?
+A
+It follows Raoult’s law over the entire range of concentrations.
+यह सांद्रता की संपूर्ण सीमा पर राउल्ट के नियम का पालन करता है।
+B
+It does not behave ideally as the concentration of the solutes approach zero.
+यह आदर्श रूप से व्यवहार नहीं करता है क्योंोंकि
+ विलेय की सांद्रता शून्य के करीब पहुंच जाती है।
+C
+It does not follow Raoult’s law with dilution.
+यह तनुकरण के साथ राउल्ट के नियम का पालन नहीं करता है।
+D
+It shows an increase in the vapour pressure of the solvent for an involatile solute.
+यह अघुलनशील विलेय के लिए विलायक के वाष्प दाब में वृद्धि दर्शाता है।
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 49
+2622950
+In which of the following axis of symmetry, the compact structure of a crystal cannot be obtained?
+सममिति के निम्न में से किस अक्ष में, क्रिस्टल की सघन संरचना प्रााप्त नहीं की जा सकती है?
+A
+Three-fold
+तीन गुना
+B
+Four-fold
+चौगुना
+C
+Five-fold
+पांच गुना
+D
+Six-fold
+छह गुना
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 50
+2622961
+A reaction is first order in A and second order in B. How is the rate affected when the concentration of B is increased two times?
+अभिक्रिया A में प्रथम कोटि तथा B में द्वितीय कोटि की होती है। B की सान्द्रता दो गुना करने पर अभिक्रिया की दर किस प्रकार प्रभावित होती है?
+A
+The rate will increase 2 times.
+दर 2 गुना बढ़ जाएगी
+B
+The rate will increase 4 times.
+दर 4 गुना बढ़ जाएगी ।
+C
+The rate will increase 8 times.
+दर 8 गुना बढ़ जाएगी ।
+D
+The rate will increase 6 times.
+दर 6 गुना बढ़ जाएगी ।
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 51
+2622977
+Which of the following set of actinoid elements exhibit oxidation states up to +7?
+निम्नलिखित में से कौन सा ऐक्टिनाइड तत्वोंों का समुच्चय +7 तक ऑक्सीीकरण अवस्था दर्शाता है?
+A
+Americium and Uranium
+अमेरिशियम और यूरेनियम
+B
+Neptunium and Plutonium
+नेप्च्यूनियम और प्लूटोनियम
+C
+Americium and Californium
+अमेरिशियम और कैलिफोर्नियम
+D
+Protactinium and Neptunium
+प्रोोटैक्टीीनियम और नेप्टुटुनियम
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 52
+2623018
+What is produced in the Kroll process, which is a pyrometallurgical industrial process?
+क्रोोल प्रक्रिया में क्याा उत्पाादित होता है, जो कि पाइरोमेटालर्जिकल औद्योोगिक प्रक्रिया है?
+A
+Cobalt
+कोबाल्ट
+B
+Nickel
+निकल
+C
+Metallic Titanium
+धात्विक टाइटेनियम
+D
+Copper
+कॉपर
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 53
+2623028
+A healthy human adult has about 1.05 kg Ca of which a specific percentage exists as phosphates resembling the mineral
+hydroxyapatite. What is that percentage?
+एक स्वस्थ मानव वयस्क में लगभग 1.05 किलोग्रााम Ca होता है, जिसका एक विशिष्ट प्रतिशत फॉस्फेेट के रूप में मौजूद होता है, जो खनिज हाइड्रॉॉक्सीीपैटाइट के समान होता है।
+ वह प्रतिशत क्याा है?
+A
+40%
+40%
+B
+33%
+33%
+C
+66%
+66%
+D
+99%
+99%
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 54
+2623046
+Which of the following has double bonds and is formed during hydrogenation of natural oils?
+प्रााकृतिक तेलों के हाइड्रोोजनीकरण के दौरान दोहरे बंधन क्याा होते हैं और बनते हैं?
+A
+Hydroxy fatty acids
+हाइड्रोोक्सीी फैटी अम्ल
+B
+Cyclic fatty acids
+चक्रीीय फैटी अम्ल
+C
+Trans fatty acids
+ट्रांांस फैटी अम्ल
+D
+Linoleic acids
+लिनोलिक अम्ल
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 55
+2623047
+What is defined as the mg of KOH required to hydrolyse one gram of fat or oil?
+एक ग्रााम वसा या तेल को हाइड्रोोलाइज करने के लिए आवश्यक KOH के मिलीग्रााम के रूप में क्याा परिभाषित किया गया है?
+A
+RM number
+आरएम संख्याा
+B
+Iodine value
+आयोडीन मान
+C
+Saponification number
+सैपोनिफिकेशन संख्याा
+D
+Acid number
+एसिड संख्याा
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 56
+2623058
+Which is an amorphous polymer with low moisture absorption, low combustibility, good dimensional stability, and high
+light transmittance?
+कम नमी अवशोषण, कम ज्वलनशीलता, अच्छीी आयामी स्थिरता और उच्च प्रकाश संप्रेषण वाला एक अक्रिस्टलीय बहुलक कौन सा है?
+A
+Polyester
+पॉलिएस्टर
+B
+Polyethylene
+पॉलीएथिलीन
+C
+Polycarbonates
+पॉलीकार्बोनेट
+D
+Polyaniline
+पॉलीएनिलीन
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 57
+2623100
+On which of the following factors, does the collision frequency of a molecule not depend upon?
+किसी अणु की संघट्टन आवृत्ति निम्नलिखित में से किस कारक पर निर्भर नहीं करती है?
+A
+Collision cross-section
+टक्कर क्रॉॉस-सेक्शन
+B
+Number of molecules per unit volume
+प्रति इकाई आयतन में अणुओं की संख्याा
+C
+Collision diameter
+संघटन व्याास
+D
+Molecular speed
+आणविक गति
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 58
+2623110
+What is the effect of temperature on the surface tension of a liquid?
+द्रव के पृष्ठ तनाव पर तापमान का क्याा प्रभाव पड़ता है?
+A
+Decreases with an increase in temperature
+तापमान में वृद्धि के साथ घटता है
+B
+Increases with increase in temperature
+तापमान में वृद्धि के साथ बढ़ता है
+C
+Remains constant with a change in temperature
+तापमान में परिवर्तन के साथ स्थिर रहता है
+D
+Decreases with a change in temperature in any direction
+किसी भी दिशा में तापमान में परिवर्तन के साथ घट जाती है
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 59
+2623125
+Which of the following is the allotropic form of carbon prepared by evaporation of graphite electrode?
+निम्नलिखित में से कौन ग्रेफाइट इलेक्ट्रोोड के वाष्पीीकरण द्वाारा तैयार कार्बन का अलॉट्रोोपिक रूप है?
+A
+Piezoelectric ceramics
+पीजोइलेक्ट्रिक सिरेमिक
+B
+Feldspar
+फेल्डस्पाार
+C
+Sand
+रेत
+D
+Fullerenes 
+फुलरीन
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 60
+2623140
+Which of the following originates from Van der Waals interaction between reactants and surface?
+निम्नलिखित में से कौन अभिकारकों और सतह के बीच वान डेर वाल्स अंतःक्रिया से उत्पन्न होता है?
+A
+ Diffusion
+डिफ्यूजन
+B
+ Hydrolysis
+हाइड्रोोलिसिस
+C
+ Chemisorption
+रासायनिक अवशोषण
+D
+ Physisorption
+फिजियोसर्शन
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 68
+2622774
+Which of the following is associated with the phenomenon of the Zeeman effect?
+निम्नलिखित में से कौन जिमन प्रभाव की परिघटना से संबंधित है?
+A
+Spin quantum number
+स्पिन क्वांांटम संख्याा
+B
+Radial quantum number
+रेडियल क्वांांटम संख्याा
+C
+Azimuthal quantum number
+अज़ीीमुथल क्वांांटम संख्याा
+D
+Magnetic quantum number
+चुंबकीय क्वांांटम संख्याा
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 69
+2622775
+Which of the following is the shape of p-orbitals?
+निम्न में से कौन सा P -ऑर्बिटल्स का आकार है?
+A
+B
+C
+D
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 70
+2622786
+Why does magnesium carbonate dissolve slightly in water?
+मैग्नीीशियम कार्बोनेट पानी में थोड़ाा घुलनशील क्योंों है?
+A
+B
+C
+D
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 71
+2622787
+Which of the following defines “polarisability”?
+निम्नलिखित में से कौन "ध्रुवीयता" को परिभाषित करता है?
+A
+The power of an ion to distort the other ion
+एक आयन की शक्ति दूसरे आयन को विकृत करने की
+B
+The anion’s tendency to distortion
+आयनों की विकृति की प्रवृत्ति
+C
+The cation’s tendency to distort
+कटियन की विकृत करने की प्रवृत्ति
+D
+The process of an ion being polarised
+आयन के ध्रुवीकरण की प्रक्रिया
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 72
+2622801
+What is an inductive effect?
+प्रेरक आगमनात्मक प्रभाव क्याा है?
+A
+B
+C
+D
+It is the congestion caused by the presence of surrounding substituents in a molecule.
+यह एक अणु में आसपास के पदार्थों की उपस्थिति के कारण होने वाली भीड़ है। 
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------

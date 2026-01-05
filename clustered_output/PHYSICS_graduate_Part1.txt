@@ -1,0 +1,952 @@
+Subject: PHYSICS graduate
+Questions: 50
+========================================
+
+Q.No: 26
+2626178
+What are the external forces acting on the body if the billiard ball is resting on the table?
+यदि बिलियर्ड की गेंद मेज पर रखी है तो शरीर पर लगने वाले बाह्य बल क्याा हैं?
+A
+Gravitational force and Contact force
+गुरुत्वााकर्षण बल और संपर्क बल
+B
+Non-contact force and Gravitational force
+गैर संपर्क बल और गुरुत्वााकर्षण बल
+C
+Only gravitational force
+केवल गुरुत्वााकर्षण बल
+D
+Only non-contact force.
+केवल गैर-संपर्क बल।
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 27
+2626188
+Which type of motion is produced by the movement of the door of the almirah ?
+अलमारी के दरवाजे के हिलने से किस प्रकार की गति उत्पन्न होती है?
+A
+Rotational motion
+घूर्णन गति
+B
+Linear motion
+रैखिक गति
+C
+Oscillatory motion
+दोलन गति
+D
+Circular motion
+परिपत् या वृत्तीीय गति
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 28
+2626203
+Which of the following material doesn’t obey Hooke’s law?
+निम्नलिखित में से कौन सा पदार्थ हुक के नियम का पालन नहीं करता है?
+A
+Rubber
+रबड़
+B
+Steel
+स्टीील
+C
+Aluminium
+एल्यूमीनियम
+D
+All the above material
+उपरोक्त सभी सामग्रीी
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 29
+2626204
+Which is defined as the ratio of normal stress to volume strain within elastic limits?
+लोचदार सीमाओं के अन्दर सामान्य प्रतिबल और आयतन विकृति के अनुपात के रूप में किसे परिभाषित किया जाता है?
+A
+Young modulus of elasticity
+लोच के यंग मापांक
+B
+Bulk modulus of elasticity
+लोच के थोक मापांक
+C
+Modulus of Rigidity
+कठोरता का मापांक
+D
+Poisson’s Ratio
+पॉसों का अनुपात
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 30
+2626218
+What is the shape of the incident and diffracted wavefront in Fraunhofer's diffraction?
+फ्रााउनहोफर विवर्तन में आपतित तथा विवर्तित तरंगाग्र का आकार कैसा होता है ?
+A
+Plane
+समतल
+B
+Elliptical
+दीर्घवृत्तीीय
+C
+Cylindrical
+बेलनाकार
+D
+Spherical
+गोलाकार
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 31
+2626253
+In which method electric charge is created by mechanical stress?
+किस विधि में यांत्रिक प्रतिबल द्वाारा विधुत आवेश उत्पन्न होता है?
+A
+Piezoelectricity
+पीजोइलेक्ट्रिकिटी
+B
+Ferroelectricity
+फेरोइलेक्ट्रिसिटी
+C
+Electrostriction
+इलेक्ट्रोोस्ट्रिक्शन
+D
+Electret
+इलेक्ट्रेट
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 32
+2626264
+Which one of the following components is a non-linear circuit component?
+निम्नलिखित घटकों में से कौनसा एक गैर-रैखिक सर्किट घटक है?
+A
+Resistor
+रेसिस्टर
+B
+Inductor
+इंडक्टर
+C
+Capacitor
+कपैसिटर
+D
+Transistor
+ट्रांांजिस्टर
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 33
+2626265
+Which is the correct expression for the electrical resistance of the circuit?
+सर्किट के विद्युत प्रतिरोध के लिए सही अभिव्यक्ति कौन सी है?
+A
+B
+C
+D
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 34
+2626278
+When an oscillator is subjected to external periodic force, which type of oscillation exists in anoscillator?
+जब एक दोलक बाह्य आवधिक बल के अधीन होता है, तो एक दोलक में किस प्रकार का दोलन होता है?
+A
+Forced oscillation
+बल पूर्ण दोलन
+B
+Damped oscillation
+अवमन्दित दोलन
+C
+Free oscillation
+मुक्त दोलन
+D
+Both forced and free oscillation
+बल पूर्णऔर मुक्त दोनों दोलन
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 35
+2626293
+Which relation is used to find the wavelength of the light source used in biprism?
+द्विप्रिज्म में प्रयुक्त प्रकाश स्रोोत की तरंगदैर्घ्य ज्ञाात करने के लिए किस संबंध का प्रयोग किया जाता है?
+A
+B
+C
+D
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 36
+2626328
+Which of the following cannot be measured by a cathode ray oscilloscope?
+निम्नलिखित में से किसे कैथोड रे ऑसिलो स्कोोप द्वाारा नहीं मापा जा सकताहै?
+A
+Power
+शक्ति
+B
+Frequency
+आवृत्ति
+C
+Phase difference
+चरण अंतर
+D
+Pulse width
+पल्स चौड़ााई
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 37
+2626329
+Read the following statement and find the correct answer.
+A. Vertical Amplifier amplifies the signal at its input prior to the signal being applied to the vertical deflection plates
+B. Horizontal Amplifier amplifies the signal at its input prior to the signal being applied to the horizontal deflection plate.
+निम्नलिखित कथन को पढ़िए और सही उत्तर ढूंढिए।
+A. लंबवत विक्षेपण प्लेटों पर सिग्नल लागू होने से पहले वर्टि कल एम्पलीफायर अपने इनपुट पर सिग्नल को बढ़ााता है
+B. क्षैतिज प्रवर्धक क्षैतिज विक्षेपण प्लेट पर सिग्नल लागू होने से पहले अपने इनपुट पर सिग्नल को बढ़ााता है।
+A
+A is correct B is incorrect
+A सही है B गलत है
+B
+A is incorrect and B is correct
+A गलत है और b सही है
+C
+Both A and B are correct
+A और b दोनों सही हैं
+D
+Both A and B are incorrect
+A और B दोनों गलत हैं
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 38
+2626333
+What is the gain of the inverting voltage feedback op amp circuit?
+इन्वर्टिंग वोल्टेज फीडबैक ऑप एम्पियर सर्किट का लाभ किसके  द्वाारा निर्धारित किया जाता है। 
+A
+B
+C
+D
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 39
+2626338
+Which one of the following is not the passive component?
+निम्नलिखित में से कौन सा निष्क्रिय घटक नहीं है?
+A
+Resistors
+प्रतिरोध
+B
+Transistor
+ट्रांांजिस्टर
+C
+Inductors
+इंडक्टर्स
+D
+ Capacitors
+कैपेसिटर
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 40
+2626353
+Write the equivalent AND form of inverse law in Boolean algebra?
+बूलियन बीजगणित में, AND फॉर्म व्युत्क्रम नियम को___________ के रूप में लिखा जाता है।
+A
+B
+C
+D
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 41
+2626354
+Which type of circuit uses past inputs to determine present outputs indicates we must have event ordering?
+वर्तमान आउटपुट को निर्धारित करने के लिए कौन सा सर्किट पिछले इनपुट का उपयोग करता है यह दर्शाता है कि हमारे पास इवेंट ऑर्डरिंंग होना चाहिए?
+A
+Combination circuit
+संयोजन सर्किट
+B
+Sequential circuit
+अनुक्रमिक सर्किट
+C
+Data processing circuit
+डाटाप्रोोसेसिंग सर्किट
+D
+Arithmetic circuit
+अंकगणितीय सर्किट
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 42
+2626368
+Read the following statements-based superconductivity and choose the correct option.
+Statement A: Super conductivity is found in metallic elements in which the number of valence electron Z lies between 2 and 8
+Statement B: Materials with the product of number of valence electrons and the resistivity does not show superconductivity.
+अतिचालकता पर आधारित निम्नलिखित कथनोंको पढ़िए और सही विकल्प का चयन कीजिए।
+कथन A: सुपर कंडक्टिविटी धातु तत्वोंों में पाई जाती है जिसमें वैलेंस इलेक्ट्रॉॉन Z की संख्याा 2 और 8 के बीच होती है
+कथन B: वैलेंस इलेक्ट्रॉॉनों की संख्याा और प्रतिरोधकता के उत्पााद वाली सामग्रीी अतिचालकता नहीं दिखाती है।
+A
+A is correct and B is incorrect
+A सही है और B गलत है
+B
+B is correct and A is incorrect
+B सही है और A गलत है
+C
+Both A and B is correct
+A और B दोनों सही हैं
+D
+Both A and B are Incorrect
+A और B दोनों गलत हैं
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 43
+2626403
+Which one of the following gives the temperature dependence of the total black body energy flux E?
+कुल ऊर्जा प्रवाह E की तापमान निर्भरता किसके द्वाारा दी गई है
+A
+B
+C
+D
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 44
+2626413
+Nicol prism is called as which type of crystal?
+निकोल प्रिज्म को किस प्रकार का क्रिस्टल कहा जाता है?
+A
+B
+C
+D
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 45
+2626428
+Which one of the following is correct with respect to Zener breakdown?
+जेनर ब्रेकडाउन के संबंध में निम्नलिखित में से कौन सा सही है?
+A
+Zener breakdown occurs because of the collision of the electrons inside the p-n junction.
+p-n जंक्शन के अंदर इलेक्ट्रॉॉनों की टक्कर के कारण जेनर ब्रेकडाउन होता है।
+B
+After the Zener breakdown the junction regains its original position.
+जेनर ब्रेकडाउन के बाद जंक्शन अपनी मूल स्थिति को पुनः प्रााप्त करता है।
+C
+Zener breakdown occurs in high doping material.
+उच्च डोपिंग सामग्रीी में जेनर ब्रेकडाउन होता है।
+D
+ Zener breakdown voltage is inversely proportional to the temperature.
+जेनर ब्रेकडाउन वोल्टेज तापमान के व्युत्क्रमानुपाती होता है।
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 46
+2626443
+In which region, the transistor acts as an amplifier?
+ट्रांांजिस्टर किस क्षेत्र में प्रवर्धक के रूप में कार्य करता है?
+A
+Active region
+सक्रिय क्षेत्र
+B
+Cut-off region
+कट-ऑफ क्षेत्र
+C
+Saturation region
+संतृप्ति क्षेत्र
+D
+Breakdown region
+ब्रेकडाउन क्षेत्र
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 47
+2626478
+In which one of the factors nuclear stabilities cannot be determined?
+किस एक कारक में परमाणु स्थिरता निर्धारित नहीं की जा सकती है?
+A
+Neutron-proton ratio 
+न्यूट्रॉॉन-प्रोोटॉन अनुपात
+B
+Electron-proton ration
+इलेक्ट्रॉॉन-प्रोोटॉन अनुपात
+C
+The packing fraction of the nucleus
+नाभिक का पैकिंंग अंश
+D
+The binding energy per unit nucleon
+बंधन ऊर्जा प्रति यूनिट न्यूक्लियॉन
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 48
+2626484
+Which is proportional to volume binding energy of the nucleus in liquid drop model?
+लिक्विड ड्रॉॉप मॉडल में नाभिक की आयतन बंधन ऊर्जा के समानुपाती कौन सा है?
+A
+Atomic number
+परमाणु संख्याा
+B
+Mass number
+द्रव्यमान संख्याा
+C
+Number of neutrons
+न्यूट्रॉॉन की संख्याा
+D
+Mass defect
+द्रव्यमान में कमी
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 49
+2626503
+Which type of cell has exactly one lattice point?
+किस प्रकार के सेल में वास्तव में एक जाली बिंदु होता है?
+A
+Primitive lattice cell
+आदिम जाली सेल
+B
+Winner-Seitz cell
+विजेता-सेट्ज़ सेल
+C
+Simple cell
+सरल सेल
+D
+Common crystal cell
+सामान्य क्रिस्टल सेल
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 50
+2626518
+Read the following statements based on Laser and choose the correct option.
+Statement A: The pumping method employed in He-Ne Laser is electrical pumping method and is based on four level pumping
+schemes.
+Statement B: Helium-Neon Laser was first gas Laser to be invented by Ali-Jawan in 1961.
+लेसर पर आधारित निम्नलिखित कथनों को पढ़िए और सही विकल्प का चयन कीजिए।
+कथन A: He-Ne लेज़र में नियोजित पम्पिंग विधि विद्युत पम्पिंग विधि है और यह चार स्तरीय पम्पिंग योजनाओं पर आधारित है।
+कथन B: हीलियम-नियॉन लेजर 1961 में अली-जवान द्वाारा आविष्काार किया जाने वाला पहला गैस लेजर था।
+A
+A is correct and B is incorrect
+A सही है और B गलत है
+B
+B is correct and A is incorrect
+B सही है और A गलत है
+C
+Both A and B is correct
+A और B दोनों सही हैं
+D
+Both A and B are Incorrect
+A और B दोनों गलत हैं
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 26
+2626179
+Which one of the following would be the total momentum of an isolated system?
+निम्नलिखित में से कौन सा एक पृथक प्रणाली का कुल संवेग होगा?
+A
+Rational
+युक्तिसंगत
+B
+Constant
+स्थिर
+C
+Positive
+सकारात्मक
+D
+Negative
+नकारात्मक
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 27
+2626189
+Which one of the quantities is required to produce angular acceleration in a particle about an axis?
+एक अक्ष के एक कण में कोणीय त्वरण उत्पन्न करने के लिए किस की आवश्यकता होती है?
+A
+Torque
+टॉर्क
+B
+Force
+बल
+C
+Mass
+द्रव्यमान
+D
+Momentum
+गति
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 28
+2626205
+A
+B
+C
+D
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 29
+2626206
+Represent the Young’s Module of elasticity.
+प्रत्याास्थता का यंग मापांक किसके द्वाारा प्रदर्शित किया जा सकता हैं:
+A
+Tensile stress/ Tensile strain
+टेन्सााइल स्ट्रेस / टेन्सााइल स्ट्रेन
+B
+Shear stress/ Shear strain
+शियर स्ट्रेस / शियर स्ट्रेन
+C
+Tensile stress/ Shear strain
+टेन्सााइल स्ट्रेस / शियर स्ट्रेन
+D
+Shear stress/ Tensile strain
+शियर स्ट्रेस / टेन्सााइल स्ट्रेन
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 30
+2626219
+The area of each Fresnel’s half period zone is same and equal to which factor?
+प्रत्येक फ्रेेनेल के अर्ध आवर्त क्षेत्र का क्षेत्रफल किस गुणक के समान और बराबर होता है?
+A
+B
+C
+D
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 31
+2626254
+Name the dielectric breakdown that occurs due to the presence of gas bubbles in the solid medium forming ions resulting in current.
+ठोस माध्यम बनाने वाले आयनों में गैस के बुलबुले की उपस्थिति के कारण होने वाले ढांकता हुआ ब्रेकडाउन का नाम बताएं जिसके परिणाम स्वरूप करंटउ तपन्न होता है।
+A
+ Intrinsic breakdown
+इन्ट्रिंसिक ब्रेकडाउन
+B
+Discharge breakdown
+डिस्चार्ज ब्रेकडाउन
+C
+Electrochemical breakdown
+इलेक्ट्रोो केमिकल ब्रेकडाउन
+D
+Defect breakdown
+डिफेक्ट ब्रेकडाउन
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 32
+2626266
+The ability of a capacitor to store charge does not depend on_________.
+कैपेसिटर की चार्ज स्टोोर करने की क्षमता_______ पर निर्भर नहीं करती है।
+A
+Area of plate
+प्लेट का क्षेत्र
+B
+Applied voltage
+एप्लााइड वोल्टेज
+C
+Thickness of dielectric
+डाइ इलैक्ट्रिक की मोटाई
+D
+Relative permittivity of a dielectric
+डाइ इलैक्ट्रिक की सापेक्ष पारगम्यता
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 33
+2626267
+What does the fifth band in the resistor colour code system represents?
+प्रतिरोधक रंग कोड प्रणाली में पांचवां बैंड क्याा दर्शाता है?
+A
+Neutral
+तटस्थ
+B
+Decimal multiplier
+दशमलव गुणक
+C
+Tolerance
+टॉलरेंस
+D
+Significant digits
+महत्वपूर्ण अंक
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 34
+2626279
+Which one of the following is an example of a periodic motion which is not oscillatory?
+निम्नलिखित में से कौन सा एक आवधिक गति का उदाहरण है जो दोलनशील नहीं है?
+A
+Simple pendulum
+सरल पेंडुलम
+B
+Compound pendulum
+मिश्रित पेंडुलम
+C
+Acoustic harmonic oscillator
+ध्वनिक हार्मोनिक ऑसीलेटर
+D
+Motion of the earth around the sun
+सूर्य के चारों ओर पृथ्वीी की गति
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 35
+2626294
+Young’s double slit experiment is an example of which division of interference?
+यंग का डबल स्लिट प्रयोग किस प्रकार के व्यतिकरण का एक उदाहरण है।
+A
+Division of Amplitude
+आयाम का विभाजन
+B
+Division of Wavelength
+तरंग दैर्ध्य का विभाजन
+C
+Division of Wave front
+वेव फ्रंंट का विभाजन
+D
+Division of Frequency
+आवृत्ति का विभाजन
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 36
+2626330
+Which one of the following serves as the heart of the CRO?
+जो निम्नलिखित में से एक सीआरओ के दिल के रूप में कार्य करता है
+A
+Cathode-ray tube
+कैथोड-रेट्यूब
+B
+Vertical amplifier 
+वर्टीकल एम्पलीफायर
+C
+Sweep generator
+स्वीीप जनरेटर
+D
+Trigger circuit
+ट्रिगर सर्किट
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 37
+2626331
+Match the following.
+निम्नलिखित को मिलाएं।
+A
+1-C, 2-A, 3-D, 4-B
+1-C, 2-A, 3-D, 4-B
+B
+1-B, 2-A, 3-D, 4-C
+1-B, 2-A, 3-D, 4-C
+C
+1-A, 2-C, 3-D, 4-B
+1-A, 2-C, 3-D, 4-B
+D
+1-C, 2-D, 3-A, 4-B
+1-C, 2-D, 3-A, 4-B
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 38
+2626339
+Which of the following is incorrect with respect to integrated circuits?
+एकीकृत परिपथों के संबंध में निम्नलिखित में से कौन सा गलत है?
+A
+Low power consumption
+कम बिजली की खपत
+B
+Increase response time and speed
+प्रतिक्रिया समय और गति बढ़ााएं
+C
+Extremely low reliability
+बेहद कम विश्वसनीयता
+D
+Extremely small physical size
+बहुत छोटा भौतिक आकार
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 39
+2626340
+How many numbers of circuit package can be found in MSI?
+एमएसआई में कितने सर्किट पैकेज पाए जा सकते हैं?
+A
+Less than 12
+12 से कम
+B
+Between 13 and 99
+13 और 99 के बीच
+C
+Between 100 and 1000
+100 से 1000 के बीच
+D
+More than 1000
+1000 से अधिक
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 40
+2626355
+Read the following statement and choose the correct option.
+Statement A: A clock is a circuit that emits a series of pulses with a precise pulse width and a precise interval between consecutive
+pulses. 
+Statement B: A clock is used by a sequential circuit to decide when to update the state of the circuit
+निम्नलिखित कथन को पढ़िए और सही विकल्प का चयन कीजिए।
+कथन A: एक घड़ीी एक सर्किट है जो स्पंदों की एक श्रृंृंखला को एक सटीक पल्स चौड़ााई और लगातार पल्स के बीच एक सटीक अंतराल के साथ उत्सर्जित करता है।
+कथन B: एक अनुक्रमिक सर्किट द्वाारा एक घड़ीी का उपयोग यह तय करने के लिए किया जाता है कि सर्किट की स्थिति को कब अपडेट किया जाए
+A
+Statement A is correct and B is incorrect
+कथन A सही है और B गलत है
+B
+Statement B is correct and A is incorrect
+कथन B सही है और A गलत है
+C
+Both the statement A and B are correct 
+A और B दोनों कथन सही हैं
+D
+Both the statement A and B are incorrect
+A और B दोनों कथन गलत हैं
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 41
+2626356
+When both the inputs S and R are considered as 1,  What is the status of SR flipflop ?
+जब इनपुट S और R दोनों को 1 माना जाता है, तो SR फ्लिपफ्लॉॉप की स्थिति क्याा होती है?
+A
+One
+एक
+B
+Stable
+स्थिर
+C
+Unstable
+अस्थिर
+D
+Zero
+शून्य
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 42
+2626369
+A
+B
+C
+D
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 43
+2626404
+Fermi–Dirac (F–D) statistics applied to which type of particle in a system with thermal equilibrium?
+फर्मी-डिराक (एफ-डी) आंकड़े थर्मल संतुलन वाले प्रणाली में किस प्रकार के कण पर लागू होते हैं।
+A
+Identical particle of any spin
+किसी भी स्पिन का समान कण
+B
+Identical particle of zero or integral spin
+शून्य या अभिन्न स्पिन का समान कण
+C
+Identical but distinguishable particle of zero spin
+शून्य स्पिन के समान लेकिन अलग-अलग कण
+D
+Identical particle of spin 1/2
+स्पिन 1/2 के समान कण
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 44
+2626414
+Read the following and chose the incorrect option regarding positive crystals.
+निम्नलिखित को पढ़िए और धनात्मक क्रिस्टल के संबंध में गलत विकल्प का चयन कीजिए।
+A
+The refractive for O-Ray is less than that for E-Ray
+ओ-किरण के लिए अपवर्तक ई-किरण के लिए उससे कम है
+B
+The velocity of O-Ray is greater than or equal to the velocity of E-Ray
+ओ-किरण का वेग ई-किरण के वेग से अधिक या उसके बराबर है
+C
+The E-Ray travels faster than O-Ray except along the Optic axis.
+ऑप्टिक अक्ष के अलावा ई-किरण ओ-किरण से तेज़ीी से यात्राा करता है।
+D
+The ellipsoidal E-wavefront is entirely within the spherical O-wavefront
+दीर्घवृत्त ई-वेवफ्रंंट पूरी तरह से गोलाकार ओ-वेवफ्रंंट के भीतर है
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 45
+2626429
+Name the diode that operates under reverse bias in the breakdown region.
+ब्रेकडाउन क्षेत्र में रिवर्स बायस के तहत काम करने वाले डायोड का नाम बताइए।
+A
+Laser diode
+लेजर डायोड
+B
+LED
+एलईडी (LED)
+C
+Zener diode
+जेनर डायोड
+D
+Photodiode
+फोटोडायोड
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 46
+2626444
+On which condition, transistor will work in saturation region? 
+संतृप्ति क्षेत्र में ट्रांांजिस्टर किस स्थिति में कार्य करेगा ?
+A
+Both the base-emitter and collector-base junctions are reverse-biased.
+बेस-एमिटर और कलेक्टर-बेस जंक्शन दोनों रिवर्स-बायस्ड हैं।
+B
+Both the base-emitter and collector-base junctions are forward-biased.
+बेस-एमिटर और कलेक्टर-बेस जंक्न दोनों फॉरवर्ड-बायस्ड हैं।
+C
+Base-emitter is reverse-biased and collector-base junctions are forward-biased.
+बेस-एमिटर रिवर्स-बायस्ड है और कलेक्टर-बेस जंक्शन फॉरवर्ड-बायस्ड हैं।
+D
+Base-emitter is Forward-biased and collector-base junctions are reverse-biased
+बेस-एमिटर फॉरवर्ड-बायस्ड है और कलेक्टर-बेस जंक्शन रिवर्स-बायस्ड हैं
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 47
+2626479
+Assertion (A): The neutron-proton ratio for heavier nuclei generally increases as the atomic number increases
+Reason (R): Electrical repulsive forces between protons scale with distance differently than strong nuclear force attractions
+अभिकथन (A): परमाणु संख्याा बढ़ने पर भारी नाभिक के लिए न्यूट्रॉॉन-प्रोोटॉन अनुपात आमतौर पर बढ़ जाता है
+कारण (R): मजबूत परमाणु बल आकर्षण से अलग दूरी के साथ प्रोोटॉन पैमाने के बीच विद्युत प्रतिकारक बल
+A
+A and R are true and R is the correct explanation of A
+A और R सत्य हैं और R, A का सही स्पष्टीीकरण है
+B
+A and R are true and R is the correct explanation of A
+A और R सत्य हैं और R. A का सही स्पष्टीीकरण है
+C
+A is true and R is false
+A सच है और R असत्य है
+D
+A is false but R is true 
+A असत्य है लेकिन R सच है
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 48
+2626488
+Read the following statements based on Betatron y and choose the correct option.
+Statement A: Betatron is an accelerator for accelerating electrons or beta particles
+Statement B: Betatron uses the concept of electromagnetic induction as the accelerating force.
+बीटाट्रोोनी पर आधारित निम्नलिखित कथनों को पढ़ें और सही विकल्प का चयन करें।
+कथन A: बीटाट्रॉॉन इलेक्ट्रॉॉनों या बीटा कणों को गति देने के लिए एक त्वरक है।
+कथन B: बीटाट्रॉॉन त्वरक बल के रूप में विद्युत चुम्बकीय प्रेरण की अवधारणा का उपयोग करता है।
+A
+A is correct and B is incorrect
+A सही है और B गलत है
+B
+B is correct and A is incorrect
+B सही है और A गलत है
+C
+Both A and B is correct
+A और B दोनों सही हैं
+D
+Both A and B are Incorrect
+A और B दोनों गलत हैं
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 49
+2626504
+Simple cube has how many corner atoms?
+सरल क्यूब में कितने कोने के परमाणु होते हैं?
+A
+16
+16
+B
+4
+4
+C
+8
+8
+D
+12
+12
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 50
+2626519
+Match the following
+निम्नलिखित को मिलाएं-
+A
+1-C, 2-A, 3-D, 4-B
+1-C, 2-A, 3-D, 4-B
+B
+1-B, 2-A, 3-D, 4-C
+1-B, 2-A, 3-D, 4-C
+C
+1-A, 2-C, 3-D, 4-B
+1-A, 2-C, 3-D, 4-B
+D
+1-C, 2-D, 3-A, 4-B
+1-C, 2-D, 3-A, 4-B
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------

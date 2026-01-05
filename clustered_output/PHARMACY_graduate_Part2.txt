@@ -1,0 +1,503 @@
+Subject: PHARMACY graduate
+Questions: 25
+========================================
+
+Q.No: 26
+2628136
+Which of the following equation gives Gibbs phase rule? 
+निम्नलिखित में से कौन सा समीकरण गिब्स चरण नियम देता है?
+A
+P + F = C-1
+P + F = C-1
+B
+P+F = C+1
+P+F = C+1
+C
+P-F = C+2
+P-F = C+2
+D
+P-F = C+2
+P-F = C+2
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 27
+2628137
+Which of the following does not decide the flow properties of powders? 
+निम्नलिखित में से कौन सा चूर्ण के प्रवाह गुणों का निर्धारण नहीं करता है?
+A
+Carr’s index
+कैर का सूचकांक
+B
+Angle of repose
+सोना का कोण (Angle of repose)
+C
+Hausner Ratio
+हॉस्नर (Hausner) अनुपात
+D
+Solubility
+घुलनशीलता
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 28
+2628138
+What is the expression of the Reynolds Number? 
+रेनॉल्ड्स (Reynolds) संख्याा की अभिव्यक्ति क्याा है?
+A
+B
+C
+D
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 29
+2628145
+Which of the following does not affect the microbiological spoilage of a drug product? 
+निम्नलिखित में से कौन सा दवा उत्पााद के सूक्ष्मजीवविज्ञाानी विकृति को प्रभावित नहीं करता है?
+A
+Packaging of the product. 
+उत्पााद की पैकेजिंग।
+B
+pH
+pH
+C
+Storage of the product
+उत्पााद का भंडारण।
+D
+Dissociation property
+पृथक्करण गुण
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 30
+2628146
+A
+Zero order reaction
+शून्य क्रम की प्रतिक्रिया
+B
+First order reaction
+प्रथम क्रम की प्रतिक्रिया
+C
+Second order reaction
+द्वितीय क्रम की प्रतिक्रिया
+D
+Third order reaction
+तीसरे क्रम की प्रतिक्रिया
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 31
+2628151
+What is determined by the equilibrium dialysis method? 
+संतुलन डायलिसिस विधि द्वाारा क्याा निर्धारित किया जाता है?
+A
+Protein binding
+प्रोोटीन बंधन
+B
+Drug solubility
+दवा घुलनशीलता
+C
+Dissociation strength
+पृथक्करण शक्ति
+D
+Drug reactiveness
+दवा की प्रतिक्रिया
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 32
+2628152
+Fill in the blank with the correct option. 
+Zeta potential determination is a significant characterization technique of nanocrystals employed for understanding the
+_________ stability of nanosuspensions.
+सही विकल्प से रिक्त स्थान की पूर्ति करो।
+ज़ेटा संभावित निर्धारण नैनोक्रिस्टल (nanocrystals) की एक महत्वपूर्ण लक्षण वर्णन तकनीक है जो नैनो-
+निलंबन की ________ स्थिरता को समझने के लिए नियोजित है।
+A
+Chemical
+रासायनिक
+B
+Physical 
+भौतिक
+C
+Organic
+कार्बनिक
+D
+Inorganic
+अकार्बनिक
+Correct Ans : B
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 33
+2628157
+What is not a correct combination of branch of pharmacology and its scope? 
+फार्माकोलॉजी (pharmacology) की शाखा और उसके दायरे का सही संयोजन क्याा नहीं है?
+A
+Pharmacology: It is an experimental science dealing with the properties of drugs and their effects on living
+systems.
+फार्माकोलॉजी (pharmacology): यह एक प्राायोगिक विज्ञाान है जो दवाओं के गुणों और जीवित प्रणालियों पर उनके प्रभावों से संबंधित है।
+B
+Pharmacognosy: It deals with the study of sources and identification (origin) of drugs. 
+फार्माकोग्नॉॉसी (Pharmacognosy): यह दवाओं के स्रोोतों और पहचान (उत्पत्ति) के अध्ययन से संबंधित है।
+C
+Pharmacodynamics: It refers to the study of response of an organism to the action of drugs in absence of disease.
+फार्माकोडायनामिक्स (Pharmacodynamics): यह बीमारी के अभाव में दवाओं की कार्रवाई के लिए जीव की प्रतिक्रिया के अध्ययन को संदर्भित करता है।
+D
+Pharmacometrics: It is defined as the mathematical description of temporal changes in concentration of drugs
+and/ or their metabolites within the body. 
+फार्माकोमेट्रिक्स (Pharmacometrics): इसे शरीर के भीतर दवाओं और/
+या उनके चयापचयों की एकाग्रता में अस्थायी परिवर्तन के गणितीय विवरण के रूप में परिभाषित किया गया है।
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 34
+2628158
+How drug is administered in an intrapleural way of drug administration? 
+दवा प्रशासन के इंट्रााप्ल्यूरल (intrapleural) तरीके से दवा कैसे दी जाती है?
+A
+Though oral route
+मौखिक मार्ग से
+B
+Through mouth cavity
+मुख गुहा द्वाारा
+C
+Through chest
+छाती से
+D
+Through ointment
+मलहम के माध्यम से
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 35
+2628159
+Which of the following is often the site of first pass effect? 
+निम्नलिखित में से कौन सा प्रााय: प्रथम पास प्रभाव का स्थल है?
+A
+Intestine
+आंत
+B
+Liver
+जिगर
+C
+Heart
+दिल
+D
+Mouth 
+मुँह
+Correct Ans : B
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 36
+2628168
+Which of the following central government can not allow under its power related to the manufacture and production of Narcotics
+drugs? 
+निम्नलिखित में से कौन सी केंद्र सरकार अपनी शक्ति के तहत नारकोटिक्स (Narcotics) दवाओं के निर्माण और उत्पाादन से संबंधित अनुमति नहीं दे सकती है?
+A
+The cultivation of cocoa to a limited extent. 
+सीमित सीमा तक कोको की खेती।
+B
+The cultivation of opium poppy
+अफीम पोस्त की खेती
+C
+The manufacture of medicinal opium
+औषधीय अफीम का निर्माण
+D
+Import and export of narcotics drugs.
+नशीले पदार्थों का आयात और निर्यात।
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 37
+2628169
+Which immunoglobin is the first one to be produced during an immune response? 
+प्रतिरक्षाा प्रतिक्रिया के दौरान सबसे पहले कौन सा इम्युनोग्लोोबिन (immunoglobin) उत्पन्न होता है?
+A
+ Immunoglobulin G 
+इम्युनोग्लोोबुलिन (immunoglobin) जी
+B
+Immunoglobulin M 
+इम्युनोग्लोोबुलिन (immunoglobin) एम
+C
+Immunoglobulin A
+इम्युनोग्लोोबुलिन (immunoglobin) ए
+D
+Immunoglobulin E
+इम्युनोग्लोोबुलिन (immunoglobin) ई
+Correct Ans : B
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 38
+2628170
+The computer language HTML is ___________
+कंप्यूटर भाषा एचटीएमएल ___________ है|
+A
+not static.
+स्थिर नहीं।
+B
+can not ignore small errors.
+छोटी-छोटी त्रुटियों को अनदेखा नहीं कर सकते।
+C
+case sensitive.
+Case संवेदनशील।
+D
+does not preserve white tags. 
+सफेद टैग को संरक्षित नहीं करता है।
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 39
+2628175
+What is the formula of median for an odd number of observations? 
+विषम संख्याा के प्रेक्षणों के लिए माध्यिका का सूत्र क्याा है?
+A
+B
+C
+D
+Correct Ans : B
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 40
+2628176
+Which method is appropriate for analysing data when there are two or more measurements of each observations and the
+variables are to be analysed simultaneously? 
+डेटा के विश्लेषण के लिए कौन सी विधि उपयुक्त है जब प्रत्येक अवलोकन के दो या दो से अधिक माप हों और चर का एक साथ विश्लेषण किया जाना हो?
+A
+Correlation analysis
+सहसंबंध विश्लेषण
+B
+Linear regression analysis
+रैखिक प्रतिगमन विश्लेषण
+C
+Two-way ANOVA
+टू-वे एनोवा
+D
+Multivariate analysis
+बहुभिन्नरूपी विश्लेषण
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 41
+2628181
+What is the correct sequence of steps involved in the herbal drug production? 
+हर्बल दवा उत्पाादन में शामिल चरणों का सही क्रम क्याा है?
+A
+Identification, authentication, cultivation ,collection ,processing
+पहचान, प्रमाणीकरण, खेती, संग्रह, प्रसंस्करण
+B
+Authentication, cultivation,collection,processing,identification
+प्रमाणीकरण, खेती, संग्रह, प्रसंस्करण, पहचान
+C
+Cultivation,collection,processing,authentication, identification
+खेती, संग्रह, प्रसंस्करण, प्रमाणीकरण, पहचान
+D
+Identification, cultivation, collection, processing , authentication
+पहचान, खेती, संग्रह, प्रसंस्करण, प्रमाणीकरण
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 42
+2628182
+Which of the following are Phase 2 metabolic reactions? 
+निम्नलिखित में से कौन-सी चरण 2 उपापचयी अभिक्रियाएँ हैं?
+A
+Oxidation
+ऑक्सीीकरण
+B
+Reduction
+कमी
+C
+Acetylation
+एसिटिलीकरण
+D
+Hydrolysis
+हाइड्रोोलिसिस
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 43
+2628187
+Which of the following is not a muscarinic effect? 
+निम्नलिखित में से कौन सा मांसाहारी प्रभाव नहीं है?
+A
+Decreased heart rate
+हृदय गति में कमी
+B
+Dryness of mouth
+मुंह का सूखापन
+C
+Intestinal cramps
+आंतों में ऐंठन
+D
+Inhibiting secretions
+स्रााव को रोकना
+Correct Ans : B
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 44
+2628188
+The most important complication of streptokinase therapy is – 
+स्ट्रेप्टोोकिनेज (streptokinase) चिकित्साा की सबसे महत्वपूर्ण जटिलता है–
+A
+Hypotension
+हाइपोटेंशन (Hypotension)
+B
+Bleeding
+रक्ततस्रााव
+C
+Fever
+बुखार
+D
+Anaphylaxis
+एनाफिलेक्सिस (Anaphylaxis)
+Correct Ans : B
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 45
+2628189
+Which of the following is a not an antimotility drug? 
+निम्नलिखित में से कौन-सी एक गतिरोधक दवा नहीं है?
+A
+Loperamide
+लोपरामाइड (Loperamide)
+B
+Diphenoxylate
+डीफेनोक्सिलेट (Diphenoxylate)
+C
+Codeine
+कोडीन (Codeine)
+D
+Isabgol
+इसबगोल (Isabgol)
+Correct Ans : D
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 46
+2628197
+Which drug is used for treatment of sickle cell anaemia? 
+सिकल सेल एनीमिया (sickle cell anaemia) के इलाज के लिए कौन सी दवा का उपयोग किया जाता है?
+A
+Hydroxyurea
+हाइड्रोोक्सीीयूरिया (Hydroxyurea)
+B
+Cisplatin
+सिस्प्लैटिन (Cisplatin)
+C
+Paclitaxel
+पैक्लिटैक्सेल (Paclitaxel)
+D
+Carboplatin
+कार्बोप्लााटिन (Carboplatin)
+Correct Ans : A
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 47
+2628198
+Read the statements to answer the question. 
+Statement – Paclitaxel is M-phase selective anti-cancer drug. 
+Reason- It acts by inhibiting the formation of spindle in M- phase of cell cycle. 
+प्रश्न का उत्तर देने के लिए कथनों को पढ़ें।
+कथन - पैक्लिटैक्सेल (Paclitaxel) एम-चरण चयनात्मक कैंसर रोधी दवा है।
+कारण- यह कोशिका चक्र के एम-चरण में धुरी के गठन को रोककर कार्य करता है।
+A
+Both A and R are true and R is correct explanation of assertion. 
+A और R दोनों सत्य हैं और R अभिकथन की सही व्यााख्याा है।
+B
+Both A and R are true and R is not correct explanation of assertion. 
+A और R दोनों सत्य हैं और R अभिकथन की सही व्यााख्याा नहीं करता है।
+C
+Assertion is true and reason is false. 
+कथन सत्य है और कारण गलत है
+D
+Both assertion and reason are true. 
+कथन और कारण दोनों सत्य हैं
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 48
+2628199
+Read the statements the answer the question. 
+Assertion – Metronidazole should be avoided in chronic diseases. 
+Reason – It increases the risk of lactic acidosis in patients with liver disease. 
+कथनों को पढ़िए और प्रश्न का उत्तर दीजिए।
+अभिकथन - पुरानी बीमारियों में मेट्रोोनिडाजोल (Metronidazole) से बचना चाहिए।
+कारण – यह लीवर की बीमारी के रोगियों में लैक्टिक एसिडोसिस (lactic acidosis) के खतरे को बढ़ाा देता है।
+A
+Both A and R are true and R is correct explanation of assertion. 
+A और R दोनों सत्य हैं और R अभिकथन की सही व्यााख्याा है।
+B
+Both A and R are true and R is not correct explanation of assertion. 
+A और R दोनों सत्य हैं और R अभिकथन की सही व्यााख्याा नहीं करता है।
+C
+Assertion is true and reason is false. 
+कथन सत्य है और कारण गलत है।
+D
+Both assertion and reason are true. 
+कथन और कारण दोनों सत्य हैं।
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 49
+2628205
+Which of the following is CYP Isoform biotransforms most of the drugs? 
+निम्नलिखित में से कौन सा CYP आइसोफॉर्म (Isoform) अधिकांश दवाओं का बायोट्रांांसफॉर्म (biotransforms) करता है?
+A
+CYP2D6
+CYP2D6
+B
+CYP2C8
+CYP2C8
+C
+CYP3A4/5
+CYP3A4/5
+D
+CYP2C19
+CYP2C19
+Correct Ans : C
+Subject : PHARMACY graduate
+
+----------------------------------------
+Q.No: 50
+2628206
+Which of the following does not increase Digoxin toxicity? 
+निम्नलिखित में से कौन डिगॉक्सिन (Digoxin) विषाक्तता को नहीं बढ़ााता है?
+A
+Renal impairment
+गुर्दे की हानि (Renal impairment)
+B
+Hyperkalemia
+हाइपरकेलेमिया (Hyperkalemia)
+C
+Hypercalcemia
+अतिकैल्शियमरक्तता (Hypercalcemia)
+D
+Hypomangesmia
+हाइपोमैंजेस्मिया (Hypomangesmia)
+Correct Ans : B
+Subject : PHARMACY graduate
+
+----------------------------------------

@@ -1,0 +1,938 @@
+Subject: CHEMISTRY graduate
+Questions: 50
+========================================
+
+Q.No: 51
+2622769
+Which of the following is not a limitation of Bohr’s theory?
+निम्नलिखित में से कौन बोर के सिद्धांांत की सीमा नहीं है?
+A
+The Zeeman effect
+ज़ीीमान प्रभाव
+B
+Spectra of hydrogen and hydrogen-like atoms
+हाइड्रोोजन और हाइड्रोोजन जैसे परमाणुओं का स्पेक्ट्राा
+C
+The dual character of an electron
+एक इलेक्ट्रॉॉन का दोहरा चरित्र
+D
+Spectra of multi-electron atoms
+बहु-इलेक्ट्रॉॉन परमाणुओं का स्पेक्ट्राा
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 52
+2622773
+A
+B
+C
+The probability of finding an electron in the space under consideration must be zero.
+विचाराधीन अंतरिक्ष में एक इलेक्ट्रॉॉन को खोजने की संभावना शून्य होनी चाहिए।
+D
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 53
+2622779
+Which of the following contains the conditions for a solvent to be suitable for dissolving ionic compounds?
+निम्नलिखित में से किसमें आयनिक यौगिकों को भंग करने के लिए विलायक के उपयुक्त होने की शर्तें हैं?
+A
+High dipole moment and high dielectric constant
+उच्च द्विध्रुवीय क्षण और उच्च अचालक स्थिरांक
+B
+High dipole moment and small dielectric constant
+उच्च द्विध्रुवीय क्षण और निम्न अचालक स्थिरांक
+C
+Less dipole moment and small dielectric constant
+कम द्विध्रुवीय क्षण और निम्न अचालक स्थिरांक
+D
+Less dipole moment and high dielectric constant
+कम द्विध्रुव आघूर्ण और उच्च परावैद्युतांक
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 54
+2622794
+To which of the following options, the (VSEPR) Valence Shell Electron Pair Repulsion theory cannot be applied to?
+निम्नलिखित में से किस विकल्प के लिए, (VSEPR) संयोजकता कोश इलेक्ट्रॉॉन युग्म प्रतिकर्षण सिद्धांांत लागू नहीं किया जा सकता है?
+A
+Distinguish s, p, d, and forbitals.
+s, p, d और फोर्बिटल्स के बीच अंतर करें।
+B
+Predict shapes of coordination compounds.
+समन्वय यौगिकों के आकार की पूर्व-सूचना देना।
+C
+Quantify the extent of distortion in the molecules having irregular geometries.
+अनियमित ज्याामिति वाले अणुओं में विकृति की मात्राा निर्धारित करना
+D
+Ionic compounds.
+आयनिक यौगिक।
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 55
+2622795
+A
+B
+C
+D
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 56
+2622809
+Which of the following is represented by the given figure?
+निम्नलिखित में से कौन सा दिए गए चित्र द्वाारा दर्शाया गया है?
+A
+Newmann projection of ethane
+ईथेन का न्यूमैन प्रक्षेपण
+B
+Sawhorse representation of methane
+मीथेन का साहोरसे प्रतिनिधित्व
+C
+Fischer representation of methane
+मीथेन का फिशर प्रतिनिधित्व
+D
+Sawhorse representation of ethane
+ईथेन का साहोरसे प्रतिनिधित्व
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 57
+2622851
+Which of the following is NOT correct information regarding Friedel-Craft’s alkylation reaction?
+निम्नलिखित में से कौन सी फ्रीीडेल-क्रााफ्ट की एल्किलीकरण प्रतिक्रिया के बारे में सही जानकारी नहीं है?
+A
+Alkyl halides cannot be used.
+अल्कााइल हलाइड्स का उपयोग नहीं किया जा सकता है।
+B
+Aryl halides don’t react.
+ऐरिल हैलाइड्स प्रतिक्रिया नहीं करते।
+C
+D
+Only alkyl halides can be used.
+केवल अल्कााइल हलाइड्स का उपयोग किया जा सकता है।
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 58
+2622852
+A
+Carbonyl groups
+कार्बोनिल समूह
+B
+Hydroxyl groups
+हाइड्रॉॉक्सिल समूह
+C
+Amino groups
+अमीनो समूह
+D
+Carboxyl groups
+कार्बोक्सिल समूह
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 59
+2622861
+Which of the following does not occur in the case of tertiary alkyl halides?
+तृतीयक ऐल्किल हैलाइडों के मामले में निम्नलिखित में से कौन सा नहीं होता है?
+A
+B
+E1 elimination
+E1 उन्मूलन
+C
+D
+E1cB elimination
+E1cB उन्मूलन
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 60
+2622876
+Which of the following reacts with benzaldehyde to form mandelonitrile?
+निम्नलिखित में से कौन बेन्जेल्डिहाइड के साथ अभिक्रिया कर मैंडेलोनिट्रााइल बनाता है?
+A
+Phosphorus pentachloride
+फास्फोोरस पेंटाक्लोोराइड
+B
+Sodium hydroxide
+सोडियम हाइड्रोोक्सााइड
+C
+Hydroxylamine
+हाइड्रॉॉक्सिलामाइन
+D
+Hydrogen cyanide
+हाइड्रोोजन साइनाइड
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 61
+2622891
+What happens at the critical solution temperature for a system of partially miscible liquids?
+आंशिक रूप से मिश्रणीय तरल पदार्थों की प्रणाली के लिए महत्वपूर्ण समाधान तापमान पर क्याा होता है?
+A
+The liquids become completely immiscible.
+द्रव पूर्णतया अमिश्रणीय हो जाते हैं।
+B
+The liquids become completely miscible.
+द्रव पूर्णतया मिश्रणीय हो जाते हैं।
+C
+The amount of one liquid becomes more than the other in the system.
+सिस्टम में एक तरल की मात्राा दूसरे की तुलना में अधिक हो जाती है।
+D
+The mutual solubility is diminished.
+आपसी घुलनशीलता कम हो जाती है।
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 62
+2622933
+Which of the following is a characteristic of amylopectin?
+निम्नलिखित में से कौन एमिलोपेक्टिन की विशेषता है?
+A
+It is soluble in water.
+यह पानी में घुलनशील है।
+B
+It gives a blue colour with iodine.
+यह आयोडीन के साथ नीला रंग देता है।
+C
+It gives a violet colour with iodine.
+यह आयोडीन के साथ बैंगनी रंग देता है।
+D
+It comprises 10-20% of starch.
+इसमें 10-20% स्टाार्च होता है।
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 63
+2622943
+An atom on the edge of a cube, contributes how many parts to each unit cell?
+एक घन के किनारे पर स्थित एक परमाणु, प्रत्येक एकक कोष्ठिका में कितने भागों का योगदान करता है?
+A
+Fully
+पूरी तरह से
+B
+Half
+आधा
+C
+One-fourth
+एक चौथाई
+D
+One-eighth
+आठवां हिस्साा
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 64
+2622944
+What is the number of atoms per unit cell in a simple cubic structure?
+एक साधारण घनीय संरचना में प्रति एकक सेल में परमाणुओं की संख्याा कितनी होती है?
+A
+4
+4
+B
+8
+8
+C
+6
+6
+D
+1
+1
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 65
+2622958
+Based on the concept of collision theory, which option is correct?
+संघटन सिद्धांांत की अवधारणा पर आधारित कौन सा विकल्प सही है?
+A
+Activation energy = reacting molecules’ energy + threshold energy
+सक्रियण ऊर्जा = प्रतिक्रिया करने वाले अणुओं की ऊर्जा + प्रभाव ऊर्जा
+B
+Activation energy = reacting molecules’ energy – threshold energy
+सक्रियण ऊर्जा = प्रतिक्रिया करने वाले अणुओं की ऊर्जा - प्रभाव ऊर्जा
+C
+Activation energy - reacting molecules’ energy = threshold energy
+सक्रियण ऊर्जा - प्रतिक्रिया करने वाले अणुओं की ऊर्जा = प्रभाव ऊर्जा
+D
+Activation energy + reacting molecules’ energy = threshold energy
+सक्रियण ऊर्जा + प्रतिक्रियाशील अणुओं की ऊर्जा = प्रभाव ऊर्जा
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 66
+2622973
+Which of the following set of lanthanoid ions exhibits red colour?
+लैंथेनाइड आयनों का निम्नलिखित में से कौन सा समूह लाल रंग प्रदर्शित करता है?
+A
+B
+C
+D
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 67
+2623015
+Which of the following carries amino acids in an activated form to the ribosome for peptide-bond formation in a sequence dictated by
+the mRNA template?
+निम्नलिखित में से कौन एमआरएनए टेम्पलेट द्वाारा निर्धारित अनुक्रम में पेप्टााइड-बॉन्ड गठन के लिए राइबोसोम में सक्रिय रूप में अमीनो अम्ल ले जाता है?
+A
+Ribosomal RNA
+राइबोसोमल आरएनए
+B
+Transfer RNA
+स्थानांतरण आरएनए
+C
+Micro RNA
+माइक्रोो आरएनए
+D
+Messenger RNA
+मैसेंजर आरएनए
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 68
+2623025
+Which of the following and phenol react to give condensation products and the reaction is always catalysed either by acids or bases?
+निम्नलिखित में से कौन सा और फिनोल संघनन उत्पााद देने के लिए प्रतिक्रिया करता है और प्रतिक्रिया हमेशा अम्ल या क्षाार द्वाारा उत्प्रेरित होती है?
+A
+Alkenes
+ऐल्कीीन
+B
+Alkanes
+ऐल्केेन
+C
+Amines
+अमाइन
+D
+ Aldehydes
+एल्डिहाइड
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 69
+2623040
+What is the melting point of pure PETN, which is a white, crystalline solid?
+शुद्ध PETN का गलनांक क्याा है, जो एक सफेद, क्रिस्टलीय ठोस है?
+A
+120 डिग्रीी सेल्सियस
+B
+155 डिग्रीी सेल्सियस
+C
+200 डिग्रीी सेल्सियस
+D
+141.3 डिग्रीी सेल्सियस
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 70
+2623041
+What is the other name of the propellants that are without any metals and have exhaust free of nucleating species, such as HCl?
+उन प्रणोदकों का दूसरा नाम क्याा है जो बिना किसी धातु के हैं और एचसीएल जैसे न्यूक्लियेटिंग प्रजातियों से मुक्त हैं?
+A
+Reduced smoke
+कम धुआं
+B
+Minimum signature
+न्यूनतम हस्तााक्षर
+C
+Smoky
+धुएँ
+D
+ Minimum smoke
+न्यूनतम धुआं
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 71
+2623055
+The first commercialized polyolefin was a low crystallinity, low density polyethylene. Where was it produced in 1939?
+पहला व्याावसायीकृत पॉलीओलेफ़िन एक कम क्रिस्टलीयता, कम घनत्व वाली पॉलीथीन थी। 1939 में इसका उत्पाादन कहाँ हुआ था?
+A
+New York
+न्यूयॉर्क
+B
+San Francisco
+सैन फ्रांांसिस्कोो
+C
+Ireland
+आयरलैंड
+D
+England
+इंग्लैंड
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 72
+2623097
+What happens to the mean free path of a molecule under the following conditions?
+निम्नलिखित परिस्थितियों में अणु के माध्य मुक्त पथ का क्याा होता है?
+A
+Increases with an increase in pressure.
+दबाव में वृद्धि के साथ बढ़ता है।
+B
+Increases with an increase in molecular collision rate.
+आणविक संघट्टन दर में वृद्धि के साथ बढ़ता है।
+C
+Decreases with an increase in molecular collision rate.
+आणविक संघट्टन दर में वृद्धि के साथ घट जाती है।
+D
+Decreases with an increase in temperature.
+तापमान में वृद्धि के साथ घटता है
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 73
+2623107
+A
+PV increases with pressure to a maximum value followed by a decrease.
+पीवी दबाव के साथ अधिकतम मान तक बढ़ता है और उसके बाद घटता है।
+B
+PV decreases with pressure to a minimum value followed by an increase.
+पीवी एक न्यूनतम मूल्य के दबाव के साथ घटता है जिसके बाद वृद्धि होती है।
+C
+PV increases continuously with pressure.
+पीवी दबाव के साथ लगातार बढ़ता है।
+D
+PV decreases continuously with pressure.
+पीवी दबाव के साथ लगातार घट जाती है
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 74
+2623122
+A
+Methyl Lithium
+मिथाइल लिथियम
+B
+Sodium Chloride
+सोडियम क्लोोराइड
+C
+Ferrocene
+फेरोसीन
+D
+Ethylene
+एथिलीन
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 75
+2623137
+पॉलीक्लोोरोट्रिफ्लोोरोएथिलीन 100 डिग्रीी सेल्सियस से ऊपर कई सॉल्वैंट्स में घुलनशील है और पॉलिमर - 100 डिग्रीी सेल्सियस पर सख्त है।
+ किस तापमान पर यह उपयोगी गुणों को बरकरार रखता है?
+A
+90 डिग्रीी सेल्सियस
+B
+30 डिग्रीी सेल्सियस
+C
+150 डिग्रीी सेल्सियस
+D
+200 डिग्रीी सेल्सियस
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 51
+2622770
+What is the relationship between the wavelength and frequency of light?
+प्रकाश की तरंग दैर्ध्य और आवृत्ति के बीच क्याा संबंध है?
+A
+B
+C
+D
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 52
+2622780
+Why is the melting point of NaI lower than NaF?
+NaI का गलनांक NaF से कम क्योंों होता है?
+A
+The ionic size is directly proportional to the attractive force.
+आयनिक आकार आकर्षक बल के सीधे आनुपातिक होता है।
+B
+The ionic size is inversely proportional to the attractive force.
+आयनिक आकार आकर्षक बल के व्युत्क्रमानुपाती होता है।
+C
+The attractive force is inversely proportional to the melting point.
+आकर्षण बल गलनांक के व्युत्क्रमानुपाती होता है।
+D
+The ionic size is directly proportional to the melting point.
+आयनिक आकार सीधे गलनांक के समानुपाती होता है।
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 53
+2622781
+A
+An increase in the energy of the system
+प्रणाली की ऊर्जा में वृद्धि
+B
+An endothermic process
+एक एंडोथर्मिक प्रक्रिया
+C
+An exothermic process
+एक एक्ज़ोोथिर्मिक प्रक्रिया
+D
+The deformation of a solid
+एक ठोस की विकृति
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 54
+2622796
+Which two scientists, among the following have proposed the Molecular Orbital Theory?
+निम्नलिखित में से किन दो वैज्ञाानिकों ने आण्विक कक्षीीय सिद्धांांत प्रस्ताावित किया है?
+A
+Sidgwick and Powell
+सिडगविक और पॉवेल
+B
+Gillespie and Nyholm
+गिलेस्पीी और न्योोहोम
+C
+Born and Pauling
+बोर्न और पॉलिंग
+D
+Hund and Mulliken
+हुण्ड  और मुल्लिकेन
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 55
+2622797
+Which option carries one of the conditions for atomic orbitals to give rise to a stable molecular orbital? 
+कौन सा विकल्प एक स्थिर आणविक कक्षीीय को जन्म देने के लिए परमाणु कक्षााओं के लिए शर्तों में से एक को वहन करता है?
+A
+Relative energies of atomic orbitals must be close to each other.
+परमाणु कक्षााओं की सापेक्ष ऊर्जा एक दूसरे के करीब होनी चाहिए।
+B
+The charge clouds of atomic orbitals should not have a large extent of overlap.
+परमाणु ऑर्बिटल्स के चार्ज क्लााउड्स में ओवरलैप की एक बड़ीी सीमा नहीं होनी चाहिए।
+C
+Atomic orbitals of different signs should overlap.
+विभिन्न चिन्होंों के परमाणु ऑर्बिटल्स ओवरलैप होने चाहिए।
+D
+The symmetry of atomic orbitals need not be close to each other.
+परमाणु कक्षााओं की समरूपता को एक दूसरे के करीब होने की आवश्यकता नहीं है।
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 56
+2622810
+Which of the following gives correct information about the staggered conformation of ethane or any alkane?
+निम्नलिखित में से कौन इथेन या किसी अल्केेन के कंपित संरूपण के बारे में सही जानकारी देता है?
+A
+All the C-H bonds are as far away from each other as possible.
+सभी C-H बॉन्ड एक दूसरे से यथासंभव दूर होते हैं।
+B
+All the C-H bonds are as close to each other as possible.
+सभी C-H बॉन्ड एक दूसरे के जितना संभव हो उतना करीब होते हैं।
+C
+It is lower in energy.
+यह ऊर्जा में कम होते है।
+D
+About 1% of the molecules are close to this conformation.
+लगभग 1% अणु इस रचना के करीब होते हैं।
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 57
+2622853
+What is the correct order of reactivity of alcohols?
+अल्कोोहल की प्रतिक्रियाशीलता का सही क्रम क्याा है?
+A
+Tertiary < Secondary < Primary < Methyl
+तृतीयक <माध्यमिक <प्रााथमिक <मिथाइल
+B
+Primary < Tertiary < Secondary < Methyl
+प्रााथमिक <तृतीयक <माध्यमिक <मिथाइल
+C
+Tertiary > Secondary > Primary > Methyl
+तृतीयक> माध्यमिक> प्रााथमिक> मिथाइल
+D
+Tertiary < Methyl < Primary < Secondary
+तृतीयक <मिथाइल <प्रााथमिक <माध्यमिक
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 58
+2622854
+Which of the following takes place during a nucleophilic substitution reaction?
+न्यूक्लियोफिलिक प्रतिस्थापन प्रतिक्रिया के दौरान निम्नलिखित में से कौन सा होता है?
+A
+The product is positively charged for a neutral nucleophile.
+उत्पााद को तटस्थ न्यूक्लियोफाइल के लिए सकारात्मक रूप से चार्ज किया जाता है।
+B
+The product is negatively charged for a positive nucleophile.
+सकारात्मक न्यूक्लियोफाइल के लिए उत्पााद को नकारात्मक रूप से चार्ज किया जाता है।
+C
+The product is neutral for a neutral nucleophile.
+उत्पााद तटस्थ न्यूक्लियोफाइल के लिए तटस्थ है।
+D
+The product is negatively charged for a neutral nucleophile.
+तटस्थ न्यूक्लियोफाइल के लिए उत्पााद को नकारात्मक रूप से चार्ज किया जाता है।
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 59
+2622862
+The Williamson ether synthesis is which type of reaction?
+विलियमसन ईथर संश्लेषण किस प्रकार की प्रतिक्रिया है?
+A
+B
+C
+E1
+E1
+D
+E1cB
+E1cB
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 60
+2622877
+With which of the following, benzaldehyde reacts and undergoes the Cannizzaro reaction due to the absence of an alpha-hydrogen
+atom?
+अल्फाा -हाइड्रोोजन परमाणु की अनुपस्थिति के कारण, निम्नलिखित में से किसके साथ बेंजाल्डिहाइड प्रतिक्रिया करता है और कैनिजेरो प्रतिक्रिया से गुजरता है?
+A
+Sodium hydroxide
+सोडियम हाइड्रॉॉक्सााइड
+B
+Sodium oxide
+सोडियम ऑक्सााइड
+C
+Sodium peroxide
+सोडियम पेरोक्सााइड
+D
+Sodium chloride
+सोडियम क्लोोराइड
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 61
+2622892
+Which of the following is a valid condition to conduct the steam distillation of liquids?
+तरल पदार्थों के भाप आसवन के संचालन के लिए निम्नलिखित में से कौन सी वैध स्थिति है?
+A
+B
+The immiscible liquids become solids if distilled ordinarily.
+साधारण रूप से आसवित करने पर अमिश्रणीय द्रव ठोस हो जाती हैं
+C
+The vapour pressure is less than the vapour pressure of either of the liquids.
+वाष्प दाब किसी भी द्रव के वाष्प दाब से कम हो जाती हैं
+D
+The boiling point is above the boiling points of the immiscible liquids.
+क्वथनांक अमिश्रणीय तरल पदार्थों के क्वथनांक से ऊपर होता है।
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 62
+2622934
+Digesting wood in a solution of sodium sulphide, sulphur and X is the sulphate process of preparing cellulose. Which is represented
+by “X”?
+सोडियम सल्फााइड, सल्फर और X के घोल में लकड़ीी को पचाना सेल्युलोज तैयार करने की सल्फेेट प्रक्रिया है। “X” द्वाारा किसका प्रतिनिधित्व किया जाता है?
+A
+Sodium hydroxide
+सोडियम हाइड्रॉॉक्सााइड
+B
+Sodium oxide
+सोडियम ऑक्सााइड
+C
+Sodium sulphate
+सोडियम सल्फ़ेेट
+D
+Sodium acetate
+नाजिया
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 63
+2622945
+What is the contribution of face atoms to the total number of atoms in a unit cell of a face-centred cubic structure?
+एक फलक केंद्रित घनीय संरचना की एक इकाई सेल में कुल परमाणुओं की संख्याा में फलक परमाणुओं का क्याा योगदान है?
+A
+1
+1
+B
+2
+2
+C
+3
+3
+D
+4
+4
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 64
+2622946
+According to the law of constancy of interfacial angles, which option is true?
+अंतराफलकीय कोणों की स्थिरता के नियम के अनुसार, कौन सा विकल्प सत्य है?
+A
+The angles between adjacent faces vary according to the sizes of the crystal of the same substance.
+आसन्न चेहरों के बीच के कोण एक ही पदार्थ के क्रिस्टल के आकार के अनुसार भिन्न होते हैं।
+B
+The angles between adjacent faces vary according to the shapes of the crystal of the same substance.
+आसन्न चेहरों के बीच के कोण एक ही पदार्थ के क्रिस्टल के आकार के अनुसार भिन्न होते हैं।
+C
+The angles between adjacent faces remain the same despite the sizes and shapes of the crystal of the same substance.
+एक ही पदार्थ के क्रिस्टल के आकार और आकार के बावजूद आसन्न फलकों के बीच के कोण समान रहते हैं।
+D
+The shape of a crystal varies according to its interfacial angles.
+एक क्रिस्टल का आकार उसके इंटरफेसियल कोणों के अनुसार बदलता रहता है।
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 65
+2622959
+What is the effect of a catalyst on a reaction?
+किसी अभिक्रिया पर उत्प्रेरक का क्याा प्रभाव होता है?
+A
+Activation energy is lowered
+सक्रियण ऊर्जा कम हो जाती है।
+B
+Activation energy is increased
+सक्रियण ऊर्जा बढ़ जाती है।
+C
+The rate of reaction is lowered
+प्रतिक्रिया की दर कम हो जाती है।
+D
+The energy barrier is increased
+ऊर्जा अवरोध बढ़ता है।
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 66
+2622974
+Which of the following lanthanoid ion does not contain unpaired electrons in the 4f orbital?
+निम्नलिखित में से किस लैंथेनाइड आयन में 4f कक्षीीय में अयुग्मित इलेक्ट्रॉॉन नहीं होते हैं?
+A
+B
+C
+D
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 67
+2623016
+Which of the following is made of silicon and gallium?
+निम्नलिखित में से कौन सा सिलिकॉन और गैलियम से बना है?
+A
+Fuel cells
+ईंधन सेल
+B
+Battery cells
+बैटरी सेल
+C
+Solar cells
+सौर सेल
+D
+Vacuum tubes
+वैक्यूम ट्यूब
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 68
+2623026
+What is the emission of light in chemical reaction at ordinary temperatures known as?
+साधारण ताप पर रासायनिक अभिक्रिया में प्रकाश के उत्सर्जन को क्याा कहते हैं ?
+A
+Luminescence
+लूमनेसन्स
+B
+Chemiluminescence
+रासायनिक संदीप्ति
+C
+Fluorescence
+प्रतिदीप्ति
+D
+Phosphorescence
+स्फुुरदीप्ति
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 69
+2623042
+Which of the following refers to fiber-reinforced engineering structural materials wherein the fibres are continuous or long enough so
+that they can be oriented to produce enhanced strength properties in one direction?
+निम्नलिखित में से कौन सा फाइबर-प्रबलित इंजीनियरिंंग संरचनात्मक सामग्रीी को संदर्भित करता है जिसमें फाइबर निरंतर या लंबे समय तक पर्याप्त होते हैं ताकि वे एक दिशा में
+बढ़ीी हुई शक्ति गुणों का उत्पाादन करने के लिए उन्मुख हो सकें?
+A
+Polymer blends
+पॉलिमर मिश्रण
+B
+Monomer
+मोनोमर
+C
+Composites
+सम्मिश्रण
+D
+ PVC
+पीवीसी
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 70
+2623043
+Which is a type of starch found in plants consisting of a linear combination of several thousand glucose units?
+पौधों में पाया जाने वाला एक प्रकार का स्टाार्च कौन सा है जिसमें कई हजार ग्लूकोज इकाइयों का एक रैखिक संयोजन होता है?
+A
+Fructose
+फ्रुुक्टोोज
+B
+ Sucrose
+सुक्रोोज
+C
+Cellulose
+सेलूलोज़
+D
+Amylose
+एमाइलोज
+Correct Ans : D
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 71
+2623056
+It finds limited applications in adhesives and may be polymerised by free-radical emulsion or suspension polymerization. What is it?
+यह चिपकने में सीमित अनुप्रयोग पाता है और फ्रीी-रेडिकल इमल्शन या सस्पेंशन पोलीमराइज़ेशन द्वाारा पोलीमराइज़ किया जा सकता है। यह क्याा है?
+A
+Poly vinyl chloride
+पॉली विनाइल क्लोोराइड
+B
+Poly (vinyl acetate)
+पॉली (विनाइल एसीटेट)
+C
+Polyamides
+पॉलियामाइड्स
+D
+Acrylic polymers
+एक्रिलिक पॉलिमर
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 72
+2623098
+A
+It is large compared to macroscopic dimensions.
+यह मैक्रोोस्कोोपिक आयामों की तुलना में बड़ाा है
+B
+It is large compared to molecular dimensions.
+यह आणविक आयामों की तुलना में बड़ाा है
+C
+It is small compared to the average distance between molecules.
+यह अणुओं के बीच की औसत दूरी की तुलना में छोटा है
+D
+It is small compared to molecular dimensions.
+यह आणविक आयामों की तुलना में छोटा है
+Correct Ans : B
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 73
+2623108
+Which of the following situations occur under high pressure or low temperature that indicate the deviation of real gases from ideal
+behaviour?
+निम्न में से कौन सी स्थिति उच्च दबाव या कम तापमान के तहत होती है जो आदर्श व्यवहार से वास्तविक गैसों के विचलन को दर्शाती है?
+A
+The intermolecular force of attraction or repulsion is negligible.
+आकर्षण या प्रतिकर्षण का अंतराण्विक बल नगण्य होता है।
+B
+The volume occupied by gas molecules is negligible.
+गैस के अणुओं द्वाारा घेरा गया आयतन नगण्य है।
+C
+The intermolecular force of attraction or repulsion is not negligible.
+आकर्षण या प्रतिकर्षण का अंतराअणुक बल नगण्य नहीं होता है।
+D
+The volume occupied by gas molecules is equal to the total volume of the gas.
+गैस के अणुओं द्वाारा घेरा गया आयतन गैस के कुल आयतन के बराबर होता है।
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 74
+2623123
+Nickel tetra carbonyl on treatment with Sulphuric acid undergoes which of the following reactions, to form Nickel Sulphate?
+सल्फ्यूरिक एसिड के साथ उपचार पर निकेल टेट्राा कार्बोनिल, निकेल सल्फेेट बनाने के लिए निम्नलिखित में से किस प्रतिक्रिया से गुजरता है?
+A
+Substitution
+प्रतिस्थापन
+B
+Reduction
+रिडक्शन
+C
+Oxidation
+ऑक्सीीकरण
+D
+Decomposition
+अपघटन
+Correct Ans : C
+Subject : CHEMISTRY graduate
+
+----------------------------------------
+Q.No: 75
+2623138
+Which type of reactions involve loss of two substituents from adjacent atoms, as a result of which, unsaturation is introduced?
+किस प्रकार की अभिक्रियाओं में आसन्न परमाणुओं से दो प्रतिस्थापियों की हानि होती है, जिसके परिणामस्वरूप असंतृप्ति उत्पन्न होती है?
+A
+Elimination
+एलिमिनेशन
+B
+Addition
+अडीशन
+C
+Substitution
+प्रतिस्थापन
+D
+Electrophilic
+इलेक्ट्रोोफिलिक
+Correct Ans : A
+Subject : CHEMISTRY graduate
+
+----------------------------------------

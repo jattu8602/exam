@@ -1,0 +1,255 @@
+Subject: PHYSICS graduate
+Questions: 13
+========================================
+
+Q.No: 22
+2626410
+Match the following. 
+निम्नलिखित को मिलाएं।
+A
+1-C, 2-A, 3-D, 4-B
+1-C, 2-A, 3-D, 4-B
+B
+1-B, 2-A, 3-D, 4-C
+1-B, 2-A, 3-D, 4-C
+C
+1-A, 2-C, 3-D, 4-B
+1-A, 2-C, 3-D, 4-B
+D
+1-C, 2-D, 3-A, 4-B
+1-C, 2-D, 3-A, 4-B
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 23
+2626419
+Identify the type of diode from the given picture.
+दिए गए चित्र से डायोड के प्रकार की पहचान करें।
+A
+LED
+एलईडी
+B
+Photo diode
+फोटो डायोड
+C
+Zener diode
+जेनर डायोड
+D
+Schottky diode
+स्कॉॉटकी डायोड
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 24
+2626420
+What is the junction potential of the silicon PN junction diode?
+सिलिकॉन पीएन जंक्शन डायोड की जंक्शन क्षमता क्याा है?
+A
+0.7V
+0.7V
+B
+0.3V
+0.3V
+C
+0.2V
+0.2V
+D
+0.1V
+0.1V
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 25
+2626434
+Which type of loss produce a loss of gain when the filter is connected to the circuit?
+जब फिल्टर सर्किट से जुड़ाा होता है तो किस प्रकार का नुकसान होता है?
+A
+Return loss
+वापसी नुकसान
+B
+Eddy current loss
+एड़ीी का विधुत धारा नुकसान
+C
+Insertion loss
+सम्मिलन हानि
+D
+Resistive loss
+प्रतिरोधी हानि
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 26
+2626435
+Find the cut-off frequency for the filter for the given circuit.  
+दिए गए सर्किट के लिए फिल्टर के लिए कट-ऑफ फ्रीीक्वेंसी का पता लगाएं।
+A
+720Hz
+720 हर्ट्ज
+B
+800Hz
+800 हर्ट्ज
+C
+650Hz
+650 हर्ट्ज
+D
+700Hz
+700 हर्ट्ज
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 27
+2626447
+Which is considered as the operation mode of depletion type MOSFET?
+डिप्लीीशन टाइप MOSFET का ऑपरेशन मोड माना जाता है
+A
+Only enhancement mode
+केवल वृद्धि मोड
+B
+Only depletion mode
+केवल कमी मोड
+C
+Both enhancement and depletion mode
+वृद्धि और कमी मोड दोनों
+D
+Neither enhancement and depletion mode.
+न तो वृद्धि और न ही कमी मोड।
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 28
+2626485
+Which one of the following is valid due to the electric repulsion between, each pair of protons in a nucleus?
+निम्नलिखित में से कौन सा एक नाभिक में प्रोोटॉन के प्रत्येक जोड़े के बीच विद्युत प्रतिकर्षण के कारण मान्य है?
+A
+Increase in surface area of the nucleus
+नाभिक के सतह क्षेत्र में वृद्धि
+B
+Increase in binding energy
+बाध्यकारी ऊर्जा में वृद्धि
+C
+Decrease in binding energy
+बाध्यकारी ऊर्जा में कमी
+D
+Decrease in surface area of the nucleus
+केंद्रक के सतह क्षेत्र में कमी
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 29
+2626486
+Which type of accelerators are used in X- rays?
+एक्स-रे में किस प्रकार के त्वरक का उपयोग किया जाता है?
+A
+Tandem accelerator
+अग्राानुक्रम त्वरक
+B
+Cyclotron
+साइक्लोोट्रॉॉन
+C
+Linear accelerator
+रैखिक त्वरक
+D
+Van de Graaff accelerator
+वान डी ग्रैफ त्वरक
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 30
+2626493
+A
+Fluorescence quenching
+प्रतिदीप्ति शमन
+B
+Delayed fluorescence
+विलंबित प्रतिदीप्ति
+C
+Phosphorescence
+स्फुुरदीप्ति
+D
+Prompt fluorescence
+शीघ्र प्रतिदीप्ति
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 31
+2626494
+Which of the following is incorrect with respect to properties of alpha particles?
+अल्फाा कणों के गुणों के संबंध में निम्नलिखित में से कौन सा गलत है?
+A
+B
+Alpha particles can be deflected by electric and magnetic fields.
+अल्फाा कणों को विद्युत और चुंबकीय क्षेत्रोंों द्वाारा विक्षेपित किया जा सकता है।
+C
+Alpha particles have less ionizing power then beta and gamma particles.
+अल्फाा कणों की आयनकारी शक्ति बीटा और गामा कणों की तुलना में कम होती है।
+D
+Long exposures to Alpha-emitters produce harmful effects on the human body
+अल्फाा-उत्सर्जकों के लंबे संपर्क में मानव शरीर पर हानिकारक प्रभाव उत्पन्न होते हैं
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 32
+2626509
+अपने मूल तल के संबंध में ध्रुवणतल का परिणाम क्याा होगा, जब हम एक आधे-तरंग रेटर की ऑप्टिक अक्ष को 45 डिग्रीी पर रखते हैं?
+A
+90 डिग्रीी का ध्रुवीकरण रोटेशन
+B
+180 डिग्रीी के ध्रुवीकरण रोटेशन
+C
+360 डिग्रीी का ध्रुवीकरण रोटेशन
+D
+270 डिग्रीी के ध्रुवीकरण रोटेशन
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 33
+2626510
+In which type of fibre only on type of ray of light can propagate through the fibre.
+किस प्रकार के फाइबर में प्रकाश की किरण के प्रकार पर ही फाइबर के माध्यम से प्रचार कर सकते हैं।
+A
+Step-index fibre
+स्टेप-इंडेक्स फाइबर
+B
+Multi-mode fibre
+मल्टीी-मोड फाइबर
+C
+Single-mode fibre
+सिंगल-मोड फाइबर
+D
+Graded-index fibre
+ग्रेडेड-इंडेक्स फाइबर
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 34
+2626524
+Which one of the following is not required to perform the operations in microprocessor?
+माइक्रोोप्रोोसेसर में संचालन करने के लिए निम्नलिखित में से किसकी आवश्यकता नहीं होती है?
+A
+External memory
+बाहरी मेमोरी
+B
+ALU
+एएलयू
+C
+Control logic
+कण्ट्रोोल लॉजिक
+D
+Registers
+रजिस्टर
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------

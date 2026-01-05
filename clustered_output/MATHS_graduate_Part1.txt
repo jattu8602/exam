@@ -1,0 +1,710 @@
+Subject: MATHS graduate
+Questions: 50
+========================================
+
+Q.No: 76
+2625464
+A
+0
+0
+B
+1
+1
+C
+2
+2
+D
+3
+3
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 77
+2625465
+A
+1, -1, 2 
+1, -1, 2
+B
+0, -2, 1
+0, -2, 1
+C
+0, 1, 3
+0, 1, 3
+D
+1, -2, 3 
+1, -2, 3
+Correct Ans : D
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 78
+2625468
+A
+B
+C
+D
+0
+0
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 79
+2625484
+A
+B
+C
+D
+Correct Ans : D
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 80
+2625496
+A
+B
+C
+D
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 81
+2625504
+A
+2
+2
+B
+1 
+1
+C
+D
+Correct Ans : D
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 82
+2625512
+The centricity of rectangular hyperbola is: 
+आयताकार अतिपरवलय की उत्केन्द्रता है:
+A
+0
+0
+B
+1
+1
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 83
+2625513
+A
+Parabola 
+परवलय 
+B
+Ellipse 
+दीर्घवृत्त 
+C
+Hyperbola
+अतिपरवलय 
+D
+A straight line 
+एक सरल रेखा 
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 84
+2625524
+The set of all integers is: 
+सभी पूर्णाकों का समूह है
+A
+A multiplicative group
+एक गुणात्मक समूह
+B
+An additive group
+एक योज्‍य समूह
+C
+A finite group
+एक परिमित समूह
+D
+A cyclic group
+एक चक्रीीय समूह
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 85
+2625525
+A
+B
+C
+D
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 86
+2625536
+If f(x) and g(x) are non-zero polynomials over an arbitrary ring R, then deg [f(x) + g(x)] is:  
+यदि f(x) और g(x) किसी स्वेच्छ वलय R पर दो अशून्य बहुपद हैं, तब deg [f(x) + g(x)] है:
+A
+> max[deg f(x), deg g(x)]
+> max[deg f(x), deg g(x)]
+B
+C
+= deg f(x) + g(x)
+= deg f(x) + g(x)
+D
+= deg f(x) . g(x)
+= deg f(x) . g(x)
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 87
+2625544
+A
+B
+C
+e
+e
+D
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 88
+2625552
+A
+B
+C
+D
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 89
+2625553
+A
+nu
+nu
+B
+n(n + 1)u
+n(n + 1)u
+C
+n(n - 1)u
+n(n - 1)u
+D
+n(n + 2)u
+n(n + 2)u
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 90
+2625564
+A
+B
+C
+D
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 91
+2625576
+A
+sin at
+sin at
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 92
+2625634
+A set containing single non-zero vector is:
+एक अशून्य सदिश रखने वाला समुच्चय है 
+A
+Linearly independent 
+रैखिकत: स्वतंत्र 
+B
+Linearly dependent 
+रैखिकत: परतंत्र 
+C
+Linearly independent and independent both
+रैखिकत: स्वतंत्र एवं परतंत्र दोनों 
+D
+Neither linearly independent nor independent 
+न तो रैखिकत: स्वतंत्र ना ही रैखिकत: परतंत्र 
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 93
+2625642
+A
+dim R(T) < dim U
+dim R(T) < dim U
+B
+C
+D
+dim R(T) < dim U
+dim R(T) < dim U
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 94
+2625654
+Disjunctive normal form of function x.y in three variables is:   
+तीन चरों में x.y का वियोजनीय रूप है-
+A
+x.y.z
+x.y.z
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 95
+2625655
+A lattice is a;
+एक जालक है:
+A
+Simple set
+साधारण समुच्‍चय  
+B
+Partially ordered set 
+अंशत: क्रम संबंध 
+C
+Infinite set
+अनंत समुच्‍चय 
+D
+Not a set
+समुच्‍चय नहीं 
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 96
+2625666
+The formula for measures of coefficient of variation is: 
+विचरण गुणांक की माप हेतु सूत्र है-
+A
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 97
+2625674
+Two dice are tossed, the chance of obtaining a sum of 7 or 8 is: 
+दो पासों को उछालने पर योग 7 या 8 आने की संभावना है: 
+A
+B
+C
+D
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 98
+2625682
+A
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 99
+2625694
+The Cauchy’s Riemann equation are:
+कॉशी रीमान समीकरण है-
+A
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 100
+2625706
+A
+0
+0
+B
+1
+1
+C
+e
+e
+D
+1/e
+1/e
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 76
+2625466
+The characteristic roots of skew Hermitian matrix are either; 
+विषम हर्मीटीय आव्यूह के अभिलक्षणिक मूल हैं, या तो______
+A
+Real or zero
+वास्तविक या शून्य 
+B
+Real or non-zero
+वास्तविक या अशून्य
+C
+Pure imaginary or zero 
+शुद्ध काल्पनिक या शून्य
+D
+Pure imaginary or Non-zero 
+शुद्ध काल्पनिक या अशून्य
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 77
+2625467
+Which of the following pairs of matrices has the same Eigen values?
+निम्‍नलिखित में से किस युग्‍म का आईगेन मान समान होता है?
+A
+B
+C
+D
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 78
+2625472
+A
+B
+C
+D
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 79
+2625485
+A
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 80
+2625497
+A
+ab
+ab
+B
+C
+D
+Correct Ans : D
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 81
+2625505
+A
+a = 2, b = 3, c = 3 
+a = 2, b = 3, c = 3 
+B
+a = 4, b = 2, c = -1
+a = 4, b = 2, c = -1
+C
+a = 0, b = 1, c = 3
+a = 0, b = 1, c = 3
+D
+a = -1, b = 4, c = 2
+a = -1, b = 4, c = 2
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 82
+2625514
+A
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 83
+2625515
+Which of the following shows the relation between line integral and surface integral?  
+निम्नलिखित में से कौन रेखा समाकल एवं पृष्‍ठ  समाकल के संबंध को दर्शाता है?
+A
+Gauss’s theorem 
+गॉस परिमेय
+B
+Stake’s theorem
+स्टॉक्स परिमेय
+C
+Green’s theorem
+ग्रीीन परिमेय
+D
+Bernoulli’s theorem
+बरनौली परिमेय
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 84
+2625526
+A
+-1
+-1
+B
+0
+0
+C
+1
+1
+D
+2
+2
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 85
+2625527
+A
+B
+C
+D
+Correct Ans : D
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 86
+2625537
+Which of the following statement is true?  
+निम्नलिखित में से कौन सा कथन सत्य है?
+A
+Every group is a field 
+प्रत्येक समूह एक क्षेत्र होता है
+B
+Every ring is a field 
+प्रत्येक वलय एक क्षेत्र होता है
+C
+Every commutative ring is a field 
+प्रत्येक क्रमविनिमेय वलय एक क्षेत्र होता है
+D
+Every finite integral domain is a field 
+प्रत्येक परिमित पूर्णोकीय प्राान्त एक क्षेत्र होता है
+Correct Ans : D
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 87
+2625545
+A
+p > 1
+p > 1
+B
+p = 1
+p = 1
+C
+p < 1
+p < 1
+D
+p = 0
+p = 0
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 88
+2625554
+A
+r 
+r 
+B
+C
+D
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 89
+2625555
+For a given curve the locus of radius of curvature is called; 
+किसी दी गई वक्र के लिये वक्रता त्रिज्‍या का बिन्‍दुपथ, कहलाता है:
+A
+Envelope 
+अन्‍वालोप 
+B
+Curvature 
+वक्रता 
+C
+Radius of curvature 
+वक्रता त्रिज्‍या 
+D
+Evolute 
+इवोल्‍यूट 
+Correct Ans : D
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 90
+2625565
+A
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 91
+2625577
+Subsidiary equations for p + 3q = 5z + tan (y – 3x) is: 
+p + 3q = 5z + tan (y – 3x) के सहायक समीकरण हैं-
+A
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 92
+2625635
+A
+B
+C
+D
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 93
+2625643
+A
+B
+0
+0
+C
+D
+1
+1
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 94
+2625656
+A
+Inf.(a, b)
+Inf.(a, b)
+B
+sup(a, b)
+sup(a, b)
+C
+0
+0
+D
+1
+1
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 95
+2625657
+A
+B
+C
+D
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 96
+2625667
+A
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 97
+2625675
+A
+0
+0
+B
+1
+1
+C
+x
+x
+D
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 98
+2625683
+A
+Young’s theorem 
+यंग के प्रमेय का
+B
+Picard’s theorem
+पिकार्ड के प्रमेय का
+C
+Cauchy’s theorem
+कॉशी के प्रमेय का
+D
+Schwarjy’s theorem
+श्‍वार्ज के प्रमेय का
+Correct Ans : A
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 99
+2625695
+A
+B
+C
+D
+Correct Ans : B
+Subject : MATHS graduate
+
+----------------------------------------
+Q.No: 100
+2625707
+A
+B
+C
+D
+Correct Ans : C
+Subject : MATHS graduate
+
+----------------------------------------

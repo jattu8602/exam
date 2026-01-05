@@ -1,0 +1,796 @@
+Subject: Gen. Computer graduate
+Questions: 40
+========================================
+
+Q.No: 146
+2635643
+A computer that is used to store data or information for users on the internet is called?
+एक कंप्यूटर जो इंटरनेट पर उपयोगकर्ताओं के लिए डेटा या सूचना को स्टोोर करने के लिए उपयोग किया जाता है, उसे क्याा कहा जाता है?
+A
+Web Server
+वेब सर्वर
+B
+Web Client 
+वेब क्लााइंट
+C
+Web Browser 
+वेब ब्रााउजर
+D
+Websites 
+वेबसाइट्स
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 147
+2635691
+In computer networking, what is the meaning of HTTP?
+कंप्यूटर नेटवर्किंग में, HTTP का अर्थ क्याा है?
+A
+Hyper terminal tracing program
+हाइपर टर्मिनल ट्रेसिंग प्रोोग्रााम
+B
+Hypertext tracing protocol
+हाइपरटेक्स्ट ट्रेसिंग प्रोोटोकॉल
+C
+Hypertext transfer protocol
+हाइपरटेक्स्ट ट्रांांसफर प्रोोटोकॉल 
+D
+Hypertext transfer program
+हाइपरटेक्स्ट ट्रांांसफर प्रोोग्रााम
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 148
+2635700
+Which of the following can be used to create a single IP address that permits surfing by numerous users?
+निम्नलिखित में से किसका उपयोग एकल आईपी पता बनाने के लिए किया जा सकता है जो कई उपयोगकर्ताओं द्वाारा सर्फिंग की अनुमति देता है?
+A
+Intranet
+इंट्राानेट
+B
+PAT
+पैट
+C
+Mesh
+मैश
+D
+None of the given options
+दिए गए विकल्पोंों में से कोई नहीं
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 149
+2635709
+In computer networking, GSM stands for?
+कंप्यूटर नेटवर्किंग में, GSM का अर्थ है?
+A
+Global System for Mobile
+Global System for Mobile
+B
+Global Server for Mobile
+Global Server for Mobile
+C
+Group Server for Mobile
+Group Server for Mobile
+D
+Game Server for Mobile
+Game Server for Mobile
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 150
+2635730
+In networking, What does the phrase IANA mean?
+नेटवर्किंग में, आईएएनए (IANA) वाक्यांांश का क्याा अर्थ है?
+A
+Internet Assigned Numbers Authority
+इंटरनेट असाइन्‍ड नंबर्स ऑथोरिटी
+B
+Internal Assigned Numbers Authority
+इंटरनल असाइन्‍ड नंबर्स ऑथोरिटी
+C
+Internet Associative Numbers Authoritative
+इंटरनेट एसोसिएटिव नंबर्स ऑथोरिटेटिव
+D
+Internal Associative Numbers Authority
+इंटरनल एसोसिएटिव नंबर्स ऑथोरिटी
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 151
+2635760
+The abbreviation DNS is related with internet, what is the full form of DNS.
+संक्षिप्त नाम DNS इंटरनेट से संबंधित है, DNS का पूर्ण रूप क्याा है।
+A
+Domain Name System
+डोमेन नेम सिस्टम
+B
+Document Name System
+डाक्‍यूमेंट नेम सिस्टम
+C
+Domain Number System
+डोमेन नंबर सिस्टम
+D
+Domain Name Security
+डोमेन नेम सिक्योोरिटी
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 152
+2635769
+Which of the following is the full form of ALGOL which is a programming language?
+निम्नलिखित में से कौन-सा ALGOL का पूर्ण रूप है जो एक प्रोोग्राामिंग भाषा है?
+A
+Algorithmic Land
+एल्‍गोरिथमिक लैंड
+B
+Alert Language
+अलर्ट लैंग्‍वेज
+C
+Alga Language
+एल्‍गा लैंग्‍वेज
+D
+Algorithmic Language
+एल्‍गोरिथमिक लैंग्‍वेज
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 153
+2635778
+With respect to computers, which of the following is a full form of ASCII?
+कंप्यूटर के संबंध में,निम्नलिखित में से कौन-सा ASCII का पूर्णरूप है?
+A
+American Stanza Code for Information Interchange
+अमेरिकन स्टैंज़ाा कोड फॉर इंफॉरमेशन इंटरचेंज
+B
+American Standard Code for Information Interchange
+अमेरिकन स्टैंडर्ड कोड फॉर इंफॉरमेशन इंटरचेंज
+C
+American Staggerd Code for Information Interchange
+अमेरिकन स्‍टेगर्ड कोड फॉर इंफॉरमेशन इंटरचेंज
+D
+American Stab Code for Information Interchange
+अमेरिकन स्‍टेब कोड फॉर इंफॉरमेशन इंटरचेंज
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 154
+2635799
+EDI is related to computers, what is its full form?
+EDI कंप्यूटर से संबंधित है, इसका पूर्ण रूप क्याा है?
+A
+Elena Data Interchange
+ऐलेना डेटा इंटरचेंज
+B
+Electoral Data Interchange
+इलेक्टोोरल डेटा इंटरचेंज
+C
+Electrode Data Interchange
+इलेक्ट्रोोड डेटा इंटरचेंज
+D
+Electronic Data Interchange
+इलेक्ट्रॉॉनिक डेटा इंटरचेंज
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 155
+2636052
+Ms office written in which language?
+एमएस ऑफिस किस भाषा में लिखा गया है?
+A
+Python 
+पायथन
+B
+HTML 
+एचटीएमएल
+C
+Ruby 
+रूबी
+D
+C++ 
+C++ 
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 156
+2636061
+Which of the following is not a group of related commands in the References tab?
+निम्नलिखित में से कौन-सा रेफरेंस टैब में संबंधित कमांड का समूह नहीं है?
+A
+Page Setup 
+पेज सेटअप
+B
+Index 
+इंडेक्स
+C
+Footnotes 
+फ़ुुटनोट्स
+D
+Bibliography 
+बिब्लियोग्रााफी
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 157
+2636070
+Which option in Case Menu allows us to shift the text case between two different case views?
+केस मेनू में कौन-सा विकल्प हमें दो अलग-अलग केस दृश्योंों के बीच टेक्स्ट केस को स्थानांतरित करने की अनुमति देता है?
+A
+Uppercase 
+अपरकेस
+B
+Togglecase 
+टॉगल केस
+C
+Lowercase 
+लोअरकेस
+D
+Numbers 
+नंबर्स
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 144
+2635626
+The transmission of a file to our computer from the internet is called?
+इंटरनेट से हमारे कंप्यूटर में फाइल के ट्रांांसमिशन को क्याा कहा जाता है?
+A
+Uploading
+अपलोडिंग
+B
+Downloading
+डाउनलोडिंग
+C
+Computation
+कम्प्यूटेशन
+D
+transferring the file
+ट्रांांसफरिंंग फाइल
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 145
+2635635
+Which IP addresses are mostly used by web, email, and gaming servers?
+कौन-से आईपी एड्रेेस ज्याादातर वेब, ईमेल और गेमिंग सर्वर द्वाारा उपयोग किए जाते हैं?
+A
+Firewall
+फ़ाायरवॉल
+B
+Static
+स्टैटिक
+C
+MAC 
+मैक
+D
+Hybrid 
+हाइब्रिड
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 146
+2635644
+A small piece of data sent from a website and stored in the user’s web browser is called?
+वेबसाइट से भेजे गए और उपयोगकर्ता के वेब ब्रााउज़र में संग्रहीत डेटा का एक छोटा सा टुकड़ाा क्याा कहलाता है।
+A
+Anonymous file
+एनोनीयमस फाइल
+B
+Cookie 
+कुकी
+C
+Web page 
+वेब पेज
+D
+Information 
+इंनफॉर्मेशन
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 147
+2635692
+The computer acts as a proxy server, when _______.
+कंप्यूटर एक प्रॉॉक्सीी सर्वर के रूप में कार्य करता है, जब _______.
+A
+Used With external access
+बाहरी पहुंच के साथ प्रयोग किया जाता है
+B
+Acting as a backup
+बैकअप के रूप में कार्य करना
+C
+Performing file handling
+फ़ााइल प्रबंधन करना
+D
+Accessing user permissions
+उपयोगकर्ता अनुमतियों तक पहुँचना
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 148
+2635701
+Which of the following commands creates a backup of configuration data in router?
+निम्नलिखित में से कौन-सा कमांड राउटर में कॉन्फ़िगरेशन डेटा का बैकअप बनाता है?
+A
+delete-backup-config
+delete-backup-config
+B
+copy running-config startup-config
+copy running-config startup-config
+C
+show-backup-config
+show-backup-config
+D
+wr mem
+wr mem
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 149
+2635710
+Operating system manages_______.
+ऑपरेटिंग सिस्टम _______ का प्रबंधन करता है।
+A
+Memory
+मेमोरी
+B
+I/O device
+I/O डिवाइस
+C
+Processor
+प्रोोसेसर
+D
+All of the given options
+दिए गए सभी विकल्प
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 150
+2635731
+How many different IP versions are there?
+कितने अलग - अलग आईपी संस्करण(versions) हैं? 
+A
+6 versions
+6 संस्करण (versions)
+B
+4 versions
+4 संस्करण (versions)
+C
+2 versions
+2 संस्करण (versions)
+D
+1 version
+1 संस्करण (versions)
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 151
+2635761
+FTP is a type of internet protocol, find the full form of FTP.
+FTP एक प्रकार का इंटरनेट प्रोोटोकॉल है, FTP का पूर्ण रूप क्याा है?
+A
+File Transmission Protocol
+फाइल ट्रांांसमिशन प्रोोटोकॉल
+B
+File Transfer Protocol
+फाइल ट्रांांसफर प्रोोटोकॉल
+C
+Firm Trademark Protocol 
+फर्म ट्रेडमार्क प्रोोटोकॉल
+D
+Firm Transfer Protocol
+फर्म ट्रांांसफर प्रोोटोकॉल
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 152
+2635770
+Which of the following is a full form of ALU which is an important circuit of a computer?
+निम्नलिखित में से कौन-सा ALU का पूर्णरूप है जो कंप्यूटर का एक महत्वपूर्ण सर्किट है?
+A
+Arid Logic Unit
+एरिड लॉजिक यूनिट
+B
+Arish Logic Unit
+एरिश लॉजिक यूनिट
+C
+Arithmetic Logic Unit
+अर्थमेटिक लॉजिक यूनिट 
+D
+Aretha Logic Unit
+एरेथा लॉजिक यूनिट
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 153
+2635779
+With respect to computers, which of the following is the full form of AT?
+कंप्यूटर के संबंध में, निम्नलिखित में से कौन-सा AT का पूर्णरूप है?
+A
+Ad Technology
+एड टेक्नोोलॉजी 
+B
+Advent Technology
+एडवेंट टेक्नोोलॉजी
+C
+Advert Technology
+एडवर्ट टेक्नोोलॉजी
+D
+Advanced Technology
+एडवांस्‍ड टेक्नोोलॉजी
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 154
+2635800
+In terms of computer abbreviation, which of the following is the full form of EROM?
+कंप्यूटर संक्षिप्त नाम के संदर्भ में, EROM का पूर्ण रूप निम्न में से कौन-सा है?
+A
+Erase Read-Only Memory
+इरेज रीड-ओनली मेमोरी 
+B
+Erasable Read Only Memory
+इरेजेबल रीड ओनली मेमोरी
+C
+Errant Read-Only Memory
+एरेंट रीड-ओनली मेमोरी
+D
+Enable read-only memory
+इनेबल रीड ओनली मेमोरी
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 155
+2636053
+Which of the following is an example of Application Software?
+निम्नलिखित में से कौन-सा एप्लीीकेशन सॉफ्टवेयर का एक उदाहरण है?
+A
+MS Office 
+एमएस ऑफिस 
+B
+Mac OS 
+मैक ओएस
+C
+Linux 
+लिनक्स
+D
+Windows 
+विंडोज़
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 156
+2636062
+Which of the following commands is not present in the review tab?
+निम्नलिखित में से कौन-सा कमांड रिव्यु टैब में मौजूद नहीं है?
+A
+Comments 
+कमेंट्स
+B
+Tracking 
+ट्रैकिंंग
+C
+Changes 
+चैंजेस
+D
+Arrange 
+अरेंज
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 157
+2636071
+What is the default paper size in MS Word?
+एमएस वर्ड में डिफॉल्ट पेपर साइज कितना होता है?
+A
+B
+C
+D
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 144
+2635645
+Recently deleted files are stored in________.
+हाल ही में हटाई गई फ़ााइलें________ में संग्रहित (store) की जाती हैं।
+A
+Recycle bin
+रीसायकल बिन
+B
+Desktop
+डेक्सटॉप
+C
+Taskbar
+टास्कबार
+D
+My computer
+माय कंप्यूटर
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 145
+2635711
+Which of the following is not a topology for a network?
+निम्नलिखित में से कौन-सा नेटवर्क के लिए एक टोपोलॉजी नहीं है? 
+A
+Star
+स्टाार 
+B
+Ring
+रिंंग
+C
+Bus
+बस
+D
+Peer to Peer
+पीयर टू पीयर
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 146
+2635732
+Which layer of the TCP/IP stack is equivalent to the transport layer in the OSI model?
+टीसीपी/आईपी स्टैक में कौन-सी परत OSI मॉडल की ट्रांांसपोर्ट परत के बराबर है?
+A
+Host to Host
+होस्ट टु होस्ट
+B
+Application
+एप्‍लीकेशन
+C
+Internet
+इंटरनेट
+D
+Network Access
+नेटवर्क एक्‍सेस
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 147
+2635780
+AUI is a kind of logical interface, what is its full form?
+निम्नलिखित में से कौन-सा एयूआई का पूर्ण रूप है?
+A
+Connect Unit Interface
+कनेक्ट यूनिट इंटरफेस
+B
+Attachment Unit Interface
+अटैचमेंट यूनिट इंटरफेस
+C
+Atta Unit Interface
+एटा यूनिट इंटरफेस
+D
+Attached Unit Interface
+अटैच्ड यूनिट इंटरफ़ेेस
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 148
+2635801
+In terms of computer abbreviation, which of the following is the full form of Email? 
+कंप्यूटर संक्षिप्त नाम के संदर्भ में, निम्नलिखित में से कौन-सा Email का पूर्ण रूप है?
+A
+Electronic Mall
+इलेक्ट्रॉॉनिक मॉल
+B
+Electronic Mobile
+इलेक्ट्रॉॉनिक मोबाइल
+C
+Electronic Mail
+इलेक्ट्रॉॉनिक मेल
+D
+Electronic Material
+इलेक्ट्रॉॉनिक मटेरियल
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 149
+2635822
+What must be entered into the computer for a task to be completed?
+किसी कार्य को पूरा करने के लिए कंप्यूटर में क्याा दर्ज करना चाहिए?
+A
+Instructions
+निर्देश
+B
+Information
+सूचना
+C
+Data
+डेटा
+D
+Text
+टेक्स्ट
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 150
+2635831
+Software which controls general operations of computer system is classified as______.
+सॉफ्टवेयर जो कंप्यूटर सिस्टम के सामान्य संचालन को नियंत्रित करता है, उसे ______ के रूप में वर्गीकृत किया जाता है।
+A
+Dump programs
+डम्ब प्रोोग्रााम्स
+B
+Function system
+फंक्शन सिस्टम
+C
+Operating system
+ऑपरेटिंग सिस्टम
+D
+Enquiry system
+इन्क्वाारी सिस्टम
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 151
+2636072
+Word documents contain ______, which appear at the top and bottom of the document, respectively.   
+वर्ड डॉक्युमेंट्स में _______ होते हैं, जो क्रमशः डॉक्युमेंट के ऊपर और नीचे दिखाई देते हैं
+A
+Header and Footer 
+हेडर और फुटर
+B
+Header 
+हेडर
+C
+Footer 
+फुटर
+D
+Footer and Title 
+फुटर और टाइटल
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 152
+2636830
+What do you understand by Computer architecture?
+कंप्यूटर आर्किटेक्चर से आप क्याा समझते हैं?
+A
+A combination of nature and software principles
+नेचर और सॉफ्टवेयर सिद्धांांतों का संयोजन
+B
+A combination of hardware and software principles
+हार्डवेयर और सॉफ्टवेयर सिद्धांांतों का संयोजन
+C
+A combination of hardware and application principles
+हार्डवेयर और एप्लिकेशन सिद्धांांतों का संयोजन
+D
+A combination of hardware and data principles
+हार्डवेयर और डेटा सिद्धांांतों का संयोजन
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 153
+2636839
+Which part of the computer is used for computation and only active unit in our entire computer system?
+कंप्यूटर का कौन-सा भाग गणना के लिए उपयोग किया जाता है और हमारे पूरे कंप्यूटर सिस्ट में अकेला सक्रिय इकाई (active unit) है?
+A
+Program
+प्रोोग्रााम 
+B
+Processor
+प्रोोसेसर
+C
+Mouse
+माउस
+D
+Keyboard
+की-बोर्ड
+Correct Ans : B
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 154
+2636946
+Which computer program copies itself after entering a system via security flaws, often over a network?
+कौन-सा कंप्यूटर प्रोोग्रााम अक्सर एक नेटवर्क पर सुरक्षाा खामियों के माध्यम से एक सिस्टम में प्रवेश करने के बाद खुद को कॉपी कर लेता है?
+A
+Virus
+वायरस
+B
+Logic bomb
+लॉजिक बम
+C
+Worm
+वर्म
+D
+Hacker
+हैकर
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 155
+2636955
+What are firewalls used to protect against?
+फायर वाल्स किसके विरुद्ध रक्षाा करने के लिए प्रयोग किया जाता है?
+A
+Unauthorised attacks
+अनधिकृत अटैक्स
+B
+Virus attacks 
+वायरस अटैक्स
+C
+Data-driven attacks
+डाटा-ड्रााइवन अटैक्स
+D
+Fire attacks 
+फायर अटैक्स
+Correct Ans : A
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 156
+2638911
+MS Office is an example of? 
+एमएस ऑफिस किसका उदाहरण है?
+A
+An operating system 
+एक ऑपरेटिंग सिस्टम
+B
+A telecommunication software 
+एक दूरसंचार (telecommunication) सॉफ्टवेयर
+C
+A programming language 
+एक प्रोोग्राामिंग भाषा
+D
+A productivity software 
+एक उत्पाादकता (productivity) सॉफ्टवेयर
+Correct Ans : D
+Subject : Gen. Computer graduate
+
+----------------------------------------
+Q.No: 157
+2638920
+Where is hard drive fitted normally?
+हार्ड ड्रााइव को सामान्य रूप से कहाँ लगाया जाता है?
+A
+Plugged into the back of the computer
+कंप्यूटर के पीछे प्लग किया जाता है
+B
+On the top of the CD-ROM
+सीडी-रोम के शीर्ष पर
+C
+Inside the system base unit
+सिस्टम बेस यूनिट के अंदर
+D
+Next to the printer
+प्रिंटर के पास
+Correct Ans : C
+Subject : Gen. Computer graduate
+
+----------------------------------------

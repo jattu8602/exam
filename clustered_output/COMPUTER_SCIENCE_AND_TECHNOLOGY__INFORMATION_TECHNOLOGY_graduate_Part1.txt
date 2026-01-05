@@ -1,0 +1,1013 @@
+Subject: COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+Questions: 50
+========================================
+
+Q.No: 1
+2613370
+Which refers to the technique of breaking a sequential process into small portions or suboperations?
+जो एक अनुक्रमिक प्रक्रिया को छोटे भागों या उपसंचालन में तोड़ने की तकनीक को संदर्भित करता है।
+A
+Pipelining
+पाइपलाइनिंग
+B
+Stack organisation
+स्टैक आर्गेनाईजेशन
+C
+Addressing
+एड्रेेसिंग
+D
+Parallel processing
+पैरेलल प्रोोसेसिंग
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 2
+2613371
+In which type of topology, each device has a dedicated point-to-point line configuration only with the two devices on either side of it?
+किस प्रकार की टोपोलॉजी में, प्रत्येक डिवाइस में एक समर्पित पॉइंट-टू-पॉइंट लाइन कॉन्फिगरेशन होता है, जिसके दोनों ओर केवल दो डिवाइस होते हैं?
+A
+Ring
+रिंंग
+B
+Star
+स्टाार
+C
+Bus
+बस
+D
+Tree
+ट्रीी
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 3
+2613372
+Which layer of the OSI model coordinates the functions required to transmit a bit stream over a physical medium?
+OSI मॉडल की कौन सी परत एक फिजिकल माध्यम पर बिट स्ट्रीीम संचारित करने के लिए आवश्यक कार्यों का समन्वय करती है?
+A
+Application
+एप्‍लीकेशन
+B
+Network
+नेटवर्क
+C
+Physical
+फिजिकल
+D
+Transport
+ट्रांांसपोर्ट
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 4
+2613373
+Logic gates are made of which of the following and they are the basic components of the integrated circuit?
+लॉजिक गेट्स किस्से  से बने होते हैं और वे एकीकृत परिपथों के मूल घटक होते हैं?
+A
+Vacuum Tubes
+वैक्यूम ट्यूब
+B
+Transistors
+ट्रांांजिस्टर
+C
+Capacitors
+कैपेसिटर
+D
+ Micro processors
+माइक्रोो प्रोोसेसर
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 5
+2613378
+What is referred to as the collection of data designed to support management in the process of decision-making?
+निर्णय लेने की प्रक्रिया में प्रबंधन का समर्थन करने के लिए डिज़ााइन किए गए डेटा के संग्रह को क्याा कहा जाता है?
+A
+Metadata
+मेटा डेटा
+B
+Data warehouse
+डेटा वेयरहाउस
+C
+System catalog
+सिस्टम कैटलॉग
+D
+ Data field
+डेटा फील्ड
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 6
+2613379
+Which model is used to specify the logical structures of the database system?
+डेटाबेस सिस्टम की तार्किक संरचनाओं को निर्दिष्ट करने के लिए किस मॉडल का उपयोग किया जाता है?
+A
+Object-based
+वस्तु आधारित
+B
+Record-based
+रिकॉर्ड आधारित
+C
+Physical data
+भौतिक डेटा
+D
+ Digital data
+डिजिटल डेटा
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 7
+2613380
+_______ is a set of flip-flops connected in a series such that the output of one becomes the input of the other and it moves on.
+_______ एक श्रृंृंखला में जुड़े फ्लिप-फ्लॉॉप का एक सेट है जैसे कि एक का आउटपुट दूसरे का इनपुट बन जाता है और यह आगे बढ़ता है।
+A
+Data register
+डेटा रजिस्टर
+B
+Shift register
+शिफ्ट रजिस्टर
+C
+Counters
+काउंटर
+D
+ Multiplexer
+मल्टीीप्लेक्सर
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 8
+2613381
+The delete mode in ___________ protocol is normally used when the user is working on the personal computer and can save, organise the mail
+received either after reading or replying to it.
+___________ प्रोोटोकॉल में डिलीट मोड का उपयोग आम तौर पर तब किया जाता है जब उपयोगकर्ता पर्सनल कंप्यूटर पर काम कर रहा होता है और प्रााप्त मेल को पढ़ने या उसका जवाब देने
+के बाद सेव कर सकता है, व्यवस्थित कर कर सकता है।
+A
+IMAP4
+आईएमएपी4
+B
+SMTP
+एसएमटीपी
+C
+POP3
+पीओपी3
+D
+ HTTP
+एचटीटीपी
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 9
+2613382
+Which refers to the mechanism of producing control signals using Finite State Machines in an appropriate manner?
+निम्नलिखित में से कौन-सा उपयुक्त तरीके से परिमित-स्‍टेट मशीनों का उपयोग करके नियंत्रण संकेतों के उत्पाादन के लिए एक तंत्र को संदर्भित करता है?
+A
+Micro Programmed control unit
+माइक्रोो प्रोोगाम्‍ड नियंत्रण इकाई
+B
+Hardwired control
+हार्डवायर्ड नियंत्रण
+C
+Control Memory
+कंट्रोोल मैमोरी
+D
+Sequential counter
+सुसंगत काउंटर
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 10
+2613383
+Which database model was introduced in 1976 that refers to the collection of objects of similar structures?
+1976 में कौन सा डेटाबेस मॉडल पेश किया गया था जो समान संरचनाओं की वस्तुओं के संग्रह को संदर्भित करता है?
+A
+Relational data model
+रिलेशनल डेटा मॉडल
+B
+Network data model
+नेटवर्क डेटा मॉडल
+C
+Hierarchical data model
+हिरार्चिकल डेटा मॉडल
+D
+ Entity-Relationship Data model
+एंटिटी-रिलेशनशिप डेटा मॉडल
+Correct Ans : D
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 11
+2613390
+The band between 824 and how many MHz carries those communications that are initiated from mobile phones?
+824 और किस मेगाहर्ट्ज के बीच का बैंड उन संचारों को वहन करता है जो मोबाइल फोन से शुरू किए जाते हैं?
+A
+750
+750
+B
+900
+900
+C
+560
+560
+D
+849
+849
+Correct Ans : D
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 12
+2613391
+Which single route is chosen between sender and receiver at the beginning of the session?
+सत्र की शुरुआत में प्रेषक और प्रााप्तकर्ता के बीच कौन सा एकल मार्ग चुना जाता है?
+A
+Datagram approach
+डेटाग्रााम दृष्टिकोण
+B
+Switching
+स्विचिंग
+C
+Virtual Circuit approach
+वर्चुअल सर्किट दृष्टिकोण
+D
+Routing
+रूटिंग
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 13
+2613392
+It is first field of the 802.3 frame, which contains seven bytes of alternating 0s and 1s that alerts the receiver to the coming frame thereby enabling
+it to synchronize its timing of input.
+यह 802.3 फ्रेेम का पहला क्षेत्र है, जिसमें बारी-बारी से 0s और 1s के सात बाइट्स होते हैं जो रिसीवर को आने वाले फ्रेेम के लिए सचेत करता है जिससे वह इनपुट के समय को सिंक्रनाइज़ करने
+में सक्षम हो जाता है।
+A
+Source address
+सोर्स एड्रेेस 
+B
+Preamble
+प्रेम्ब्ल
+C
+Destination address
+डेस्टिनेशन एड्रेेस
+D
+Start frame delimiter
+स्टाार्ट फ्रेेम डेलीमीटर
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 14
+2613393
+Which refers to a standard for indicating or specifying any type of data on the Internet?
+इंटरनेट पर किसी भी प्रकार के डेटा को इंगित करने या निर्दिष्ट करने के लिए मानक को कौन संदर्भित करता है?
+A
+HTTP
+एचटीटीपी
+B
+SMTP
+एसएमटीपी
+C
+URL
+यूआरएल
+D
+POP3
+पीओपी3
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 15
+2613394
+Which refers to the techniques using which an OS decides as to which memory pages to be swapped or written to disk when a memory page has to
+be allocated?
+जो उन तकनीकों को संदर्भित करता है जिनके उपयोग से एक OS यह तय करता है कि मेमोरी पेजेस आवंटित किए जाने पर किस मेमोरी पेज को स्वैप किया जाए या डिस्क पर लिखा जाए?
+A
+Optimal page algorithm
+ऑप्टीीमल पेज एल्गोोरिदम
+B
+Page replacement algorithm
+पेज रिपलेस्‍मेंट एल्गोोरिदम
+C
+Page buffering algorithm
+पेज बफरिंंग एल्गोोरिदम
+D
+LRU algorithm
+एलआरयू एल्गोोरिदम
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 16
+2613395
+Which procedure uses a specific hardware to detect a conflict by routing the data through special paths between the segments of the pipeline?
+पाइपलाइन के खंडों के बीच विशेष पथों के माध्यम से डेटा को रूटिंग करके कंफ्लिक्‍ट का पता लगाने के लिए कौन सी प्रक्रिया विशिष्ट हार्डवेयर का उपयोग करती है?
+A
+Hardware interlocks
+हार्डवेयर इंटरलॉक
+B
+Operand Forwarding
+ऑपरेंड फॉरवार्डिंग
+C
+Speculative execution
+स्पेक्युलेटिवे एक्जिक्यूशन
+D
+Branch prediction
+ब्रांांच प्रेडिक्शन
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 17
+2613402
+Which has the ability to provide transmission from any location no matter how remote it may be?
+कौन किसी भी स्थान से संचारण प्रदान करने की क्षमता रखता है चाहे वह स्थान कितना भी दूरस्थ क्योंों न हो?
+A
+Antenna
+एंटीना
+B
+LAN
+लैन
+C
+Satellite microwave
+सैटेलाइट माइक्रोोवेव
+D
+ Repeaters
+रिपीटर्स
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 18
+2613403
+Which of the following includes simple instructions with hard-wired control, numerous registers, increased clock rate etc.?
+निम्नलिखित में से किसमें हार्ड-वायर्ड कंट्रोोल, कई रजिस्टर, इनक्रिज्‍ड क्‍लॉक रेट आदि के साथ सरल निर्देश शामिल हैं?
+A
+CISC
+सीआईएससी
+B
+CPU
+सीपीयू
+C
+RISC
+आरआईएससी
+D
+ I/O
+आई / ओ
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 19
+2613404
+Blackberry OS, iOS, etc, became popular in which generation OS?
+ब्लैकबेरी ओएस, आईओएस आदि किस पीढ़ीी के ओएस में लोकप्रिय हुए?
+A
+Fourth 
+चौथी
+B
+First
+पहली
+C
+Second
+दूसरी
+D
+Fifth
+पांचवी
+Correct Ans : D
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 20
+2613405
+Which has been specifically designed for time sharing system and the ready queue is based on the FIFO order?
+जिसे विशेष रूप से टाइम शेयरिंंग सिस्टम के लिए डिजाइन किया गया है और रेडी क्यू FIFO ऑर्डर पर आधारित है?
+A
+Priority scheduling
+प्राायोरिटी शेड्यूलिंग
+B
+Shortest Job First
+शॉर्टेस्ट जॉब फर्स्ट
+C
+Gantt chart
+गैंट चार्ट
+D
+Round Robin Scheduling
+राउंड रॉबिन शेड्यूलिंग
+Correct Ans : D
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 21
+2613410
+Which form of flip flop is used to synchronize the state change during a clock pulse transition?
+क्लॉॉक पल्स ट्रांांजिशन के दौरान स्टेट परिवर्तन को सिंक्रनाइज़ करने के लिए किस प्रकार के फ्लिप फ्लॉॉप का उपयोग किया जाता है?
+A
+JK flip flop
+जेके फ्लिप फ्लॉॉप
+B
+T flip flop
+टी फ्लिप फ्लॉॉप
+C
+Edge-triggered flip flops
+एज-ट्रिगर फ्लिप फ्लॉॉप
+D
+ D-flip flop
+डी-फ्लिप फ्लॉॉप
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 22
+2613411
+The AND gates and inverters in the multiplexer resemble  which circuit? 
+मल्टीीप्लेक्सर में AND गेट्स और इनवर्टर किस सर्किट से मिलते जुलते हैं?
+A
+Encoder
+एनकोडर
+B
+Decoder
+डिकोडर
+C
+Adder
+योजक
+D
+Register
+रजिस्टर
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 23
+2613412
+Whenever a running job is completed, the OS could load a new job from the disk into the empty partition and run it. What does it refer to?
+जब भी कोई चालू कार्य पूरा हो जाता है, OS डिस्क से एम्‍पटी पार्टीशन में एक नया कार्य लोड कर सकता है और उसे चला सकता है। इसका क्याा मतलब है?
+A
+Formatting
+फॉर्मेटिंंग
+B
+Spooling
+स्पूलिंग
+C
+Printing
+प्रिंटिंग
+D
+Time-sharing
+टाईम शेयरिंंग
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 24
+2613413
+Which layer is concerned with syntax and semantics of the transmitted data?
+कौन-सी परत प्रेषित डेटा के सिंटैक्स और सेमेटिक्स से संबंधित है?
+A
+Application
+एप्लीीकेशन
+B
+Presentation
+प्रेजेंटेटेशन
+C
+Session
+सेशन
+D
+ Transport
+ट्रांांसपोर्ट
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 25
+2613418
+Which refers to the suppression of the details of data organisation and storage thereby highlighting the significant features for an enhanced data
+understanding?
+कौन-सा डेटा ऑर्गेनाईजेशन और स्‍टोरेज के विवरण के सप्रेशन को संदर्भित करता है जिससे एक वर्धित डेटा समझ के लिए महत्वपूर्ण विशेषताओं को उजागर किया जाता है?
+A
+Data model
+डेटा मॉडल
+B
+Data abstraction
+डेटा अब्‍सट्रेकशन
+C
+Client server
+क्लााइंट सर्वर
+D
+Cloud computing
+क्लााउड कंप्यूटिंग
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 26
+2613419
+Which acts as a switchboard for Internet Relay Chat (IRC) channels?
+इंटरनेट रिले चैट (आईआरसी) चैनलों के लिए स्विचबोर्ड के रूप में कौन कार्य करता है?
+A
+IRC servers
+आईआरसी सर्वर
+B
+Web servers
+वेब सर्वर
+C
+Client server
+क्लााइंट सर्वर
+D
+FTP server
+एफ़टीपी सर्वर
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 27
+2613420
+What will be the time taken to download a 10 MB file if the speed of the modem is 4 Mbps?
+यदि मॉडम की गति 4 एमबीपीएस है तो 10 एमबी की फाइल को डाउनलोड करने में कितना समय लगेगा?
+A
+10 minutes
+10 मिनट
+B
+35 minutes
+35 मिनट
+C
+46 minutes
+46 मिनट
+D
+20 seconds
+20 सेकंड
+Correct Ans : D
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 28
+2613421
+Which refers to the group of bits that instruct the computer to perform a specific task or an operation?
+जो बिट्स के उस समूह को संदर्भित करता है जो कंप्यूटर को एक विशिष्ट कार्य या एक ऑपरेशन करने के लिए निर्देश देता है?
+A
+Binary code
+बाइनरी कोड
+B
+Computer register
+कंप्यूटर रजिस्टर
+C
+Indirect address
+इनडायरेक्‍ट एड्रेेस
+D
+Instruction code
+इंस्‍ट्रक्‍शन कोड
+Correct Ans : D
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 29
+2613422
+Which instruction transfers the memory word specified by the effective address to the AC?
+कौन-सा निर्देश प्रभावी पते द्वाारा निर्दिष्ट मेमोरी वर्ड को AC में स्थानांतरित करता है?
+A
+ADD to AC
+ऐड टू एसी
+B
+AND to AC
+एंड टू एसी
+C
+LDA
+एलडीए
+D
+BUN
+बीयूएन
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 30
+2613423
+In which year, Arthur C. Clarke calculated that a satellite at an altitude of 35,800 km in an equatorial orbit would appear to remain motionless in the
+sky?
+किस वर्ष  में, आर्थर सी. क्लाार्क ने गणना की कि भूमध्यरेखीय कक्षाा में 35,800 किमी की ऊंचाई पर एक उपग्रह आकाश में गतिहीन दिखाई देगा?
+A
+1934
+1934
+B
+1956
+1956
+C
+1945
+1945
+D
+1960
+1960
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 31
+2613430
+Which type of instructions is most common in commercial computers?
+कमर्शियल कंप्यूटर में किस प्रकार के निर्देश सबसे आम हैं?
+A
+Three-address instructions
+तीन-एड्रेेस निर्देश
+B
+Two-address instructions
+दो-एड्रेेस निर्देश
+C
+One-address instructions
+एक-एड्रेेस निर्देश
+D
+Zero-address instructions
+शून्य-एड्रेेस निर्देश
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 32
+2613431
+Which term is used to denote a large class of techniques that are used in providing simultaneous data-processing tasks for the purpose of increasing
+the computational speed of the computer?
+कंप्यूटर की कम्प्यूटेशनल गति को बढ़ााने के उद्देश्य से डेटा-प्रोोसेसिंग कार्यों को एक साथ प्रदान करने में उपयोग की जाने वाली तकनीकों की एक बड़ीी श्रेणी को दर्शाने के लिए किस शब्द का
+उपयोग किया जाता है?
+A
+Vector processing
+वेक्टर प्रोोसेसिंग
+B
+Parallel processing
+पेरेलल प्रोोसेसिंग
+C
+Pipelining
+पाइपलाइनिंग
+D
+ Multiprogramming
+मल्टीीप्रोोग्राामिंग
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 33
+2613432
+Which is an analog technique that can be applied when the bandwidth of a link is greater than the combined bandwidths of the transmitted signals?
+कौन सी एक एनालॉग तकनीक है जिसे तब लागू किया जा सकता है जब एक लिंक की बैंडविड्थ ट्रांांसमिटेड संकेतों के संयुक्त बैंडविथ से अधिक हो?
+A
+Frequency division multiplexing
+फ्रीीक्वेंसी डिवीजन मल्टीीप्लेक्सिंग
+B
+Wavelength-division multiplexing
+वेवलेंथ-डिवीज़न मल्टीीप्लेक्सिंग
+C
+Time-division multiplexing
+टाईम-डिविजन मल्टीीप्लेक्सिंग
+D
+Demultiplexer
+डिमल्टीीप्लेक्सर
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 34
+2613433
+Coaxial cables are widely used in analog telephone networks wherein a single coaxial network has the ability to carry how many voice signals?
+समाक्षीीय केबल का व्याापक रूप से एनालॉग टेलीफोन नेटवर्क में उपयोग किया जाता है जिसमें एकल समाक्षीीय नेटवर्क में कितने ध्वनि संकेतों को ले जाने की क्षमता होती है?
+A
+5000
+5000
+B
+3000
+3000
+C
+1000
+1000
+D
+10,000
+10,000
+Correct Ans : D
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 35
+2613434
+The earliest random-access method, ALOHA, was developed at which university in the early 1970?
+सबसे पहला रैंडम-एक्सेस मेथड, ALOHA, 1970 की शुरुआत में किस विश्वविद्याालय में विकसित किया गया था?
+A
+University of Cambridge
+कैम्ब्रिज विश्वविद्याालय
+B
+University of Hawaii
+हवाई विश्वविद्याालय
+C
+Stanford University
+स्टैनफोर्ड विश्वविद्याालय
+D
+University of Oxford
+ऑक्सफोर्ड विश्वविद्याालय
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 36
+2613435
+Which of the following is the commonly used peripheral devices?
+निम्नलिखित में से कौन सा आमतौर पर इस्तेमाल किया जाने वाला पेरिफेरल डिवाइस है?
+A
+ROM
+रोम
+B
+Motherboard
+मदरबोर्ड
+C
+Integrated Circuit Chips
+एकीकृत सर्किट चिप्स
+D
+Video monitors
+वीडियो मॉनीटर
+Correct Ans : D
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 37
+2613442
+Fast Ethernet has the ability to transmit data 10 times faster at a rate of ?
+फास्ट ईथरनेट में किस दर से 10 गुना तेजी से डेटा संचारित करने की क्षमता होती है?
+A
+200 Mbps
+200 एमबीपीएस
+B
+100 Mbps
+100 एमबीपीएस
+C
+500 Mbps
+500 एमबीपीएस
+D
+700 Gbps
+700 जीबीपीएस
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 38
+2613443
+Which disk scheduling policy moves the disk heads from one end to the other thereby servicing I/O operations on each track?
+कौन-सी डिस्क शेड्यूलिंग पॉलिसी डिस्क हेड्स को एक छोर से दूसरे छोर तक ले जाती है जिससे प्रत्येक ट्रैक पर I/O संचालन की सर्विसिंग होती है?
+A
+First come first serve
+फर्स्‍ट कम फर्स्‍ट सर्व
+B
+SCAN scheduling
+स्कैैन शेड्यूलिंग
+C
+CSCAN
+सीएससीएएन
+D
+Shortest seek time first scheduling
+शॉर्टेस्ट सीक टाइम फर्स्ट शेड्यूलिंग
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 39
+2613444
+In which form of architecture does the processors has the access to remote memory units?
+किस प्रकार के आर्किटेक्चर में प्रोोसेसर की रिमोट मेमोरी यूनिट तक पहुंच होती है?
+A
+NUMA 
+एनयूएमए
+B
+UMA
+यूएमए
+C
+NORMA
+एनओआरएमए
+D
+SMP
+एसएमपी
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 40
+2613445
+Which layer provides the means to control the dialog between two entities that use a connection-oriented protocol?
+कौन-सी लेयर कनेक्शन-ऑरिऐंटेटेड प्रोोटोकॉल का उपयोग करने वाली दो संस्थाओं के बीच डायलॉग को नियंत्रित करने के साधन प्रदान करती है?
+A
+Transport layer
+ट्रांांसपोर्ट लेयर
+B
+Application layer
+एप्लीीकेशन लेयर
+C
+Session layer
+सेशन लेयर
+D
+Network layer
+नेटवर्क लेयर
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 41
+2613450
+Which refers to a network that is connected to a single router?
+कौन-सा एक नेटवर्क को संदर्भित करता है जो एक राउटर से जुड़ाा होता है?
+A
+Transient link
+ट्रांांसिएंट लिंक
+B
+Point-to-point link
+पॉइंट-टू-पॉइंट लिंक
+C
+Stub link
+स्टब लिंक
+D
+Virtual link
+वर्चुअल लिंक
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 42
+2613451
+The ports from 1024 to 49151 is referred to as?
+1024 से 49151 तक के पोर्ट्स को क्याा  कहा जाता है?
+A
+Well-known ports
+वेल-नोन पोर्ट्स
+B
+Dynamic ports
+डायनामिक पोर्ट्स
+C
+Registered ports
+रजिस्टर्ड पोर्ट्स
+D
+Internet ports
+इंटरनेट पोर्ट्स
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 43
+2613452
+Which denotes acknowledgement of INIT chunk?
+जो INIT चंक की पावती को दर्शाता है?
+A
+SACK
+सैक
+B
+ABORT
+अबो्र्ट
+C
+INITACK
+इनिटैक
+D
+ERROR
+एरर
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 44
+2613453
+The method TRACE refers to ?
+TRACE विधि क्याा  को संदर्भित करती है?
+A
+Echoes the incoming request
+आने वाले अनुरोध को प्रतिध्वनित करता है
+B
+Request a document from the server
+सर्वर से एक दस्ताावेज़ का अनुरोध करता है
+C
+Inquires about available option
+उपलब्ध विकल्प के बारे में पूछता है
+D
+Sends a document from the server to the client
+सर्वर से क्लााइंट को एक दस्ताावेज़ भेजता है
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 45
+2613458
+To enter bold in the web page, which tag is used?
+वेब पेज में बोल्ड करने के लिए किस टैग का प्रयोग किया जाता है ?
+A
+<i>
+<i>
+B
+<s>
+<s>
+C
+<b>
+<b>
+D
+<f>
+<f>
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 46
+2613459
+Common Gateway Interface is defined in?
+कॉमन गेटवे इंटरफेस को किस्में में परिभाषित किया गया है?
+A
+RFC 3458
+आरएफसी 3458
+B
+RFC 3875
+आरएफसी 3875
+C
+RFC 216
+आरएफसी 216
+D
+RFC 1176
+आरएफसी 1176
+Correct Ans : B
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 47
+2613460
+What is the full form of PHP?
+PHP का फुल फॉर्म क्याा होता है?
+A
+Hypertext Protocol
+हाइपरटेक्स्ट प्रोोटोकॉल
+B
+Hypertext processing language
+हाइपरटेक्स्ट प्रोोसेसिंग लैंग्वेज
+C
+Hypertext Preprocessor
+हाइपरटेक्स्ट प्रीीप्रोोसेसर
+D
+Hypertext Programming language
+हाइपरटेक्स्ट प्रोोग्राामिंग भाषा
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 48
+2613461
+Which, in digital computers is a memory unit with an address register that counts only after the addition of an initial value?
+डिजिटल कंप्यूटर में क्याा  एक मेमोरी यूनिट है जिसमें एड्रेेस रजिस्टर होता है जो एक प्राारंभिक मूल्य के जोड़ के बाद ही गिना जाता है?
+A
+Shift register
+शिफ्ट रजिस्टर
+B
+Adder
+योजक
+C
+Stack
+स्टैक
+D
+Heap
+हीप
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 49
+2613462
+Which holds some data values that are recently accessed by the CPU?
+कौन-सा डेटा मान रखता है जिसे हाल ही में CPU द्वाारा एक्सेस किया गया है?
+A
+Main Memory
+मैन मेमोरी
+B
+Read Only memory
+रीड ओनली मेमोरी
+C
+Cache Memory
+कैश मेमोरी
+D
+Random Access memory
+रैंडम एक्सेस मेमोरी
+Correct Ans : C
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------
+Q.No: 50
+2613463
+Which was the prime concern of the batch processing OS?
+बैच प्रोोसेसिंग OS की प्रमुख चिंता कौन-सी थी?
+A
+CPU idle time
+सीपीयू आइडियल टाइम
+B
+Resource sharing
+रिसोर्स शेयरिंंग
+C
+Memory allocation
+मेमोरी एलोकेशन
+D
+Resource utilisation
+रिसोर्स यूटिलाईजेशन
+Correct Ans : A
+Subject : COMPUTER SCIENCE AND TECHNOLOGY & INFORMATION TECHNOLOGY graduate
+
+----------------------------------------

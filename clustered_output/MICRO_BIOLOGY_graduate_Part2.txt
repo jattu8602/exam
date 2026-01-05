@@ -1,0 +1,661 @@
+Subject: MICRO BIOLOGY graduate
+Questions: 33
+========================================
+
+Q.No: 68
+2619168
+Who introduce vaccination against small pox?
+चेचक के खिलाफ टीकाकरण की शुरुआत किसने की थी?
+A
+Edward Jenner
+एडवर्ड जेनर
+B
+Louis Pasteur
+लुईस पास्चर
+C
+Robert Koch
+रॉबर्ट कोच
+D
+Joseph Lister
+जोसेफ लिस्टर
+Correct Ans : A
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 69
+2619169
+During conjugation, the genetic material will be transferred through ________.
+संयुग्मन के दौरान, आनुवंशिक सामग्रीी को किसके माध्यम से स्थानांतरित कीजाएगी।
+A
+Cell wall 
+कोशिका भित्ति
+B
+Flagella 
+कशाभिका 
+C
+Pili 
+पिली
+D
+Capsule
+कैप्सूल
+Correct Ans : C
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 70
+2619176
+Polymetaphosphate, a storage granule acts as a source of ________.
+पोलीमेटाफॉस्फेेट, एक स्टोोरेज ग्रेन्युल ________ के स्रोोत के रूप में काम करता है।
+A
+Sulphur
+सल्फर
+B
+Sulphate
+सल्फेेट
+C
+Phosphate
+फास्फेेट
+D
+Phosphoric acid
+फॉस्फोोरिक एसिड
+Correct Ans : C
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 71
+2619177
+A bacterium containing prophage is called as _________.
+प्रोोफेज युक्त जीवाणु को _________ कहा जाता है।
+A
+Lytic 
+लाइटिक
+B
+Lytogen 
+लाइटोजेन
+C
+Lysogen 
+लाइसोजेन
+D
+None of the given option
+दिए गए विकल्पोंों में से कोई नहीं
+Correct Ans : C
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 72
+2619186
+The secondary electrons radiated back in scanning microscope is collected by _______.
+स्कैैनिंग सूक्ष्मदर्शी में वापस विकीर्ण हुए द्वितीयक इलेक्ट्रॉॉनों को _______ द्वाारा एकत्र किया जाता है।
+A
+Specimen 
+स्पेसिमेन 
+B
+Anode 
+एनोड
+C
+Vacuum chamber 
+वैक्यूम चैंबर
+D
+Cathode
+कैथोड
+Correct Ans : B
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 73
+2619187
+The total magnification in microscope is obtained by ______.
+माइक्रोोस्कोोप में कुल आवर्धन ______ से प्रााप्त होता है।
+A
+Magnifying power of the objective lens 
+अभिदृश्यक लेंस की आवर्धन क्षमता
+B
+Magnifying power of eyepiece 
+नेत्रिका की आवर्धन क्षमता
+C
+Magnifying power of condenser lens 
+संघनित्र लेंस की आवर्धन क्षमता
+D
+Magnifying power of both the objective lens and eyepiece
+अभिदृश्यक लेंस और नेत्रिका दोनों की आवर्धन क्षमता
+Correct Ans : D
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 74
+2619195
+Acid fast bacilli are stained  by__________.
+एसिड फास्ट बेसिली __________ द्वाारा अभिरंजित होते हैं।
+A
+Ziehl-Neelsen 
+ज़िहल-नीलसन
+B
+Albert
+अल्बर्ट
+C
+Neisser 
+नीसर
+D
+Ponder 
+पोंडर 
+Correct Ans : A
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 75
+2619196
+Which mordant is used in grams staining?
+ग्रााम अभिरंजक में किस रंगबंधन का प्रयोग होता है? 
+A
+Crystal violet 
+क्रिस्टल वायलेट
+B
+Safranin 
+सैफरैनीन
+C
+Gram’s Iodine 
+ग्रााम आयोडीन
+D
+Acetocarmine
+एसीटोकार्मिन
+Correct Ans : C
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 76
+2619201
+Whose spores are used to evaluate the efficacy of autoclaving?
+किसके बीजाणुओं का उपयोग आटोक्लेविंग की प्रभावकारिता का मूल्यांांकन करने के लिए किया जाता है?
+A
+Bacillus subtilis 
+बेसिलस सुबटिलिस
+B
+Bacillus stearothermophilus 
+बेसिलस स्टीीरोथर्मोफिलस
+C
+Coxiella burnetti 
+कॉक्सिएला बर्नेटी
+D
+Pseudomonas
+स्यूडोमोनास
+Correct Ans : B
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 77
+2619202
+Which of the following has an ionizing radiation ?
+निम्नलिखित में से किसमें आयनीकरण विकिरण है?
+A
+U.V. rays
+यू.वी. किरणें
+B
+C
+IR 
+आईआर
+D
+None of the given option
+दिए गए विकल्पोंों में से कोई नहीं
+Correct Ans : B
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 78
+2619209
+While calculating the standard deviation, the deviations are only taken from ________.
+मानक विचलन की गणना करते समय, विचलन केवल ________ से लिए जाते हैं।
+A
+The mode value of a series
+किसी सीरीज का मोड मान
+B
+The mean value of a series
+किसी सीरीज का औसत मूल्य 
+C
+The median value of a series
+किसी सीरीज का माध्यिका मान
+D
+The quartile value of a series
+किसी सीरीज का चतुर्थक मान 
+Correct Ans : B
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 79
+2619210
+Which disaccharide is linked by α 1-4 glycosidic linkage ?
+कौन-सा डाइसैकेराइड α1-4 ग्लााइकोसिडिक बंध द्वाारा जुड़ाा होता है?
+A
+Maltose
+माल्टोोज़
+B
+Lactose
+लैक्टोोज
+C
+Sucrose
+सुक्रोोज
+D
+Cellulose
+सेल्यूलोज 
+Correct Ans : A
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 80
+2619219
+Most active stage in the sigmoid curve of bacteria in which maximum growth is attained at ______.
+बैक्टीीरिया के सिग्मॉॉइड वक्र में सबसे सक्रिय चरण जिसमें अधिकतम वृद्धि ______ पर प्रााप्त होती है।
+A
+Lag phase 
+लैग फेज
+B
+Stationary phase 
+स्टेशनरी फेज
+C
+Decline phase 
+डिक्लााइन फेज
+D
+Log phase
+लॉग फेज
+Correct Ans : D
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 81
+2619220
+The increase in population of bacteria is in the manner of _______.
+जीवाणुओं की जनसंख्याा में वृद्धि _______ के तरीके से होती है।
+A
+Geometric progression 
+ज्याामितीय अनुक्रम
+B
+Multiplication 
+गुणन
+C
+Doubling 
+दोहरीकरण
+D
+Arithmetic progression
+अंकगणितीय अनुक्रम
+Correct Ans : A
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 82
+2619228
+Reduction of NADP occurs in _______.
+एनएडीपी का रिडक्‍शन _______ में होता है।
+A
+Oxidative photophosphorylation
+ऑक्सीीडेटिव फोटोफॉस्फोोराइलेशन
+B
+Cyclic photophosphorylation
+चक्रीीय फोटोफॉस्फोोराइलेशन
+C
+Non-cyclic photophosphorylation
+गैर-चक्रीीय फोटोफॉस्फोोराइलेशन
+D
+Electron transport cycle
+इलेक्ट्रॉॉन परिवहन चक्र
+Correct Ans : C
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 83
+2619234
+The process of transportation of solvent from higher concentration towards lower concentration through a semi permeable membrane is termed
+as:
+एक अर्ध पारगम्य झिल्लीी के माध्यम से उच्च सांद्रता से निम्न सांद्रता की ओर विलायक के परिवहन की प्रक्रिया को कहा जाता है:
+A
+Diffusion
+विसरण
+B
+Active transport
+सक्रिय(एक्टिव) ट्रांांसपोर्ट
+C
+Passive transport
+निष्क्रिय(पैसिव) ट्रांांसपोर्ट
+D
+Osmosis
+परासरण 
+Correct Ans : D
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 84
+2619235
+The protein moiety of an enzyme is known as ________.
+एक एन्जाइम के प्रोोटीन भाग को ________ के रूप में जाना जाता है।
+A
+Holoenzyme 
+होलोएंजाइम
+B
+Apoenzyme
+एपोएंजाइम
+C
+Coenzyme 
+कोएंजाइम
+D
+Enzyme
+एनजाइम
+Correct Ans : B
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 85
+2619242
+If the % concentration of thymine in DNA is 40%, the concentration of cytosine will be ______.
+यदि डीएनए में थाइमिन की प्रतिशत सांद्रता 40% है, तो साइटोसिन की सांद्रता ______ होगी।
+A
+10% 
+10%
+B
+20%
+20%
+C
+30% 
+30%
+D
+40%
+40%
+Correct Ans : D
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 86
+2619243
+The anticodon region is an important part of ___________.
+एंटिकोडन क्षेत्र ___________ का एक महत्वपूर्ण भाग है।
+A
+r-RNA 
+r-RNA 
+B
+m-RNA
+m-RNA
+C
+hn-RNA 
+hn-RNA 
+D
+t-RNA
+t-RNA
+Correct Ans : D
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 87
+2619252
+The flow of genetic information in the process of transcription is from:
+अनुलेखन की प्रक्रिया में आनुवंशिक सूचना का प्रवाह होता है:
+A
+RNA to DNA 
+आरएनए से डीएनए
+B
+DNA to protein
+डीएनए से प्रोोटीन
+C
+RNA to protein 
+आरएनए से प्रोोटीन
+D
+DNA to RNA
+डीएनए से आरएनए
+Correct Ans : D
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 88
+2619253
+Smaller subunit (30S) of Bacterial ribosomes contains: 
+बैक्टीीरियल राइबोसोम के छोटे सबयूनिट (30S) में शामिल हैं:
+A
+16S rRNA + 21 polypeptides
+16S rRNA + 21 पॉलीपेप्टााइड्स
+B
+30S rRNA and 50S rRNA + 31 polypeptides
+30S rRNA और 50S rRNA + 31 पॉलीपेप्टााइड्स
+C
+18S rRNA + 21 polypeptides 
+18S rRNA + 21 पॉलीपेप्टााइड्स
+D
+23S rRNA and 5S rRNA +31 polypeptides
+23S rRNA और 5S rRNA +31 पॉलीपेप्टााइड
+Correct Ans : A
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 89
+2619261
+Which species is used for the production of streptomycin ?
+स्ट्रेप्टोोमाइसिन के उत्पाादन के लिए किस प्रजाति का उपयोग किया जाता है?
+A
+S. griseus
+एस. ग्रिसस
+B
+E. aerogenes
+ई. एरोजेन्स
+C
+M. glutamicus
+एम. ग्लूटामिकस
+D
+N. sulphurea
+एन. सल्फ्यूरिया
+Correct Ans : A
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 90
+2619267
+Which of the following microorganism is a true homolactic fermentor?
+निम्नलिखित में से कौन सा सूक्ष्मजीव एक वास्तविक होमोलेक्टिक किण्वक है?
+A
+Streptococcus
+स्ट्रैपटोकोकस
+B
+Staphylococcus
+स्टेफिलोकोकस
+C
+Propionobacterium
+प्रोोपिओनोबैक्टीीरियम
+D
+Clostridium
+क्लोोस्ट्रीीडियम
+Correct Ans : A
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 91
+2619268
+A
+Hyperthermophiles
+हाइपरथर्मोफिल्स
+B
+Facultative psychrophiles
+फैक्लटेटिव साइक्रोोफाइलस
+C
+Mesophiles
+मेसोफाइलस
+D
+Thermophiles
+थर्मोफिल्स
+Correct Ans : B
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 92
+2619275
+Nitrogen fixing microorganism are called ________.
+नाइट्रोोजन स्थिरीकरण करने वाले सूक्ष्मजीवों को ________ कहा जाता है।
+A
+Diazotrophs
+डायज़ोोट्रोोफ़्स
+B
+Autotrophs
+ऑटोट्रॉॉफ़्स
+C
+Heterotrophs
+हेटरोट्रॉॉफ़्स
+D
+Chemotrophs
+केमोट्रोोफ्स
+Correct Ans : A
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 93
+2619276
+Denitrification may be termed as _________.
+विनाइट्रीीकरण को _________ के रूप में कहा जा सकता है।
+A
+Mineralization
+खनिजीकरण
+B
+Nitrate respiration
+नाइट्रेट श्वसन
+C
+Immobilization
+स्थिरीकरण
+D
+Ammonification
+अमोनीफिकेशन
+Correct Ans : B
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 94
+2619285
+Which bacteria is called super bug?
+किस जीवाणु को सुपर बग कहा जाता है?
+A
+Pseudomonas putida
+स्यूडोमोनास पुटिडा
+B
+Nitrosomonas
+नाइट्रोोसोमोनास
+C
+Thiobacillus ferrooxidans
+थायोबैसिलस फेरोक्सिडन्स
+D
+Escherichia coli
+इशरीकिया कोली
+Correct Ans : A
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 95
+2619286
+Itai-Itai disease is due to presence and cumulative effect of ________.
+इटाई-इटाई रोग ________ की उपस्थिति एवं संचयी प्रभाव के कारण होता है।
+A
+Cadmium
+कैडमियम
+B
+Mercury
+मरकरी 
+C
+Lead
+सीसा
+D
+Arsenic
+आर्सेनिक
+Correct Ans : A
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 96
+2619294
+The absence of harmful immune reactions to antigen is termed as _______.
+एंटीजन के प्रति हानिकारक प्रतिरक्षीी प्रतिक्रियाओं की अनुपस्थिति को _______ कहा जाता है।
+A
+Specific immunity
+विशिष्ट प्रतिरक्षाा
+B
+Tolerance
+सहिष्णुता (टॉलरेंस )
+C
+Cell-mediated immunity
+कोशिका-मध्यस्थ प्रतिरक्षाा
+D
+Antigenic immunity
+एंटीजेनिक प्रतिरक्षाा
+Correct Ans : B
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 97
+2619300
+Human blood  types in the ABO blood group are identified by ________.
+ABO रक्त समूह में मानव रक्त समूह की पहचान ________के द्वाारा की जाती है।
+A
+Clotting factors in plasma
+प्लााज्माा में थक्काा जमाने वाले कारक
+B
+Microscopic examination of white blood cells
+सफेद रक्त कोशिकाओं की सूक्ष्म जांच
+C
+Antigen-antibody reactions
+एंटीजन-एंटीबॉडी प्रतिक्रियाएं
+D
+Series of enzyme controlled reactions
+एंजाइम नियंत्रित अभिक्रियाओं की श्रृंृंखला
+Correct Ans : C
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 98
+2619308
+AZT is an ________.
+AZT एक ________ है।
+A
+Biocatalyst
+जैव उत्प्रेरक
+B
+Anabolic hormone
+उपचय हार्मोन
+C
+Anti-AIDS drug
+एड्स रोधी दवा
+D
+Antibiotic
+जीवाणुरोधी (एंटीबायोटिक)
+Correct Ans : C
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 99
+2619318
+Cell mediated immunity is by virtue of _______.
+कोशिका माध्यित प्रतिरक्षाा _______ के आधार पर होती है।
+A
+Helper T-cell 
+हेल्पर टी- कोशिकाएँ 
+B
+Suppressor T-cells
+दमनकारी टी-कोशिकाएँ
+C
+Cytotoxic T-cells
+साइटोटोक्सिक टी-कोशिकाएँ
+D
+All of the given options
+दिए गए सभी विकल्प
+Correct Ans : D
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------
+Q.No: 100
+2619327
+TSG are sometimes called
+ट्यूमर दमन करने वाले जीन को कभी-कभी कहा जाता है:
+A
+Antioncogenes
+एंटीकोजेन्स
+B
+Proto-oncogenes
+प्रोोटो-ओंकोजीन
+C
+Oncogenes
+ओंकोजीन
+D
+Proximate carcinogens
+प्रोोक्‍सीमेट कार्सिनोजेन्स
+Correct Ans : A
+Subject : MICRO BIOLOGY graduate
+
+----------------------------------------

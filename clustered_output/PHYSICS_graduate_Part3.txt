@@ -1,0 +1,914 @@
+Subject: PHYSICS graduate
+Questions: 50
+========================================
+
+Q.No: 59
+2626432
+Give the value of the form factor for the half wave rectifier?
+हाफ-वेव रेक्टिफायर का फॉर्म फैक्टर का मान कितना होता है?
+A
+1.57
+1.57
+B
+2.01
+2.01
+C
+1.45
+1.45
+D
+2.50
+2.50
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 60
+2626446
+In which region of JFET the part of the drain curves that starts at the origin and end at the proportional pinch-off voltage?
+JFET के किस क्षेत्र में ड्रेेन कर्व्स का हिस्साा मूल से शुरू होता है और आनुपातिक पिंच-ऑफ वोल्टेज पर समाप्त होता है?
+A
+Cut-off region
+कट-ऑफ क्षेत्र
+B
+Saturation region
+संतृप्ति क्षेत्र
+C
+Ohmic region
+ओमिक क्षेत्र
+D
+Breakdown region
+ब्रेकडाउन क्षेत्र
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 61
+2626481
+Match the following.
+निम्नलिखित को मिलाएं।
+A
+1-C, 2-A, 3-D, 4-B
+1-C, 2-A, 3-D, 4-B
+B
+1-B, 2-A, 3-D, 4-C
+1-B, 2-A, 3-D, 4-C
+C
+1-A, 2-C, 3-D, 4-B
+1-A, 2-C, 3-D, 4-B
+D
+1-C, 2-D, 3-A, 4-B
+1-C, 2-D, 3-A, 4-B
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 62
+2626482
+Geiger and Nuttall made experimental study between which two parameters?
+गीगर और न्यूटॉल ने किन दो प्रााचलों के बीच एक प्राायोगिक अध्ययन किया?
+A
+B
+C
+D
+Decay constant and orbital quantum numbers
+स्थिरांक में कमी और कक्षीीय क्वांांटम संख्याा
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 63
+2626490
+Name a detector which is used to measure the number of ions within a medium usually gas or air.
+उस संसूचक का नाम लिखिए जिसका उपयोग किसी माध्यम में आमतौर पर गैस या वायु में आयनों की संख्याा को मापने के लिए किया जाता है।
+A
+Proportional counters
+आनुपातिक काउंटर
+B
+Ionization chamber
+आयनीकरण कक्ष
+C
+GM counters
+GM काउंटर
+D
+Scintillation detectors
+जगमगाहट डिटेक्टर
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 64
+2626491
+Which  is the most commonly used scintillator crystal for g -ray work?
+जी-किरण के काम के लिए सबसे अधिक इस्तेमाल किया जाने वाला स्किंंटिलेटर क्रिस्टल कौन सा है?
+A
+NaI(TI)
+NaI(TI)
+B
+CsI(TI)
+CsI(TI)
+C
+CaF2(Eu)
+CaF2(Eu)
+D
+ZnS
+ZnS
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 65
+2626506
+What is the atomic packing fraction of Face centred cubic structure?
+फलक केंद्रित घनीय संरचना का परमाणु संकुलन अंश क्याा है?
+A
+68%
+68%
+B
+52.6%
+52.6%
+C
+45%
+45%
+D
+74%
+74%
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 66
+2626507
+How does the crystal structure formed?
+क्रिस्टल संरचना कैसे बनती है?
+A
+Basis + Lattice point
+क्षाार  + जाली बिंदु
+B
+Basis +Primitive cell
+क्षाार  + प्रिमिटिव सेल
+C
+Basis + non-primitive cell
+क्षाार  + नॉन प्रिमिटिव सेल
+D
+Basis +Unit cell
+क्षाार  + यूनिट सेल
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 67
+2626522
+Which one of the following are valid when the Stokes lines are interacted with the molecule?
+निम्नलिखित में से कौन सा मान्य है जब स्टोोक्स रेखाएँ अणु के साथ परस्पर क्रिया करती हैं?
+A
+Increased in energy relative to the incident photons.
+आपतित फोटोन के सापेक्ष ऊर्जा में वृद्धि।
+B
+Reduced in energy relative to the incident photons
+आपतित फोटोन के सापेक्ष ऊर्जा में कमी
+C
+Equal in energy relative to the incident photon
+आपतित फोटॉन के सापेक्ष ऊर्जा में समान
+D
+Independent of energy of incident photon.
+आपतित फोटान की ऊर्जा से स्वतंत्र।
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 21
+2626182
+When a satellite revolves around the earth, the direction of the force applied by the earth is always on which direction to the motion of the satellite?
+जब कोई उपग्रह पृथ्वीी के चारों ओर घूमता है, तो पृथ्वीी द्वाारा लगाए गए बल की दिशा हमेशा उपग्रह की गति के लिए किस दिशा में होती है?
+A
+Parallel
+समानांतर
+B
+Perpendicular
+लंबवत
+C
+D
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 22
+2626193
+What is the Moment of Inertia of a uniform thin rod of mass M and length L about an axis passing through its centre of mass and perpendicular to its length?
+एक पतली छड़ जिसका द्रव्यमान M और लंबाई L हैं उसका जड़त्व आघूर्ण क्याा होगा  यदि उसका द्रव्यमान,  केंद्र से गुजरने वाली धुरी और उसकी लंबाई के लंबवत हैं ?
+A
+B
+C
+D
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 23
+2626213
+What is the minimum value of intensity of destructive interference?
+विनाशकारी इंटरफेरेंस की तीव्रता का न्यूनतम मूल्य क्याा है?
+A
+B
+C
+D
+Zero
+शून्य
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 24
+2626214
+The interference phenomenon is in accordance with which of the following law?
+व्यतिकरण परिघटना निम्नलिखित में से किस नियम के अनुसार है।
+A
+Law of conservation of energy
+ऊर्जा के संरक्षण का नियम
+B
+Newton’s law
+न्यूटन का नियम
+C
+Faraday’s law
+फैराडे का नियम
+D
+Pascal’s law
+पास्कल का नियम
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 25
+2626222
+According to which law the tangent of the angle of polarization is numerically equal to the refractive index of the medium?
+किस नियम के अनुसार ध्रुवण कोण की स्पर्श रेखा संख्याात्मक रूप से माध्यम के अपवर्तनांक के बराबर होती है?
+A
+Brewster’s law
+ब्रूस्टर का नियम
+B
+Malus law
+मालूस का नियम
+C
+Fresnel’s law
+फ्रेेस्नेल का नियम
+D
+Fraunhofer’s law
+फ्रौौनहोफर का नियम
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 26
+2626272
+What would be the velocity of the simple harmonic motion?
+सरल आवर्त गति  का वेग क्याा होगा?
+A
+B
+C
+D
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 27
+2626273
+How many times does the kinetic and potential energy attain their maximum value in one complete oscillation?
+एक पूर्ण दोलन में गतिज और स्थितिज ऊर्जा कितनी बार अपना अधिकतम मान प्रााप्त करती है?
+A
+Once
+एक बार
+B
+Twice
+दो बार
+C
+Thrice
+तीन बार
+D
+Zero
+शून्य
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 28
+2626284
+An observer standing at sea coast observes 48 waves reaching the coast per minute. If the wavelength of the waves is 10 m, find the velocity. What type of waves did he
+observe?
+समुद्र तट पर खड़ाा एक प्रेक्षक प्रति मिनट तट पर पहुँचने वाली 48 तरंगों का निरीक्षण करता है। यदि तरंगों की तरंगदैर्घ्य 10 मीटर हो, तो वेग ज्ञाात कीजिए। उसने किस प्रकार की तरंगें देखीं?
+A
+9m/s
+9 मी/से
+B
+8m/s
+8 मी/से
+C
+10 m/s
+10 मी/से
+D
+12 m/s
+12 मी/से
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 29
+2626299
+Increase in temperature of the gas thermometer is proportional to which factor?
+गैस थर्मामीटर के तापमान में वृद्धि__________ के समानुपाती होती है।
+A
+Increase in the number of moles
+मोल्स की संख्याा में वृद्धि
+B
+Increase in Volume
+मात्राा में वृद्धि
+C
+Increase in pressure
+दबाव में वृद्धि
+D
+Increase in density
+घनत्व में वृद्धि
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 30
+2626337
+.
+A
+B
+C
+D
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 31
+2626345
+A
+B
+C
+D
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 32
+2626361
+Match the following.
+निम्नलिखित को मिलाएं।
+A
+1-C, 2-A, 3-D, 4-B
+1-C, 2-A, 3-D, 4-B
+B
+1-B, 2-A, 3-D, 4-C
+1-B, 2-A, 3-D, 4-C
+C
+1-A, 2-C, 3-D, 4-B
+1-A, 2-C, 3-D, 4-B
+D
+1-C, 2-D, 3-A, 4-B
+1-C, 2-D, 3-A, 4-B
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 33
+2626372
+How does the electronic specific heat of a metal in the superconducting state varies with temperature?
+अतिचालकता अवस्था में धातु की इलेक्ट्रॉॉनिक विशिष्ट ऊष्माा तापमान के साथ कैसे भिन्न होती है?
+A
+Exponential manner
+घातीय तरीके
+B
+Linear manner
+रैखिक तरीके
+C
+Polynomial manner
+बहुपद तरीके
+D
+Logarithmic manner
+लॉगरिदमिक तरीके से
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 34
+2626408
+Which type of ray does not obey Snell’s law?
+वह किरण जो स्नेल के नियम का पालन नहीं करती है,
+A
+Extraordinary ray
+असाधारण किरण
+B
+Ordinary ray
+साधारण किरण
+C
+Normal ray
+सामान्य किरण
+D
+Incident ray
+घटना किरण
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 35
+2626418
+Most of the semiconductor diodes are made of which type of material?
+अधिकांश सेमीकंडक्टर डायोड किस प्रकार के पदार्थ से बने होते हैं?
+A
+Germanium
+जर्मेनियम
+B
+Silicon
+सिलिकॉन
+C
+Selenium
+सेलेनियम
+D
+Gallium arsenide
+गैलियम आर्सेनाइड
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 36
+2626433
+Which factor will increase with increase in the intensity of light falling on the p-n junction of photo diode?
+फोटोडायोड के p-n जंक्शन पर पड़ने वाले प्रकाश की तीव्रता में वृद्धि के साथ कौन सा कारक बढ़ेेगा?
+A
+Forward Voltage
+फॉरवर्ड वोल्टेज
+B
+Forward current
+आगे विधुत धारा
+C
+Reverse voltage 
+रिवर्स वोल्टेज
+D
+Reverse current
+रिवर्स विधुत धारा
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 37
+2626483
+Express the mass of the nucleus in terms of the total binding energy B and the masses of Z protons and N neutrons?
+नाभिक के द्रव्यमान को कुल बाध्यकारी ऊर्जा B और Z प्रोोटॉन और N न्यूट्रॉॉन के द्रव्यमान के रूप में के रूप में व्यक्त करें।
+A
+B
+C
+D
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 38
+2626492
+Which one of the following is the organic scintillator crystal?
+निम्नलिखित में से कौन-सा कार्बनिक सिंटिलेटर क्रिस्टल है?
+A
+Anthracene
+एन्थ्रेसीन
+B
+NaI(TI)
+NaI(TI)
+C
+CsI(TI)
+CsI(TI)
+D
+CaF2(Eu)
+CaF2(Eu)
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 39
+2626508
+How many times does the half wave retarders can rotate the polarization of linearly polarized light to the angle between the optic axis and the plane of polarization?
+कितने बार अर्ध-तरंग रीटार्ड रैखिक ध्रुवीय प्रकाश के ध्रुवीकरण को ऑप्टिक अक्ष और ध्रुवणतल के बीच कोण पर घुमा सकते हैं?
+A
+Thrice
+तीन बार
+B
+Twice
+दो बार
+C
+Four times
+चार बार
+D
+Half
+आधा
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 40
+2626523
+How much data can be stored in 8085 microprocessors?
+8085 माइक्रोोप्रोोसेसर में कितना डेटा स्टोोर किया जा सकता है?
+A
+4-bit data
+4-बिट डेटा
+B
+8-bit data
+8-बिट डेटा
+C
+16-bit data
+16-बिट डेटा
+D
+32-bit data
+32-बिट डेटा
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 1
+2626183
+If the person lifts the body from the ground, What would be the work done by the gravitational force?
+यदि व्यक्ति अपने शरीर को जमीन से ऊपर उठाता है, तो गुरुत्वााकर्षण बल द्वाारा किया गया कार्य क्याा जायेगा ?
+A
+Positive
+सकारात्मक
+B
+Negative
+नकारात्मक
+C
+Zero
+शून्य
+D
+Rational
+तर्कसंगत
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 2
+2626194
+What is the value of universal constant G?
+सार्वत्रिक गुरुत्वााकर्षण नियतांक G का मान क्याा होता है?
+A
+B
+C
+D
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 3
+2626195
+Consider all objects is at infinity, what would be the amount of potential energy possessed?
+विचार करें कि सभी वस्तुएँ अनंत पर हैं, संभावित ऊर्जा की मात्राा क्याा होगी?
+A
+Positive 
+सकारात्मक
+B
+Negative
+नकारात्मक
+C
+Zero
+शून्य
+D
+Infinite
+अनंत
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 4
+2626215
+On which factor, the fringe width does not depend on?
+फ्रिंंज की चौड़ााई किस कारक पर निर्भर नहीं करती है?
+A
+The distance between the coherent sources (d ) 
+सुसंगत स्रोोतों के बीच की दूरी (d)
+B
+C
+The distance between the coherent sources and the screen 
+सुसंगत स्रोोतों और स्क्रीीन के बीच की दूरी 
+D
+The length of the screen
+स्क्रीीन की लंबाई
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 5
+2626216
+In which phenomenon light waves bends around the edges of small obstacles and spreads into the geometrical shadow of the obstacles? 
+किस परिघटना में प्रकाश तरंगें छोटे अवरोधों के किनारों से मुड़ जाती हैं और अवरोधों की ज्याामितीय छाया में फैल जाती हैं?
+A
+Holography
+होलोग्रााफी
+B
+Polarization
+ध्रुवीकरण
+C
+Interference
+इंटरफेरेंस
+D
+Diffraction
+विवर्तन
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 6
+2626223
+Brewster’s angle depends on which parameter of the reflecting surface?
+ब्रूस्टर कोण परावर्तक सतह के किस पैरामीटर पर निर्भर करता है ?
+A
+Refractive index
+अपवर्तक सूचकांक
+B
+Polarizing angle
+ध्रुवीकरण कोण
+C
+Incident angle
+आपतन कोण
+D
+Reflected angle
+परावर्तित कोण
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 7
+2626257
+Oriental polarizability is inversely proportional to which of the following factor?
+ओरिएंटल पोलरिज़ेबिलिटी निम्नलिखित में से किस कारक के व्युत्क्रमानुपाती है?
+A
+Permanent dipole moment
+स्थायी द्विध्रुव आघूर्ण
+B
+Square of the temperature
+तापमान का वर्ग
+C
+Temperature
+तापमान
+D
+Square of the permanent dipole moment
+स्थायी द्विध्रुव आघूर्ण का वर्ग
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 8
+2626274
+Name the resistive force due to which the amplitude of the successive oscillationsin the oscillators goes on decreasing?
+उस प्रतिरोधक बल का नाम बताइए जिसके कारण दोलक में उत्तरोत्तर दोलनों का आयाम घटता जाता है?
+A
+Damped oscillations
+अवमंदित दोलन
+B
+Undamped oscillation
+बिना अवमंदित दोलन
+C
+Free oscillation
+मुक्त दोलन
+D
+Forced oscillation
+फोर्स्ड दोलन
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 9
+2626275
+What is the condition for underdamping in damped oscillation?
+अवमंदित दोलन में अवमंदन की स्थिति क्याा है?
+A
+B
+C
+D
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 10
+2626285
+Which parameter of the wave is inversely proportional to the distance from the source?
+तरंग का कौन सा पैरामीटर स्रोोत से दूरी के व्युत्क्रमानुपाती होता है।
+A
+Amplitude
+आयाम
+B
+Pitch 
+पिच
+C
+Velocity
+वेग
+D
+Wavelength
+तरंग दैर्ध्य
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 11
+2626286
+Longitudinal waves can propagate in which medium? 
+अनुदैर्ध्य तरंगें किस माध्यम में फैल सकती हैं?
+A
+Solid
+ठोस
+B
+Liquid
+तरल
+C
+Gas
+गैस
+D
+All of the given option
+दिए गए सभी विकल्प
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 12
+2626300
+Which one of the following is the Celsius temperature of the triple point of water?
+निम्नलिखित में से कौनसा पानी के त्रिगुण बिंदु का सेल्सियस तापमान है?
+A
+B
+C
+D
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 13
+2626301
+Read the following statement and find the correct answer.
+(A) When work is done by a system, it is taken to be positive
+(B)  When work is done on a system, it is taken to be Zero
+निम्नलिखित कथन को पढ़िए और सही उत्तर ढूंढिए।
+A) जब किसी सिस्टम द्वाारा कार्य किया जाता है तो उसे धनात्मक मान लिया जाता है
+B) जब किसी सिस्टम पर कार्य किया जाता है तो उसे शून्य मान लिया जाता है
+A
+A is correct B is incorrect
+A सही है B गलत है
+B
+A is incorrect and B is correct
+A गलत है और B सही है
+C
+Both A and B are correct
+A और B दोनों सही हैं
+D
+Both A and B are incorrect
+A और B दोनों गलत हैं
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 14
+2626346
+The output voltage of an op-amp is independent of which one of the parameters given below?
+एक op-amp का आउटपुट वोल्टेज नीचे दिए गए पैरामीटरों में से किस एक से स्वतंत्र होता है?।
+A
+Input Voltage
+इनपुट वोल्टेज
+B
+Input current
+इनपुट करंट
+C
+Difference in input voltages
+इनपुट वोल्टेज में अंतर
+D
+Output current
+आउटपुट करंट
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 15
+2626347
+A
+120dB.
+120 डीबी
+B
+70dB
+70 डीबी
+C
+140dB
+140 डीबी
+D
+50dB
+50 डीबी
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 16
+2626362
+On which factor does the intensity of the X-rays depends on? 
+एक्स-रे की तीव्रता किस कारक पर निर्भर करती है?
+A
+The number of electrons striking the target per second.
+प्रति सेकंड लक्ष्य से टकराने वाले इलेक्ट्रॉॉनों की संख्याा।
+B
+The potential difference between the cathode and the anode.
+कैथोड और एनोड के बीच संभावित अंतर।
+C
+The current in the filament
+फिलामेंट में करंट
+D
+The anode or positive electrode 
+एनोड या सकारात्मक इलेक्ट्रोोड
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 17
+2626363
+Which factor of X – rays depend on the potential difference between the cathode and the anode?
+X-किरण का कौन सा कारक कैथोड और एनोड के बीच संभावित अंतर पर निर्भर करता है?
+A
+Frequency
+आवृत्ति
+B
+Voltage
+वोल्टेज
+C
+Current
+विधुत धारा
+D
+Wave length
+तरंग दैर्घ्य
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 18
+2626373
+In superconducting material the energy gap is associated with which one of the following factors?
+अतिचालक पदार्थ में ऊर्जा अंतराल निम्नलिखित में से किस से जुड़ाा होता है।
+A
+Fermi velocity
+फर्मी वेग
+B
+Temperature
+तापमान
+C
+Lattice
+लैटिस
+D
+Fermi gas
+फर्मी गैस
+Correct Ans : D
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 19
+2626378
+Which of the following is not the dielectric material?
+निम्नलिखित में से कौन-सा परावैद्युत पदार्थ नहीं है?
+A
+Copper
+कॉपर
+B
+Glass
+ग्लाास
+C
+Methyl chloride
+मिथाइल क्लोोराइड
+D
+Ammonia
+अमोनिया
+Correct Ans : A
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 20
+2626379
+Which one is equal to the total dipole moment?
+कुल द्विध्रुव आघूर्ण के बराबर निम्न में से  कौन सा विकल्प है?
+A
+B
+C
+D
+Correct Ans : B
+Subject : PHYSICS graduate
+
+----------------------------------------
+Q.No: 21
+2626409
+Name the parts of ray that we get when we pass the light through a biaxial crystal?
+किरण के उन भागों का नाम दें जिन्हें हम प्रााप्त करते हैं जब हम एक द्विअक्षीीय क्रिस्टल के माध्यम से प्रकाश पारित करते हैं।
+A
+O-ray and E-ray
+ओ-किरण और ई-किरण
+B
+O-ray and O-ray
+ओ-किरण और ओ-किरण
+C
+E-ray and E-ray
+ई-किरण और ई-किरण
+D
+Does not have any refraction
+कोई अपवर्तन नहीं है
+Correct Ans : C
+Subject : PHYSICS graduate
+
+----------------------------------------

@@ -1,0 +1,929 @@
+Subject: Gen. Maths graduate
+Questions: 50
+========================================
+
+Q.No: 172
+2616608
+एक आयताकार टेबल का परिमाप 48 सेमी हैं। यदि आयताकार टेबल का क्षेत्रफल 128 वर्ग सेमी हैं, तो टेबल की लम्बााई क्याा होगी ?     
+A
+10 cm
+10 सेमी
+B
+18 cm
+18 सेमी
+C
+16 cm
+16 सेमी
+D
+12 cm
+12 सेमी
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 173
+2616615
+Find the perimeter of a rectangle whose length is 23.5 cm and breadth is 16.5 cm.
+एक आयत का परिमाप ज्ञाात कीजिए जिसकी लंबाई 23.5 सेमी और चौड़ााई 16.5 सेमी है।  
+A
+80 cm
+80 सेमी 
+B
+79.5 cm
+79.5 सेमी 
+C
+82 cm
+82 सेमी 
+D
+80.5 cm
+80.5 सेमी 
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 174
+2616623
+A
+30 cm
+30 सेमी
+B
+21 cm
+21 सेमी
+C
+10 cm
+10 सेमी
+D
+20 cm
+20 सेमी
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 175
+2616641
+A street of width 10 m surrounds a rectangular garden from outside, whose measurements are 200 m× 180 m. The area of the path
+is:
+10 मीटर चौड़ीी रोड, 200 मीटर × 180 मीटर माप वाले आयताकार बगीचे को बाहर से घेरे हुए है। रोड का क्षेत्रफल है:   
+A
+7600 square meter
+7600 वर्ग मीटर
+B
+7200 square meter
+7200 वर्ग मीटर
+C
+8000 square meter
+8000 वर्ग मीटर
+D
+9000 square meter
+9000 वर्ग मीटर
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 176
+2616822
+The compound interest on Rs. 8000 in 1 year at 4% per annum the interest being compound half yearly is-
+1 वर्ष में 8000 रुपये पर 4% प्रति वर्ष की दर से अर्धवार्षिक चक्रवृद्धि ब्यााज क्याा है?
+A
+Rs. 752.45
+752.45 रुपये 
+B
+Rs. 632.65
+632.65 रुपये 
+C
+Rs. 323.2
+323.2 रुपये 
+D
+Rs. 783.45
+783.45 रुपये 
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 177
+2616829
+An amount of Rs 4000 lent at 10% per annum compound interest for 2 years will become-
+2 वर्षों के लिए 10% प्रति वर्ष चक्रवृद्धि ब्यााज पर उधार दी गई 4000 रुपये की राशि क्याा होगी?
+A
+4780
+4780
+B
+5780
+5780
+C
+4870
+4870
+D
+4840
+4840
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 178
+2616837
+A sum of Rs 846.8 is accumulated in 2 years at 20% compound interest on a certain amount. Then the original amount (in rupees)
+is-
+एक निश्चित राशि पर 20% चक्रवृद्धि ब्यााज पर 2 वर्षों में 846.8 रुपये की राशि जमा हो जाती है। मूल राशि (रुपयों में) क्याा है?
+A
+588.05
+588.05
+B
+585.65
+585.65
+C
+487.59
+487.59
+D
+365.2
+365.2
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 179
+2617029
+A
+B
+C
+D
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 180
+2617036
+A
+B
+C
+D
+None of the given options  
+दिए गए विकल्पोंों में से कोई नहीं
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 181
+2617044
+A
+B
+C
+D
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 182
+2617600
+In what time a 250 m long train running with a speed of 30 m/s will cross a 200 m long bridge?
+250 मीटर लंबी ट्रेन 30 मीटर/सेकेंड की गति से चलकर 200 मीटर लंबे पुल को कितने समय में पार करेगी?
+A
+20 second
+20 सेकंड
+B
+18 second
+18 सेकंड
+C
+17 second
+17 सेकंड
+D
+15 second
+15 सेकंड
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 183
+2617607
+A train crosses a 60 meter long platform in 12 seconds and a woman standing on the platform in 10 seconds, find the speed of the
+train.
+एक रेलगाड़ीी 60 मीटर लम्बे प्लेटफार्म को 12 सेकण्ड में तथा प्लेटफार्म पर खड़ीी एक महिला को 10 सेकण्ड में पार करती है, रेलगाड़ीी की गति ज्ञाात कीजिए।
+A
+90 km/hr.
+90 km/hr.
+B
+100 km/hr.
+100 km/hr.
+C
+102 km/hr.
+102 km/hr.
+D
+108 km/hr.
+108 km/hr.
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 184
+2617615
+Nandini covers a distance of 16 km downstream in a river in 4 hours and returns in 8 hours. What is her speed in still water?
+नंदिनी एक नदी में धारा के अनुकूल 16 किमी की दूरी 4 घंटे में तय करती है और 8 घंटे में वापस आती है। स्थिर जल में उसकी गति क्याा है?
+A
+3 km/hr.
+3 km/hr.
+B
+2 km/hr.
+2 km/hr.
+C
+4 km/hr.
+4 km/hr.
+D
+5 km/hr
+5 km/hr
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 185
+2617633
+Two trains leave at the same time from 2 stations 100 km apart and go in opposite directions and cross each other at a distance of
+90 km from one station. Accordingly, what is the ratio of the speeds of those trains?
+100 किलोमीटर दूर 2 स्टेशनों से दो रेलगाड़ियां एक ही समय पर छूटकर विपरीत दिशा में जाती हैं और एक स्टेशन से 90 किलोमीटर की दूरी पर एक दूसरे को पार करती
+हैं| तद्नुसार, उन रेलगाड़ियों की गति का अनुपात क्याा है?
+A
+1:9
+1:9
+B
+3:1
+3:1
+C
+9:1
+9:1
+D
+10:3
+10:3
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 172
+2616609
+The length of a rectangular board is 5 times that of its breadth. If the area of the board is 125 square meters, what is its length?
+एक आयताकार बोर्ड की लंबाई, उसकी चौड़ााई की 5 गुनी है। यदि बोर्ड का क्षेत्रफल 125 वर्ग मीटर है, तो उसकी लंबाई कितनी है?
+A
+8 m
+8 मीटर
+B
+16 m
+16 मीटर
+C
+24 m
+24 मीटर
+D
+25 m
+25 मीटर
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 173
+2616616
+A
+21 cm
+21 सेमी 
+B
+40 cm
+40 सेमी 
+C
+13 cm
+13 सेमी 
+D
+14 cm
+14 सेमी 
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 174
+2616624
+एक शंकु की ऊंचाई, जिसके आधार का क्षेत्रफल 60 वर्ग मीटर है और आयतन 1000 वर्ग मीटर है________?
+A
+20 m
+20 मीटर
+B
+30 m
+30 मीटर
+C
+10 m
+10 मीटर
+D
+50 m
+50 मीटर
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 175
+2616642
+A
+7 cm
+7 सेमी 
+B
+9 cm
+9 सेमी 
+C
+3 cm
+3 सेमी 
+D
+14 cm
+14 सेमी 
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 176
+2616823
+The Principal which will amount to Rs 2800.40 in 3 years at the rate of 4% per annum compound interest is-
+4% प्रति वर्ष चक्रवृद्धि ब्यााज की दर से 3 वर्ष में 2800.40 रुपये होने वाले राशि का मूलधन क्याा होगा?
+A
+2489.54
+2489.54
+B
+2358.54
+2358.54
+C
+3412.68
+3412.68
+D
+4231.54
+4231.54
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 177
+2616830
+A principal of Rs 6876, after 2 years compounded annually, the rate of interest being 6% per annum during the first year and 8%
+per annum during the second year (in rupee) will amount to-
+6876 रुपये का एक मूलधन, 2 साल के बाद सालाना चक्रवृद्धि ब्यााज की दर से जिसमे पहले वर्ष के दौरान यह 6% प्रति वर्ष और दूसरे वर्ष के दौरान 8% प्रति वर्ष है,  राशि
+(रुपये में) हो जायेगी -
+A
+7871.64
+7871.64
+B
+7873.65
+7873.65
+C
+6874.65
+6874.65
+D
+5848.64
+5848.64
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 178
+2616838
+The compound interest (in rupees) on a sum of Rs. 3600 at 16% per annum for 9 months when interest is compound quarterly is-
+3600 रुपये की राशि पर 9 महीने के लिए 16% प्रति वर्ष की दर से चक्रवृद्धि ब्यााज (रुपयों में) है, जब चक्रवृद्धि ब्यााज तिमाही देय हो -
+A
+500.51
+500.51
+B
+963.25
+963.25
+C
+449.51
+449.51
+D
+447.51
+447.51
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 179
+2617030
+A
+120
+120
+B
+130
+130
+C
+125
+125
+D
+140
+140
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 180
+2617037
+A
+B
+C
+D
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 181
+2617045
+A
+25 units
+25 इकाइयां
+B
+21 units
+21 इकाइयां
+C
+36 units
+36 इकाइयां
+D
+18 units
+18 इकाइयां
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 182
+2617601
+A train moves at a speed of 72 m/s, and another train moves at a speed of 25 m/s, find the speed of both trains in km/hr.
+एक ट्रेन 72 मीटर/सेकेंड की गति से चलती है, दूसरी ट्रेन 25 मीटर/सेकेंड की गति से चलती है, दोनों रेलगाड़ियों की चाल किलोमीटर/घंटा में ज्ञाात कीजिए।
+A
+259.2, 90
+259.2, 90
+B
+260, 95
+260, 95
+C
+300, 85
+300, 85
+D
+305.2, 90.5
+305.2, 90.5
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 183
+2617608
+Gajodhar takes his boat 80 km downstream in 4 hours and comes back in 5 hours. Determine the speed of the boat in still water
+and the speed of the river.
+गजोधर जल प्रवाह के साथ 80 किलोमीटर तक अपनी नाव 4 घंटे में ले जाकर पुनः 5 घंटे में वापस आता है। शांत जल में नाव की चाल तथा नदी की चाल ज्ञाात कीजिए।
+A
+16 km/hr, 5 km/hr.
+16 किमी/घंटा, 5 किमी/घंटा
+B
+13 km/hr, 2 km/hr.
+13 किमी/घंटा, 2 किमी/घंटा
+C
+12 km/hr, 3 km/hr.
+12 किमी/घंटा, 3 किमी/घंटा
+D
+20 km/hr, 6 km/hr.
+20 किमी/घंटा, 6 किमी/घंटा
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 184
+2617616
+A boat goes upstream from B to A and downstream from A to B in 4 hours, if the speed of the boat in still water is 8 km/h and the
+speed of the current is 2 km/h, then what is the distance between A and B?
+एक नाव 4 घंटे में B से A तक धारा के प्रतिकूल जाती है और A से B तक धारा के अनुकूल जाती है, यदि स्थिर पानी में नाव की गति 8 किमी/घंटा है और धारा की
+गति 2 किमी/घंटा है, तो A और B के बीच की दूरी क्याा है?
+A
+10 km
+10 किमी
+B
+12 km
+12 किमी
+C
+14.25 km
+14.25 किमी
+D
+13.75 km
+13.75 किमी
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 185
+2617634
+Two trains P and Q start from Station and travel towards each other at 70 kmph and 90 kmph respectively. When they meet, the
+second train has travelled 140 km more than the first at that point. What is the distance between P and Q?
+दो ट्रेनें P और Q स्टेशन से शुरू होती हैं और क्रमशः 70 किमी प्रति घंटे और 90 किमी प्रति घंटे की गति से एक दूसरे की ओर जाती हैं। जब वे मिलते हैं, तो दूसरी ट्रेन उस
+बिंदु पर पहली ट्रेन से 140 किमी अधिक यात्राा कर चुकी होती है। P और Q के बीच की दूरी कितनी है?
+A
+1120 km
+1120 किमी
+B
+1000 km
+1000 किमी
+C
+1300 km
+1300 किमी
+D
+1200 km
+1200 किमी
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 172
+2616610
+एक आयताकार मैदान का विकर्ण 15 मीटर है और इसका क्षेत्रफल 108 वर्ग मीटर है। 50.50 रुपये प्रति मीटर की दर से खेत में बाड़ लगाने की लागत क्याा है?
+A
+Rs.2121
+2121 रुपये
+B
+Rs.2020
+2020 रुपये
+C
+Rs.1919
+1919 रुपये
+D
+Rs.2222
+2222 रुपये
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 173
+2616617
+100 मीटर, 150 मीटर और 200 मीटर भुजाओं वाले त्रिभुजाकार पार्क को समतल करने की लागत (रु. में) 20.50 प्रति वर्ग मीटर की दर से क्याा है?
+A
+106480.575
+106480.575
+B
+201406.718
+201406.718
+C
+148867.797
+148867.797
+D
+326056.690
+326056.690
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 174
+2616625
+A
+660 square cm
+660 वर्ग सेमी
+B
+1386 square cm
+1386 वर्ग सेमी
+C
+560 square cm
+560 वर्ग सेमी
+D
+765 square cm
+765 वर्ग सेमी
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 175
+2616643
+The length of a rectangular board is 3 times that of its breadth. If the area of the board is 192 square meters, what is its length?
+एक आयताकार बोर्ड की लंबाई, उसकी चौड़ााई की 3 गुनी है। यदि बोर्ड का क्षेत्रफल 192 वर्ग मीटर है, तो इसकी लंबाई कितनी है?
+A
+24 m
+24 मीटर 
+B
+18 m
+18 मीटर 
+C
+15 m
+15 मीटर 
+D
+21 m
+21 मीटर 
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 176
+2616824
+A sum of money on compound interest amounts to Rs 12346 in 3 years and Rs 8640 in 2 years the rate of interest per annum is-
+चक्रवृद्धि ब्यााज पर एक राशि 3 वर्षों में 12346 रुपये और 2 वर्षों में 8640 रुपये हो जाती हैं, प्रति वर्ष ब्यााज दर क्याा है?
+A
+43.25
+43.25
+B
+42.89
+42.89
+C
+38.36
+38.36
+D
+45.29
+45.29
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 177
+2616831
+Three years ago, the value of my shop was Rs 68760 if the value depreciates by 5% every year now its value is-
+तीन साल पहले मेरी दुकान का मूल्य 68760 रुपये था यदि मूल्य हर साल 5% कम हो जाता है, तो अब इसका मूल्य क्याा है?
+A
+58953.10
+58953.10
+B
+65891.20
+65891.20
+C
+45362.20
+45362.20
+D
+59563.10
+59563.10
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 178
+2616839
+A sum of Rs 4000 amounts to Rs 8000 in two years at compound interest. The interest for four years is-
+चक्रवृद्धि ब्यााज पर दो वर्षों में 4000 रुपये की राशि 8000 रुपये हो जाती है। चार साल के लिए ब्यााज क्याा है?
+A
+16000
+16000
+B
+14000
+14000
+C
+18000
+18000
+D
+12000
+12000
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 179
+2617031
+A
+6
+6
+B
+8
+8
+C
+9
+9
+D
+15
+15
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 180
+2617038
+A
+B
+C
+D
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 181
+2617046
+A
+B
+C
+D
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 182
+2617602
+The water of a river is flowing at a speed of 5 km/hour and a boatman can row a boat at a speed of 3 km/hour in still water, how long will it take him to row a boat with a 
+km/hour?
+एक नदी का पानी 5 किमी/घंटा की गति से बह रहा है और एक नाविक शान्त जल में 3 किमी/घंटा की गति से नाव चला सकता है, उसे 15 किमी / घंटा की गति से नाव चलाने में कितना समय लगेगा?
+A
+2
+2
+B
+1.5
+1.5
+C
+2.5
+2.5
+D
+3
+3
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 183
+2617609
+Ram can swim at a speed of 8 km per hour in still water, if the current of water is 4 km per hour, how much time will it take for Ram to swim 60 km in the stream?
+राम शांत जल में 8 किमी प्रति घंटे की गति से तैर सकता है, यदि पानी की धारा 4 किमी प्रति घंटा है, तो राम को धारा के साथ 60 किमी तैरने में कितना समय लगेगा?
+A
+10 hours
+10 घंटे
+B
+15 hours
+15 घंटे
+C
+8 hours
+8 घंटे
+D
+5 hours
+5 घंटे
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 184
+2617617
+A man can swim at the rate of 5 km per hour in still water, if the speed of water is 2 km per hour, how long will it take him to swim 15 km upstream?
+एक आदमी स्थिर पानी में 5 किलोमीटर प्रति घंटा की दर से तैर सकता है, यदि पानी की चाल 2 किलोमीटर प्रति घंटा हो, तो 15 किलो मीटर ऊर्ध्वप्रवाह  तैरने  के लिए उसे कितना समय लगेगा?
+A
+2 hours
+2 घंटे
+B
+3 hours
+3 घंटे
+C
+4 hours
+4 घंटे
+D
+5 hours
+5 घंटे
+Correct Ans : D
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 185
+2617635
+A boat covers the distance from P to Q upstream and from Q to P downstream in 6 hours if the speed of the boat in still water is 12 kmph and the speed of the current is 6
+Then what is the distance between P and Q?
+एक नाव P से Q तक की दूरी धारा के विपरीत और Q से P की दूरी धारा के अनुकूल 6 घंटे में तय करती है, यदि स्थिर पानी में नाव की गति 12 किमी प्रति घंटा है और धारा की गति 6 किमी प्रति घंटा है। तो P और Q के बीच
+कितनी है?
+A
+30 km/h
+30 किमी/घंटा
+B
+25 km/h
+25 किमी/घंटा
+C
+24 km/h
+24 किमी/घंटा
+D
+20 km/h
+20 किमी/घंटा
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 172
+2616611
+एक आयताकार मैदान की लंबाई और चौड़ााई 3:2 के अनुपात में है। यदि मैदान का क्षेत्रफल 1350 वर्ग मीटर है, तो 30 रूपये प्रति मीटर की दर से इसकी बाड़ लगाने
+की लागत होगी :
+A
+Rs. 5680
+5680 रुपये
+B
+Rs. 4500
+4500 रुपये
+C
+Rs. 4000
+4000 रुपये
+D
+Rs. 5240
+5240 रुपये
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 173
+2616618
+In the given figure, AOBCA represents a quadrant of a circle of radius 8 cm with center O. What is the area of the shaded part?
+दी गई आकृति में, AOBCA केंद्र O के साथ त्रिज्याा 8 सेमी के एक वृत्त के चतुर्थांश का प्रतिनिधित्व करता है। छायांकित भाग का क्षेत्रफल क्याा है?
+A
+B
+C
+D
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 174
+2616626
+What is the area (in square cm) of the rhombus, if the length of each side of a rhombus is 5 cm and one of the diagonals is 8
+cm?
+एक समचतुर्भुज का क्षेत्रफल (वर्ग सेमी में) क्याा है, यदि समचतुर्भुज की प्रत्येक भुजा की लंबाई 5 सेमी और एक विकर्ण 8 सेमी है?
+A
+24
+24
+B
+40
+40
+C
+50
+50
+D
+30
+30
+Correct Ans : A
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 175
+2616644
+A park is 32 m long and 16 m wide. A  carpet of 260 square meter area is laid on the floor. What is the area of the park (in
+square meter) which is not carpeted?
+एक पार्क 32 मीटर लंबा और 16 मीटर चौड़ाा है। फर्श पर 260 वर्ग मीटर क्षेत्रफल का कालीन बिछाया जाता है। पार्क का क्षेत्रफल (वर्ग मीटर में) कितना है जिस पर
+कालीन नहीं बिछाया गया है?
+A
+260
+260
+B
+250
+250
+C
+252
+252
+D
+286
+286
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 176
+2616825
+At what rate percent per annum will Rs 74088 amount to Rs 97336 in 3 years at compound interest?
+चक्रवृद्धि ब्यााज पर 3 वर्षों में 74088 रुपये प्रति वर्ष कितनी दर से 97336 रुपये हो जाएगा?
+A
+B
+C
+D
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 177
+2616832
+Three years ago, the value of my pen was Rs. 675. If the value of profit increases by 5% every year, now its value (in rupees)
+is:
+तीन साल पहले, मेरे पेन का मूल्य 675 रुपये था। यदि लाभ का मूल्य हर साल 5% बढ़ता है, तो अब इसका मूल्य (रुपये में) है:
+A
+715.31
+715.31
+B
+781.39
+781.39
+C
+854.35
+854.35
+D
+698.32
+698.32
+Correct Ans : B
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 178
+2616840
+The compound Interest (in rupees) on Rs. 680 in 2 years at 8% per annum, the interest being compounded half yearly is-
+680 रुपये की राशि पर 2 वर्ष के लिए 8% प्रति वर्ष की दर से चक्रवृद्धि ब्यााज (रुपयों में) है, जब चक्रवृद्धि ब्यााज छमाही देय हो -
+A
+118
+118
+B
+116.6
+116.6
+C
+115.5
+115.5
+D
+200
+200
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
+Q.No: 179
+2617032
+A
+5
+5
+B
+4
+4
+C
+8
+8
+D
+10
+10
+Correct Ans : C
+Subject : Gen. Maths graduate
+
+----------------------------------------
